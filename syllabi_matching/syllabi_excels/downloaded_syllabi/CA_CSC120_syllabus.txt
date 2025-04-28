@@ -1,0 +1,278 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+                            Course Syllabus
+
+                         Camden County College
+
+                         Blackwood, New Jersey
+
+
+
+Course ID:          Computer Science - CSC 120
+
+
+
+Course Name:   Programming for New Media
+
+
+
+Credits:       4
+
+
+
+Prerequisites:      None
+
+
+
+Co-requisites:      None
+
+
+
+New Course:         April 2006
+
+
+
+Contact Person:     William Taylor  wtaylorcamdencc.edu
+
+
+
+Course Description/Goals:
+
+This is an introductory Computer Science course in which students will
+
+learn the fundamentals of object-oriented programming in a 3-
+
+dimensional, interactive, animation environment.  The course will also
+
+present Java programming in a context that students find relevant and
+
+useful. Students learn to program using Java while creating
+
+interesting effects with sounds, pictures, web pages, and video.
+
+Students will obtain a strong core of fundamental programming concepts
+
+and problem-solving techniques, providing a basis for further study in
+
+a variety of computer related fields.
+
+
+
+Course Objectives/Student Learning Outcomes:
+
+  Upon completion of this course, the student will be able to:
+
+     1.   Create objects and place them in the context of a virtual world.
+
+2.   Define classes.
+
+3.   Explain object properties.
+
+4.   Explain object behaviors.
+
+5.   Describe relationships between objects.
+
+6.   Perform decision-making using if statements.
+
+7.   Perform statements repetitively.
+
+8.   Define methods.
+
+9.   Explore the fundamental stages of software development.
+
+10.  Explain the flow of control through a program.
+
+11.  Perform mathematical operations.
+
+12.  Implement nested control structures.
+
+13.  Pass parameters to methods.
+
+14.  Define and use arrays for basic data organization.
+
+15.  Explain the life cycle of a software system.
+
+16.  Contrast linear and iterative development approaches.
+
+17.  Explore the goals and techniques of testing.
+
+18.  Explain the underlying concepts of recursion.
+
+19.  Examine recursive methods.
+
+20.  Demonstrate the use of recursion to solve problems.
+
+21.  Explain basic sorting technique.
+
+22.  Create simulations.
+
+23.  Create and describe composite objects.
+
+24.  Modify pictures using loops.
+
+25.  Modify pixels in a matrix.
+
+26.  Modify samples in a sound.
+
+27.  Combine and create sounds
+
+28.  Create and modify text.
+
+29.  Make text for the web.
+
+30.  Encode, manipulate, and create movies
+
+
+
+Course Materials:
+
+     Textbook(s):   Learning to Program with Alice Dann, Cooper,
+
+Pausch
+
+               Pearson Prentice Hall
+
+
+
+               Introduction to Computing and Programming with Java - A
+
+               Multimedia Approach
+
+               Mark Guzdial, Barbara Ericson, Pearson Prentice Hall
+
+
+
+Student Evaluation:
+
+The student will be evaluated on the degree to which student learning
+
+outcomes are achieved.  A variety of methods may be used such as
+
+tests, class participation, projects, homework assignments, etc.
+
+
+
+Course Outline:
+
+  1.   Getting Started
+
+       o    Introduction to Alice
+
+o    Alice Concepts
+
+  2.   Program Design and Implementation
+
+       o    Scenarios and Storyboards
+
+o    First Alice programs
+
+o    Orientation and Movement Instructions
+
+  3.   Programming
+
+       o    Built-in Functions and Expressions
+
+o    Simple Control Structures
+
+o    Engineering Look and Feel
+
+  4.   Classes, Objects, Methods, and Parameters
+
+       o    World Level Methods
+
+o    Parameters
+
+o    Class Level Methods and Inheritance
+
+  5.   Interaction:  Events and Event Handling
+
+       o    Interactive Programming
+
+o    Parameters and Event Handling Methods
+
+o    Events
+
+  6.   Functions and Conditional Execution
+
+       o    Functions
+
+o    Execution Control with if/else
+
+o    Boolean Functions
+
+o    Random Motion
+
+o    Random Number Generation
+
+  7.   Repetition:  Definite and Indefinite
+
+       o    Loops
+
+o    While (Indefinite Loops)
+
+o    Events and Repetition
+
+  8.   Recursion
+
+       o    Introduction to Recursion
+
+o    Additional Recursive Solutions
+
+o    Camera and Animation Controls
+
+  9.   Lists and List Processing
+
+       o    Lists
+
+o    List Search
+
+o    Poses
+
+  10.  Variables and Inheritance
+
+       o    Variables
+
+o    Array Visualization
+
+o    Debugging Using a Watch
+
+  11.  Introduction to Java
+
+12.  Modifying Pictures
+
+       o    Modifying Pixels
+
+o    Drawing
+
+  13.  Sound
+
+       o    Modifying all Samples in a Sound
+
+o    Modifying Samples using Ranges
+
+o    Combining and Creating Sounds
+
+  14.  Creating and Modifying Text
+
+15.  Encoding, Manipulating and Creating Movies
+
+Course Activities:
+
+The classroom activities will include formal and informal lectures
+
+where new material and assigned problems will be explained.  Students
+
+will have the opportunity to contribute to the discussion and to ask
+
+questions about the material.  Hands-on computer activities will take
+
+place to reinforce concepts presented during the lecture.  Projects
+
+are assigned to be completed inside and outside of the regularly
+
+scheduled class time.

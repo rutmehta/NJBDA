@@ -1,0 +1,272 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+COURSE ID (DEPARTMENT AND COURSE NUMBER)
+
+Computer Science  Information Technology Department - CSC 236
+
+
+
+COURSE NAME
+
+Data Structures in Java
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+4
+
+
+
+PREREQUISITE OR COREQUISITE COURSES OR ACADEMIC STANDING
+
+Prerequisite(s): CSC 162-Object Oriented Programming using Java
+
+                         MAT131- Analytic Geometry and Calculus I
+
+
+
+      Co-requisite(s): None
+
+
+
+NEW OR MODIFIED COURSE
+
+New
+
+
+
+SEMESTER AND YEAR COURSE WILL FIRST BE OFFERED
+
+Fall 2007
+
+
+
+NAME AND TELEPHONE NUMBER OR EMAIL ADDRESS OF DEPARTMENT CHAIR
+
+Frank Burke
+
+(732) 906-2526
+
+FBurkemiddlesexcc.edu
+
+
+
+DETAILED COURSE DESCRIPTION:
+
+
+
+This course teaches different techniques of storing, accessing and 
+processing data as 
+
+utilized in the development of programs and algorithms.  Topics include 
+linked lists, 
+
+stacks, queues, trees, recursion and graphs.  Algorithms for applications 
+such as 
+
+sorting, searching and merging will be analyzed and implemented.  Solutions 
+are 
+
+designed using object-oriented techniques and implemented in the Java 
+programming 
+
+language.  This course is the third course in the Java programming sequence 
+and is a 
+
+required course for students in the Computer Science Transfer Option.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+
+
+1.Demonstrate the ability to effectively use recursion in a program.
+
+
+
+2.Demonstrate the ability to choose the appropriate data structures when 
+solving 
+
+typical computer science problems.
+
+
+
+3.Define and manipulate linear and non linear data structures including 
+
+
+
+a.stacks
+
+b.queues
+
+c.linked lists
+
+d.trees
+
+e.graphs
+
+    
+
+4.Demonstrate the ability to sort, search, and merge data using an object 
+oriented 
+
+Programming language.
+
+
+
+    5.  Analyze algorithms to determine time and space complexity.
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+
+
+Object-Oriented Data Structures Using Java, Dale, Nell.
+
+Boston: Jones  Bartlett Publishing
+
+
+
+SUGGESTED GRADING CRITERIA
+
+
+
+      Exams40
+
+Lab Assignments20
+
+Homework10
+
+Class Participation  5
+
+Final Exam25
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED 
+
+
+
+1.Review of object oriented techniques
+
+
+
+2.Analysis of Algorithms
+
+Order of complexity
+
+Big O
+
+Worst case and average case analyses
+
+
+
+3.Recursion
+
+
+
+4.List ADT and Applications
+
+implementation with dynamic storage
+
+implementation with static storage
+
+iterative and recursive list operations
+
+singly, doubly and circularly linked lists
+
+
+
+5.Stack ADT and Applications
+
+push, pop, full, empty operations
+
+implementation using list
+
+
+
+6.Queue ADT and Applications
+
+add, delete, empty, full operations
+
+implementation using list
+
+
+
+7.Sorting and Searching
+
+linear search
+
+binary search
+
+selection sort
+
+insertion sort
+
+quick sort
+
+merge sort
+
+heap sort
+
+tree sort
+
+hashing
+
+merging
+
+
+
+8.Binary Tree ADT and Applications
+
+representation
+
+tree traversals (recursive and non-recursive)
+
+binary search trees
+
+AVL trees
+
+B-trees
+
+
+
+9.Graphs and Applications
+
+definition and representation of graphs and digraphs
+
+graph application (reachability, connected components, 
+
+shortest path)
+
+
+
+10.  Course Review and Final Exam
+
+
+
+
+
+Course Code: CSC 236Page 2/3
+
+
+
+
+
+
+
+Course Approval Form Effective: September 2006

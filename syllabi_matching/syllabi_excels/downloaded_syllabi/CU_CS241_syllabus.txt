@@ -1,0 +1,125 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 241  Computer Forensics
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+      Approval of the instructor.
+
+      
+
+Description 
+
+      Provides students with methods to properly conduct a computer 
+forensics investigation beginning with discussion of ethics, while mapping 
+to the objectives of the International Association of Computer Investigation 
+Specialists (IACIS) certification. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Demonstrate a working knowledge of computers, storage devices, and digital 
+data 
+
+ Explain the responsibilities and liabilities of a computer forensic 
+investigator 
+
+ Plan and prepare for an incident requiring computer forensic skills
+
+ Seize a Computer from a crime scene without damaging it or risking it 
+becoming inadmissible in a court of law 
+
+ Explain where digital evidence resides on computer storage devices
+
+ Demonstrate basic skills with WinHex software for recovering digital 
+evidence from computer storage devices 
+
+ Hire experts to perform detailed forensic analysis and expert testimony.
+
+
+
+Topical Outline
+
+ Computer Forensics as a Profession
+
+ Computing Investigation Processes
+
+ Operating Systems, Boot Processes , and Disk Structures
+
+ The Investigators Office
+
+ Current Computer Forensics Tools
+
+ Digital Evidence Controls
+
+ Crime/Incident Scene Processing
+
+ Data Acquisition
+
+ Computing Forensics Analysis
+
+ Data Hiding Techniques
+
+ Email Investigations
+
+ Graphic Image Recovery
+
+ High Tech Reports
+
+ Expert Witness Overview
+
+ Project Presentation
+
+
+
+Texts
+
+      Guide to Computer Forensics and Investigations  by Nelson, Phillips, 
+Enfinger, Steuart, 2nd edition: Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

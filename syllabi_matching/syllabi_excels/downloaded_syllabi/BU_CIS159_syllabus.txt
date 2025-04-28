@@ -1,0 +1,112 @@
+BURLINGTON COUNTY COLLEGE
+
+COURSE INFORMATION FORM
+
+This form must be completed, using MS Word, for all new and modified courses 
+offered for credit, 
+
+including experimental courses.  (Form expands to allow full details in each 
+category.) 
+
+I. Course Prefix and number: CIS 159
+
+II. Course Title: COMPUTER/NETWORK SECURITYecurity
+
+III. Lecture Hrs.4Clinical Hrs.      Credit Hrs. 4
+
+          Studio Hrs.      Lab Hrs. 3Recitation Hrs.      
+
+       
+
+IV. Course Fee: 150.00
+
+V. Prerequisite(s): CIS 101 or permission
+
+VI. Co-Requisite(s):      
+
+VII. Division Dean Approval: Date:      
+
+VIII. IAC Approval:Date:      
+
+IX. VP Approval:Date:      
+
+X. New Course: 0  Modified Course: 0Experimental Course: 1
+
+ (if modified course explain changes and list old course designator and 
+number) 
+
+XI. Semester and Year Course will first be Offered (or, if a modified 
+course, semester and year when 
+
+revised course will first be offered): Spring 2005
+
+XII. Relation of Course to Curriculum(s): 1 Program requirement
+
+0 General Education requirement
+
+1 Elective
+
+0 Developmental course requirement
+
+XIII. General Education Designator (if course is intended to satisfy a 
+general education requirement 
+
+check appropriate designator): 
+
+          0 CM  Communications 0 HW  Health and Wellness
+
+          0 HA  Humanities 1 TL  Technological Literacy
+
+          0 SS  Social Sciences 0 DGP  Diversity/Global Perspective
+
+          0 MLS  Mathematics and Laboratory Science
+
+XIV. Catalogue Description: This course provides students with an overview 
+of computer and network 
+
+security, provides hnads on experience operating and deploying state of the 
+art security equipment and 
+
+covers the objectives of the CompTIA Security certification exam. Topics 
+include: general security 
+
+concepts, communication security, infrastructure security, basics of 
+cryptography and 
+
+operational/organizational security.
+
+XV. Course Objectives (Learning Outcomes): Students will understand the 
+concepts related to 
+
+computer and network security. - Students will be able to operate and deploy 
+security equipment. - 
+
+Students will be prepared to tale the CompTIA Security certification Exam.
+
+XVI. Textbook(s): Security Guide to Network Security Fundamentals
+
+XVII. Other Course Materials to be supplied by Student:      
+
+XVIII. Grading Policy (number and weight of papers, quizzes, examinations, 
+and rubrics) Unit tests 
+
+30, Labs 30 and Final Exam 40
+
+XIX. Detailed Description of Project Final Examination (if applicable): 
+
+XX. Schedule of topics to be covered in Course: 1. Security Overview, 2. 
+Authentication, 3. Attacks 
+
+and Malicious Code, 4. Remote Access, 5. E-mail, 6. Web Security, 7. 
+Directory and File Transfer 
+
+Services, 8. Wireless and Instant Messaging, 9. Devices, 10. Media and 
+Medium, 11. Network Security 
+
+Topologies, 12. Intrusion Detection, 13. Security Baselines, 14. 
+Cryptography, 15. Physical Security, 
+
+16. Disaster Recovery and Business Continuity, 17. Computer Forensics and 
+Advanced Topics 
+
+XXI. Schedule lab exercises (if applicable):      

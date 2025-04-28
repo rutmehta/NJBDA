@@ -1,0 +1,750 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+2
+
+
+
+                   GLOUCESTER COUNTY COLLEGE
+
+              Business and Technologies Division
+
+
+
+                        COURSE SYLLABUS
+
+
+
+
+
+                                             Fall      2002
+
+                                             SEMESTER/YEAR
+
+
+
+
+
+CIS     262                        ADVANCED DATABASE MANAGEMENT
+
+COURSE CODE                        COURSE TITLE
+
+
+
+
+
+2/2                                3
+
+LECTURE/RECITATION HOURS           CREDITS
+
+
+
+
+
+Database  Systems                    Rob, Peter  and  Coronel,
+
+Carlos
+
+TITLE OF TEXT                      AUTHOR(S)
+
+
+
+
+
+                                   Course Technology
+
+                                   PUBLISHER
+
+
+
+
+
+15   Weeks
+
+LENGTH OF SEMESTER                 INSTRUCTOR
+
+
+
+
+
+
+
+CATALOG DESCRIPTION:
+
+
+
+This course provides an in-depth study of the management and
+
+administration of database systems.  Students will study
+
+topics such as transaction management and concurrency control,
+
+distributed database management systems, data warehousing and
+
+client/server systems.  Students will study the internets
+
+impact on Database design.  The course will cover the various
+
+management and technical responsibilities of a typical
+
+Database Administration.  In studying these responsibilities,
+
+various Oracle Database tools will be used, such as the Oracle
+
+Storage Manager, the Oracle Security Manager, and the Oracle
+
+Instance Manager.
+
+
+
+PREREQUISITE:  CIS 261 or permission by Chairperson of the
+
+Business and Technology
+
+                               Division
+
+
+
+
+
+262
+
+PURPOSE OF THE COURSE:
+
+
+
+The  purpose  of  this  course is to teach  advanced  database
+
+concepts building upon the first database concepts course  and
+
+advancing   the  students  knowledge  and  understanding   of
+
+database concepts.
+
+
+
+OBJECTIVES OF THE COURSE:
+
+
+
+ 1.Provide  a thorough understanding of database transactions,
+
+   executing, concurrency control, and overall management.
+
+
+
+ 2.Provide  a  thorough understanding of distributed  database
+
+   management systems.
+
+
+
+ 3.Provide   a   thorough   understanding   of   client/server
+
+   computing.
+
+
+
+ 4.Provide an understanding of data warehousing.
+
+
+
+ 5.Provide an understanding of Internet database and the  Web-
+
+   to-database transaction process.
+
+
+
+ 6.Understand the role of database administrator.
+
+
+
+SPECIFIC OBJECTIVES:
+
+
+
+After completing this course, the student will be able to:
+
+
+
+ 1.Understand  database  transactions and  the  importance  of
+
+   executing and managing transactions.
+
+
+
+ 2.Understand   concurrency   control,   the   management   of
+
+   concurrent transaction execution.
+
+
+
+ 3.Understand  distributed database management system  (DDBMS)
+
+   and its components.
+
+
+
+ 4.Understand   the   basic  concepts  of  a   object-oriented
+
+   database management system.
+
+
+
+ 5.Understand  client/server computing,  the  components,  and
+
+   the effect on the database management system.
+
+
+
+ 6.Understand data warehousing.
+
+
+
+ 7.Understand database design and implementation issues for e-
+
+   commerce.
+
+
+
+ 8.Understand how internet databases are typically used.
+
+
+
+ 9.Understand the architectures of Web-to-database middleware
+
+
+
+10.Understand  how  the  database has important  technological
+
+   management and cultural organizational consequences.
+
+POLICIES OF THE COURSE:
+
+
+
+ 1.GCC Attendance Policy:
+
+
+
+   There  is  significant  value  in  the  daily,  cumulative,
+
+   educational  growth that results from regular participation
+
+   in  class.   This is especially true where ideas, concepts,
+
+   points  of  view,  social development,  poise,  confidence,
+
+   knowledge  and  success  derive  from  the  interaction  of
+
+   students and faculty.
+
+
+
+   Therefore,  students  are  expected  to  attend  all  class
+
+   sessions  for  which they are scheduled.   Students  attain
+
+   maximum  academic benefit through regular class attendance.
+
+   The   effect  of  absences  on  student  grades   will   be
+
+   determined by each instructor  consistent with his  or  her
+
+   stated policy provided in course outlines.
+
+
+
+ 2.Instructors Attendance Policy:
+
+
+
+   Daily  attendance  is  required of  all  students.   Exams,
+
+   quizzes  and  labs  missed may not be made  up,  except  in
+
+   cases of prolonged illness or other conditions approved  by
+
+   the   instructor  prior  to  the  class(es)  being  missed.
+
+   Students  absent from class are responsible  for  obtaining
+
+   materials missed.
+
+
+
+   WARNING:   The  information discussed in  the  lectures  is
+
+   cumulative  in  nature  therefore,  excessive  absenteeism
+
+   leads  to  a point where it will be impossible for  you  to
+
+   successfully  complete  this  course  with  a  transferable
+
+   grade.
+
+
+
+   A  penalty  will be assessed to the students final  letter
+
+   grade for excessive absences as follows:
+
+                 of Absences       Penalty
+
+
+
+                         4          1 grade level
+
+                                         5           2   grade
+
+   levels
+
+                                         6           3   grade
+
+   levels
+
+                                         7           4   grade
+
+   levels
+
+                                                             8
+
+   5 grade levels
+
+                                         9           6   grade
+
+   levels
+
+                              10 or more       grade of F
+
+
+
+METHOD OF EVALUATION:
+
+
+
+Your grades will be computed as follows:
+
+
+
+                25      Exam I
+
+                25      Exam II
+
+                25      Exam III
+
+                15      DBA Report
+
+                10      Class Participation
+
+
+
+MISSED WORK:
+
+
+
+   All  work  must  be  submitted at the  announced  deadline,
+
+   which unless stated otherwise, will be at the beginning  of
+
+   class on the announced date.
+
+
+
+   As  a  general  rule,  work  submitted  late  will  not  be
+
+   accepted.   Tests  or  assignments  may  not  be   made-up.
+
+   However,   if   you  think  you  have  a   sufficient   and
+
+   documentable  reason to warrant an exception to  the  rule,
+
+   see  the  instructor  immediately  after  the  absence   to
+
+   discuss the situation.
+
+
+
+ SPECIFIC CONDITIONS FOR AUDIT:
+
+
+
+   If  a  student wishes to attend a class regularly but  does
+
+   not  wish  to  receive a grade or credit, the  student  may
+
+   choose  to  audit  the  course.  For  this  to  occur,  the
+
+   student  must  first  register  for  the  course,  pay  the
+
+   tuition and any fees, and then switch to audit status.
+
+
+
+   Audits  are not accepted unless an Audit Form is  completed
+
+   by   the  student  and  course  instructor  and  officially
+
+   approved  by  the  Director  of Student  Development.   All
+
+   audit  enrollments must occur during the first  half  of  a
+
+   semester  or its equivalent.  Once the auditor is enrolled,
+
+   the  course  cannot be changed to credit.   The  instructor
+
+   will  determine the conditions of the audit  to  which  the
+
+   student  must  adhere  in order to receive  an  R  grade,
+
+   signifying  successful completion of  the  audit.   If  the
+
+   student  fails  to  meet  the conditions,  a  W  will  be
+
+   assigned, signifying audit withdrawal.
+
+
+
+ INCOMPLETE GRADE:
+
+
+
+   A  grade  of incomplete (I) may be reported for  a  student
+
+   who  has  carried a course with a passing grade  until  the
+
+   end  of  the semester, but due to illness or other  unusual
+
+   and  substantiated cause has been unable  to  complete  the
+
+   final examination or some limited amount of assigned work.
+
+
+
+   The  student and faculty member must complete the  Student
+
+   Contract  for  Incomplete form prior to  a  grade  of  I
+
+   being  given.   Any incomplete not removed by  the  end  of
+
+   this period automatically becomes an F.
+
+
+
+WITHDRAWALS:
+
+
+
+   A student wishing to withdraw from a course or the
+
+   College, should formally complete all withdrawal
+
+   procedures at the Student Development Office prior to the
+
+   announced end of the withdrawal period (the end of the
+
+   10th week of a regular semester or two-thirds through
+
+   shorter semesters.).
+
+
+
+   A student who officially withdraws from a course will
+
+   receive a W grade which will not affect the students
+
+   GPA.  Withdrawal is not permitted after the withdrawal
+
+   period.
+
+
+
+OFFICE HOURS:
+
+
+
+   Your  instructors  office hours  will  be  posted  by  his
+
+   office  door in the College Center.  You are encouraged  to
+
+   take advantage of this time.
+
+   Your instructors e-mail address is
+
+   and the office phone is 415-
+
+
+
+INSTRUCTIONAL MATERIALS:
+
+
+
+   Database Systems, by Rob, Peter and Coronel, Carlos.
+
+
+
+ ACADEMIC INTEGRITY:
+
+
+
+   Honesty  and  the  scholarly pursuit  of  truth  are  basic
+
+   precepts of academic integrity and are fundamental to  this
+
+   course  and College.  As a member of the College community,
+
+   you  have the responsibility to maintain academic integrity
+
+   and  to  conduct yourself in a manner consistent  with  the
+
+   Colleges policy on Student Conduct, which is found in  the
+
+   Student  Handbook.   Accordingly, you are  expected  to  do
+
+   your  own  work and not to give or receive assistance  with
+
+   your work unless directed to do so by the instructor.    To
+
+   do otherwise would constitute academic dishonesty.
+
+
+
+   Academic  dishonesty is a serious offense and will  not  be
+
+   tolerated.   It  may include, but is not  limited  to,  the
+
+   following violations.
+
+
+
+                Cheating  -  (i.e.,  the use  of  unauthorized
+
+       materials,   information,  or  aid  in   the   learning
+
+       process.)
+
+
+
+                Collaboration  -  (i.e., unauthorized  working
+
+       with others to complete work)
+
+                Fabrication - (i.e., submitting an  untruthful
+
+       statement or the resubmitting of returned academic work
+
+       without prior permission)
+
+
+
+                Plagiarism  - (i.e., submitting  the  work  of
+
+       others  as  ones  original work  or  failure  to  cite
+
+       sources of information used)
+
+
+
+               Tampering With Testing or Grades
+
+   
+
+   College  sanctions  for  violations  are  outlined  in  the
+
+   Student  Handbook.   Penalties in the course  for  academic
+
+   dishonesty  may range from a reprimand to failure  for  the
+
+   course.
+
+
+
+   It  is  your  responsibility  to  bring  knowledge  of  any
+
+   violations  of academic integrity to the attention  of  the
+
+   instructor.
+
+                OUTLINE OF LEARNING ACTIVITIES
+
+                               
+
+                                                      Text
+
+Week                                               Chapters
+
+
+
+    1       Transaction  Management  Transaction  Properties
+
+9
+
+        Transaction Management with SQL Evaluating
+
+        Transaction Results
+
+
+
+  2     Concurrency Control                              9
+
+        Uncommitted Data Concurrency Control with
+
+        Locking Methods Concurrency Control with
+
+        Time Staying Methods Database Recovery
+
+        Management
+
+
+
+     3        Distributed    Database   Management    Systems
+
+10
+
+        DDBMS Advantages and Disadvantages DDBMS
+
+        Components and Levels of Data and Process
+
+        Distribution
+
+
+
+     4        Distributed   Database   Transparency   Features
+
+10
+
+        Performance Transparency and Query Optimization
+
+        Distributed Database Design Data Fragmentation
+
+
+
+    5       New   Developments:    Object-Oriented   Databases
+
+11
+
+        Object Orientation and ITs Benefits
+
+        Object-Oriented Concepts Objects Components
+
+        and Characteristics Object Identity Messages and
+
+        Methods Classes Protocol Object-Classification
+
+
+
+   6      Characteristics  of an Object-Oriented  Data  Model
+
+11
+
+        Object Schemes Graphical Representation of
+
+        Objects Class-Subclass DDM and previous Data
+
+        Models Similarities and Differences of Object-
+
+        Oriented Database Management Systems DDBMS
+
+        Advantages and Disadvantages How DD Concepts
+
+        Have Influenced the Related Models The next
+
+        Generation of Database Management System
+
+
+
+  7     EXAM I
+
+
+
+  8     Chart/Server Systems                             12
+
+        Forces that drive the trend to Client/Server Systems
+
+        Managerial Expectations of Client/Server Systems/
+
+        Client/Server Architecture Client/Server Databases
+
+        Client/Server Architectural Styles Client/Server
+
+        Implementation Issues
+
+  9     The Data Warehouses                             13
+
+        Need for Data Analyses Decision Support Systems
+
+        The Data Warehouse Rules that Define a Data
+
+        Warehouse Online Analytical Processing
+
+
+
+10       Star  Schemes  Facts Dimensions,  Attributes,  Data
+
+13
+
+        Warehouse Implementation Apply Database Design
+
+        Procedures, Data Memory
+
+
+
+11      Exam II
+
+
+
+12      Databases in Electronic Commerce                14
+
+        The Impact of E-Commerce E-Commerce Benefits
+
+        E-Commerce Styles E-Commerce Architecture
+
+        Security Payment Processing Digital Cash Credit
+
+        Card Processing Database Design for E-Commerce
+
+        Applications Extensible Marking Language (XML)
+
+
+
+13      Web Database Development                        15
+
+        Internet Technologies and Databases Typical
+
+        Uses of Internet Databases Web-to-Database
+
+        Middlemen:  Server Side Extensions Web Browsers,
+
+        Using a Web-to-Database Production Tool:  Cold
+
+        Fusion How Cold Fusion Works
+
+
+
+14      Database Administration                         16
+
+        The need for and Role of Databases in An Organization
+
+        The Database Environments Human Component
+
+        DBAs Managerial Role DBAs Technical Role
+
+        Database Administrator Tools the DBA at Work:
+
+        Using Oracle for Database Administration.  Oracle
+
+          Database  Administration  Tools  Creating   a   New
+
+Database
+
+        Managing Users and Establishing Security.
+
+
+
+15      Exam III - Database Administrator Report is due
+
+
+
+
+
+-----------------------------7d32ee91106a8--

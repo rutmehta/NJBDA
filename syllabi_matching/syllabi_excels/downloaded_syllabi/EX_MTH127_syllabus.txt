@@ -1,0 +1,333 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ESSEX  COUNTY  COLLEGE
+
+
+
+DIVISON  OF  MATHEMATICS  AND  PHYSICS
+
+
+
+
+
+I. Course ID:MTH 127
+
+
+
+II. Course Name:Basic Calculus
+
+
+
+III.Number of Credits Awarded for Course:4.0
+
+
+
+IV.Prerequisite or Co-requisite Courses or Academic Standing
+
+
+
+Grade of C or better in MTH 100 (Introductory College Mathematics), or 
+placement 
+
+
+
+V. Indicate if New or Modified Course:New
+
+
+
+VI.Name and Telephone Number or e-mail Address of Department Chair or Other 
+Appropriate Contact Person 
+
+
+
+Carlos de la Torre
+
+Chairperson
+
+Division of Mathematics and Physics
+
+973 877 3303
+
+delatorreessex.edu
+
+
+
+VII.Detailed Course Description
+
+
+
+    MTH 127Basic Calculus
+
+
+
+This course follows an intuitive approach to calculus and it includes 
+differential and integral calculus, and multivariable calculus. Emphasis is 
+on applications of calculus to business, economics, management science and 
+social science. 
+
+
+
+
+
+VIII.Outline of Course Objectives
+
+
+
+The General Education goals for this course require:
+
+
+
+1. Students will use critical thinking and problem solving skills in 
+analyzing information gathered through different media and from a variety of 
+sources. 
+
+2. Students will apply appropriate mathematical and statistical concepts and 
+operations to interpret data and to solve problems. 
+
+
+
+
+
+Course Objectives:
+
+
+
+Upon completion of the course, the student will be able to:
+
+
+
+1. Calculate derivatives and solve problems involving rate of change.
+
+2. Find maximum and minimum values of single variable functions.
+
+3. Graph functions.
+
+4. Evaluate exponential and logarithm functions.
+
+5. Calculate indefinite integrals and definite integrals.
+
+6. Find the area under the curve.
+
+7. Find maximum and minimum values of functions of two variables, and of 
+functions of several variables subject to a constraint equation. 
+
+8. Apply derivatives and integrals to solve problems in the life and social 
+sciences. 
+
+
+
+
+
+IX.Texts, Journals, and Other Materials Used In Course
+
+        
+
+        Bibliography:
+
+
+
+1. Applied Calculus for Business, Economics, and the Social and Life 
+Sciences 
+
+8th Edition, by Hoffman, Bradley and Rosen
+
+
+
+2. Applied Calculus, For the Managerial, Life and Social Sciences, 
+
+6th Edition, by S. T. Tan
+
+
+
+3. Basic Technical Mathematics, 8th Edition, by Washington
+
+
+
+4. Calculus, 5th Edition, by Stewart
+
+
+
+
+
+X.Grade Determinants
+
+
+
+The instruction will consist of a combination of:
+
+
+
+ Lectures
+
+ class discussion
+
+  individual study
+
+
+
+Course Requirements are:
+
+
+
+ Completing homework assignments in a timely manner,
+
+ Taking part in class discussion and doing problems on the board when 
+required, 
+
+ Taking tests and exams in class or making up missed tests, if permitted.
+
+
+
+Grading Policy:      Weighted average of exams, quizzes, homework and class 
+participation. 
+
+
+
+Final Grade Scale is:
+
+
+
+Weighted Average of  90 or above A 
+
+Weighted Average of  85 - 89B
+
+Weighted Average of  80 - 84B
+
+Weighted Average of  75 - 79C
+
+Weighted Average of  70 - 74C
+
+Weighted Average of  60 - 69D
+
+Weighted Average below  60F 
+
+
+
+
+
+XI.Number of Papers and Examinations
+
+
+
+
+
+Quizzes, homework and class participation .......................... 15 
+
+Exam 1.............................................................. 15 
+
+Exam 2.............................................................. 25 
+
+Exam 3.............................................................  20 
+
+Final Exam ........................................................  25 
+
+
+
+
+
+
+
+XII.Schedule of Topics to Be Covered
+
+
+
+     1)Functions
+
+     a)Functions and their Graphs
+
+     b)Algebra of Functions
+
+     c)Zeros of Functions
+
+     d)Power Functions
+
+     e)Functions and Graphs in Applications
+
+     
+
+     2)The Derivative
+
+     a)The Slope of a Curve at a Point
+
+     b)Limits, Continuity and Differentiability
+
+     c)The Derivative
+
+     d)Differentiation Rules
+
+     e)The Derivative as a Rate of Change
+
+     
+
+     3)Applications of the Derivative
+
+     a)Graphing of Functions
+
+     b)The First and Second Derivative Rules
+
+     c)Curve Sketching
+
+     d)Optimization Problems
+
+     
+
+     4)Techniques of Differentiation
+
+     a)The Product and Quotient Rule
+
+     b)The Chain Rule and the General Power Rule
+
+     c)Implicit Differentiation and Related Rates
+
+     
+
+     5)Exponential and Logarithm Functions
+
+     a)Exponential Functions, ex
+
+     b)Differentiation of Exponential Functions 
+
+     c)The Natural Logarithm Function and its properties
+
+     d)The Derivative of the Natural Logarithm Function
+
+     e)Applications:Exponential Growth and Decay, and Compound Interest
+
+     
+
+     6)The Definite Integral
+
+     a)Antidifferentiation
+
+     b)Areas and Reimann Sums
+
+     c)The Fundamental Theorem of Calculus
+
+     d)Definite Integrals and Applications
+
+     
+
+7) Functions of Several Variables
+
+a) Functions of Several Variables
+
+b) Partial Derivatives
+
+c) Maxima and Minima of Functions of Several Variables
+
+d) Lagrange Multipliers and Constrained Optimization
+
+
+
+
+
+
+
+
+
+MTH 127 FOR ARTSYS WEB ADMIN SYLLABUS1 05 22 06
+
+
+
+Revised October 2000

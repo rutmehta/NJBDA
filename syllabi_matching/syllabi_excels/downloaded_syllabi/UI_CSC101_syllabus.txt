@@ -1,0 +1,227 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Instructor's Syllabus
+
+Course No.
+Title
+CST 162
+Computer Algorithms
+
+Course Description:
+
+This course introduces students to the logic used to develop solutions to common 
+problems in the computer science field. These step-by-step detail solutions are called 
+algorithms and serve as the basic methods utilized in most computer problems. In the 
+lab component of this course these algorithms are written and tested in a current 
+programming language. Topics include number systems, logical operators, one and 
+two-dimensional arrays and methods of sorting arrays, graphs of functions, and string 
+manipulation. Prerequisite: CST 161.
+4 hours per week. 4 credits.
+
+General Objectives:
+
+Upon successfully completing this course the student should be able to:
+
+1.	Describe and effectively use several problem solving methods, including at least 
+one tool and multiple techniques, to represent an algorithm in a computing 
+environment.
+2.	Represent the solution to moderately complex problems using a higher-level 
+computer language.
+3.	Explain the nature of data, how it may be represented in a higher-level language, 
+stored and represented in a computing environment.
+4.	Identify and describe how the computing machine components support the 
+execution of a program.
+5.	Develop algorithms that employ those common logic and data structures native 
+to most higher-level computer languages.
+6.	Design, code, debug and document program using techniques of good 
+pro9gramming style.
+7.	Identify the four core and five related areas of study within the Computer Science 
+discipline.
+8.	Identify the objectives common to object-oriented problem solving and object- 
+oriented languages;
+
+Text:
+We will use an eText (electronic text) this semester. 
+Sign up at zyBooks.com
+Enter zyBook code UCCCST162DzubackSpring2017
+Click Subscribe
+
+
+
+The cost to subscribe is $67; any applicable returning student discounts will be applied 
+automatically. The student subscriptions will be valid through 05/30/17.
+
+Materials:
+
+1.	Required - The text, the Sun/Oracle Java compiler (available at the Oracle 
+website) and a text editor (Eclipse for example) or Integrated Development 
+Environment. Details for downloading and installing the compiler and editor are 
+available on the course website.
+2.	Required - flash/micro drive for laboratory -- 512Mb minimum.
+3.	Optional - 'Draw' software (Visio from Microsoft or SmartDraw for example) 
+available which contain flowchart symbols in their 'Symbol Library' which can be 
+used in place of a physical template. The costs for this type of software may run 
+as little as $50 or as much as $200.
+
+Course Grades & Grading Policy:
+
+Evaluation Elements for Fall 2015 Semester
+Evaluation Element
+Weight
+(3) 1 Hour examinations
+45%
+(1) Final examination
+25%
+Assigned Homework
+05%
+Laboratory Works
+25%
+
+
+Scoring Each Evaluation Element
+
+The scoring systems employed for Examinations, Laboratory Assignments and 
+Programming Projects all involve numeric conversions. I will record in the grade book a 
+series of numeric values for each of the examinations, laboratory assignments and 
+programming projects you complete. That 'score' can be converted into an equivalent 
+'letter' grade. The scores will be, according to the Instructor's Syllabus, averaged or 
+accumulated and then 'weighted' with the other elements of your grade to produce a 
+numeric value that itself will be converted to a 'letter' grade equivalent and (at the end 
+of the semester) reported to the Registrar as your final course grade for this semester.
+
+Examinations
+
+Each examination will have between 1 and 'N' points allocated to the internal parts (or 
+sections). The sum of these parts will represent the total number of points for the 
+examination. The number of points earned for each part will be summed and that sum 
+then divided by the total number of points for the examination. The quotient will be 
+multiplied by 100 (this represents the percentage of points earned out of the total 
+number of points that you could have earned). That percentage will be recorded in my
+
+
+gradebook as your score for that examination. You may convert (for reference 
+purposes) the percentage score into a letter grade using the UCC conversion
+system. The two highest examination scores will be averaged to produce a percentage 
+that will be applied to the weight given for the in class examinations component of your 
+final grade.
+
+For Example: If the average of your two highest examination scores is 90% and the 
+weight accorded to examinations is 40 points, you would earn 36 points (or 90%) out of 
+a possible 40 points for examinations.
+
+
+
+Homework Assignments
+
+Each Assignment will have an announced value between 5 and 20. You will receive a 
+numeric value between 0 and 'n' (where 'n' represents the full value of the assignment, 
+in 1/2 point increments) that represents the 'score' for that particular assignment. You 
+can convert that score into a 'letter' grade by dividing the assigned score by the 
+announced value and multiplying by 100 to produce a percent.  Your scores for all of the 
+Assignments will be accumulated and divided by the total number of points you could 
+have earned, to produce a percentage score of your Assignments. That Project and 
+Assignment score will be 'weighted' for your final grade.
+
+For Example: If the sum of your Assignments is 38 points and a total of 8 Assignments 
+valued at 40 points were given, you earned 38 of a possible 40 points or 95% of the 
+possible points. That percentage will be scaled into the 'weight' accorded to Project 
+and Assignment Work. If the weight is 10% of your grade, then you will earn 9.5 points 
+for Assignment and Project Work.
+
+Please note that you may earn less than the total number of possible points for an 
+Assignment for any of the following reasons:
+
+1.	Material requested turned in after due date (1/2 point for each class after due 
+date).
+2.	Answers were incomplete - not all questions answered (not less than 1/2 point).
+3.	Answer were incorrect (not less than 1/2 point).
+4.	All materials requested not turned in (not less than 1/2 point).
+
+
+
+Summing Up...
+
+The values derived for each component will be added to produce a numeric 'score' in 
+the range of 0 through 100. That score will be converted to a final (letter) grade based 
+on the UCC numeric scale system (< 60 = 'F', 60-64 = 'D', 65-69 = 'D+', 70-74 = 'C', 
+75-79 = 'C+', etc. - consult the 2015-16 UCC Catalog for details).
+
+
+
+
+Final Examination Exemption:
+
+Students may earn a 'waiver' from the Final Examination this semester. This exemption 
+will be earned if:
+
+1.	You take all three scheduled class examinations and
+2.	You earn a score of 90 or greater on each of those three examinations and
+3.	You must have at least a 90 average in the post lab problems, homework and 
+laboratory work.
+
+Concluding thoughts...a 'waiver' from the Final Examination implies you have 
+maintained an 'A' level work in every (gradable) portion of this course.  I will make 
+every effort to evaluate, grade and return each homework, laboratory and project 
+assignment you submit in a timely fashion (1 or 2 classes after you submit it to me). 
+Please keep your own records of these assignments should questions arise later about 
+that component of your grade.  I will try to maintain an 'up-to-date' grade book 
+throughout the semester and should be able, upon request, give you a summary of your 
+grades.  .Given the cumulative nature of the grading system used in this course, your 
+grade may fluctuate quite a bit over the course of the semester, especially between the 
+first and second examinations.
+
+COURSE POLICIES
+
+Preparing for Examinations
+Attend lectures and laboratories. Typically one week in advance of an announced exam 
+I will post a Study Guide for that examination on the course website. The Study Guide 
+includes an outline of the topics to be tested, along with chapter references and 
+suggested exercises to perform.
+
+Appeals Policy
+To appeal a grade, send an email to your instructor's email address within five days of 
+the grade having been posted. Overdue appeals will not be considered.
+
+Incomplete Policy
+Students will not be given an incomplete grade in the course without sound reason and 
+documented evidence as described in the Union County Catalog. In any case, for a 
+student to receive an incomplete, he or she must be passing and must have completed 
+a significant portion of the course.
+
+Cheating Policy
+Students are expected to uphold the school's standard of conduct relating to academic 
+honesty. Students assume full responsibility for the content and integrity of the 
+academic work they submit. The guiding principle of academic integrity shall be that a
+
+
+student's submitted work, examinations, reports, and projects must be that of the 
+student's own work. Students shall be guilty of violating the honor code if they:
+
+1.	Represent the work of others as their own.
+2.	Use or obtain unauthorized assistance in any academic work.
+3.	Give unauthorized assistance to other students.
+4.	Modify, without instructor approval, an examination, paper, record, or report for the 
+purpose of obtaining additional credit.
+5.	Misrepresent the content of submitted work.
+
+The penalty for violating the honor code is severe. Any student violating the honor code 
+is subject to receive a failing grade for the course and may be subject to disciplinary 
+action as described in the Union County Catalog. If a student is unclear about whether a 
+particular situation may constitute an honor code violation, the student should meet with 
+the instructor to discuss the situation.
+Each student must develop his or her own solutions to the assigned homework and 
+laboratory exercises. Students may not 'work together' on graded assignments. Such 
+collaboration constitutes cheating. A student may not use or copy (by any means) 
+another's work (or portions of it) and represent it as his/her own. If you need help on an 
+assignment, contact your instructor, not other classmates.
+
+Disabilities Policy
+In compliance with the Americans with Disabilities Act (ADA), all qualified students 
+enrolled in this course are entitled to 'reasonable accommodations.' Please notify the 
+instructor during the first week of class of any accommodations needed for the course. 
+Any student with special needs that will affect performance in this class should feel free 
+to make an appointment to talk with me during office hours or contact the disabilities 
+counselor in the Counseling office on the Cranford Campus.
+Rev. 01/21/17 
+CST162Syl170123.docx

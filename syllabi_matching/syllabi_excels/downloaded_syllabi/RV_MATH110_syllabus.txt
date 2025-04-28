@@ -1,0 +1,373 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+
+
+
+
+MATH 110 STATISTICS I 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 110 Statistics I 
+
+B. New or Modified Course: Modified 
+
+C. Date of Proposal: Spring 2008 
+
+D. Sponsoring Department: Mathematics 
+
+E. Semester Credit Hours: 3 
+
+F. Weekly Contact Hours: 3 Lecture: 3 
+
+Laboratory: 0 
+
+G. Prerequisites: MATH 030 Intermediate Algebra, or 
+
+MATH 025 Algebra Mod 4 Rational  Radical Behavior, 
+
+or appropriate score on math placement test. 
+
+H. Laboratory Fees: None 
+
+I. Department Chair: Siham Alfred, salfredraritanval.edu 
+
+II. Catalog Description 
+
+Prerequisites: MATH 030 Intermediate Algebra, or MATH 025 Algebra Mod 4, 
+
+or appropriate score on math placement test. This is a first course in 
+statistics that 
+
+introduces the student to the methods and uses of statistical research. 
+Topics 
+
+include descriptive displays and analysis, classical probability, the normal 
+
+distribution, the sampling distribution of the mean, inferences concerning 
+means, 
+
+p-values, independence and goodness of fit tests. 
+
+
+
+III. Statement of Course Need 
+
+This course is required for programs in Biology, Biotechnology, 
+Environmental 
+
+Science, General Business, General Science, Health Science, 
+Pre-Chiropractic, 
+
+Pre-Occupational Therapy, Pre-Pharmacy, Pre-Physical Therapy, Pre-Physicians 
+
+Assistant. This course also serves as a prerequisite for MATH 111 Statistics 
+II. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+OAA/je 1 
+
+
+
+4/11/2008 
+
+
+
+
+
+A. This course serves is a free elective and as a mathematics elective for 
+all 
+
+programs. 
+
+B. This course serves as a General Education course in Mathematics. 
+
+C. This course meets a program requirement for various degree programs in 
+
+Biology, Biotechnology, Environmental Science, General Business, General 
+
+Science, Health Science, Pre-Chiropractic, Pre-Occupational Therapy, Pre-
+
+Pharmacy, Pre-Physical Therapy, Pre-Physicians Assistant. 
+
+D. This course will transfer as a mathematics course in most liberal arts 
+
+programs. 
+
+V. Outline of Course Content 
+
+A. The Nature of Statistics 
+
+B. Organizing Data 
+
+1. Grouping Data 
+
+2. Histograms and other graphs 
+
+3. Stem and Leaf Diagrams 
+
+C. Descriptive Measures for Univariate Data 
+
+1. Summation Notation 
+
+2. Measures of Central Tendency 
+
+3. Measure of Dispersion 
+
+4. Interpretation of Standard Deviation and Chebychevs theorem 
+
+5. Grouped Data Formulas 
+
+6. Quartiles and Box-and-Whisker Diagrams 
+
+7. Parameters and Statistics 
+
+D. Probability 
+
+1. Classical Probability 
+
+2. Rules of Probability 
+
+3. Mutually Exclusive Events 
+
+4. Conditional Probability 
+
+5. Independent Events 
+
+E. Discrete Random Variables 
+
+1. Probability Distributions 
+
+2. The Mean and Standard Deviation of Discrete Random Variables 
+
+3. Bernoulli Trials and Binomial Coefficients 
+
+4. The Binomial Distribution 
+
+F. The Normal Distribution 
+
+1. From Discrete to Continuous Random Variables 
+
+2. The Standard Normal Curve 
+
+3. Finding Areas Under the Normal Curve 
+
+4. Normally Distributed Random Variables 
+
+OAA/je 2 
+
+
+
+4/11/2008 
+
+
+
+
+
+G. The Sampling Distribution of the Mean 
+
+1. Random Sample and Sampling Error 
+
+2. The Mean and Standard Deviation of the Sample Mean 
+
+3. The Central Limit Theorem 
+
+H. Estimation 
+
+1. Point and Interval Estimation of a Parameter 
+
+2. Constructing Confidence intervals for Population Means and 
+
+Proportions 
+
+3. The t-Distribution 
+
+4. Sample Size Considerations 
+
+I. Hypothesis Testing 
+
+1. The Logic of Significance Tests  classical and p-value methods 
+
+2. Tests for Single Means 
+
+3. Tests for Proportions 
+
+4. The Chi-Square Distribution 
+
+5. Tests for goodness-of-fit 
+
+6. Type I and Type II Errors 
+
+VI. Educational Goals and Learning Outcomes 
+
+A. General Education Goals 
+
+Students will: 
+
+
+
+1. apply mathematical arguments to problems. (G. E. 1) 
+
+2. solve problems quantitatively and symbolically. (G. E. 7) 
+
+B. Learning Outcomes 
+
+Students will be able to: 
+
+
+
+1. Use descriptive methods of statistics for the purpose of organizing 
+
+and summarizing data. 
+
+2. Interpret the meaning of summary measures (mean, median, mode, 
+
+standard deviation, variance, quartile, percentile, range, minimum, 
+
+maximum, outlier, etc.) within the context of problem. 
+
+3. Calculate the probability of an event using both discrete and 
+
+continuous methods. 
+
+4. Use methods of inferential statistics to interpret data for the 
+
+purposes of interval estimation in means and proportions. 
+
+5. Use methods of inferential statistics to interpret data for the 
+
+purposes of decision-making in hypothesis tests, including single 
+
+means, proportions, and chi-square procedures. 
+
+OAA/je 3 
+
+
+
+4/11/2008 
+
+
+
+
+
+6. Interpret a p-value within the context of the problem. 
+
+VII. Modes of Teaching and Learning 
+
+A. lecture/discussion 
+
+B. small-group work 
+
+C. computer-assisted instruction 
+
+D. guest speakers 
+
+E. laboratory 
+
+F. student oral presentations 
+
+G. student collaboration 
+
+H. independent study 
+
+I. homework 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+A. teacher written tests 
+
+B. computer/calculator lab projects 
+
+C. semester projects 
+
+D. final examination 
+
+E. in-class quizzes 
+
+IX. Grade Determinants 
+
+A. tests 
+
+B. quizzes 
+
+C. homework 
+
+D. projects 
+
+E. labs 
+
+F. cumulative final exam 
+
+X. Texts and Materials 
+
+A. Suggested textbook: Introductory Statistics, Alternate Windows Version, 
+
+(latest edition). Neil A. Weiss. Pearson Addison-Wesley. 
+
+B. Computer-based sources: The instructor is free to choose the type of 
+
+technology. Choices include but are not limited to: 
+
+1. MINITAB 
+
+2. TI-84 graphing calculator 
+
+3. EXCEL 
+
+4. SAS 
+
+Please Note: The course outline is intended only as a guide to course 
+content and 
+
+resources. Do not purchase textbooks based on this outline. The RVCC 
+Bookstore 
+
+is the sole resource for the most up-to-date information about textbooks. 
+
+
+
+OAA/je 4 
+
+
+
+4/11/2008 
+
+
+
+
+
+XI. Resources 
+
+Because of the technology used in the course, classes should be held in a 
+CATT 
+
+room where the instructor can access both MINITAB and the web. MINITAB 
+
+software needs to be available in S020, the open lab, and any other computer 
+lab 
+
+where students may be working. 
+
+
+
+OAA/je 5 
+
+
+
+4/11/2008 
+
+
+
+

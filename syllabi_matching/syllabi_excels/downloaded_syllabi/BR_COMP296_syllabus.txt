@@ -1,0 +1,162 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP 296
+
+
+
+COURSE NAME
+
+Advanced Software Project
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+COMP 226  Systems Analysis and Design, 
+
+COMP 271 Programming II or COMP 268 Server Side Scripting)
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course is a capstone course for students enrolled in the Computer 
+Science program.  Students conduct analysis and research resulting in the 
+architecture, design and implementation of an information system. Students 
+develop detail descriptions of the data stores, program structures and user 
+interfaces of the system. Projects give students hands-on experience to 
+perform the analysis, design, coding and testing of software created. 
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+Students will present a deliverable for each stage of the project. The 
+stages are: 
+
+I. Project selection and overall architecture of the project.
+
+II. Logical design of the components of the project.
+
+III. Physical design of the components of the project.
+
+IV. Test plans.
+
+V. Implementation of the project
+
+
+
+Students will participate in all critiques and presentations of other 
+students work. 
+
+
+
+Students will present their system at the time of the project evaluation.
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+A portable secondary storage media (i.e., floppy disk, memory stick, zip 
+disk) 
+
+
+
+GRADE DETERMINANTS
+
+    GRADEREQUIREMENTS
+
+
+
+AEarn points between 90 thru 100 
+
+BEarn points between 85 thru 89
+
+BEarn points between 80 thru 84
+
+CEarn points between 75 thru 79
+
+CEarn points between 70 thru 74
+
+DEarn points between 60 thru 69
+
+      F            Earn points between below 60 
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+The student will develop the system architecture, logical design, physical 
+design, test plans and implement a computer system to support the project. 
+In addition students will: 
+
+I. Understand web page layouts and the skills (HTML/CSS/XML) necessary to 
+produce the user interface (Web Site Development Students). 
+
+II. Employ a structured approach for testing the system.
+
+III. Design data stores and provide the interfaces to those data stores.
+
+IV. Understand the role and limits of the operating system and computer 
+architecture in the design and implementation of the project (Programming 
+Option Students). 
+
+V. Design user interfaces which consider ergonomics.
+
+VI. Design and implement using object oriented and generic software 
+engineering principles. 
+
+VII. Provide documentation of the developed system 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

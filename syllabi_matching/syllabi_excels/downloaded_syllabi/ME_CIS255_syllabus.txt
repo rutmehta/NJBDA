@@ -1,0 +1,634 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                  Mercer County Community College
+
+                                 
+
+            Arts, Communication and Technology Division
+
+                                 
+
+                              CIS255
+
+                                 
+
+             INTRODUCTION TO HTML AND WEBSITE HOSTING
+
+                                 
+
+
+
+COURSE DESCRIPTION:
+
+An introduction to the two or three most popular operating systems
+
+for website hosting.  Prac-tice installing, configuring, and
+
+optimizing these operating systems as web servers.  The Hyper-text
+
+Markup Language (HTML) will be thoroughly investigated including
+
+the use of text and gra-phics based navigation, tables, cascading
+
+style sheets, audio and graphics, frames and forms.  The future
+
+direction of HTML, including XML and XHTML the role of scripting
+
+languages, like VBScript, JavaScript, and Perl and HTML editors
+
+will be introduced and summarized as a re-sult of student research.
+
+Laboratory exercises will emphasize website and web page design and
+
+development using various HTML features to publish brief student
+
+papers on various Internet topics.
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:  MAT030, ENG030, and ENG035 or equivalent
+
+proficiency and a basic understanding of the Internet:  CIS135,
+
+CIS134 or equivalent proficiency
+
+
+
+Co-requisites:  none
+
+
+
+Credits:  4         Lecture Hours: 3    Studio/Lab Hours:  2
+
+
+
+
+
+
+
+
+
+Food and drink are strictly prohibited in classrooms as per health
+
+ and safety laws.  Students may not bring in chemicals or cleaning
+
+            fluids without the appropriate MSD sheets.
+
+
+
+Coordinator:   Winston H. Maddox                  Latest Review:
+
+8/2001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBJECTIVES
+
+
+
+To develop the skills necessary to install operating systems on
+
+workstations and servers, to install essential software, to
+
+download and configure software for the Internet, and to prepare a
+
+workstation or a server to host a website.
+
+
+
+To learn and practice the use of HTML, including its various text
+
+features, navigation between pages and URLs, tables, cascading
+
+style sheets, using audio, video, and graphics files, frames, and
+
+forms.
+
+
+
+To develop confidence by publishing ones website, firstly on a
+
+local, in-class, server and secondly on a remote, free, web
+
+hosting site.
+
+
+
+To prepare students for more advanced studies in both the artistic
+
+and technical components of website development and management.
+
+
+
+TESTS
+
+
+
+There will be four tests, worth 6 points each, one after each part.
+
+Tests will be completed in the testing center, to preserve class
+
+and laboratory time.  Each test will be open for a 9 day period.
+
+
+
+
+
+
+
+QUIZZES
+
+
+
+No quizzes are planned.  Surprise or pop quizzes may be added to
+
+determine if students have done the reading required for each weeks
+
+lectures and laboratories.
+
+
+
+LABORATORY
+
+
+
+There will be 13 laboratory assignments, worth 3 points each, as
+
+follows:
+
+
+
+1.Using UNIX to perform directory and communications services
+
+
+
+2.Loading a non-UNIX Operating System, Application Programs, and
+
+  using the OS to perform directory, file, and communications
+
+  services.
+
+
+
+3.Develop a home page with a link to a resume page that
+
+  describes the student.
+
+
+
+4.Replace the simple bibliographic page that was developed in lab
+
+  3 with a bibliographic page that uses ordered and unordered
+
+  lists, and tags.
+
+
+
+5.Add a new link to your home page to show images of yourself or
+
+  of things that you want associated with you.  The images may be
+
+  downloaded, scanned, recorded with a digital camera, or drawn
+
+  with a suitable drawing tool.
+
+
+
+6.Add music or audio to one or more of you image pages so that
+
+  the user can either play music by clicking on an icon or that
+
+  plays as background while the image is being viewed.  The music
+
+  or audio that is presented may be either down loaded, recorded,
+
+  or obtained from a public domain source.
+
+
+
+7.Add a form to your website, with an appropriate link to your
+
+  home page to collect information about those who visit your
+
+  site.  Students will require a personal eMail account to
+
+  complete this lab.
+
+
+
+8.Modify your home page so that it uses frames, at least one
+
+  source frame, and at least one target frame to display
+
+  information from some other pages.
+
+
+
+9.Replace one or more of your resume forms with forms that employs
+
+  both tables and lists to store and display information.
+
+  Students should be prepare to explain why some information is
+
+  displayed using one technique and why other information used an
+
+  alternative.
+
+
+
+10.    Add a page to your site, or a feature to an existing page
+
+  that displays a short video sequence.  An appropriate file must
+
+  be found and downloaded from the Internet.
+
+
+
+11.    Download and install Apache Web Server on a Windows
+
+  computer and a UNIX computer.
+
+
+
+12.    Installing Personal Web Server or Internet Information
+
+  Server on a computer running  Windows-98 or Windows-2000.
+
+
+
+
+
+
+
+13.    Publishing (loading) the students website on a local (in-
+
+  lab) and public (on-the-internet) Web Server.
+
+
+
+LABORATORY EVALUATION
+
+
+
+Of the three (3) points that are assigned to each laboratory, the
+
+students performance will be evaluated as follows:
+
+
+
+  0.5 points:    Preparation, was the student ready for the lab
+
+  0.5 points:    Punctuality, was the lab completed on-time
+
+  1.0 points:    Appropriateness, does the work use the
+
+            appropriate material and techniques
+
+  1.0 points:    Code Quality, is the report or HTML well
+
+            written, easy to follow, and appropriately documented
+
+
+
+PROJECTS or PAPERS
+
+
+
+Each student is required to use the Internet to search for Service
+
+Providers that offer free WebSite hosting.  The student should
+
+develop a criteria for comparing these free web hosting services
+
+and then evaluate a minimum of 10 providers on each criteria.  The
+
+students will share their evaluations during the 6th or 7th week of
+
+the course and each student will be assigned two services for
+
+further evaluation.  Each student will write a report, comparing
+
+and contrasting the ten (or more) sites and discussing their
+
+specific experience with two sites (5 points).  The final report
+
+will be due the 13th week of class.
+
+
+
+Each student is expected to develop and publish a website
+
+describing him or herself or a topic of interest to the student (15
+
+points).  The site must consist of at least four pages and the
+
+homepage must use forms.  One page must use tables and one must use
+
+lists, both may be on the same page.  The site must include links
+
+to other Websites on the Internet.  The site must display images
+
+and provide audio and either video or animation output.  Each
+
+student will present their site in class during the last two weeks
+
+of the semester other students will provide peer reviews (score
+
+for various aspects plus a very brief written comment) of each
+
+presentation.
+
+
+
+Each student is required to write a two to five page paper, with
+
+references to books, papers, and WebSites comparing and contrasting
+
+UNIX and NT based Web Servers (5 points).  These papers will be
+
+published as HTML pages and linked to the courses WebSite by the
+
+instructor.  The printed report and HTML pages will be due the last
+
+week of class.
+
+
+
+FINAL GRADE
+
+
+
+The final grade is based on the following:
+
+
+
+  Tests  Quizzes:                24 points
+
+  Laboratories:                   39 points
+
+  Projects  Reports:        25 points
+
+  Attendance  Participation:     12 points
+
+            Total          100 points
+
+  
+
+
+
+
+
+Course grade is based on the total number of points earned as
+
+follows:
+
+
+
+  A         90 or more points
+
+  B         80 or more points and less than 90 points
+
+  C         70 or more points and less than 80 points
+
+  D         60 or more points and less than 70 points
+
+  F         less than 60 points
+
+
+
+COURSE OUTLINE
+
+
+
+I.   Part 1:   Operating Systems
+
+     A.   UNIX
+
+          1.   Booting and start-up
+
+          2.   Basic Commands
+
+          3.   Files  Directories
+
+          4.   Security  File Management
+
+     B.   Windows
+
+          1.   Booting and start-up
+
+          2.   Basic Commands
+
+          3.   Files  Directories
+
+          4.   Security  File Management
+
+     Part 1 will require about three weeks and the completion of
+
+     two laboratory assignments.  The 1st examination will follow
+
+     the completion of this material.
+
+     
+
+II.  Part 2:        Basic HTML
+
+     A.   Text formatting with HTML
+
+     B.   Links to other pages
+
+     C.   Numbered and unnumbered lists
+
+     D.   Text and background color
+
+     E.   Adding images or graphics to Web pages
+
+     F.   Adding sound or music to Web pages
+
+     G.   Adding video and animation to Web pages
+
+     
+
+     Part 2 will require about four weeks and the completion of
+
+     four laboratory assignments.   The 1st part of the Internet
+
+     Web Hosting service report is due at he end of this material.
+
+     The 2nd examination will follow the completion of the Basic
+
+     HTML material.
+
+     
+
+III. Part 3:        Advanced HTML
+
+     A.   Forms
+
+     B.   Frames
+
+     C.   Tables
+
+     D.   An introduction to Style Sheets
+
+     E.   An overview of XHTML and XML
+
+     
+
+     Part 3 will require about four weeks and the completion of
+
+     four laboratory assignments.  The Internet Web Hosting service
+
+     report and each students WebSite project are due at the end of
+
+     this material.  The 3rd examination will follow the completion
+
+     of the Advanced HTML material.
+
+
+
+
+
+IV.  Part 4:        Server Side Programming and Publishing and
+
+Maintaining Web
+
+               Sites
+
+     A.   Active Server Pages (ASP) and the Common Gateway
+
+     Interface
+
+     B.   An introduction to scripting languages
+
+     C.   Downloading, installing, and using the Apache Web Server
+
+     D.   Installing IIS and / or PWS
+
+     E.   Installing web sites on a third party server
+
+     
+
+     Part 4 will require four weeks with time for student
+
+     presentations and peer reviews and the completion of three
+
+     laboratory assignments.  Each student will present his web
+
+     site and discuss his experience of installing the web site on
+
+     the Internet during the last two weeks of class.  Each
+
+     students comparison of UNIX and NT Servers is due at the end
+
+     of this material.  The 4th examination will follow the
+
+     completion of this material.
+
+     
+
+LABORATORY REQUIREMENTS
+
+
+
+The laboratory used in this course must include a high-end personal
+
+computer for each student and the instructor, with a projector for
+
+the instructors machine that can be viewed from any position in
+
+the room, with adequate lighting for students to take notes.
+
+
+
+The PCs should have the Windows operating system (NT, 98, or 2000),
+
+the Microsoft Office Suite (Professional edition), Netscape and
+
+Internet Explorer Web Browsers, IIS or PWS, and FTP.  Students
+
+should have access to an in laboratory UNIX Web Server with Apache
+
+Web Server installed.  The laboratory must have Internet access, a
+
+printer, and a scanner.
+
+
+
+ACADEMIC INTEGRITY
+
+
+
+A student who a) knowingly represents the work of others as his or
+
+her own b) uses or obtains unauthorized assistance in the
+
+execution of any work or c) completes work for another student is
+
+guilty of cheating.  Violators will be penalized.
+
+
+
+CLASSROOM CONDUCT
+
+
+
+It is the students responsibility to attend all classes.  If a
+
+student misses a class for any reason, it is his or her
+
+responsibility to obtain materials that were handed out, to learn
+
+the material that was covered, and to find out about any
+
+announcements that were made in class
+
+
+
+Students are expected to be on time for class.  If a student
+
+arrives late, it is expected that they will take a seat close to
+
+the door.
+
+
+
+Students are expected to follow ordinary rules of courtesy during
+
+class.  Private or side-bar  conversations, leaving class without
+
+prior discussions with the professor (except for an emergency),
+
+making unnecessary noise, or using a cellular telephone are
+
+disruptive behaviors that will not be tolerated.
+
+
+
+The college welcomes all students into environment that creates a
+
+sense of community, pride, and respect we are all here to work
+
+cooperatively and to learn together.
+
+
+
+     
+
+                                 

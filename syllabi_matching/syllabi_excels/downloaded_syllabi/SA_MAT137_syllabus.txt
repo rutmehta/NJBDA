@@ -1,0 +1,129 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College MAT 137 College Algebra
+
+
+
+MAT 137 College Algebra: Credits: 2:2:3, Prerequisite: College Placement 
+Test or Mat 136 or written permission of 
+
+instructor. Co-requisite: None
+
+
+
+Contact Karen Mattison (856) 351-2672, kmattisonsalemcc.edu
+
+
+
+Course Description: This course is designed to enable students to become 
+proficient in analyzing linear, quadratic, 
+
+polynomial, rational, exponential, and logarithmic functions.  Students will 
+also be able to solve both linear and nonlinear 
+
+systems.  Students will investigate topics both analytically and 
+graphically.  Methods of instruction include lecture, group 
+
+discussion, and graphical analysis on both the graphing calculator and the 
+computer.  The structure of the lab will be one 
+
+of the following:  a challenging problem set that the students work on 
+collaboratively, a graphing calculator investigation or 
+
+a computer experiment where the students investigate mathematics in an 
+applied mode.  Placement in the course is 
+
+insured by a score of 25 or higher on the Intermediate Algebra Skills test 
+administered by Student Services before the 
+
+first day of class. Place in the College Curriculum: This course is required 
+in many of the colleges programs and may 
+
+be used as a mathematics or open elective.
+
+
+
+Performance Objective I:  The student will be able to analyze general 
+functions. 
+
+Performance Objective II:  The student will be able to analyze linear 
+functions. 
+
+Performance Objective III:  The student will be able to analyze quadratic 
+functions. 
+
+Performance Objective IV:  The student will be able to analyze polynomial 
+functions. 
+
+Performance Objective V:  The student will be able to analyze rational 
+functions. 
+
+Performance Objective VI:  The student will be able to analyze exponential 
+functions. 
+
+Performance Objective VII:  The student will be able to analyze logarithmic 
+functions. 
+
+Performance Objective VIII (Optional): The student will be able to analyze 
+systems of equations. 
+
+
+
+Required Text: Larson, Hostetler,  Hodgkins, College Algebra:  Concepts  
+Models, 5th Ed., Houghton  Mifflin, 2006. 
+
+Materials or Supplies: Texas Instruments Graphing Calculator TI-83 series or 
+TI-84 series 
+
+
+
+General Education Requirements: The general education goals covered in MAT 
+137 are critical thinking  problem 
+
+solving, quantitative skills, and science  technology.  See student handbook 
+for additional details. 
+
+Course Activities: Content will be delivered by means of lecture, group 
+discussion, and laboratory exercises including 
+
+collaborative work as well as calculator and computer investigations.  
+
+Course Requirements and Means of Evaluation:  Refer to instructors syllabus 
+addendum. 
+
+
+
+Grading Scale: 
+
+93  100  A, 90  92  A-, 88  89  B, 83  87  B, 80  82  B-, 78  79  C, 73  77  
+C, 70  72  C-, 68  69  D, 
+
+60  67  D, 59  below  F, Failure due to attendance  FA.
+
+
+
+Course Content Outline:
+
+I. Functions: A. Domain, B. Range, C. Sum, Difference, Product, and 
+Quotient, D.Composition, E. Inverses. 
+
+II. Linear Functions: A. Slope, B. Graphs, C. Equations, D. Parallel and 
+perpendicular, E. Application 
+
+III. Quadratic Functions: A. Standard form and vertex, B.Graphs, C. 
+Applications 
+
+IV. Polynomial Functions: A. Shapes of graphs, B. Zeros, C. End behavior
+
+V. Rational Functions: A. Vertical asymptotes, B.Horizontal asymptotes, C. 
+Zeros, D. Graphs 
+
+VI. Exponential Functions: A. Domain and range, B. Asymptote, C. Graphs, D. 
+Applications 
+
+VII. Logarithmic Functions: A. Domain and range, B. Asymptote, C. Graphs, D. 
+Applications 
+
+VIII. Systems of Equations (optional): A. Linear systems, B. Nonlinear 
+systems, C. Linear Programming 

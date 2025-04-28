@@ -1,0 +1,690 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP166
+
+
+
+
+
+COURSE NAME
+
+Web Design Using HTML
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED--4 credits to 3 credits 
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+Students will learn the most important topics of HTML including creating 
+multimedia Web pages with hypertext links, tables, frames, forms and 
+cascading style sheets. Students will learn the basics of XML including 
+creating XML documents and binding data. Students will design and develop 
+wireless web pages using XHTML and WML. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Developing a Basic Web Page
+
+II. Adding Hypertext Links to a Web Page
+
+III. Designing a Web Page
+
+IV. Designing a Web Page with Tables
+
+V. Using Frames in a Web Site
+
+VI. Creating Web Page Forms
+
+VII. Working with Cascading Style Sheets
+
+VIII. Creating a Multimedia Web Page
+
+IX. Working with XHTML
+
+X. Creating an XML Document
+
+XI. Wireless Internet Access
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+ 
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-11
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.  
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-11. 
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT 1: Developing a Basic Web Page
+
+UNIT OBJECTIVE: The student will learn the fundamentals of the Web and HTML.
+
+
+
+METHOD OF EVALUATION: Lab 1 and Test 1 
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Introducing the World Wide Web
+
+HTML: The Language of the Web
+
+Creating an HTML Document
+
+Creating Headers, Paragraphs, and Lists
+
+Creating Character Tags
+
+Adding Special Characters
+
+Inserting a Graphic
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 1.
+
+Complete lab 1.
+
+
+
+
+
+
+
+
+
+
+
+UNIT 2: Adding Hypertext Links to a Web Page
+
+
+
+UNIT OBJECTIVE: The student will learn how to include hypertext links and 
+anchors in documents. 
+
+
+
+METHOD OF EVALUATION: Lab 2 and Test 1
+
+
+
+LEARNING OBJECTIVES:The student will be able to understand:
+
+Creating Hypertext Documents
+
+Creating Anchors
+
+Creating Links
+
+Web Page Structures
+
+Creating Links between Documents
+
+Linking to Documents in other Folders
+
+Linking to Documents on the Internet
+
+Linking to Other Internet Objects
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 2.
+
+Complete lab 2.
+
+
+
+
+
+UNIT 3: Designing a Web Page
+
+UNIT OBJECTIVE: The student will learn how to work with fonts, colors and 
+graphics on a web page. 
+
+
+
+METHOD OF EVALUATION: Labs 3, 12 and Test 1 
+
+
+
+LEARNING OBJECTIVES:The student will be able to understand:
+
+Working with Color in HTML
+
+The <FONT> Tag
+
+Inserting Background Images
+
+Working with GIF and JPEG files
+
+Using the ALT property
+
+Controlling Image Placement and Size
+
+Client-side and Server-side Image Maps
+
+Defining Hotspots
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 3.
+
+Complete labs 3 and 12.
+
+
+
+
+
+UNIT 4: Designing a Web Page with Tables
+
+UNIT OBJECTIVE: The student will learn how to create a page with tables. 
+
+
+
+METHOD OF EVALUATION: Labs 4, 13 and Test 1
+
+
+
+LEARNING OBJECTIVES:The student will be able to understand:
+
+Creating a Text Table
+
+Defining a Table Structure
+
+Modifying the Appearance of a Table
+
+Spanning Rows and Columns
+
+Controlling Page Layout
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 4.
+
+Complete labs 4 and 13.
+
+
+
+
+
+UNIT 5:  Using Frames in a Web Site
+
+UNIT OBJECTIVE:The student will learn how to create web sites with multiple 
+frames. 
+
+
+
+METHOD OF EVALUATION: Lab 5 and Test 1
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Planning Frames 
+
+Creating Frame Layouts
+
+Controlling the Appearance of a Frame
+
+Working with Frames and Hypertext Links
+
+Using Reserved Target Names
+
+Using the <NOFRAMES> Tag
+
+Using Frame Extensions 
+
+Creating Floating Frames 
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 5.
+
+Complete lab 5.
+
+
+
+
+
+UNIT 6: Creating Web Page Forms
+
+UNIT OBJECTIVE:The student will learn how to a create forms for user input.
+
+
+
+METHOD OF EVALUATION: Lab 6 and Test 2
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Working with CGI Scripts
+
+Starting an Online Form with the <FORM> Tag
+
+Working with Text Boxes
+
+Creating a Selection List
+
+Working with Radio Buttons and Check Boxes
+
+Creating a Text Area
+
+Creating Form Buttons and Image Fields
+
+Working with Hidden Fields and Form Properties
+
+Using the MAILTO Action
+
+Additional Form Elements
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 6.
+
+Complete lab 6.
+
+
+
+
+
+
+
+UNIT 7: Working with Cascading Style Sheets
+
+UNIT OBJECTIVE:The student will learn how to create cascading style sheets.
+
+
+
+METHOD OF EVALUATION: Labs 7, 14 and Test 2
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Purpose of Cascading Style Sheets
+
+Using Inline Styles
+
+Creating Embedded Styles
+
+Using an External Style Sheet
+
+Resolving Style Precedence
+
+Working with Style Inheritance
+
+Working with Fonts, Text, Color and List Styles
+
+Formatting Hypertext Links
+
+Working with Ids and Classes
+
+Formatting Block-Level Element Boxes
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 7.
+
+Complete labs 7 and 14.
+
+
+
+
+
+UNIT 8: Creating a Multimedia Web Page
+
+UNIT OBJECTIVE:The student will be able to add multimedia elements to a web 
+page. 
+
+
+
+METHOD OF EVALUATION: Lab 8 and Test 2
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Working with Multimedia
+
+Understanding Sound Files
+
+Linking and Embedding Sound Files
+
+Working with Video Files
+
+Linking and Embedding Video Files
+
+Using the <NOEMBED> Tag
+
+Using the DYNSRC Property
+
+Inserting Java Applets
+
+Using the Internet Explorer <MARQUEE> Tag
+
+Using the <OBJECT> Tag
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+Attend class meetings.
+
+Read and complete Tutorial 8.
+
+Complete lab 8.
+
+
+
+
+
+
+
+
+
+UNIT 9: Working with XHTML
+
+UNIT OBJECTIVE:The student will learn the basics of XHTML.
+
+
+
+METHOD OF EVALUATION: Lab 9 and Test 2 
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+History and Purpose of XHTML
+
+Creating an XHTML Document
+
+Working with Elements and Attributes
+
+Using Character References
+
+Displaying an XML Document in a Web Browser
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+
+
+Attend class meetings.
+
+Read and complete Tutorial 9.
+
+Complete lab 9.
+
+
+
+
+
+UNIT 10: Creating an XML Document
+
+UNIT OBJECTIVE:The student will be able to use XML as a data source.
+
+
+
+METHOD OF EVALUATION: Lab 10 and Test 2 
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+Creating an XML Document
+
+Exploring the Structure of an XML Document
+
+Binding XML Elements to HTML Tags
+
+Binding to an XML Attribute
+
+Working with Table Binding
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+
+
+Attend class meetings.
+
+Read and complete XML Tutorial 1.
+
+Complete lab 10.
+
+
+
+UNIT 11: Wireless Internet Access
+
+UNIT OBJECTIVE:The student will learn how wireless Internet access works and 
+design/develop wireless web pages using XHTML and WML. 
+
+
+
+METHOD OF EVALUATION: Lab 11 and Test 2
+
+
+
+LEARNING OBJECTIVES: The student will be able to understand:
+
+The components to create wireless Internet applications
+
+Points to consider when developing applications for wireless devices
+
+The use of WAP emulators and software development kits
+
+The fundamental elements of WML
+
+How to format text and images in a WML document
+
+Using events and tasks
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+
+
+Attend class meetings.
+
+Read instructors handout on Wireless Markup Language and web sites on WAP.
+
+Complete Lab 11 (see below).
+
+
+
+Lab 11
+
+
+
+Create a WML application to sell a product. This application will have a 
+number of screens which include 
+
+A splash screen  to announce the company
+
+A product list page(s)  for a user to choose from (keep the list small)
+
+A confirmation page  to summarize the order
+
+
+
+A sample application description follows. You may use this as your 
+application or you may pick another product. 
+
+
+
+The company is Brookdale Fast Food.
+
+The products are Hamburger, Chicken, and Salad. Each of these products has 
+options for the user to pick. The hamburger can be Basic or Deluxe. The 
+chicken and be Fried or Grilled. And the salad has a number of dressing to 
+pick from. 
+
+When the user selects the order button, a confirmation page appears which 
+summarizes the food order. As an added feature provide an input box to allow 
+the user to enter their phone number. 
+
+
+
+The user should be able to navigate easily around the screens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

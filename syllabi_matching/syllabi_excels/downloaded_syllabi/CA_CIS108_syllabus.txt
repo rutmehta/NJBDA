@@ -1,0 +1,224 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+                                
+
+                         Course Syllabus
+
+                      Camden County College
+
+                      Blackwood, New Jersey
+
+
+
+Course ID:                    Computer Information Systems - CIS
+
+108
+
+
+
+Course Name:             Construction Management Computer Basics
+
+
+
+Credits:                 3
+
+
+
+Prerequisites:                None
+
+Co-requisites:                None
+
+
+
+Indicate if New or Modified Course:   New Course - March 2006
+
+
+
+Contact Person:               Charles VanMater -
+
+cvanmatercamdencc.edu
+
+
+
+Course Description:
+
+This course provides a foundation in computer and computer-
+
+related skills necessary to manage a construction project.
+
+Planning and scheduling software will be used.  Applications in
+
+budgeting using spreadsheet software and technical writing using
+
+word processing software will be emphasized.  Planning,
+
+scheduling and maintenance of the project life cycle are the
+
+primary focuses.  Techniques for planning and operating the
+
+project will include the identification, ordering and tracking of
+
+resources, assigning controls and creating structures.
+
+
+
+Outline of Course Objectives:
+
+Using the Internet, students will be able to:
+
+Email with attachments
+
+Conduct searches.
+
+Track orders
+
+
+
+Using word processing software, students will be able to:
+
+Format a letter or memorandum.
+
+Create a report.
+
+Complete pre-printed forms and documents.
+
+Use spelling and grammar functions.
+
+Create Tables
+
+Using presentation software
+
+Introduction to Common User Interface
+
+Creating a Presentation
+
+Using spreadsheet software, students will be able to:
+
+Plan, build, test and document a worksheet.
+
+Enter labels, values and formulae.
+
+Use basic worksheet functions for accumulating, averaging, and
+
+displaying the data.
+
+Plan and construct charts based on data from a worksheet.
+
+Use a worksheet to examine what if alternatives.
+
+Create Graphs
+
+
+
+Using project management software, students will be able to:
+
+Starting the Project
+
+Researching the Project
+
+Working with Management
+
+Creating the Budget
+
+Creating a Work Breakdown Structure
+
+Organizing a Project Team
+
+Building the Project Plan
+
+Revising the Project Plan
+
+
+
+Course Materials:
+
+     Textbook(s):
+
+     IT Project Management on Track from Start to Finish,
+
+     Joseph Phillips, McGraw-Hill
+
+     
+
+Grade Determinants:
+
+The student will be evaluated on the degree to which student
+
+learning outcomes are achieved.  A variety of methods may be used
+
+such as tests, class participation, projects, homework
+
+assignments, etc.
+
+
+
+Schedule of Topics to be Covered:
+
+Project Planning and Scheduling
+
+Planning Job Activities
+
+Updating the Schedule
+
+Tracking and Reporting Project Costs
+
+Monitoring the Project Schedule
+
+Changed Conditions
+
+Electronic Record Keeping
+
+Technical Reports
+
+Diaries and Daily Reports
+
+Construction Photographs
+
+Using Computers for Project Administration
+
+Web-Enabled Project Management Applications
+
+
+
+Course Activities:
+
+Course activities will include lecture and discussion of new and
+
+previously discussed material, research on the part of students,
+
+authentic exercises using the computer, and problem-solving group
+
+activities.  Students will be encouraged to participate in
+
+discussions and to ask questions or volunteer information when
+
+pertinent to the topic under discussion. A group-based project
+
+management project will be assigned.
+
+
+
+Simulation activities:  Students are construction managers of a
+
+various-sized construction projects with multiple opportunities
+
+for using technology.  Projects are analyzed for the appropriate
+
+application of technology.
+
+Writing assignments:  students will analyze current issues in the
+
+field of construction management using current articles from
+
+database searches.
+
+Case Studies:  Complex situations and scenarios will be analyzed
+
+in cooperative group settings.
+
+Lectures:  This format will include question and answer sessions
+
+to provide interactivity between students and instructor.

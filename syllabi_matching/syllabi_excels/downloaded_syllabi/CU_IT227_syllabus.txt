@@ -1,0 +1,80 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	IT 227 Circuits II
+
+Credits:	3 (3:2:2)
+
+Prerequisites:	IT 107 Circuits I
+
+Description: This second course in Electrical Circuits expands on Circuit Theory introduced in IT 107. It includes Ohm's and Kirchhoff's Laws for analysis of series and parallel AC circuits. Series-parallel, ladder and bridge networks are analyzed using AC signals. Resonance and frequency response are included. The basic theory and operation of diodes and transistors, including dc biasing are studied. Circuit simulation and laboratory experiments are designed to support the theory and obtain measurement skills.an understanding of the mathematics of the motion of particles and rigid bodies, and the relation of forces and motion of particles.  Upon successful completion of this course, the students should be able to describe the motion of particles and rigid bodies as functions of time and position, develop their equations of motions due to applied forces, and determine post impact behavior.
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+* Describe the motion of particles and rigid bodies as functions of time and position
+* Analyze basic AC circuits with resistors, capacitors, and inductors driven by sinusoidal and pulse waveforms 
+* Model and analyze complex circuits with phasors and Thevenin equivalent circuits where appropriate 
+* Assign real and imaginary impedance values to circuit components and calculate circuit effects using both polar and rectangular forms 
+* Understand and use basic semiconductor devices such as diodes and transistors in simple electrical circuits 
+* Comprehend detailed lab descriptions, perform pre-lab analyses, construct circuits in a lab, take appropriate measurements, analyze results, and prepare summaries and conclusions
+* Practice and use teamwork to complete laboratory experiments in limited time allotted, requiring subdivision of lab work and cross-checking of results 
+* Demonstrate an ability to read-ahead course materials in advance of lecture and lab.
+
+
+Topical Outline:
+
+* Introduction to Kinematics
+* AC Circuit Fundamentals 
+* 
+
+* AC Measurements
+* Capacitors 
+* Inductors 
+* RLC Circuits
+* Resonance 
+* Phasors 
+* Transformers 
+* Impedance 
+* Diodes 
+* Transistors
+
+
+Text:
+
+Floyd , Principles of Electric Circuits, Conventional Current, 2009 , ISBN: 978-0-13-507309-4.  
+
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				30%
+      Assignments				10%
+      Quizzes				10%
+      Lab Exercises				20%
+      Final Exam				30%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+
+
+

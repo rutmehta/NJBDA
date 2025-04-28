@@ -1,0 +1,170 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF218
+Database Programming
+New Course: Fall 2008
+
+Course Description:
+This course covers creation of database applications using a procedural language extension to SQL. Students learn some of the limitations of SQL and explore procedural logic constructs such as variables, constants, conditional statements, iterative controls, functions, and procedures.  Students will use exception handlers to make their programs more robust.  They will gain experience using, creating, and managing packages.  These concepts will be explored using database software in a hands-on project-based environment.
+Credits/Hours:
+3 credits/2 hours lecture, 2 hours lab.
+
+Prerequisite:
+INF-217 Database for Business Application 
+
+
+Student Learning Objectives and	Assessment Measures:
+1.	Write robust database programs using a procedural language extension to SQL.	Written Exam
+Lab Activity
+2.	Write database programs that respond to triggers. Written Exam/Lab Activity
+
+College Competencies:	
+1.	Technological and Information Literacy – Students will demonstrate computer literacy, and will be able to retrieve, organize, and analyze information using both technological and traditional means.	
+2.	Applied Knowledge—Students will demonstrate an understanding of, and apply, bodies of knowledge within and across disciplines.	
+
+
+Assessment:	
+An average of 60% from combined assessment measures is required to demonstrate proficiency in course material.	
+
+Exams: 	
+	Four exams 	70%
+	Quizzes (at instructor’s discretion)	Bonus Points
+Projects / Assignments:	30%
+
+Quizzes:
+There may be several quizzes, each worth 10 points, given at the beginning pre-selected classes.  The quiz material will be based upon the prior lectures and labs, homework, and/or the reading assignments.  A quiz cannot be made up if missed.  A student entering class late, after a quiz has begun, will not be entitled to extra time to complete the quiz.  Students entering class after a quiz is completed will not be permitted to take the quiz and a zero grade will be assigned.
+
+Testing:
+Students are required to take examinations on the day and time they are scheduled.  If special circumstances require a test schedule adjustment, this must be worked out in advance with the instructor. If a student misses an exam (except for prearranged circumstances with the instructor) a zero grade will be assigned.
+
+The instructor can be reached by telephone (see course outline for appropriate phone number), e-mail, or a written note can be left in the Divisional Office (during the day) A-306C or in the Evening Office L-113.  If there are extreme circumstances (documentation may be required) that prevent a student from taking a test or an exam according to the published schedule, the student should use one of the above options to contact the instructor before the next class.  An arrangement for a special testing schedule is solely at the discretion of the instructor.  A student who waits for the next class session to speak with the instructor will not be accommodated with a special test schedule.
+
+It is the student’s responsibility to finish an examination correctly and completely.  Therefore, when computer Scantron forms are used as answer sheets, the student must use a Number 2 lead pencil and erase all stray marks completely.  The burden of proper erasure is at test taking time. Once the examinations are returned to the students, there will be no grade adjustments made due to inappropriate completion of the response form.
+
+The use of electronic devices during exams is prohibited.  Any student using an electronic device during an exam (unless directed to do so by the instructor) will receive a 0 for the exam.
+
+Projects / Assignments:
+Assignments are hands-on productions that show the instructor that the student understands concepts presented in class and in the readings and can competently use specified software to apply specific concepts..
+
+It is anticipated that students will spend at least 4 hours per week perfecting their skills and completing their assignments.  Some assignments are required for grading.  They must be submitted on the assignment due date, and cannot be handed in late.  Acceptance of late assignments is solely at the discretion of the instructor.
+
+Some assignments are instructional and need not be submitted. However lab assignments that are correct and complete and submitted on-time will help students prepare for graded assignments, quizzes, and exams.
+
+Homework:
+In addition to any homework assignment given during class, it is a standing assignment that the student read each Lesson prior to its discussion.  Following the class discussion, the student should reread the material and work with the exercises.  It is anticipated that students will spend at least 4 hours per week reading the online material and working with the exercises and supplemental resources.
+
+Policies:
+•	Lateness – The roll will be taken at the beginning of class.  If the student is not in attendance at that time, he/she will be carried in the roll book as being absent unless the instructor is notified immediately after class.  Attendance sheets cannot be adjusted at following class meetings.
+•	The student must adhere to all college polices.  Due to the nature of this course, it is recommended that the student review the policy titled “Acceptable Information Technology Use at Bergen Community College”.
+•	The use of portable electronic devices such as pagers and cell phones is not permitted while class is in session.  Please be sure to silence electronic devices before entering class.
+•	The use of audio CD or tape players, radios, and college computers to play music during class is prohibited.
+•	Students are expected to demonstrate listening, reading, note taking, and writing skills.  The student will need to take notes during class discussions and understand and follow verbal and written directions.  All assignments and correspondence with the instructor (including e-mail) must be well written in full sentence format.  Proper paragraph format must be used for all postings to the student bulletin board (if applicable).
+•	The subject line of all e-mail correspondence to the instructor must contain the course number and section and student’s name.  Any e-mail received without this information will not be opened.  WebCT email should be used for all course-related correspondence when it is available.
+•	Plagiarism in any form will be treated as a failure to complete an assignment.  All work submitted should reflect individual effort by the student.
+•	In borderline cases that arise in almost every class each semester, a student’s attendance, class participation, attitude, and observed effort will be considered in helping to determine the student’s final grade.
+
+If the instructor does not appear after 20 minutes following the scheduled starting time, students should generate an attendance list.  One volunteer member needs to deliver the list, containing the course title, date, and instructor’s name, to the Evening Office (L-113) or to the Divisional Office (during the day) A-306C.
+
+Additional policy and assessment information may be distributed by individual instructors.
+
+ 
+Week	Topic*	Assignments*
+1	Course Introduction
+Introduction to WebCT
+Section 1 — Fundamentals
+•	Lesson 1: Introduction to PL/SQL
+•	Lesson 2: Benefits of PL/SQL
+•	Lesson 3: Creating PL/SQL Blocks
+•	Lesson 4: Review of SQL Select Statements
+•	Lesson 5: Review of SQL Single-Row Functions	
+Practice Guides and Quizzes are to be completed for each lesson.
+Week
+2	Section 2 — Variables and Datatypes
+•	Lesson 1:Using Variables in PL/SQL
+•	Lesson 2:Recognizing PL/SQL Lexical Units
+•	Lesson 3:Recognizing Data Types
+•	Lesson 4:Using Scalar Data Types
+•	Lesson 5:Review of SQL Joins
+•	Lesson 6:Review of SQL Group Functions and Subqueries
+•	Lesson 7:Writing PL/SQL Executable Statements
+•	Lesson 8:Nested Blocks and Variable Scope
+•	Lesson 9:Good Programming 	
+Week
+3	Section 3 —  SQL in PL/SQL
+•	Lesson 1: Review of SQL DML
+•	Lesson 2: Retrieving Data in PL/SQL
+•	Lesson 3: Manipulating Data in PL/SQL
+•	Lesson 4: Using Transaction Control Statements 
+	Section 4 — Program Structure
+•	Lesson 1: Conditional Control - IF Statements
+•	Lesson 2: Conditional Control - Case Statements
+•	Lesson 3: Iterative Control - Basic Loops
+•	Lesson 4: Iterative Control - While and For Loops
+•	Lesson 5: Iterative Control - Nested Loops	
+Week
+4	Section 5 — Cursors
+•	Lesson 1: Introduction to Explicit Cursors
+•	Lesson 2: Using Explicit Cursor Attributes
+•	Lesson 3: Cursor FOR Loops
+•	Lesson 4: Cursors with Parameters
+•	Lesson 5: Using Cursors for Update
+•	Lesson 6: Using Multiple Cursors	
+Week
+5	Mid Term Semester 1 Exam	Begin Project 1
+Week
+6	Section 6  — Exception Handling
+•	Lesson 1: Handling Exceptions
+•	Lesson 2: Trapping Oracle Server Exceptions
+•	Lesson 3: Trapping User-Defined Exceptions
+•	Lesson 4: Recognizing the Scope of Variables
+	Section 7 — Procedures 
+•	Lesson 1: Creating Procedures
+•	Lesson 2: Using Parameters in Procedures
+•	Lesson 3: Passing Parameters 	
+Week
+7	Section 8 — Functions
+•	Lesson 1: Creating Functions
+•	Lesson 2: Using Functions in SQL Statements
+•	Lesson 3: Review of Data Dictionary
+•	Lesson 4: Managing Procedures and Functions
+•	Lesson 5: Review of Object Privileges
+•	Lesson 6: Using Invoker's Rights	
+Week
+8	Catch-Up
+	Final Exam Semester 1 Review	Project 1 Due
+Week
+9	Final Term Semester 1 Exam	
+Week
+10	Section 9  — Packages
+•	Lesson 1: Creating Packages
+•	Lesson 2: Managing Package Concepts
+•	Lesson 3: Advanced Package Concepts
+•	Lesson 4: Persistent State of Package Variables
+•	Lesson 5: Using Oracle-Supplied Packages
+•	Lesson 6: Dynamic SQL	
+Week
+11	Section 10 — Triggers
+•	Lesson 1: Introduction to Triggers
+•	Lesson 2: Creating DML Triggers: Part I
+•	Lesson 3: Creating DML Triggers: Part II
+•	Lesson 4: Creating DDL and Database Event Triggers
+•	Lesson 5: Managing Triggers	
+Week
+12	Complete Mid Term Semester 2 Exam	Begin Project 2
+Week
+13	Section 11  — Advanced Data Types 
+•	Lesson 1: Using Large Object Data Types
+•	Lesson 2: Managing Bfiles
+•	Lesson 3: User-Defined Records
+•	Lesson 4: Indexing Tables of Records
+	Section 12   —Dependencies 
+•	Lesson 1 Understanding Dependencies	
+Week
+14	Catch-Up
+	Final Exam 2 Review
+	Certification Review	Project 2 Due
+Week
+15	Final Term Semester 2 Exam 	
+
+*Topics, quizzes, exams, and assignments may be modified due to time constraints

@@ -1,0 +1,65 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+
+Course: CS 265   Ethical Hacking
+Credits: 3
+
+Prerequisites: CS 240 Security +
+Description: 
+Ethical hacking is a broad term that covers all hacking methodologies, techniques, and strategies associated with computers systems and network targeted attack. The primary goal is to discover the security weaknesses and vulnerabilities, and to address the security of the systems/network before or after malicious attacks. Students will learn good problem solving, and ethical hacking strategies by understanding how network defenses work by scanning and attacking the network, and securing the system.
+       
+Learning Outcomes:
+      At the completion of this course, students should be able to:
+      
+* Actively locate, scan, test, hack the network environment
+* Secure the computer/network systems
+* Use different methods, strategies and tools to ethically hack the internal and external networks, web pages and applications
+* Recognize the various malware/adware/spyware, Trojan, worms, & viruses
+* Evaluate and utilize exploits on Intrusion Detection and Firewall, DDoS Attacks, Buffer Overflows
+* Recognize and critically evaluate the quality of a program using models and design standards from reputable organizations.  
+o the National Security Agency (NSA), National Centers of Academic Excellence in Cyber Defense (CAE-CD) program, National Centers of Academic Excellence (CAE), the National Initiative for Cybersecurity Education (NICE), Information Systems Security Association (ISSA), Computing Technology Industry Association (CompTIA ), National Security Institute (NSI), International Council of E-Commerce Consultants (EC-Council) and United States Department of Homeland Security-Cyber Security.
+
+
+
+Topical Outline:
+	
+* Introduction to Ethical Hacking
+* Footprinting
+* Scanning
+* Enumeration
+* System Hacking
+* Penetration Testing
+
+Text:  EC-Council (2017).  Ethical Hacking and Countermeasures: Attack Phases 
+      (2nd ed.). EC-Council.  ISBN-10: 1-305-88352-7   ISBN-13: 978-1-305-88352-9 
+
+Student Assessment:
+	Assessment may be accomplished through projects, portfolios, exams, presentations and/or papers.
+
+Academic Integrity:
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense.
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+
+Note:
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course
+
+“If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class. A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.”
+
+Learning Challenges
+“Any student who feels s/he may need support based on the impact of a challenge/disability is encouraged to contact our college disability services at (856) 691-8600 ext. 1282 or visit the Center for Academic and Student Success located in the student building.”
+
+Mental Health Services
+“Cumberland County College offers mental health counseling to assist students with a variety of life’s stressors. These services are free to all part-time and full-time students, and are offered with the confidentiality and professionalism offered at any mental health treatment center. Are you feeling stressed, lonely, overwhelmed, abused, bullied, without hope, having suicidal thoughts? Please reach out to Mental Health Counselor, John Wojtowicz at (856) 691-8600 x1258 or jwojtowicz@cccnj.edu.”
+
+Lockdown Guidelines
+“Cumberland County College values the safety and well-being of its campus community. Accordingly, strategies for lockdown preparation and drills have been developed to help guide behavior in the event of an actual lockdown. Instructors should discuss with their students the roles and responsibilities each will have during the event of a lockdown using the college’s guidelines and postings.” 
+
+

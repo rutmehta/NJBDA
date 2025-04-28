@@ -1,0 +1,212 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+
+
+
+
+
+
+                 Mercer County Community College
+
+                                
+
+           Arts, Communication and Technology Division
+
+                                
+
+                             CIS 161
+
+                                
+
+                  BUILDING E-COMMERCE WEB SITES
+
+                                
+
+                                
+
+                                
+
+COURSE DESCRIPTION:
+
+Treats the fundamental techniques used to build and market E-
+
+Commerce web-sites.  Stuents will learn how to construct a fully-
+
+functional online business using current software.  Students will
+
+also learn about the various ways to advertise online, create
+
+shopping carts and process orders securely.
+
+
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:
+
+
+
+Co-requisites:
+
+
+
+Credits:     3           Lecture Hours: 2    Studio/Lab Hours:  2
+
+
+
+
+
+
+
+   Food and drink are strictly prohibited in classrooms as per
+
+ health and safety laws.  Students may not bring in chemicals or
+
+       cleaning fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox        Latest Review:
+
+8/2001
+
+
+
+A.   General Objectives
+
+
+
+     Unit 1: Creating Web-sites (3 weeks)
+
+     
+
+     1.   The student should know how to create basic layouts using
+
+          Microsoft Frontpage.  Students should be able to write text,
+
+          create links, display images, create tables.
+
+     2.   The student should know how to hand code basic tags
+
+          including <P>, <H1>.<H6>, <A>, <IMG>, <TABLE>.
+
+     3.   The student should be able to publish a web-site - that
+
+          is, the student should be able to edit their page locally and
+
+          place their web-sites on a server.
+
+
+
+     Unit 2: Creating an online business. (4 Weeks)
+
+     
+
+     1.   The student should know how to create an appealing, fast-
+
+          loading home page to their online business.
+
+     2.   The student should be able to create a Shopping Cart.
+
+     3.   Students should be able to create an onlinecatalog of
+
+          their products emphasis will be placed on clarity, speed and
+
+          ease-of-use.
+
+     4.   Students should know how to design and implement a simple
+
+          navigation method for their site.
+
+     5.   Students should be able to create a basic style sheet for
+
+          their business.
+
+     6.   Students should be able to clearly present key business
+
+          information on their web site.
+
+
+
+     Unit 3: Securely doing business online. (4 Weeks)
+
+     
+
+     1.   Students should be able to implement a CyberCash or
+
+          equivalent system for processing credit card orders online.
+
+     2.   Students should understand the fundamentals and need of a
+
+          secure server.
+
+     3.   Students should be able to checkout customers, e-mail
+
+          receipts and setup a method for processing orders.
+
+
+
+     Unit 4: Marketing your online business. (2 Weeks)
+
+     
+
+     1.   Students should be able to create a banner ad of the
+
+          appropriate size, and to setup a page with instructions for other
+
+          people to link to their business.
+
+     2.   Students should be able to register their online business
+
+          with Yahoo.com, Altavista.com, and other major search engines.
+
+     3.   Students should be informed and know how to use services
+
+          such as LinkExchange.
+
+     
+
+     Unit 5: Finishing Touches (2 Weeks)
+
+     
+
+     1.   Students should be able to setup e-mail accounts for the
+
+          business, and to use those accounts with Outlook Express or other
+
+          major e-mail programs.
+
+     2.   Students should learn how to sign up for Associate
+
+          Programs with other companies such as Amazon.com and Beyond.com.
+
+
+
+B.   Evaluation Method
+
+
+
+     The course requires 7 lab projects.  Each project will be
+
+     graded and the final grade for the course will be the
+
+     average of the 7 grades.

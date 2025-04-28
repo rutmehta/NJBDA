@@ -1,0 +1,273 @@
+
+
+
+
+        Syllabus for Data Communications and Networks
+
+                              
+
+  I.   Course ID (department and course number)
+
+       Business Department CIS 205
+
+       
+
+  II.  Course name
+
+       Data Communications and Networks
+
+       
+
+III. Number of credits awarded for course
+
+3
+
+
+
+  IV.  Prerequisite or co-requisite courses or academic
+
+       standing (if applicable)
+
+       CIS 101 or CIS 120
+
+       
+
+  V.   Indicate if new or modified course (if modified course,
+
+       list old course ID)
+
+       modified
+
+       
+
+VI.  Semester and year course will first be offered (or, if a
+
+modified course, semester and year when revised course will
+
+first be offered)
+
+Fall 2003
+
+
+
+VII. Name and telephone number or e-mail address of
+
+department chair or other appropriate contact person
+
+Patricia Rodihan, Director of Computer Science programs
+
+rodihanucc.edu
+
+
+
+  VIII.     Detailed Course Description
+
+       This course teaches students the basics of business
+
+       data communications and networks. It includes both
+
+       recent data communications trends and fundamental
+
+       concepts. Students are introduced to the many types of
+
+       connections found within computer networks, the
+
+       technologies necessary to connect computers and
+
+       networks, and actions that occur when a data
+
+       transmission produces an error. Topics include:
+
+       firewall, network operating systems,
+
+       telecommunications, ethics, and security.
+
+  
+
+  IX.  Outline of Course Objectives
+
+
+
+           Define the basic terminology of computer networks
+
+           Outline the basic network configurations
+
+           Distinguish local area networks, metropolitan area
+
+          networks, and wide area networks from each other
+
+    List the layers of the OSI (Open Systems
+
+Interconnection) model and describe the duties of each layer
+
+           List the layers of the Internet model and describe the
+
+          duties of each layer
+
+    Recognize the difference among half duplex, full duplex,
+
+and simplex connections
+
+    Identify the three basic components of a signal as
+
+amplitude, frequency, and phase
+
+    Discuss bandwidth of a signal and how it relates to data
+
+transfer speed
+
+           Recognize the concepts of basic security measures
+
+           List basic techniques used to discover and eliminate
+
+          viruses
+
+    Discuss the advantages and uses of digital certificates
+
+           Describe the basic types of firewall protection
+
+     
+
+  X.   Texts, Journals, and other materials used in course
+
+       Business Data Communications: Introductory Concepts and
+
+       Techniques, 3rd ed. Shelly, Cashman, Serwatka, Course
+
+       Technology, 2001.
+
+       Three 3 High-Density Disks (IBM format) or one (100MB) ZIP
+
+       disk.
+
+  
+
+  XI.  Grade determinants
+
+       Tests                 40
+
+       Assignments           30
+
+       Research paper             10
+
+       Final exam                 20
+
+       
+
+  XII. Number of papers and examinations
+
+       4 tests
+
+       1 cumulative final exam
+
+       1 research paper
+
+       
+
+       A research component allows students to evaluate and
+
+       assess integrated information on a related topic. This
+
+       component provides students with the opportunity to
+
+       locate, discern, criticize and effectively utilize
+
+       information on a topic related to this course. A
+
+       cumulative final exam covers all topics offered during
+
+       the semester.
+
+  
+
+  XIII.     Schedule of topics to be covered
+
+       
+
+       Week 1    Introduction to Data Communications and
+
+       Networks
+
+       
+
+       Week 2    Fundamentals of Data and Signals
+
+       
+
+       Week 3    Hardware-wires, cables, wireless
+
+       transmissions
+
+       
+
+       Week 4    Test 1
+
+               Modems and connections
+
+       
+
+       Week 5    Multiplexing
+
+       
+
+       Week 6    Error Detection
+
+       
+
+       Week 7    Test 2
+
+               The Basics of Local Area Networks
+
+                 Topologies and protocols
+
+       
+
+       Week 8    Connecting LANs
+
+                 Bridges, hubs, switches, servers, routers
+
+       
+
+       Week 9    LANs - Software and Support Systems,
+
+                 Novell, Microsoft, Unix, Linux, OS/2
+
+       
+
+       Week 10   Test 3
+
+               Wide Area Networks
+
+                 Basics, routing, congestion
+
+       
+
+       Week 11   The Internet
+
+                 Internet services and protocols
+
+       
+
+       Week 12   Telecommunication Systems
+
+       
+
+       Week 13   Network Security
+
+                 Basic measures, encryption, firewalls,
+
+       policies
+
+       
+
+       Week 14   Test 4
+
+               Network Design and Management
+
+
+
+       Week 15Review
+
+
+
+       Final Exam

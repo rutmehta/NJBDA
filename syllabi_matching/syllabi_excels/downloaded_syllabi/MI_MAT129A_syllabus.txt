@@ -1,0 +1,348 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+Course Title:  Precalculus -Part A
+
+Course No.  MAT-129A
+
+
+
+
+
+Class Hours:  2Recitation Hours: 1Credit Hours:  2
+
+
+
+
+
+Dept. Head: Maria DeLucia, Ph.D.
+
+Phone:732-906-2585
+
+Email:MDeluciamiddlesexcc.edu
+
+
+
+
+
+
+
+Prerequisite: Passing score on the Accuplacer test and satisfactory score on 
+
+placement examination, C or better in MAT-014 or MAT-014A and MAT-014B 
+
+(Algebra II), or departmental approval.
+
+
+
+
+
+Textbook of Course:
+
+Author:  Larson, Hostetler
+
+Title: Precalculus:  A Graphing Approach
+
+Publisher: Houghton Mifflin 4th Edition
+
+
+
+Supplies: TI 83 or TI 83 Plus Graphing Calculator required.
+
+
+
+
+
+Catalog Course Description:
+
+
+
+The first half of a two semester Precalculus course designed to give 
+students 
+
+extended enrichment to prepare for a first course in calculus.  Emphasis is 
+on 
+
+algebra topics to develop skills properly and through understanding of the 
+
+concepts needed to go on to Calculus.  Topics include the study of algebraic 
+
+functions and their graphs.  Of special interest are polynomials and 
+rational 
+
+functions.
+
+
+
+
+
+Objectives of Course:
+
+1.To acquire the working knowledge of college algebra needed for later study 
+
+and work.
+
+
+
+2.To use a scientific graphing calculator, computer software, and other 
+
+resources as problem solving tools.
+
+
+
+3.To develop awareness of the contributions of mathematicians from various 
+
+cultures and countries.
+
+
+
+
+
+This outline leaves time for a review session (last class meeting) and at 
+least 
+
+3 hourly tests.
+
+
+
+The syllabus represents the basic minimum to be covered by an instructor.
+
+
+
+Students enrolled in MAT-129A will be required to or have access to a TI 83 
+
+calculator.
+
+
+
+
+
+SUGGESTED DAY-BY-DAY OUTLINE  MAT 129A
+
+DAY
+
+SECTION
+
+TOPIC
+
+..
+
+1
+
+P.1, P.2
+
+Real Numbers
+
+Exponents and Radicals
+
+
+
+2
+
+P.3 P.4
+
+Polynomials and Factoring
+
+Rational Expressions
+
+
+
+3
+
+P.5
+
+The Cartesian Plane
+
+
+
+4
+
+1.1
+
+Graphs of Equations
+
+
+
+5
+
+1.2
+
+Lines in the Plane
+
+
+
+6
+
+2.1
+
+Linear Equations and Problem Solving
+
+
+
+7
+
+2.2
+
+Solving Equations Graphically
+
+
+
+8
+
+2.4
+
+Solving Equations Algebraically
+
+
+
+9
+
+More 2.4
+
+
+
+10
+
+2.5
+
+Solving Equations Algebraically and Graphically
+
+
+
+11
+
+Review
+
+
+
+12
+
+Test
+
+
+
+13
+
+1.3
+
+Functions
+
+
+
+14
+
+1.4
+
+Graphs of Functions
+
+
+
+15
+
+1.5
+
+Shifting, Reflecting, and Stretching Graphs
+
+
+
+16
+
+More 1.5
+
+
+
+17
+
+1.6
+
+Combinations of Functions
+
+
+
+18
+
+1.7
+
+Inverse Functions
+
+
+
+19
+
+Review
+
+
+
+20
+
+Test
+
+
+
+21
+
+3.1
+
+Quadratic Functions
+
+
+
+22
+
+3.2
+
+Polynomial Functions of Higher Degree
+
+
+
+23
+
+3.3  3.4
+
+Real Zeros of Polynomial Functions
+
+The Fundamental Theorem of Algebra
+
+
+
+24
+
+3.5
+
+Rational functions and Asymptotes
+
+
+
+25
+
+3.6
+
+Graphs of Rational Functions
+
+
+
+26
+
+Review
+
+
+
+27
+
+Test
+
+
+
+28
+
+Review final

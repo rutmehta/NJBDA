@@ -1,0 +1,212 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                             2
+
+              PASSAIC COUNTY COMMUNITY COLLEGE
+
+              COMPUTER AND INFORMATION SCIENCES
+
+                              
+
+                       COURSE SYLLABUS
+
+                              
+
+PART I  GENERAL INFORMATION
+
+
+
+1.   Course Title:  Capstone Project
+
+
+
+2.   Catalogue Designation:  CIS 295
+
+
+
+3.   Semester:  Spring 2003
+
+
+
+4.   Course Instructor:  CIS Faculty
+
+
+
+5.   Catalogue Description: 1 Credit
+
+
+
+  Under the guidance of a faculty advisor, students in
+
+  their final semester will be required to use the full
+
+  scope of their academic training to design and develop an
+
+  individual project appropriate for their option.  The
+
+  project will entail system documentation, design,
+
+  writing, user manuals, and other support materials.  The
+
+  student will be required to present the results of the
+
+  project at various stages to the class. There will be a
+
+  final presentation made to the faculty who will critique
+
+  the projects content, approach, and degree of
+
+  professionalism on the basis of program outcomes and a
+
+  scoring rubric.
+
+  
+
+  
+
+        Prerequisites:  MS Office and Productivity Prog
+
+  Option: CIS 123 and CIS 202
+
+               Network Administration Option: CIS 182 and
+
+            CIS 202
+
+                                          User Support 
+
+  Services Option: CIS 116 and CIS 202
+
+               Web Technology Option: CIS 171 and CIS 202
+
+  
+
+  
+
+Course Goals
+
+
+
+     Upon completion of the course, the student will be able
+
+to:
+
+
+
+                Complete a project that will be used to assess the
+
+               student outcomes of  the individual CIS options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART II:  COURSE OUTLINE
+
+
+
+
+
+WEEK
+
+
+
+
+
+  1                                 Develop and Describe
+
+project
+
+
+
+  2 - 15                         Work on project and meet
+
+with faculty
+
+
+
+PART III: GRADING
+
+
+
+     Students grades will be determined by the use of a
+
+rubric applied to student outcomes defined for each
+
+individual option.
+
+
+
+
+
+PART IV:  OTHER  INFORMATION
+
+
+
+
+
+Programs required in:  All CIS options
+
+
+
+Course replaced if any - None
+
+
+
+Present number of courses in discipline - 33
+
+
+
+Offering cycle suggested -  Fall and Spring Semesters
+
+
+
+Special equipment needed  - CIS computer labs
+
+
+
+Additional faculty -  None
+
+
+
+Overload -   Probable
+
+
+
+          Four ( 4 ) sections scheduled with four ( 4 )
+
+          different faculty. Each option will be scheduled
+
+          under a different section for the course.
+
+
+
+Projected additional operational costs -  None
+
+
+
+Projected enrollment:  10 each semester
+
+
+
+Rationale:   This course will be used to assess the program
+
+outcomes of each option in the Computer Information Systems
+
+major.

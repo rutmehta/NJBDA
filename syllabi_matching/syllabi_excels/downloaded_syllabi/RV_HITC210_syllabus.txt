@@ -1,0 +1,555 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College
+
+
+
+Outline for Course Proposals (New and Revised)
+
+
+
+I. Basic Course Information
+
+
+
+A. Course Number and Title:HITC-210
+
+Health Data Reporting  Analysis
+
+
+
+B. Date of Proposal:March 2006
+
+
+
+C. Sponsoring Department: Health Science Education
+
+
+
+D. Semester Credit Hours:3
+
+
+
+E.  Weekly Contact Hours:Lecture:  2 hours
+
+Lab:  2 hours
+
+
+
+F.  Prerequisites:MATH-222 (Statistics I)
+
+HITC 111 (Professional Practicum I)
+
+
+
+Co-requisite:HITC-220 (Organizational Resource 
+
+Management)
+
+
+
+G. Laboratory Fees: Yes
+
+
+
+H. Dept. Chair:Dr. Helen Jones (hjonesraritanval.edu)
+
+
+
+II.  Catalog Description
+
+
+
+Prerequisites:MATH-222 (Statistics I)
+
+HITC-111 (Professional Practicum I)
+
+Co-requisite:HITC-220 (Organizational Resource Management)
+
+
+
+This course covers maintenance, compilation, analysis, and presentation of 
+health 
+
+care statistics. Discussion is focused on the use, collection, presentation, 
+and 
+
+verification of health care data including fundamental concepts of 
+descriptive 
+
+statistics data validity and reliability data presentation techniques and 
+vital 
+
+statistics.  Students will be introduced to topics such as basic statistical 
+principles, 
+
+morbidity and mortality, commonly computed hospital rates, uniform reporting 
+
+requirements, and selection and construction of data displays. This course 
+also 
+
+introduces principles of quality improvement, utilization management, and 
+risk 
+
+management in health care. Topics include the continuous quality improvement 
+
+philosophy, including tools, data analysis/application, and related 
+committee 
+
+functions utilization management and risk management and credentialing, 
+
+accreditation and regulation.
+
+
+
+
+
+
+
+III. Statement of Course Need
+
+
+
+This course fulfills the knowledge cluster content and competency required 
+by 
+
+the American Health Information Management Association.  Earning a 
+credential 
+
+validates ones competence as a professional in the health information 
+
+management industry to employers and the public. This credential requires an 
+
+associates degree and successful performance on the RHIT certification exam. 
+
+Students must successfully complete and meet the learning objectives as 
+defined 
+
+for this course in order to qualify to take the national certification 
+examination. 
+
+
+
+IV. Place of Course in College Curriculum
+
+
+
+This course meets a requirement in the proposed four-semester Health 
+
+Information Technology A.A.S. degree program. 
+
+
+
+V. Outline of Course Content
+
+
+
+1.Introduction to quality management in healthcare organizations
+
+2.Performance Improvement (PI) Organization and Teams
+
+3.PI methods, tools and techniques
+
+4.PI application and reporting Project Instructions
+
+5.Risk Management Patient Safety Infection Control
+
+6.Case Management
+
+7.Utilization Review
+
+8.Legal Introduction
+
+9.Mathematics Review
+
+10.Basic Research Principles
+
+11.Patient Census Data
+
+12.Occupancy Ratio
+
+13.Length of Stay (LOS)
+
+14.Mortality Rates
+
+15.Autopsies Rates
+
+16.Morbidity/Mortality
+
+17.HIMData Presentation
+
+
+
+VI. Educational Goals and Learning Outcomes
+
+
+
+
+
+Educational Goals
+
+
+
+The student will develop an awareness of the importance of healthcare 
+
+statistics, research, and quality management and performance improvement 
+
+as it relates to the healthcare arena:
+
+
+
+1.Abstract and maintain data for clinical indices/databases/registries.  
+
+(G.E.3, 7)
+
+2.Collect, organize, and present data for quality management, utilization 
+
+management, risk management, and other related studies. (G.E.3)
+
+3.Compute and interpret healthcare statistics. (G.E.1, 7)
+
+4.Apply Institutional Review Board (IRB) processes and policies. (G.E.1, 3, 
+
+5)
+
+5.Use specialized databases to meet specific organization needs such as 
+
+medical research and disease registries. (G.E.3, 7)
+
+6.Abstract and report data for facility-wide quality management and 
+
+performance improvement programs. (G.E.2, 3)
+
+7.Analyze clinical data to identify trends that demonstrate quality, safety, 
+
+and effectiveness of healthcare. (G.E.1, 3, 7)
+
+
+
+Learning Outcomes
+
+
+
+The student will be able to:
+
+1.Compute health care statistics, including mortality and morbidity rates, 
+
+autopsy rates, measures of central tendency, and dispersion, and determine 
+the 
+
+most appropriate use of these health care statistics in health information 
+
+management.
+
+2.Organize data generated from health care statistics into appropriate 
+categories, 
+
+including nominal, ordinal, discrete, and continuous.
+
+3.Display data generated from health care statistics using the most 
+appropriate 
+
+tables, graphs,  and figures, including frequency tables, bar graphs, 
+
+histograms, Pareto diagrams, pie charts, and frequency diagrams.
+
+4.Identify which tests of significance should be used to test specific 
+hypotheses 
+
+and which are most appropriate for certain types of data.
+
+5.Define, compare, and contrast data and information.
+
+6.Evaluate and describe the major users of health care data and the 
+importance 
+
+of addressing the needs of Identify the steps in the management decision-
+
+making process with particular attention to step two of data collection.
+
+7.Describe the importance of quality data and the mechanisms and controls 
+used 
+
+to ensure quality.
+
+8.Identify the major information and data sets, their scope, and special 
+features. 
+
+9.Identify the primary components of healthcare quality management.
+
+10.Describe the common component of a healthcare facilitys QA/QI program.
+
+11.Identify the types of healthcare performance measurements.
+
+12.Describe various methods for assessing and improving performance.
+
+13.Summarize the steps of an improvement project.
+
+14.Identify common performance improvement tools.
+
+15.Describe the function of data based decision making in quality management 
+
+processes.
+
+16.Identify techniques of brainstorming, flowcharting, nominal group, and 
+force 
+
+field analysis used in problem identification and analysis.
+
+17.Describe how QM principles apply to utilization management.
+
+18.Describe how QM principles are applied to risk management.
+
+19.Discuss legal and ethical issues associated with implementation of 
+Quality 
+
+Management processes.
+
+20.Interpret and describe the purposes and techniques related to clinical 
+reviews, 
+
+including health record committees, clinical pertinence and indicator 
+
+monitoring.
+
+VII. Modes of Teaching and Learning
+
+
+
+lecture/discussion  
+
+small-group work
+
+computer-assisted instruction
+
+student collaboration
+
+independent study
+
+
+
+VIII. Papers, Examinations, and other Assessment Instruments
+
+Quizzes
+
+Exams
+
+Projects
+
+Assignments
+
+Participation
+
+IX. Grade Determinants 
+
+Unit Tests and Quizzes
+
+Tests and quizzes will be comprised of multiple choice and true/false.  The 
+test 
+
+questions are developed to engage students in problem-solving and critical 
+
+thinking skills.  Application skills will also be developed.
+
+Test  1  Quality Improvement  
+
+Test  2 Statistical Formulation
+
+Weekly Quizzes will be based on the material covered 
+
+Grading will be assigned based on the number of correct answers.
+
+TERM PROJECTS:  (30 of the final grade will consist of two projects)
+
+ Each student will be required to complete a term project for each portion 
+of 
+
+this course.
+
+       Project 1 Quality Improvement
+
+Students will be required to complete a case study relating to a topic in 
+Health 
+
+Information Management utilizing the PDSA methodology.  Detailed 
+
+instructions will be provided.
+
+The final project will include a completion of assigned template forms and 
+
+written presentation of the following elements.   (Power Point Presentation 
+in 
+
+lieu of written report  is optional, must include notes, and assigned 
+template 
+
+forms still must be submitted.)
+
+1.      Plan
+
+        Identify a process improvement opportunity
+
+        Brainstorm and prioritize utilizing an appropriate tool.
+
+        Select Study Population
+
+        Select Sample Size and Technique
+
+        Identify benchmarks
+
+2.      Do
+
+        Identify Data Elements
+
+        Design Collection Tool
+
+        Organize Data
+
+  
+
+3.      Study
+
+        Display and Report Data 
+
+        Analyze Data
+
+        Make recommendations
+
+4.      Act
+
+        Establish Guidelines/Processes
+
+        Develop Performance Measure
+
+
+
+Project 1 Healthcare Statistics
+
+Each student will be assigned a healthcare statistics topic covered in the 
+course. 
+
+An Internet search will be conducted with the following expectations: 
+
+1.At least two (2) web sites will be given to you to view.
+
+2.A written report will be completed comparing and contrasting the 
+
+types of data available.
+
+3.At least two (2) graphs will be prepared utilizing data from each 
+
+web site.
+
+4.A written report will be required.
+
+                  The project will be graded on the following:
+
+a.      Correct conclusions drawn from review of healthcare 
+
+statistics.
+
+b.       Graphic display of raw data in appropriate format.
+
+c.      Strength of written presentation. (Power Point Presentation 
+
+is optional, must include notes)
+
+ Final Project Grade:  Both Projects will be evaluated and graded utilizing 
+the 
+
+following criteria:
+
+1.   To achieve 50 of the project grade, the student must demonstrate 
+
+completion of ALL criteria listed in project overview.
+
+2.   To achieve 25 of the project grade, the content will be presented 
+
+in a sequential, logical manner conducive to explanation of topic.
+
+4.   To achieve 25 of the project grade, the student must select the 
+
+most appropriate PI tool and demonstrate competency in generating 
+
+graph/chart that is most relative to displaying the data in a logical 
+
+manner. 
+
+HOMEWORK/LAB ASSIGNMENTS: (10 of final grade)
+
+      Homework/Lab assignments will consist of various techniques to measure 
+the 
+
+competencies in the understanding of the functions, roles, and outcomes of 
+
+performance requirements in the collection, analysis, and displaying of 
+health 
+
+information data.  Each unit will provide various projects that will be 
+
+averaged into the overall lab grade.  Directed practice principals will be 
+
+applied as frequently as possible.  Labs must be completed and turned in one 
+
+week following receipt of the assignment.  Those not turned in will carry a 
+
+zero weight in the calculation of the lab portion of the grade.
+
+CLASS PARTICIPATION (10 of final grade)
+
+FINAL EXAMINATION (20 of final grade and will be cumulative of both 
+
+sections)
+
+       Final examination will be comprised of multiple-choice, 
+fill-in-the-blanks, 
+
+true/false, and short essay.  Final Examination questions will be cumulative 
+of 
+
+all units during the semester.  Questions will be developed to engage 
+student 
+
+in problem-solving, critical thinking, and overall application skills.
+
+      Final grade will be based on the number of correct answers.
+
+Final Grade:
+
+1.UNIT Tests (2 Unit Tests comprising 20 of final grade)
+
+2.Weekly Checkpoint Quizzes (6 quizzes comprising 10 of final grade)
+
+3.Two Projects (1 Quality Improvement 1 Statistics comprising 30 of grade)
+
+4.Homework Assignments (comprising 10 of grade)
+
+5.Class Participation (online discussions for QI section 10 of grade)
+
+6.Final Exam (comprising 20 of grade)
+
+X.  Texts and Materials
+
+REQUIRED:
+
+
+
+Calculating  Reporting Healthcare Statistics, Horton, Loretta A., 2004, 
+
+American Health Information Management Association (AHIMA)  
+
+Quality and Performance Improvement in Healthcare, A Tool for Programmed 
+
+Learning, Shaw, et al, 2003, American Health Information Management 
+
+Association
+
+XI. Resources
+
+
+
+The RVCC library resources and the resources in the Department of Health 
+
+Science Learning Lab provide the materials and resources needed for this 
+course. 

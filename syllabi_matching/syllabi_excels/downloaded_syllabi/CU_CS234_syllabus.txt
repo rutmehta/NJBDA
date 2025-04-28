@@ -1,0 +1,67 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+
+Course:  	CS 234 LAN Switching and Wireless
+
+Credits: 	4
+
+Prerequisites
+CS 217
+
+Description
+This course provides a comprehensive, theoretical and practical approach to learning the technologies and protocols needed to design and implement a converged switched network.  Students learn about the hierarchical network design model and how to select devices for each layer.  The course explains how to configure a switch for basic functionality and how to implement Virtual LANs, VTP and Inter-VLAN routing in a converged network.  The different implementations of Spanning Tree Protocol in a converged network are presented and students develop the knowledge and skills necessary to implement a WLAN in a small-to-medium network.
+
+Learning Outcomes
+Upon successful completion of this course, students should be able to:
+* Demonstrate initial switch configuration
+* Apply IOS software management to switches
+* Identify technologies used in a converged switched network
+* Implement a WLAN in a small-to-medium network
+
+Topical Outline
+* LAN Design
+* Basic Switch Concepts and Configuration
+* VLANs
+* VTP
+* STP
+* Inter-VLAN Routing
+* Basic Wireless Concepts and Configuration
+
+Text
+REQUIRED MATERIALS – Packet Tracer v5.3, available for download from the Cisco Netacad site.  LAN Switching and Wireless, CCNA Exploration Labs and Study Guide – Cisco Press - ISBN 1-58713-202-8.  All other instruction and testing is delivered over the internet from the Cisco website.  Access information:  cisco.netacad.net
+
+OPTIONAL MATERIALS – LAN Switching and Wireless, CCNA Exploration Companion Guide – Cisco Press.  ISBN 1-58713-207-9.
+
+
+Student Assessment
+EXAMS – Seven Module exams and a final exam will be taken from the Cisco assessment server.  Module exams are taken online and the final exam is taken in class as provided in the course schedule.  The final exam is worth 38 points toward your final grade and the average of the chapter exams is worth 42 points toward your final grade.
+
+LABS – Labs and activities are assigned from the Labs and Study Guide as provided in a separate handout and additional labs and activities may be assigned.  The labs and activities are due one week after they are assigned.  Up to 10 points toward your final grade will be awarded for the labs and activities based upon how many were submitted, if they were on time and the accuracy of the submission.  Some labs and activities are assigned as homework and some are done in class.
+
+SKILLS ASSESSMENT – A timed, hands on skills assessment will be give at the end of the course.  The skills assessment must be completed in the time allotted.  The skills assessment is work 10 points toward your final grade if completed on the first try.  The skills assessment may be retaken twice.  Completion on the second try is worth 8 points.  Completion on the third try is worth 6 points.
+
+GRADING – Course grades are based on the number of points accumulated as described above and are converted to a letter grade as follows:
+					A	- 90 or higher
+					B+	- 86-89
+					B	- 80-85
+					C+	- 76-79
+					C	- 70-75
+					D	- 60-69
+					F	- less than 60
+
+Academic Integrity
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense.
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Note
+If you are having difficulty with work in this class tutoring is available through the Success Center.  If think that you might have a learning disability, contact Project Assist at 856.691.8600, x282 for information on assistance that can be provided to eligible students.
+
+
+CS 234 LAN Switching and Wireless
+
+

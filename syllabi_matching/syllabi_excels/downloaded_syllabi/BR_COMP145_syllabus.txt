@@ -1,0 +1,589 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP145
+
+
+
+
+
+COURSE NAME
+
+Introduction to UNIX
+
+
+
+UNIX is a registered trademark of The Open Group
+
+LINUX is a registered trademark of Linus Torvalds
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+Students will be introduced to the fundamentals of the UNIX operating 
+system, command and tools.  Students will become familiar with the UNIX file 
+system structure, editors and shell programming.  Students will learn 
+networking in UNIX, as well as basic system administration.  Students will 
+be able to contrast and compare UNIX with LINUX. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+
+
+I. Concepts of the UNIX Operating System
+
+II. Using the UNIX Operation System
+
+III. The UNIX File system
+
+IV. The Shell Command structure
+
+V. UNIX processes
+
+VI. Customizing the environment
+
+VII. UNIX utilities and filters
+
+VIII. Shell Programming
+
+IX. Introduction to System Administration
+
+X. Communications in the UNIX Operating System
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Your UNIX the Ultimate Guide, Sumitabha Das, McGraw-Hill, Second Edition.  
+ISBN:  0-07-252042-6 
+
+
+
+In order to successfully complete this course you must have access to a 
+UNIX/LINUX operating system. The Brookdale Computer Science lab on campus 
+has the UNIX/LINUX operating system installed for your use. The Brookdale 
+Computer Science lab is open Mon-Sat. Hours are posted outside the door and 
+within the Department web page for Computer Science. Brookdale also provides 
+students access to UNIX via the web. 
+
+
+
+Additional Time Requirements:    
+
+The student should expect to spend at least 2 hours of time outside class 
+for each hour in class. 
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. The final grade requirements for the course will 
+be: 
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-10
+
+Earn an average test grade of 60 thru 69
+
+A C grade is required to advance to the next course.
+
+      FEarn an average test grade below 60 or fail to successfully complete 
+labs 1-10. 
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+Unit 1: Concepts of the UNIX Operating System.
+
+
+
+Unit Objective: To acquaint the student with the UNIX System and explain its 
+structure. 
+
+
+
+Method of Evaluation: Completion of lab 1 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Define the UNIX Operating System.
+
+Understand how the UNIX System works.
+
+Describe the differences between UNIX and other operating systems.
+
+Understand basic UNIX commands
+
+
+
+     
+
+Unit 2: Using the UNIX Operating System
+
+
+
+Unit Objective: To familiarize the students with UNIX commands and general 
+purpose utilities. 
+
+
+
+Method of Evaluation: Completion of lab 2 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn the UNIX command format 
+
+Learn the UNIX System typing conventions.
+
+Learn the rules for changing a user password.
+
+Learn how to use the man, info and other commands for help on UNIX command 
+syntax. 
+
+Become familiar with the general purpose utilities including: who, date, 
+cal, and tty. 
+
+Learn to print.
+
+Learn about a text editor.
+
+
+
+
+
+Unit 3: The UNIX file system
+
+
+
+Unit Objective: To show the student how to use the file system with 
+appropriate commands. 
+
+
+
+Method of Evaluation: Completion of lab 3 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Understand the types and structure of files and directories
+
+Understand how a file system is organized and how to move around it. (cd, 
+pwd) 
+
+3.   Access and manipulate files using ls, mv, cp, mkdir, rm, rmdir
+
+Understand  Access permissions
+
+Learn about the internal structure of files (inodes)
+
+Learn about the mounting of files systems.
+
+
+
+Unit 4: The Shell command structure
+
+
+
+Unit Objective: To show the student how to use additional file-oriented 
+commands in the UNIX operating system. 
+
+
+
+Method of Evaluation: Completion of lab 4 and test 1.
+
+
+
+Estimated Time to Achieve: 2 Weeks
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Understand the shell as a command processor
+
+Learn about wild cards (,, ).
+
+Understand how the UNIX pipe facility works.
+
+Learn about I/O redirection
+
+
+
+
+
+Unit 5: UNIX processes
+
+
+
+Unit Objective: The student will understand the UNIX process structure.
+
+
+
+Method of Evaluation: Completion of lab 5 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Understand the UNIX Process structure
+
+Learn the process initialization sequence.
+
+Understand the process control commands ps, nice, nohup, kill.
+
+Understand how to run shell scripts in the background.
+
+Understand the process signaling and exit sructure
+
+Learn how to execute and terminate processes.
+
+Know how to schedule a program to run.
+
+
+
+Unit 6: Customizing the environment
+
+
+
+Unit Objective: To learn how to customize the shell environment.
+
+
+
+Method of Evaluation: Completion of lab 6 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Understand the different Shells and their properties.
+
+Understand how a shell operates on a command line
+
+Learn about environmental variables.
+
+Understand the concept of aliases and other features of the shell.
+
+Understand the use of .profile and env files
+
+
+
+
+
+Unit 7: UNIX utilities and filters
+
+
+
+Unit Objective: To show the student how to use commands and pipes to create 
+useful functions. 
+
+
+
+Method of Evaluation: Completion of lab 7 and test 2.
+
+
+
+Estimated Time to Achieve: 2 Weeks
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Understand how the UNIX pipe facility helps to create new functions.
+
+Access and manipulates files using pg, more, wc, diff, grep, sort.
+
+Learn about editing commands head, tail, cut and paste
+
+Learn about the tools: sort, uniq, cmp, find.
+
+
+
+
+
+Unit 8: Shell Programming
+
+
+
+Unit Objective: To utilize various control statements in a shell program.
+
+
+
+Method of Evaluation: Completion of lab 8 and test 3.
+
+
+
+Estimated Time to Achieve: 2 Weeks
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Learn how to control the flow of a shell script using If then else and case 
+statements. 
+
+Learn how to construct a loop for repetitive execution of a command or group 
+of commands using for and while loops. 
+
+Learn about arithmetic options.
+
+Learn how to debug UNIX shell scripts.
+
+Understand Shell program design techniques.
+
+
+
+
+
+
+
+
+
+Unit 9: Introduction to System Administration
+
+
+
+Unit Objective: To learn how to manage a UNIX system.
+
+
+
+Method of Evaluation: Completion of lab 9 and test 3.
+
+
+
+Estimated Time to Achieve: 2 Weeks
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn the basic scope of operations for a UNIX system administrator, 
+including installation, configuration, hard disk management, and backing up 
+a UNIX system. 
+
+Learn about booting a system and various system states.
+
+Learn about block and raw devices.
+
+Understand the difference between being a regular user and a super user.
+
+Be introduced to the concept of using shell scripts to accomplish system 
+administration. 
+
+Learn about key files for system administration.
+
+Understand the concepts and command for monitoring the performance of the 
+system. 
+
+
+
+
+
+Unit 10: Communications in the UNIX Operating System
+
+
+
+Unit Objective: To learn how to communicate with other users and systems.
+
+
+
+Method of Evaluation: Completion of lab 10 and test 3.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+
+
+Learn the function of /etc/hosts and DNS.
+
+Learn how to check the network with ping
+
+Learn how to use FTP and the limits of FTP
+
+Understand the need for cryptography
+
+Learn how to use telnet and ssh from UNIX 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

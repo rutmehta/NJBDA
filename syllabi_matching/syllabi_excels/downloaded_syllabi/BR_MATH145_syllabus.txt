@@ -1,0 +1,219 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+I. Course ID
+
+MATH 145
+
+
+
+II.Course Name
+
+Algebraic Modeling
+
+
+
+III.Number of Credits Awarded for Course
+
+4 credits
+
+
+
+IV.Prerequisite or Co-requisite Courses or Academic Standing
+
+MATH 021 - Introductory Algebra, or MATH 022 - Algebra Skills, or MATH 025 
+-Elementary Algebra or the equivalent, with a grade of C or better 
+
+
+
+V.Indicate if New or Modified Course
+
+New
+
+
+
+VI.Semester and Year Course Will First Be Offered
+
+Fall 2001
+
+
+
+VII.Name and telephone number of email address of Department Chair or Other 
+Appropriate Contact Person 
+
+Teresa C. Healy  (732)224-2864   thealybrookdale.cc.nj.us
+
+
+
+VIII.Detailed Course Description
+
+This course is an intermediate algebra course with examples drawn from real 
+life and skills learned in the context of these applications. Students learn 
+about functions and their properties and explore in depth linear, quadratic, 
+polynomial, rational and exponential functions. Problems are explored from 
+graphical, numerical, verbal and algebraic perspectives.  For each topic 
+studied, the student will be able to explain the basic concepts and apply 
+them to the solution of specific problems. 
+
+
+
+This course is designed for students who have passed an elementary algebra 
+course. This course does not satisfy the prerequisite for MATH 152, 
+Trigonometry or MATH 153, Precalculus. This course may be used as a 
+prerequisite for MATH 146, Advanced Topics in Mathematics for the Liberal 
+Arts and for MATH 156, Mathematics for Management and the Social Sciences. 
+
+
+
+ IX.Outline of Course Objectives
+
+1.Modeling Data with Functions
+
+2.Linear Models
+
+3.Exponents and Polynomials
+
+4.Exponential and Logarithmic Models
+
+5.Quadratic Models
+
+6.Rational and Radical Models
+
+
+
+X.Texts, Journals, and Other Materials Used in Course
+
+Mathematics in Action:  Algebraic, Graphical and Trigonometric Problem 
+Solving 
+
+The Consortium for Foundation Mathematics, Addison Wesley Longman, Inc 2001
+
+
+
+XI.Grade Determinants
+
+Tests80
+
+Projects/Homework 10
+
+Quizzes10
+
+
+
+XII.Number of Papers and Examinations
+
+Three exams and three projects
+
+
+
+XIII.Schedule of Topics to Be Covered
+
+
+
+Chapter 1:Function Sense14 class hours
+
+
+
+
+
+1.1Function Notation, Graphical and Numerical Representations of a 
+
+Function
+
+1.2Function Notation, Symbolic Representation, Domain and Range
+
+1.3Modeling Data with Functions
+
+1.4Interpreting Graphs of Functions
+
+1.5Rate of Change
+
+1.6Linear Functions and Slope, Slope-Intercept Form
+
+1.7Determining Linear Models from Two Data Points
+
+1.8General Form of Linear Equations
+
+1.9Modeling of a Line of Best Fit
+
+1.15Organizing Data
+
+
+
+Chapter 2:The Algebra of Functions6 class hours
+
+
+
+2.1Addition and Subtraction of Function
+
+2.3Multiplication of Functions
+
+2.6Properties of Exponents
+
+
+
+
+
+Chapter 3:Exponential and Logarithmic Functions12 class hours
+
+
+
+3.1Exponential Functions
+
+3.2Exponential Functions of the Form 
+
+3.3Exponential Functions of the Form
+
+3.5Exponential Growth, Continuous Growth Rate, Natural Base  e
+
+3.6Fitting Data to an Exponential Model
+
+3.7Logarithmic Functions
+
+3.8Graphs of Logarithmic Functions
+
+
+
+
+
+Chapter 4:Quadratic and Higher-Order Polynomial Functions8 class hours
+
+
+
+4.1Introduction to Quadratic Functions and Their Graphs
+
+4.2The Roles of   a, b, and  c  in  
+
+4.3Modeling Using the Quadratic Function
+
+4.4Solving Quadratic Equations Graphically and Numerically
+
+4.5Solving Quadratic Equations by Factoring, the Quadratic Formula
+
+4.9Curve Fitting
+
+
+
+
+
+Chapter 5:Rational and Radical Functions14 class hours
+
+
+
+5.1Properties of Graphs of the Form   
+
+5.2Functions of the Form   
+
+5.3Rational Functions of the Form   
+
+A-24Operations on Rational Expressions
+
+5.4Solving Equations Involving Rational Expressions
+
+5.5Radical Functions
+
+5.6Radical Equations
+
+
+
+-----------------------------2949141501419--

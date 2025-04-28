@@ -1,0 +1,107 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 183  i-Net
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+CS 170, CS 217
+
+
+
+Description 
+
+      Students are introduced to internet basics, internet clients, 
+development, networking, Internet security and business issues. The student 
+is prepared to implement and manage Internet, intranet and extranet 
+infrastructure and services as well as develop related applications. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand the various different technologies that form and make the 
+internet work 
+
+ Understand current technologies and make intelligent business decisions 
+concerning the Internet. 
+
+
+
+Topical Outline
+
+ Using the Internet
+
+ Building Your Own Web Site
+
+ How Clients and Servers Work Together
+
+ Sights and Sounds of the Internet
+
+ Understanding Networks
+
+ Internet Infrastructure
+
+ Internet Clients
+
+ Solving Client Problems
+
+ Web Programming and Related Tools
+
+ Databases and Web Hosting
+
+ Internet Security
+
+ Doing Business on the Web
+
+
+
+Texts
+
+      i-Net Guide to the Internet Technologies (w/CD) by Andrews, 3rd 
+edition: Thompson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

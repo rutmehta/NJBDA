@@ -1,0 +1,52 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MAT010 
+Basic Math Support
+New Course: Fall 2009
+
+Course Description:	
+This course is a recitation class designed to provide additional instructional time for students enrolled simultaneously in MAT-011. 
+1 lecture,1 non-degree credit 
+Co-requisite(s): MAT-011
+
+Student Learning Outcomes:
+Upon successful completion of this course, students will be able to:   
+1. Compute with whole numbers, fractions, decimals, and integers;
+2. Apply the rules of order of operations to simplify numerical expressions;
+3. Demonstrate the use of ratios, proportions, and percents;
+4. Calculate the perimeter and area of rectangular figures;
+5. Calculate the mean of a set of numbers;
+6. Demonstrate the use of estimation skills to judge the reasonableness of a result;
+7. Solve application problems.
+
+SUPPLEMENTS:	ALEKS “Individualized Software Program”, McGraw Hill
+        
+Course Requirements:
+Students MUST work on the ALEKS program during their MAT-010 class.  Students MUST put in at least 45 minutes of “in college”  lab time and 30 minutes of “at home” lab time. 
+
+Assessment Measures:
+In order to pass MAT-010 LINKED, students must complete at least 18 hours of ALEKS computer time and not exceed the limit of one absence.  
+
+COURSE GRADE:		HOURS OF ALEKS INSTRUCTION	GRADE
+    				Under 18 Hours		F
+         			18			C
+         			18-20			C+
+         			20-23			B
+         			23-25			B +
+    				Over 25   Hours		A
+
+*Students who finish 100% of their ALEKS pie will be given a grade of “A” regardless of their ALEKS hours. 
+
+ATTENDANCE  POLICY:  
+A student who exceeds the allowable number of absence total of more than one, and does NOT make up the missed lab, will be given an “E' grade (unofficial withdrawal).   Students who are absent more than 1 time may make up the missed class by doing at least 1 hour of the ALEKS program in the Math Lab, L 127.   
+
+*Two late arrivals or two early departures will equal one absence.
+
+EXTRA  HELP:
+The Developmental Math Learning Center, in L-127, is a source of tutorial assistance in understanding operations of basic mathematics and in problem solving.  The Center does not function for the sole purpose of passing a test, nor is it intended to substitute for classroom teaching.  The L-127 can be reached at 201-447-7489 for an exact schedule.
+
+Online Tutoring is provided by Smarthinking.  Applications for this service are available in the Tutoring Center or at the Tutoring Center Homepage. 
+  
+Electronic Devices:
+The Department of Mathematics prohibits the use of cell-phones, PDA’s, laptops, headphones, IPODs and other such devices in mathematics classes unless otherwise specified by the grading policy provided by the instructor at the beginning of the semester.

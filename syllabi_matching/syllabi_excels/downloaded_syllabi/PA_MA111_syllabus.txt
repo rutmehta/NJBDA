@@ -1,0 +1,180 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+              PASSAIC COUNTY COMMUNITY COLLEGE
+
+                   MATHEMATICS DEPARTMENT
+
+                          FALL 2004
+
+
+
+I.    COURSE CODE:       MA 111
+
+II.   COURSE TITLE:      Business Calculus
+
+III. PREREQUISITES:      MA 108
+
+IV.   NUMBER OF CREDITS:      4 hours lecture (4 credits)
+
+V.    INSTRUCTORS NAME:
+
+      OFFICE:            A-220A
+
+      ADDRESS:
+
+      PHONE:
+
+      E-MAIL ADDRESS:
+
+      OFFICE HOURS:
+
+VI.   COURSE DESCRIPTION:
+
+          Introduction to calculus with applications to
+
+          business. Topics include functions, curve
+
+          sketching, differentiation and integration of
+
+          algebraic, exponential and logarithmic functions,
+
+          applications of the derivative, optimization,
+
+          modeling and integration.
+
+
+
+VII. COURSE OBJECTIVES:
+
+          Upon successfully completing the course, the
+
+student will be able to:
+
+          1.   Use linear, quadratic, exponential and logarithmic
+
+               functions to model situations.
+
+2.   Calculate derivatives of various functions by using
+
+product, quotient and chain rules.
+
+3.   Use the Fundamental Theorem of Calculus.
+
+          4.   Analyze the graphs of functions (identify and determine
+
+               critical points, points of inflection, intervals of
+
+               increase, decrease and concavity) by applying technology and
+
+               the theory of first and second derivatives.
+
+5.   Employ the derivative to solve various applications
+
+problems, such as related rates, optimization, and graph
+
+sketching.
+
+          6.   Differentiate and integrate polynomial, exponential,
+
+               logarithmic and rational functions.
+
+7.   Calculate integrals to find areas of regions and find
+
+the total cost, revenue or profit.
+
+8.   Solve business problems involving applications of
+
+differential and integral calculus.
+
+9.   Compute and interpret partial derivatives and solve
+
+optimization problems.
+
+10.  Use graphing calculators to confirm the results of
+
+analyses.
+
+          
+
+IX.   TEXT:    Applied Calculus (with InfoTrac) (Stefan
+
+Waner, Steven
+
+               Costenoble)
+
+               Graphing calculator is required (TI-83 is
+
+preferred).
+
+
+
+X.    EVALUATION:
+
+
+
+          Tests                                   60
+
+          Cumulative Final Examination            30
+
+          Attendance, homework, and class participation
+
+          10
+
+                                             100
+
+
+
+          The five in-class tests will be given according to
+
+          the course calendar schedule. There will be no
+
+          make-up tests. Due to this fact, the lowest grade
+
+          will be dropped from the final average.
+
+
+
+          Attendance is mandatory There are 28 class
+
+          sessions during the semester. School policy states
+
+          that absences in excess of 25 will result in
+
+          automatic failure.
+
+
+
+          If you have a disability and believe you need
+
+          accommodation(s) in my classroom please see your
+
+          counselor or Mr. Walter Donofrio, Room S204, (973)
+
+          684-6395, or contact the secretary in the
+
+          Counseling Department at ext. 5568. If you require
+
+          testing accommodations, you must notify me one
+
+          week in advance of the test.
+
+
+
+                         GRADE DISTRIBUTION:
+
+
+
+               A    ---  93 - 100
+
+               A-   ---  90 - 92
+
+          B   ---  87 - 89
+
+          B    ---  83 - 86
+
+          B-        ---  80 - 82
+
+                         C   ---  75 - 79
+
+               C    ---  70 - 74

@@ -1,0 +1,312 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+COMPUTER SCIENCE (CS) DEPARTMENT
+
+
+
+
+
+CISY-233 Relational Database  Web Applications
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: CISY- 233, Relational Database  Web Applications 
+
+B. Date of Proposal or Revision: Spring 2007 
+
+C. Sponsoring Department: Computer Science (CS) Department 
+
+D. Semester Credit Hours: 3 
+
+E. Weekly Contact Hours: 4 (2 Lecture) 
+
+(2 Lab) 
+
+F. Prerequisite: CISY 225 Web Page Development I  CIS Programming Elective 
+
+G. Laboratory Fees: Yes
+
+H. Dept. Chair: Dr. John Sullivan, jsullivararitanval.edu 
+
+II. Catalog Description 
+
+Prerequisite: CISY 225 Web Page Development I  CIS Programming Elective. 
+
+This course is an introduction to the use of relational databases on the 
+World Wide 
+
+Web. Topics covered will be relational database design, database 
+connectivity and 
+
+manipulation. Students will work with a server-side tool to build and query 
+databases 
+
+using SQL. This course will add more power and functionality to Web sites, 
+add 
+
+some database applications like a powerful shopping cart or a fun quiz game. 
+A major 
+
+emphasis of the course is SQL and how to utilize it to build, manipulate and 
+create 
+
+output from a database. Toward the end of the course, students will have an 
+
+opportunity to work with SQL to create output from a database to a web page. 
+
+
+
+III. Statement of Course Need 
+
+As more and more businesses create web pages on Internet, there is a great 
+need for 
+
+people with the technical knowledge to do interactive Web page development 
+that 
+
+interfaces with databases. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. Required for following degree programs: 
+
+1. Required course for Web Page Development Certificate 
+
+2. Required course for the Web Page Development Transfer Degree 
+
+3. Upgrading course for multimedia professionals 
+
+
+
+4. Free elective 
+
+5. CIS Programming Elective 
+
+B. Course Transferability: It is yet to be determined how this course would 
+transfer 
+
+to New Jersey Colleges. 
+
+V. Outline of Course Content 
+
+1. Relational databases 
+
+2. Forms 
+
+3. Programming with SQL 
+
+4. Work with server side tools to build and query databases 
+
+5. Create interactive database reliant Web pages. 
+
+6. SQL 
+
+a. Utilize 
+
+b. Build 
+
+c. Manipulate and Create output from Databases 
+
+7. Install and configure Apache, PHP, and MySQL on both Windows and Linux. 
+
+8. Accept and process information submitted via HTML forms. 
+
+9. Authenticate users and track user preferences and data using PHPs 
+session- 
+
+handling capabilities. 
+
+10. Process web-based file uploads using the HTTPUpload PEAR package. 
+
+11. Create your own RSS aggregator using Magpie, and process XML files in 
+
+amazingly efficient fashion using SimpleXML. 
+
+12. Use both command-line and graphical MySQL clients to effectively manage 
+your 
+
+data. 
+
+13. Secure the MySQL server, creating roles and restricting access even at 
+very 
+
+granular levels. 
+
+14. Effectively integrate PHP and MySQL to create dynamic, data-driven web 
+
+applications.
+
+VI. Educational Goals and Learning Outcomes 
+
+Education Goals 
+
+
+
+At the completion of this course, the student will be able to: 
+
+
+
+1. Demonstrate proficiency in designing and developing relational databases 
+that can 
+
+be retrieved from the Internet (G.E. 1) 
+
+2. Communicate and collaborate with others creating Web Pages that are more 
+
+power and add functionality to Web sites (G.E. 2) 
+
+3. Demonstrate proficiency in using the computer to create forms, 
+JavaScript, 
+
+collect, prepare and present documents that summarize and synthesis 
+information 
+
+(G.E. 2, 3) 
+
+4. Demonstrate knowledge and skills necessary to design, develop manipulate 
+SQLs 
+
+for standard Web site design (G.E. 2, 3) 
+
+
+
+5. Apply knowledge from other disciplines to develop web pages that can be 
+used in 
+
+problem solving or decision making (G.E. 4) 
+
+6. Apply knowledge of SQL programming to Web page development Should it be 
+
+(G.E. 1, 3, 7). 
+
+7. Recognize the ethical issues surrounding the use of computers in creating 
+web 
+
+pages (G.E. 5) 
+
+8. Recognize the commonalities and differences in values, perspectives and 
+
+behaviors of diverse people in the development of web pages (G.E. 6) 
+
+Learning Outcomes 
+
+
+
+At the conclusion of the course, students will be able to: 
+
+
+
+1. Discuss the features of well designed web sites to meet the communication 
+needs 
+
+of the client from a database point of view. 
+
+2. Describe how SQL is used in the development of web sites 
+
+3. Design and publish web pages featuring server tools to build and query 
+interactive 
+
+databases 
+
+4. Develop web pages using appropriate SQL syntax 
+
+5. Connect to remote databases to download information 
+
+6. Link web pages to other pages on the Internet 
+
+7. Interpret current copyright laws concerning information 
+
+8. Design and develop Web sites using standard Web server tools. 
+
+9. Develop more power and functionality to Web sites, by adding some 
+database 
+
+applications like a powerful shopping cart or a fun quiz game. 
+
+VII. Modes of Teaching and Learning 
+
+ Lecture/Discussion - Lecture with demonstration of software, problem 
+solving 
+
+techniques, and present computer literacy concepts. 
+
+ Laboratory  Lab time to analyze, design, develop, write, and present 
+computer 
+
+projects. 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+ Computer Projects  In-class and out of class assignments and projects 
+
+ Exam  Hands on software exams 
+
+ Presentations 
+
+ Other  Homework 
+
+IX. Grade Determinants 
+
+ Projects 
+
+ Presentations 
+
+ Homework 
+
+ Hands on Software Exams 
+
+ Final Exam 
+
+
+
+X. Suggested Materials 
+
+Textbooks: Creating Database Web Applications with PHP and ASP, by Jeanine 
+
+Meyer Charles River Media 1 edition (June 30, 2003), ISBN-10: 1584502649 
+
+
+
+AJAX and PHP: Building Responsive Web Applications by Cristian Darie, 
+
+Bogdan Brinzarea, Filip Chereches-Tosa, Mihai Bucica, Publisher: Packt 
+Publishing 
+
+ISBN-10: 1904811825 
+
+
+
+Beginning PHP and MySQL 5: From Novice to Professional, Second Edition, by 
+
+
+
+W. Jason Gilmore, Publisher: Apress 2nd edition (January 23, 2006), ISBN-10: 
+
+1590595521 
+
+XI. Resources 
+
+ Computer access, RVCC2 server, Internet Browsers (e.g., Internet Explorer, 
+
+Firefox, Mozilla, etc.), and PHP server. 
+
+ Software: Windows 2007, UNIX, Pipeline e-mail, Web authoring software, 
+
+PowerPoint, Word Objects, PHP, AJAX, Visual BASIC.Net. These packages 
+
+may change from semester to semester. 
+
+These products may change from semester to semester. 
+
+
+
+

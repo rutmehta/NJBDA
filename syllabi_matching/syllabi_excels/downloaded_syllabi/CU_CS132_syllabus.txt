@@ -1,0 +1,137 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 132  Web Page Development I
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+None
+
+
+
+Description 
+
+      Introduces the student to the fundamental concepts and techniques used 
+for the design and development of web pages using Hyper Text Markup Language 
+(HTML), XHTML, Cascading Styles Sheets, and other multimedia Web Utilities. 
+
+
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Know the basic principles of Web documents create an HTML document view an 
+HTML file using a web browser use HTML tags for text, headings paragraphs, 
+and lists insert character tag into an HTML document insert an inline 
+graphic image into an HTML document add special characters to an HTML 
+document and insert horizontal lines into an HTML document 
+
+ Create hypertext links between elements within a web page create hypertext 
+links between web pages create hypertext links to web pages on the Internet 
+distinguish between and be able to use absolute and relative pathnames and 
+create hypertext links to various Internet resources, including FTP server 
+and newsgroups 
+
+ Know how HTML handles color create a color scheme for a web page work with 
+font sizes, colors, and types place a background image on a web page define 
+colors for a web page and for specific characters know the different image 
+file formants control the placement and appearance of images on a web page 
+and work with client-side image maps 
+
+ Create text and graphical tables using HTML create table headers and 
+captions control the appearance of a table and table text create table cells 
+that span several rows or columns use nested tables to enhance page design 
+
+ Create frames for a web site control the appearance and placement of frames 
+control the behavior of hyper text links on a web page with frames use the 
+reserved target names to specify a target for a hypertext link create a web 
+page that is viewable by browsers that support frames and by those that do 
+not and modify the appearance of frame borders 
+
+ Know about CGI scripts know the various parts of an online form create form 
+elements create a hidden field on a form work with form attributes know how 
+to send data from a form to a CGI script and know how to send form 
+information without using CGI scripts 
+
+ Create inline styles, embedded styles, and style sheets understand style 
+precedence and style inheritance use cascading style sheets to format 
+paragraphs, lists, and heading s design a style for hyper text links in 
+their four conditions define document content with class and id attributes 
+and create styles for them mark document content with the <div> and <span> 
+tags and create styles for them and use cascading styles sheets to design 
+page layout 
+
+ Understand general concepts of JavaScript and work with variables, data, 
+expressions, and operations of the JavaScript Language. 
+
+
+
+Topical Outline
+
+ Developing a Basic Web Page
+
+ Adding Hypertext Links to a Web Page
+
+ Designing a Web Page
+
+ Designing a Web Page with Tables
+
+ Using Frames in a Web Site
+
+ Creating Web Page Forms
+
+ Working with Cascading Style Sheets
+
+ Introduction to JavaScript
+
+
+
+Texts
+
+      New Perspectives HTML and XHTML by Carey, 4th edition: Course Tech.
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

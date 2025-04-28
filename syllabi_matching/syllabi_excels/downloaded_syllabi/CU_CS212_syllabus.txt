@@ -1,0 +1,112 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 212  C Programming
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+      CS 112 or permission from the instructor.
+
+
+
+Description 
+
+      Emphasizes problem solving strategies, analysis of algorithms, and use 
+of simple data structures to formulate object-oriented solutions to 
+problems. Topics include construction, inheritance, polymorphism, standard 
+libraries, arrays, pointers, and strings. Object-oriented concepts and 
+terminology will be presented with a focus on using classes for program 
+specification and design. Students will learn how classes are declared, 
+defined, used and organized into coherent designs. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand the basic foundation of important programming principles
+
+ Create and manipulate sequential access files, structs, classes, and 
+arrays. 
+
+
+
+Topical Outline
+
+ Introduction to Computers and Java
+
+ Primitive Types, Strings, and Console I/O
+
+ Flow of Control
+
+ Defining Classes and Methods
+
+ More About Objects and Methods
+
+ Arrays
+
+ Inheritance
+
+ Exception Handling
+
+ Streams and File I/O
+
+ Dynamic Data Structures and Generics
+
+ Recursion
+
+ Window Interfaces Using Swing
+
+ Applets and HTML
+
+ More Swing
+
+
+
+Texts
+
+      Java and Introduction to Problem Solving  by Savitch, Prentice Hall.
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

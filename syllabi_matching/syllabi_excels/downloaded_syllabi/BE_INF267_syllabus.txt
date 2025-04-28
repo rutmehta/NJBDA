@@ -1,0 +1,99 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF267
+
+Network Security
+
+3 credits
+
+Pre-requisite or Co-requisite: INF160 Networking Technologies and Data 
+Communications 
+
+New Course
+
+Fall 2004
+
+Professor Lucy Caruso-Deane, Department Chair, 201.447-7214
+
+lcarusodeanebergen.edu
+
+
+
+Network Security provides a foundation level course that focuses on securing 
+an enterprises systems and networks. Topics include email security web 
+security system hardening 
+
+incident response public key infrastructure disaster recovery basics of 
+cryptography and methods for combating Spam, securing a server, and 
+preventing denial of service attacks. 
+
+
+
+Objectives:
+
+1. Recognize various types of security attacks and specify appropriate 
+action. 
+
+2. Identify non essential services and protocols and know what action to 
+take to reduce the 
+
+risk of attack on these services.
+
+3. Specify the hardware and software configuration for a secure network.
+
+
+
+Accomplishment of student learning objectives will be assessed primarily 
+through written 
+
+exams and projects.
+
+
+
+Course Texts and/or other study materials:
+
+Network Security Fundamentals, Paul Campbell and Calvert, Ben ISBN 
+0-619-13039-3. 
+
+
+
+Grade Determinants:
+
+Exams - 75
+
+Homework/Projects - 25 
+
+
+
+Course Content:
+
+1. Security Overview - Authentication - CHAP, Kereberos, Tokens
+
+2. Attacks and Malicious Code - Denial of Service, SYN attacks, spoofing
+
+3. Remote Access E-mail, RADIUS, PPTP, L2TP
+
+4. Web Security/ SSL, HTTP/S
+
+5. Director and File Transfer Services
+
+6. Wireless and Instant Messaging
+
+7. Security Devices - Firewalls, Routers, Switches
+
+8. Media and Medium - securing transmission media securing storage devices
+
+9. Network security topologies
+
+10. Intrusion Detection - anomaly detection, signature detection, shunning
+
+11. Security Baselines - network hardening, application hardening
+
+12. Cryptography - PKI Certificates, Digital Signatures, Hash Algorithms
+
+13. Physical Security - passwords, surveillance, biometrics
+
+14. Disaster Recovery and Business Continuity - computer forensics
+
+15. Final Exam

@@ -1,0 +1,259 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+I. Course ID
+
+MATH 146
+
+
+
+II.Course Name
+
+Advanced Topics in Mathematics for the Liberal Arts
+
+
+
+III.Number of Credits Awarded for Course
+
+4 credits
+
+
+
+IV.Prerequisite or Co-requisite Courses or Academic Standing
+
+A grade of C or better in MATH 145, MATH 151 or equivalent course.
+
+
+
+V.Indicate if New or Modified Course
+
+New
+
+
+
+VI.Semester and Year Course Will First Be Offered
+
+Spring 2002
+
+
+
+VII.Name and telephone number of email address of Department Chair or Other 
+Appropriate Contact Person 
+
+Teresa C. Healy  (732)224-2864   thealybrookdale.cc.nj.us
+
+
+
+VIII.Detailed Course Description
+
+This course is designed for students to study a variety of topics that 
+emphasize the fundamental ideas of mathematics selected from set theory, 
+mathematical logic, game theory, algebra and geometry. For each topic 
+studied, the student will be able to explain the basic concepts and apply 
+them to the solutions of specific problems. 
+
+
+
+IX.Outline of Course Objectives
+
+1.The Mathematics of Voting
+
+2.Weighted Voting Systems
+
+3.Fair Division
+
+4.The Mathematics of Apportionment
+
+5.Euler Circuits
+
+6.The Traveling Salesman Problem
+
+7.The Mathematics of Networks 
+
+8.The Mathematics of Scheduling
+
+9.Symmetry
+
+10.Fractal Geometry
+
+
+
+X.Texts, Journals, and Other Materials Used in Course
+
+
+
+Excursions in Modern Mathematics, Fourth Edition
+
+by Tannenbaum and Arnold, Prentice Hall 2001
+
+
+
+XI.Grade Determinants
+
+Tests65
+
+Projects/Homework 20
+
+Quizzes15
+
+
+
+
+
+XII.Number of Papers and Examinations
+
+Three exams and three projects
+
+
+
+XIII.Schedule of Topics to Be Covered
+
+
+
+Schedule of Topics 
+
+
+
+Part 1:  The Mathematics of Social Choice  (Chapter 1 - 4)
+
+Part 2:  Management Science  (Chapter 5 - 8)
+
+Part 3:  Growth and Symmetry(Chapter 11-12)
+
+
+
+ClassSectionTopic
+
+
+
+1.   1.1Preference Ballots and Preference Schedules
+
+1.2The Plurality Method
+
+2.  1.3The Borda Count Method
+
+1.4The Plurality-with-Elimination Method
+
+3.  2.1Weighted Voting Systems
+
+2.2The Banzhaf Power Index
+
+4.  2.3Applications of the Banzhaf Power Index
+
+3.1Fair-Division Problems and Fair-Division Schemes
+
+5.  3.2Two Players: The Divider-Chooser Method
+
+3.3The Lone-Divider Method
+
+6.  3.6The Method of Sealed Bids
+
+3.7The Method of Markers
+
+7.   4.1Apportionment Problems
+
+4,2A Little Bit of U.S. History
+
+4.3The Mathematics of Apportionment: Basic Concepts
+
+8.   4.4Hamiltons Method
+
+4.5The Quota Rule
+
+4.6 The Alabama Paradox
+
+9.  4.7More Problems with Hamiltons Method
+
+Review for the Test 1
+
+10.  Test 1
+
+11.   4.8Jeffersons Method
+
+4.9Jeffersons Method and the Quota Rule
+
+4.10Adams Method   
+
+12.   4.11Websters Method
+
+5.1Routing Problems
+
+5.2Graphs
+
+13.  5.3Graph Concepts and Terminology
+
+5.4Graph Models
+
+5.5Eulers Theorems
+
+14.   5.6Fleurys Algorithm
+
+5.7Eulerizing Graphs
+
+15.   6.1Hamilton Circuits and Hamilton Paths
+
+6.2Complete Graphs
+
+
+
+16.  6.3Traveling-Salesman Problems
+
+6.4Simple Strategies for Solving TSPs
+
+17.  6.5The Brute-Force and Nearest-Neighbor Algorithms
+
+6.6Approximate Algorithms
+
+18.   6.7The Repetitive Nearest-Neighbor Algorithm
+
+6.8The Cheapest-Link Algorithm
+
+19.   Review for Test 2
+
+20.   Test 2
+
+21.   7.1Trees
+
+7.2Minimum Spanning Trees
+
+7.3Kruskals Algorithm
+
+22.  7.4The Shortest Distance Between Three Points
+
+7.5The Shortest Network Linking More Than Three Points
+
+23.  8.1The Basic Elements of Scheduling
+
+8.2Directed Graphs
+
+8.3The Priority List Model for Scheduling
+
+24.   8.4The Decreasing-Time Algorithm
+
+8.5Critical Paths
+
+25.   8.6The Critical-Path Algorithm
+
+11.1Geometric Symmetry
+
+11.2Rigid Motions
+
+26.   11.3Reflections
+
+11.4Rotations
+
+27.  11.5Translations
+
+11.6Glide Reflections
+
+11.7Symmetry Revisited
+
+28.   12.1The Koch Snowflake
+
+12.2The Sierpinsiki Gasket
+
+29.  12.3The Chaos Game
+
+Review for Test 3
+
+30.  Test 3

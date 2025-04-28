@@ -1,0 +1,810 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+Mathematics 120
+
+Pre-Calculus I
+
+Credits:   3
+
+Prerequisites:   Intermediate Algebra-Extended (MTH-109),
+
+                        Reading Skills III (ENG-013) or proper
+
+            placement exam scores
+
+New Course:   Spring 2004
+
+
+
+Pablo Echeverria
+
+Chairperson, Mathematics
+
+(856) 227-7200 x4205
+
+pecheverriacamdencc.edu
+
+
+
+Course Description/Goals:
+
+This is a rigorous college algebra course designed for
+
+engineering science, business, technology, mathematics majors,
+
+and natural sciences majors. Topics include functions and graphs,
+
+theory of polynomial equations, polynomial, rational,
+
+logarithmic, and exponential functions and applications. The
+
+teaching and use of graphing calculators are an integral part of
+
+the course. Their use throughout the course will facilitate
+
+understanding of salient concepts. Students are encouraged to
+
+purchase a Texas Instruments TI-83 or TI-83 Plus calculator.
+
+
+
+Course Outline:
+
+P4   Rational Expressions
+
+P5   Solving Equations
+
+P6   Solving Inequalities
+
+P8   Graphical Representation of Data
+
+
+
+1.1  Graphs of Equations
+
+1.2  Linear Equations in Two Variables
+
+1.3  Functions
+
+1.4  Analyzing Graph of Functions
+
+1.5  Shifting, Reflecting, and stretching Graphs.
+
+1.6  Combinations of Functions
+
+1.7  Inverse Functions
+
+1.8  Mathematical Modeling
+
+
+
+2.1  Quadratic Functions
+
+2.2  Polynomial Functions of Higher Degree
+
+2.3  Polynomials and Synthetic Division
+
+2.4  Complex Numbers
+
+2.5  Zeros of Polynomial Functions
+
+2.6  Rational Functions
+
+2.7  Partial Fractions
+
+
+
+3.1  Exponential Functions
+
+3.2  Logarithmic Functions
+
+3.3  Properties of Logarithms
+
+3.4  Exponential and Logarithmic Equations
+
+3.5  Exponential and Logarithmic Models
+
+
+
+Course Objectives/Student Learning Outcomes:
+
+Chapter P - Prerequisites
+
+P.4  RATIONAL EXPRESSIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Find the domain of an algebraic expression.
+
+  2.  Simplify rational expressions.
+
+  3.  Operations with rational expressions.
+
+  4.  Simplify complex fractions.
+
+
+
+P.5 SOLVING EQUATIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Solve linear equations
+
+  2.  Solve quadratic equations
+
+  3.  Solve polynomial equations of higher degree
+
+  4.  Solve radical equations
+
+  5.  Solve absolute value equations
+
+
+
+P.6  SOLVING INEQUALITIES
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Change interval notation to inequality notation and graph
+
+on a real number line.
+
+  2.   Change inequality notation to interval notation and graph
+
+on a real number line.
+
+  3.   Solve the following inequalities: linear inequalities,
+
+     double inequalities, absolute value
+
+    inequalities, polynomial inequalities, rational
+
+  inequalities, and word problems involving
+
+    inequalities
+
+
+
+P.8  GRAPHICAL REPRESENTATION OF DATA
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Understand the Cartesian plane.
+
+2.   Find a distance using the distance formula.
+
+3.   Find a line segments midpoint.
+
+
+
+Chapter 1 - Functions and Their Graphs
+
+
+
+1.1  GRAPHS OF EQUATIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Sketch the graph of an equation
+
+  2.  Find x and y intercepts of graphs
+
+  3.  Test equations for symmetry with respect to the x-axis,
+
+the y-axis and the origin.
+
+  4.  Find the center and radius of a circle when the equation
+
+is written in standard form.
+
+  5.  Use the method of completing the square to write the
+
+equation of a circle in standard   form.
+
+
+
+1.2       LINEAR EQUATIONS IN TWO VARIABLES
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Graphing a linear equation using slope as a ratio.
+
+2.   Find the slope of a line, given 2 points or 1 point and the
+
+slope.
+
+3.   Write the equation of a line in standard form, slope-
+
+intercept form, and point-slope form.
+
+4.   Find the equations of vertical and horizontal lines.
+
+5.   Find the equations of a line parallel to a given line.
+
+6.   Find the equations of a line perpendicular to a given line.
+
+7.   Solve application problems involving linear equations.
+
+
+
+1.3  FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Define a function, the domain of a function, and the range
+
+of a function.
+
+  2.  Identify whether or not a table of values specifies a
+
+function.
+
+  3.  Identify whether or not a given set of ordered pairs
+
+specifies a function.
+
+  4.  To calculate values of a function and find the domain of a
+
+function.
+
+  5.  Identify which equations represent functions.
+
+  6.  Find the domain of functions that involve ratios and/or
+
+radicals.
+
+  7.  Set up and solve application problems involving linear and
+
+quadratic functions.
+
+
+
+1.4       ANALYZING GRAPHS OF FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Identify the domain and range of a function.
+
+  2.   Identify the graph of a function using the vertical line
+
+     test.
+
+3.   Determine zeros of a function.
+
+4.   Determine the intervals on which a function is increasing,
+
+decreasing, or constant.
+
+5.   Graphing linear function.
+
+6.   Graphing Step functions and Piecewise-Defined functions.
+
+7.   Determine if a function is even, odd, or neither.
+
+8.   Solve application problems involving functions and their
+
+properties.
+
+
+
+1.5  SHIFTING, REFLECTING, AND STRECHING GRAPHS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Identify and graph of common functions.
+
+2.   Identify transformations (horizontal and vertical shifts) of
+
+function.
+
+3.   Identify graphs using reflections in the coordinate Axes.
+
+4.   Identify Nonrigid transformations of common graphs.
+
+5.   Solve application problems involving transformations of
+
+functions.
+
+  
+
+1.6  Combinations of Functions
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Complete Arithmetic Combinations of Functions.
+
+       a)   Find the sum of two functions and their domain.
+
+b)   Find the difference of two functions and their domain.
+
+c)   Find the product of two functions and their domain.
+
+d)   Find the quotients of two functions and their domain.
+
+  2.   Determine the composition of functions.
+
+  3.   Application using Composition functions.
+
+
+
+
+
+1.7  INVERSE FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   View a chart showing a correspondence between values of the
+
+     domain and range and determine if it represents a function that
+
+     has an inverse function.
+
+  2.  View a sketch of the graph of a function and determine if
+
+ it has an inverse function.
+
+  3.  Determine if the equation of a given function has an
+
+ inverse function.
+
+  4.   Find the inverse function   for any function f algebraically
+
+     that is one-to-one.  If f is not one-to-one, the student will be
+
+     able to restrict the domain to make it one-to-one and find .
+
+  5.  Graph both the function f and its inverse on the same
+
+coordinate system.
+
+  6.  Solve application problems involving functions and their
+
+inverses.
+
+
+
+1.8       MATHEMATICAL MODELING
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Set up and solve application problems involving direct,
+
+inverse and joint variation.
+
+  2.   Use graphing calculators to find the least squares
+
+     regression line for a given set of ordered pairs.
+
+  
+
+Chapter 2 Polynomial  Rational Functions
+
+2.1  QUADRATIC FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Define a general polynomial function of  with degree n.
+
+  2.  Recognize a quadratic function  and determine its axis of
+
+  symmetry
+
+    and vertex.
+
+  3.  Sketch the graph of a quadratic function
+
+  4.  Write quadratic function in standard form
+
+  5.  Solve application problems involving quadratic functions.
+
+
+
+2.2  POLYNOMIAL FUNCTIONS OF HIGHER DEGREE
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Apply the leading coefficient test to determine whether the
+
+     graph of a polynomial eventually rises or falls without bound.
+
+  2.   Find zeros of a polynomial function by factoring.
+
+3.   Sketch the graph of a polynomial function.
+
+4.   State the Intermediate Value Theorem.
+
+5.   Use the Intermediate Value Theorem to prove that a function
+
+has a zero in a given interval.
+
+6.   Solve application problems involving polynomial functions.
+
+
+
+2.3  POLYNOMIAL AND SYNTHETIC DIVISION
+
+Behavioral Objectives:
+
+The student will be able to:
+
+ 1.  Perform long division of polynomials.
+
+ 2.  Use synthetic division to perform long division of
+
+polynomials.
+
+ 3.  Use the Remainder Theorem to find f(k) when f is a
+
+polynomial.
+
+ 4.  Use the Factor Theorem to determine if (x-k) is a factor of
+
+f(x) when f is a polynomial.
+
+ 5.  Solve application problems involving polynomials.
+
+2.4  COMPLEX NUMBERS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+ 1.  Define a complex number.
+
+ 2.  Identify the names for particular kinds of complex numbers.
+
+ 3.  Perform the basic operations with complex numbers.
+
+ 4.  Perform operations with complex conjugates and division.
+
+ 5.  Find complex solutions to quadratic equations.
+
+
+
+2.5  REAL ZEROS OF POLYNOMIAL FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Use the Rational Zero Test to
+
+       a.   Find all possible rational zeros of a polynomial.
+
+       b.   Test the possible rational zeros of a polynomial.
+
+c.   Test rational zero test with leading coefficient of 1.
+
+  2.   Determine each of the following if a polynomial is given in
+
+     a factored form:
+
+       a.   Factoring a polynomial.
+
+b.   The zeros of the polynomial
+
+c.   The multiplicity of the zeros
+
+d.   The degree of the polynomial
+
+  3.   Write the equation of the polynomial in factored form if the
+
+     zeros and their multiplicity are given.
+
+4.   Determine the possible combinations of real and imaginary
+
+zeros for any given polynomial.
+
+5.   Write P(x) as a product of first degree factors if given one
+
+zero.
+
+  6.   Multiply
+
+  7.   Use Descartes Rule of Signs to explore the types and
+
+     numbers of real zeros of a given polynomial.
+
+8.   Use the Upper and Lower Bound Rule to find a upper and a
+
+lower bound for the real zeros of a polynomial.
+
+9.   Solve application problems involving polynomials.
+
+
+
+2.6  RATIONAL FUNCTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.Find the domain of a rational function.
+
+  2.Find vertical and horizontal asymptotes of rational
+
+  functions.
+
+  3.   Find oblique asymptotes of rational functions.
+
+4.   Graph rational functions.
+
+  5.   Solve application problems involving rational functions.
+
+  
+
+2.8  PARTIAL FRACTIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.Decompose   into partial fractions when   consists of:
+
+     Linear factors, Nonfactorable quadratic factors, and
+
+     Combinations of linear and quadratic factors
+
+
+
+Chapter 3 EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+
+3.1  EXPONENTIAL FUNCTIONS AND THEIR GRAPHS
+
+
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Evaluating exponential expressions.
+
+  2.   Graph
+
+  3.   Apply if  then
+
+4.   Find transformation of graphs of exponential functions.
+
+5.   Add, subtract, multiply and raise to power exponential
+
+expressions.
+
+6.   Write formulas representing exponential growth or decay from
+
+given information.
+
+7.   Write formulas representing compound interest from given
+
+information.
+
+8.   Graph and evaluate natural exponential functions.
+
+
+
+3.2  LOGARITHMIC FUNCTIONS AND THEIR GRAPHS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.  Define and list the properties of logarithmic functions.
+
+  2.  Change an logarithmic equation to equivalent exponential
+
+  form.
+
+  3.  Change an exponential equation to equivalent logarithmic
+
+  form.
+
+  4.  Sketch graphs of logarithmic functions.
+
+  5.  Define and list the properties of the Natural Logarithmic
+
+  Function.
+
+  6.  Evaluate logarithmic expressions with and without a
+
+  calculator.
+
+  7.  Solve application problems involving logarithmic
+
+  functions.
+
+
+
+3.3  PROPERTIES OF LOGARITHMS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Use the Change-of-Base Formula to change logarithmic
+
+     expressions to common or natural log form.
+
+2.   Identify properties of logarithms.
+
+3.   List and use properties of logarithms to rewrite logarithmic
+
+expressions
+
+4.   Expand logarithmic expressions.
+
+5.   Condense logarithmic expressions.
+
+6.   Find a logarithmic model.
+
+
+
+3.4  EXPONENTIAL  LOGARITHMIC EQUATIONS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Solve exponential equations.
+
+2.   Solve an exponential equation of quadratic type.
+
+3.   Solve a logarithmic equation.
+
+4.   Set up and solve application problems involving doubling an
+
+investment and consumer
+
+    price
+
+
+
+3.5  EXPONENTIAL AND LOGARITHMIC MODELS
+
+Behavioral Objectives:
+
+The student will be able to:
+
+  1.   Identify the five common types of mathematical models:
+
+       a)   Exponential growth model
+
+b)   Exponential decay model
+
+c)   Gaussian model
+
+d)   Logistic growth model
+
+e)   Logarithmic models
+
+  2.   Solve population increase.
+
+3.   Solve Carbon dating.
+
+4.   Solve spread of a virus.
+
+5.   Solve magnitude of earthquake.
+
+
+
+Instructional Materials:
+
+The primary teaching instrument is the blackboard.  You make your
+
+own transparencies for the overhead projector.  The AV Department
+
+will assist you.  They are located in the LRC basement.  You may
+
+also use the TI83 overhead projection unit for the graphing
+
+calculators.
+
+
+
+Course Activities:
+
+The classroom activities will include formal and informal
+
+lectures where new materials and assigned problems will be
+
+explained.  Students will have the opportunity to contribute to
+
+the discussion and to ask questions about the material.  The
+
+calculator will be an integral part of the class.  The computer
+
+will be stressed whenever possible.
+
+
+
+Evaluation Methods:
+
+Student progress will be evaluated on the following basis:
+
+1.  Unit Tests
+
+2.  Periodic Quizzes, if you deem they are necessary to motivate
+
+  students to study and attend class on a regular basis.
+
+3.  Class attendance, if you have specified this at the beginning
+
+  of the semester.
+
+4.  Comprehensive final examination (optional, but strongly
+
+encouraged).
+
+5.  Homework assignments, if collected and graded (optional)
+
+
+
+Grading:
+
+Grades will be based on students performance in the above-
+
+designated areas.  Percentages will be assigned by each
+
+individual professor.
+
+
+
+          A    90  to  100
+
+          B    80  to   89
+
+          C    70  to   79
+
+          D    60  to   69
+
+          F    Below 60
+
+          I    Incomplete (only under extreme emergencies)
+
+               must be completed within one semester.
+
+          NA   Not attending
+
+          W    Withdraw (student must turn in official withdrawal
+
+form
+
+               before cut-off date).
+
+
+
+Textbook:
+
+     Precalculus, 5th edition, 2001, Larson  Hostetler, Houghton
+
+Mifflin
+
+     ISBN: 0-618-06646-2

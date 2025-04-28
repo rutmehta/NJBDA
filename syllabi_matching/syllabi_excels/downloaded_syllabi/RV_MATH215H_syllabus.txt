@@ -1,0 +1,342 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College 
+
+Official Course Outline 
+
+
+
+
+
+MATH 215H: INTRODUCTION TO EXPERIMENTAL DESIGN  
+
+HONORS 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 213H: Introduction to Experimental 
+
+Design  Honors 
+
+B. Date: November 1996 updated Summer 2001, updated Fall 2002 
+
+C. Sponsoring Department: Mathematics 
+
+D. Semester Credit Hours: 1 
+
+E. Weekly Contact Hours: 1 Lecture: 1 
+
+Laboratory: 0 
+
+F. Prerequisite or Corequisite: MATH 223: Statistics II 
+
+G. Laboratory Fees: None
+
+H. Dept. Chair: Dr. Nora Thornber (nthornberaritanval.edu) 
+
+II. Catalog Description 
+
+Prerequisite or Corequisite: Statistics II. This course is as an honors 
+component 
+
+to supplement the existing Statistics II course. Students will become 
+familiar 
+
+with the concepts and techniques of experimental design within the context 
+of a 
+
+research situation. Students will learn to incorporate statistical software 
+to 
+
+interpret more complicated designs. 
+
+
+
+III. Statement of Course Need 
+
+Honors courses in mathematics have been developed to provide mathematically 
+
+talented students the opportunity to obtain a level of rigor not currently 
+available 
+
+in existing courses. This course is intended for those students who desire 
+more 
+
+background into the area of experimental design in statistics, especially 
+those in 
+
+psychology, education, or other social science programs. 
+
+
+
+02/19/03 Page 1 of 5 
+
+
+
+
+
+MATH 215: Introduction to Experimental Design 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. Introduction to Design satisfies general education requirements in 
+
+mathematics. It serves as one-credit of free elective in mathematics for all 
+
+program. 
+
+B. Introduction to Design transfers as a mathematics course in most liberal 
+
+arts programs. 
+
+C. Introduction to Design serves as one-credit of an honors elective in 
+
+mathematics. 
+
+V. Outline of Course Content: 
+
+A. Analysis of Variance 
+
+1. Terminology 
+
+2. Controlling information in an experiment 
+
+3. The logic behind an ANOVA 
+
+4. Completely randomized designs 
+
+5. Randomized blocks 
+
+6. Two-way factorial experiments 
+
+7. The relationship between ANOVA and regression 
+
+8. Multiple comparisons 
+
+9. Checking assumptions 
+
+B. Nested Sampling 
+
+1. Two-stage nested designs 
+
+2. Three-stage nested designs 
+
+3. Estimating a population mean based on nested sampling 
+
+4. Underlying theory 
+
+5. Comparing two or more populations using nested sampling 
+
+2 11/26/02 
+
+
+
+
+
+
+
+MATH 215: Introduction to Experimental Design 
+
+
+
+VI. General Education Goals and Learning Outcomes 
+
+1. Education Goal: 
+
+The student will develop strategies to explain how parts of a design 
+
+influence each other (relates to Gen. Ed. Goals 1.a, 1.b, 1.c, 1.d, 1.e., 
+1.f, 
+
+and 1.g.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Explain the possible interactions among the variables present in any 
+
+design. 
+
+2. Education Goal: 
+
+The student will develop the ability to apply statistical methods 
+
+quantitatively (relates to Gen. Ed. Goals 5.a., 5.b., 5.c.). 
+
+
+
+Learning Outcomes: 
+
+
+
+The student will be able to: 
+
+
+
+ Justify the error that can occur within any design and explain how to 
+
+correct such error. 
+
+ Interpret the connection between ANOVA and regression. 
+
+3. Educational Goal: 
+
+The student will develop the ability to interpret statistical information 
+
+(relates to Gen. Ed. goal 3.c.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Interpret an ANOVA table for any design. 
+
+4. Education Goal: 
+
+The student will develop the ability to apply statistical analysis to 
+
+problems in selected areas of the sciences and social sciences (relates to 
+
+Gen. Ed. Goals 6.c. and 7.d.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Determine the appropriate design for different experimental 
+
+situations. 
+
+3 11/26/02 
+
+
+
+
+
+
+
+MATH 215: Introduction to Experimental Design 
+
+
+
+VII. Modes of Teaching and Learning 
+
+The following are appropriate to the course and may be included 
+
+
+
+ lecture/discussion 
+
+ small-group work 
+
+ computer-assisted instruction 
+
+ student oral presentations 
+
+ student collaboration 
+
+ independent study 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+Student Learning outcomes are assessed using a combination of the following 
+
+
+
+ homework problems 
+
+ tests 
+
+ final examination 
+
+ quizzes 
+
+ projects 
+
+IX. Grade Determinants 
+
+Final grades are determined by a combination of tests, quizzes, projects, 
+labs, 
+
+homework, and a final exam. Individual instructors are free to use the above 
+in 
+
+any combination. 
+
+
+
+X. Texts and Materials 
+
+Any text in Research Design methods may be used such as, Data Analysis for 
+
+Research Designs (Keppel and Zedeck, 1989), modules that accompany the text, 
+
+or handouts generated by the instructor. 
+
+
+
+XI. Resources 
+
+No additional resources are needed. 
+
+
+
+4 11/26/02 
+
+
+
+
+
+
+
+MATH 215: Introduction to Experimental Design 
+
+
+
+XII. Honors Courses: 
+
+1. This is a one-credit honors course designed to supplement topics in 
+
+Statistics II. 
+
+2. See detailed Educational Goals and Student Learning Outcome in section 
+
+VI 
+
+3. This is an existing and approved honors course. Its content is at the 
+
+Statistics II level. 
+
+5 11/26/02 
+
+
+
+
+
+

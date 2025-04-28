@@ -1,0 +1,115 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MAT268  
+Statistical Methods
+New Course: Spring 2010
+
+Course Descriptions:
+Statistical methods provides the student with a foundation in the techniques that underlie more advanced courses in statistics.  Topics considered include descriptive statistics, sampling distributions, hypothesis testing and estimation for one and two populations, goodness-of-fit and contingency tables, analysis of variance, linear regression and correlation, and nonparametric statistics. 
+4 lec., 4 credits
+
+PREREQUISITE:	MAT-160 with a grade of C or better or by permission of the Department Chair
+
+STUDENT LEARNING OBJECTIVES:
+As a result of meeting the requirements for this course, students will be able to:
+1.     demonstrate comprehension of appropriate statistical terminology.
+2.     create graphical displays of data and use the graphs to analyze the data.
+3.     compute measures of dispersion, central tendency, and relative positions.
+4.     use the Central Limit Theorem to construct and interpret a sampling distribution of sample means.                
+5.     analyze sample data in order to construct a confidence interval for one and two populations and make inferences based         on the results. 
+6.     conduct a test of hypothesis to draw conclusions about the validity of a claim about one and two populations.
+7.     create graphical displays of data and develop the simple linear regression model to make predictions from this data.
+8.     demonstrate comprehension of the fundamentals of experimental design and develop the analysis of data collected from 	       a completely randomized design using ANOVA.
+
+ASSESSMENT MEASURES:
+Each of the above listed student learning objectives will be assessed by,
+1.  Written assignments and/or quizzes.
+2.  Written examinations
+3.  Other, as announced by the instructor
+
+COURSE GRADE:
+Students should refer to the instructor’s grading policy which will be distributed during the first meeting of the class.  Attendance and lateness policies and sanctions are to be determined by the instructor for each section of the course. These will be established in writing on the individual course outline.  Attendance will be kept by the instructor for administrative and counseling purposes.
+
+TEXTBOOK:
+Elementary Statistics, Allan Bluman, 7th Edition, 2009
+
+COURSE CONTENT:	
+
+TOPIC					CHAPTER     	SECTIONS	     
+
+Introduction to Statistics		1           	1 - 5
+Frequency Distributions and Graphs	2           	1 - 3
+Descriptive Statistics			3           	1 - 3
+The Normal Distribution and the		6		1 - 4
+Central Limit Theorem
+Estimation of Parameters		7		1 - 4
+Hypothesis Testing			8		1 - 5 
+Inferences for Two Populations		9		1 - 5
+Linear Correlation and Regression	10		1 - 3
+Goodness of Fit and Contingency Tables	11		1 - 2
+Analysis of Variance			12		1 - 2
+Nonparametric Statistics		13		1 – 2
+                                                        3 – 5    (optional)
+REFERENCES:	
+Fanur, Mosteller, et al. Statistics:  A Guide to the Unknown.
+Larson and Farber, Elementary Statistics, Pearson/Prentice-Hall.
+Richmond, Statistical Inference,  Ronald Press.
+Spiegal, Statistics, Schaum Publishing Co.
+Weinberg and Schumaker, Statistics:  An Intuitive Approach, Brooks/Cole.
+            
+ELECTRONIC DEVICES:
+The Department of Mathematics prohibits the use of cell-phones, PDA’s, laptops, headphones, IPODs and other such devices in mathematics classes unless otherwise specified in the grading policy provided by the instructor at the beginning of the semester.
+
+STUDENT SUPPORT SERVICES                
+Learning Assistance Center                  
+Room:   L-125              
+447-7908
+
+Sidney Silverman Library                   
+Room:   L-226              
+447-7436
+
+Office of Specialized Services            
+Room:   S-131              
+612-5270
+(for students with disabilities)             
+
+COURSE OUTLINE AND CALENDAR
+
+WEEK	TOPIC / ACTIVITY			STUDENT LEARNING OBJECTIVES
+
+1	Introduction to Statistics      	1
+        Frequency Distributions and Graphs	2
+
+2	Descriptive Statistics			3
+
+3	The Normal Distribution 		4
+	The Central Limit Theorem 		4
+
+4       Estimation of Parameters                1, 5
+
+5	Exam 1
+	Hypothesis Testing 			1,  6
+
+6, 7    Inferences for Two Populations          5,  6
+
+8	Exam 2
+	Linear Correlation      		1,  2
+
+9, 10	Linear Regression       		1,  2,  7
+
+11	Goodness of Fit and Contingency Tables	1,  6
+
+12	Exam 3
+	Analysis of Variance			1,  8
+
+13	Analysis of Variance			6,  8
+
+14, 15	Nonparametric Statistics		1,  6
+	Final Examination                
+
+Note:  this calendar is tentative and may be modified to accommodate exams and the progress of the class.
+
+FACULTY:
+A daily list of cancelled classes will be posted in a glass case near the main corridor ABSENCE	on the first floor. Another such listing will be posted in a glass case in Ender Hall. PROCEDURE:	Students can consult these listings before going to class. If students find a class	cancelled which has not been listed, they should report this to the Divisional Dean’s 		Office (A-325) or to the Evening Office (L-113).

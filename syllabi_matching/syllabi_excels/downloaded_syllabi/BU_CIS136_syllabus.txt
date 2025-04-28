@@ -1,0 +1,92 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+BURLINGTON COUNTY COLLEGE
+
+COURSE INFORMATION FORM
+
+This form must be completed for all new and modified courses offered for 
+credit, including 
+
+experimental courses.
+
+I. Course Prefix and number: e.g. ART101: CIS 136
+
+II. Course Title: Windows Operating Systems I
+
+    III. Lecture Hrs. 4
+
+       
+
+V. Prerequisite(s):  CIS 150 and EET 215
+
+VI. Co-Requisite(s):      
+
+    VII. Dr. David Spang, Dean Science, Math, Technology, 609-894-9311 ext. 
+1367,  dspangbcc.edu 
+
+
+
+    X. New Course  
+
+    
+
+XI. Semester and Year Course will first be Offered (or, if a modified 
+course, semester and year when 
+
+revised course will first be offered): Spring 2005 (estimated date)
+
+    XII. Relation of Course to Curriculum(s):  Elective
+
+
+
+XIII. General Education Designator (if course is intended to satisfy a 
+general education requirement 
+
+check appropriate designator):  TL  Technological Literacy
+
+
+
+XIV. Catalogue Description:  This course is an intermediate level course on 
+the installation, 
+
+configuration and support of Microsoft Windows Professional and Server in 
+both a desktop and 
+
+network environment with particular emphasis on hands on skills in the 
+following areas: implementing 
+
+and supporting Windows Professional in a desktop environment, managing and 
+maintaining Windows 
+
+Server, implementing network infrastructure for network hosts and services.
+
+XV. Course Objectives (Learning Outcomes): 
+
+Students will understand the concepts and operation of Microsoft Windows 
+Professional and Server, 
+
+Students will be able to configure and troubleshoot Microsoft Windows 
+Professional and Server, 
+
+Student will be able to pass associated industry certification exams.
+
+XVI. Textbook(s):  This course will not be offered until 2005. Textbooks 
+will be selected based upon 
+
+the current version of Windows in use at that time. 
+
+XVII. Other Course Materials to be supplied by Student:  
+
+XVIII. Grading Policy (Number and Weight of Papers, Quizzes, Examinations, 
+etc.) Unit tests 20, 
+
+Written final 50, Labs 10, Hands on Final 20
+
+XIX. Detailed Description of Project Final Examination (if applicable): 
+
+XX. Schedule of topics to be covered in Course: 
+
+
+
+CIF Entered/Printed:   November 14, 2007

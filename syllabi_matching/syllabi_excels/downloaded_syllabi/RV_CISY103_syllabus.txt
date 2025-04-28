@@ -1,0 +1,363 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+1
+
+
+
+              RARITAN VALLEY COMMUNITY COLLEGE
+
+                              
+
+                              
+
+
+
+I.    Basic Course Information
+
+
+
+  A.   Date of Revision:  Spring 2002
+
+
+
+  B.   Course Developer:   Pratap Reddy
+
+
+
+  C.   Course Number and Title: CISY-103, Computer Concepts
+
+
+
+     and Programming (was CISY-101, Computer Fundamentals)
+
+
+
+  D.   Sponsoring Department: Computer Information Systems
+
+
+
+     (CIS)
+
+
+
+  E.   Semester Credit Hours: 4
+
+
+
+  F.   Weekly Contact Hours: 5 (3, 2)
+
+
+
+  G.   Prerequisite:  Algebra Mod 2: Linear Behavior (or
+
+     proficiency as evidenced by placement test)
+
+  
+
+  H.   Laboratory Fees: Yes, at current rate
+
+
+
+  I.    Dept. Chair:  Tom Edmunds (tedmundsraritanval.edu)
+
+
+
+II.  Catalog Description
+
+
+
+This course is designed for students majoring in Computer
+
+Information Systems.  An overview of information processing
+
+including computer applications, algorithms, documentation,
+
+and analysis of problems for computer solutions.  Topics
+
+include computer hardware and software, data representation
+
+and organization, programming in QBASIC, a survey of
+
+computer languages and computer systems design concepts.
+
+
+
+III. Statement of Course Need
+
+
+
+This course provides students with detail instructions on
+
+the computer systems (hardware and software).  Students will
+
+explore what a computer is and what it does, what is data
+
+and how it is organized, the different types of computers in
+
+use today, and the advantages and disadvantages computers
+
+present society.  Students will delve in depth into the
+
+operations of the Central Processing Unit.  They will also
+
+be able to recognize by sight the various components of the
+
+system unit and name its principal function.  Throughout the
+
+course students will spend a considerable amount of time
+
+studying different input, output and storage devices.
+
+In this course students will receive an overview of the
+
+topics discussed in other CIS courses.  For instance,
+
+students will learn about various computer applications,
+
+such as the Microsoft Office Suite.  Discussions will be
+
+held about different programming languages, especially
+
+regarding those taught at Raritan Valley Community College.
+
+They will also be introduced to computer networking, systems
+
+analysis, and systems software.
+
+In this course students will receive hands-on training in
+
+programming in the QBASIC language.  Students will be
+
+required to use the QBASIC programming skills they acquire
+
+throughout the course to analyze real problems, design a
+
+solution, write the program, and finally test and debug the
+
+program.  Students will master such programming tools as
+
+structure charts, pseudocode, and flowcharts.
+
+The skills acquired throughout this course are a valuable
+
+asset in other computer science or programming courses
+
+students may take at Raritan Valley Community College or at
+
+other institutions or higher learning.   The set of skills
+
+they acquire while learning to program in QBASIC serve as
+
+the foundation for programming on other computer languages.
+
+
+
+IV.   Place of Course in College Curriculum
+
+
+
+     Required for following degree programs:
+
+      Management Information Systems (A.S.)
+
+    Computer Networking (A.A.S.)
+
+    Computer Programming (A.A.S.)
+
+    Microcomputer (A.A.S.)
+
+     
+
+     Required for following certificate programs:
+
+      Computer Networking
+
+    Computer Programming
+
+    Microcomputer
+
+    Systems Analyst
+
+    UNIX/C
+
+    PC Support
+
+     
+
+
+
+V.   Student Learning Outcomes
+
+
+
+At the conclusion of the course, students will be able to:
+
+      Understand the computers role in the workplace
+
+    Recognize the various components of a computer system
+
+and their principle function
+
+    Describe what a computer is and how it works
+
+    Describe the different types of computers available
+
+today
+
+    Understand in detail how the CPU works
+
+    Describe how the decimal, binary and hexadecimal
+
+numbering systems work
+
+    Convert values in one numbering system to another
+
+    Describe the role of secondary storage devices
+
+including magnetic disk, optical disk, and magnetic tape
+
+systems
+
+    Identify several types of input and output devices and
+
+explain their functions
+
+    Describe the major classes of software available in the
+
+marketplace
+
+    Detail the role of a utility program and outline
+
+several duties that each program performs
+
+    Describe several uses of telecommunication technology
+
+in use today
+
+    Describe the features of commonly used word processing,
+
+spreadsheet, database, and presentation application software
+
+    Identify and describe the components of the systems
+
+development life cycle
+
+    Describe a number of productivity tools used by
+
+computer professionals to develop application software
+
+    Understand the advantages and disadvantages computers
+
+have brought to society
+
+    Design, write and test simple computer programs using
+
+the QBASIC language to solve everyday problems
+
+    Design the solution to a problem using such tools as
+
+pseudocode code, structure charts, and flowcharts
+
+
+
+VI.  General Education Goals and Objectives
+
+
+
+     1.   The student will develop the ability to think
+
+       critically in developing solutions to common programming
+
+       problems
+
+2.   The student will develop the skills necessary to
+
+evaluate and solve problems
+
+
+
+VII.  Outline of Course Content
+
+
+
+      INTRODUCTION
+
+  1.   What is the computer and what does it do
+
+2.   Types of computers
+
+3.   Social Issues brought upon by Computers
+
+      HARDWARE
+
+  4.   The computer system
+
+5.   The CPU and how it works
+
+6.   Binary and Hexadecimal Numbering systems
+
+7.   Secondary Storage
+
+8.   Tapes and Disks
+
+9.   Printers and Display Devices
+
+      SOFTWARE
+
+  10.  The Operating System
+
+11.  Utility Programs
+
+      COMPUTER NETWORKS
+
+  12.   Telecommunication Applications in use Today
+
+13.   Network Topologies
+
+14.  LANs and WANs and other Networks
+
+      INFORMATION SYSTEMS
+
+  15.  Computer Systems commonly found in Organizations
+
+16.  The Systems Development Life Cycle
+
+17.  Application Software development process
+
+      PRODUCTIVITY SOFTWARE
+
+  18.  Word Processing and Desktop Publishing
+
+19.  Spreadsheets and Presentation Graphics
+
+20.  Database Management
+
+      QBASIC
+
+  21.  Introduction to Structure Programming and Problem
+
+     Solving
+
+22.  Input and Output Statements
+
+23.  Control Structures
+
+24.  Programming for Decisions (Modularizing Programs)
+
+25.  Programming for Repetition (Loop Structures)
+
+26.  Functions and Debugging and Testing
+
+27.  Arrays and Searching and Sorting
+
+
+
+VIII. Textbook:  Parker, Charles S. Understanding Computers
+
+  Today and Tomorrow - 2000 Edition, The Dryden Press,
+
+  ISBN: 0-03-025968-1

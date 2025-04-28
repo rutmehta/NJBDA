@@ -1,0 +1,253 @@
+http://www.njtransfer.org/                       May 7, 2003
+
+                                     Professor E K Hawthorne
+
+             NJ Transfer for Web and Multimedia
+
+                              
+
+  I.   Course ID (department and course number)
+
+       Business department and CIS 124
+
+       
+
+  II.  Course name
+
+       Web and Multimedia
+
+       
+
+III. Number of credits awarded for course
+
+3
+
+
+
+  IV.  Prerequisite or co-requisite courses or academic
+
+       standing (if applicable)
+
+       CIS 120
+
+       
+
+  V.   Indicate if new or modified course (if modified course,
+
+       list old course ID)
+
+       New
+
+       
+
+  VI.  Semester and year course will first be offered (or, if
+
+       a modified course, semester and year when revised course
+
+       will first be offered)
+
+       Fall 2003
+
+       
+
+VII. Name and telephone number or e-mail address of
+
+department chair or other appropriate contact person
+
+Patricia Rodihan, Director of Computer Science programs
+
+rodihanucc.edu
+
+
+
+VIII.     Detailed course description
+
+This lecture-based and hands-on course introduces students
+
+to a breadth of Web-based multimedia elements: typography,
+
+still graphics, animation, digital audio, and digital
+
+video. The primary focus is on Web-based concepts,
+
+terminology, media elements, planning, and design, as well
+
+as the emerging software used to create and distribute
+
+interactive, Web-based multimedia applications. Students
+
+learn what multimedia is and why it is so important.
+
+Students learn practical applications as well as
+
+relevant trends and issues surrounding multimedia such as
+
+copyright laws and Web page accessibility for all persons
+
+regardless of ability. During hands-on laboratories,
+
+students will use many different software programs to create
+
+fancy text, still graphics, animation, digital audio and
+
+digital video.  Students will also use two types of digital
+
+cameras to acquire original, copyright-free photographs and
+
+video footage.
+
+
+
+  IX.  Outline of course objectives
+
+        Understand the history of the Internet and the World Wide
+
+       Web.
+
+        Understand the evolution of multimedia, and how Web-based
+
+       multimedia is both similar and different from other types of
+
+       multimedia.
+
+        Understand the importance of compression for each type of
+
+       multimedia element being delivered over the Web.
+
+        Realize the various job positions in this expanding field.
+
+        Understand copyright laws and how they apply to each of
+
+       the multimedia elements of a Web site.
+
+        Understand section 108 of the American Disabilities Act
+
+       regarding Web page accessibility for all persons regardless
+
+       of ability.
+
+        Create the planning documents and storyboard for an
+
+       interactive, multimedia Web site.
+
+        Implement from conception an interactive, multimedia Web
+
+       site.
+
+        Create an Adobe PDF file.
+
+        Use a digital still camera.
+
+        Use a digital video camera.
+
+        Use a bitmapped-base graphics creation and editing
+
+       program.
+
+        Use a vector-based graphics creation and editing program.
+
+        Use a frame-based animation program.
+
+        Use a path-based animation program.
+
+        Use an audio capture and editing program to convert analog
+
+       sound to digital sound.
+
+        Use a video capture and editing program to convert analog
+
+       video to digital video.
+
+        Use an authoring program such as Macromedia Dreamweaver
+
+       and Microsoft FrontPage to create an interactive, multimedia
+
+       Web site.
+
+        Write pure HTML code.
+
+        Write simple scripting code.
+
+       
+
+  X.   Texts, Journals, and other materials used in course
+
+       
+
+        Multimedia and the Web: Creating the Digital Excitement by
+
+       Calleen Coorough. 2001 Harcourt College Publishers.  ISBN 0-
+
+       03-032188-3.
+
+       
+
+        Association for Computing Machinery digital library.
+
+       
+
+  XI.  Grade determinants
+
+       3 exams                         60 (20 each)
+
+       1 information literacy assignment              20
+
+       Multimedia projects and portfolio assignments  20
+
+       
+
+  XII. Number of papers and examinations
+
+       3 exams
+
+       1 information literacy assignment
+
+       
+
+  XIII.     Schedule of topics to be covered
+
+        The Internet and Web-based multimedia.
+
+        Various career paths in this expanding field.
+
+        Understanding copyright laws.
+
+        Planning and storyboarding the multimedia Web site
+
+       including a complete design strategy, as well as
+
+       organizational and navigational structures.
+
+        Designing the user interface and Web page
+
+       accessibility.
+
+        Creating text, typography, cascading style sheets,
+
+       and Adobe PDF files.
+
+        Creating still graphics and comparing graphic file
+
+       formats.
+
+        Creating animation, both frame-based and vector-
+
+       based.
+
+        Creating digital audio, both downloadable and
+
+       streaming file formats.
+
+        Creating digital video, both downloadable and
+
+       streaming file formats.
+
+        Using HTML and different types of Web authoring
+
+       systems.
+
+        Comparing different markup languages such as SGML,
+
+       HTML, DHTML, VRML, SMIL, XML, and WML.
+
+        Comparing and using scripting languages.

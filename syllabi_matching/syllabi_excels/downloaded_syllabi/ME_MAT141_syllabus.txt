@@ -1,0 +1,254 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE OUTLINE
+Course Number			Course Title				    Credits
+       MAT141			          College Algebra				       4
+
+       
+Hours: Lecture/Lab/Other 
+4 Lecture Co- or Pre-requisite
+MAT135 with a minimum C grade or better or equivalent placement score on the College Level Math Placement TestImplementation sem/year
+Fall 2008
+
+Catalog description (2006-2009 Catalog):
+
+In-depth study of linear and quadratic functions, their graphs and transformations; inverse functions; modeling; polynomial functions and their graphs; and conic sections.  The graphing calculator will be used throughout the course. 4 lecture hours
+
+
+Is the course New, Revised or Modified?  Revised
+
+
+Required texts/other materials
+
+1.  Text: College Algebra: An Early Functions Approach, by Blitzer
+       Publisher:  Pearson Prentice-Hall
+2.  Calculator:  A graphing calculator is required.  Recommended: TI-83, 84 or 86.  
+       Calculators with symbolic manipulation are not permitted.
+
+
+Revision date:		Course coordinator:
+Fall 2008			Yvonne Greenbaun    609.570.3894  	greenbay@mccc.edu
+				 Edith Silver	            609.570.3451   silvere@mccc.edu
+
+
+Information resources:
+* The college library has many books, CDs and videos available.
+* MyMathLab is an on-line companion to the text offering a lot of practice. 
+* The Learning Center has tutoring and help available to the students.
+
+Course Competencies/Goals:
+
+Students will be able to demonstrate the ability to:
+
+A. recognize and work with functions and function notation.
+B. determine the inverse of a function, if it exists, and the relationship that exists between and function and its inverse both algebraically and graphically.
+C. solve algebraically and graphically linear and quadratic equations and inequalities.
+D. explain the relationship of real numbers to complex numbers and perform algebraic operations with complex numbers.
+E. recognize common graphs, graphing transformations and find pertinent information from the graphs.
+F. define a polynomial and explain the characteristics of the graph of a polynomial including end behavior, degree and multiplicity of zeros.
+G. perform the algebra of functions including the composition of functions.
+H. recognize algebraically and graphically the conic sections and find pertinent information about them.
+I. demonstrate expertise in sketching functions and in using the graphing calculator to graph functions, to enter expressions on which mathematical operations are to be performed properly,  and to find a linear or quadratic regression for given data.
+J. solve word problems (or models).
+
+
+
+Course-specific General Education Knowledge Goals and Core Skills:
+
+
+General Education Knowledge Goals:
+
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+
+MCCC Core Skills:
+
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+
+
+In the following Units of Study in Detail Course Competencies/Goals will be denoted CG, General Education Knowledge Goals will be denoted GE,  and MCCC Core Skills will be denoted CS.
+
+Units of Study in Detail:
+
+Unit I – Functions and Graphs -  Approximately 5 weeks
+
+The student will  be able to:
+
+1.   define and use properly in written and oral communication all of the vocabulary presented in
+      this unit. (CG A; GE 1,2; CS A)
+2.   sketch graphs of equations by point plotting and by using a graphing calculator. (CG C,I;
+      GE 1,2; CS A,B)
+3.   use graphs of equations to solve application problems. (CG C,J; GE 2, 4; CS B)
+4.   find the slopes of lines and use slope to identify parallel and perpendicular lines. (CG C,J; 
+      GE 2; CS B)
+5.   write linear equations given points on lines and their slopes. (CG C,J; GE 1,2; CS A,B)
+6. use slope intercept forms of linear equations to sketch lines. (CG C,J; GE 2; CS A,B)
+7. find x- and y- intercepts of graphs of equations. (CG E,J;  GE 2; CS B)
+8. find solutions of equations graphically. (CG C,I; GE 2; CS B)
+9. find the points of intersection of two graphs. CG C,I; GE 2; CS B) 
+10. decide whether a relation between two variables identifies a function.	 (CG A: GE 2; CS A,B)
+11. use function notation, evaluate functions and find the domains and ranges of functions.
+(CG A; GE 2; CS A,B)
+12. use functions to model and solve application problems. (CG A, J; GE 2; CS B)
+13. evaluate difference quotients. (CG A; GE 2; CS B)
+14. use the vertical line test for to determine if a graph represents a functions. (CG A; GE 2; 
+CS B)
+15. determine from its graph intervals on which function is increasing, decreasing or constant. (CG A,I; GE 2; CS B)
+16. determine relative maximum and minimum values of quadratic functions. (CG A,E,I; GE 2: CS B)
+17. identify and graph piecewise functions. (CG A,E,I; GE 2; CS B)
+18. identify even and odd functions. (CG A,G; GE 2; CS 2)
+19. recognize graphs of common functions. (CG A,E;GE 2; CS B)
+20. use vertical and horizontal shifts, reflections and non-rigid transformations to graph functions. (CG E, I; GE 2; CS A,B)
+21. add, subtract, multiply and divide functions. (CG A,E,G; GE 2; CS B)
+22. find compositions of one function with another function. (CG A,E,G; GE 2; CS B)
+23. use combinations of functions to model and solve application problems. (CG A,E,G,J; GE 2; CS B)
+24. find inverse functions and verify that two functions are inverses of each other. (CG A,B,E,G; GE 2; CS A,B)
+25. determine graphically and algebraically  whether a function has an inverse. (CG A,B; GE 2; CS A,B)
+26. determine if functions are 1-1 and, if not, how to restrict the domains so that they are. (CG A, B,G; GE 2; CS A,B)
+27. find inverse functions, if they exist, algebraically. (CG A,B,G; GE 2; CS B)
+
+
+
+
+Unit II:  Equations and Inequalities    Approximately 4 weeks
+
+The student will be able to:
+
+1. define and use properly in written and oral communication all of the vocabulary presented in this unit. (CG A; GE 1,2; CS, A)
+2. solve equations involving rational expressions. (CG C; GE 2; CS B)
+3. write and use common formulae and mathematical models to solve application problems.
+(CG C,J; GE 2; CS A,B)
+4. use the imaginary unit, i, to write complex numbers. (CG D; GE2; CS A,B)
+5. perform the algebra of  complex numbers. (CG C,D; GE2; CS B)
+6. use complex conjugates to write the quotient of two complex numbers in standard form. 
+(CG D; GE2; CS B)
+7. plot complex numbers in the complex plane. (CG D; GE2; CS B)
+8. solve quadratic equations by factoring, extracting square roots, completing the square and using the quadratic formula. (CG C,D; GE2, CS B)
+9. solve equations of quadratic form. (CG C,D; GE 2; CS B)
+10. solve polynomial equations of degree greater than two. (CG C; GE2; CS B)
+11. solve equations involving radicals, fractions and/or absolute values. (CG C; GE2; CS B)
+12. use quadratic equations to model application problems. (CG C,I,J; GE 2; CS B)
+13. use properties of inequalities to solve linear inequalities algebraically and graphically. 
+(CG C,I; GE 2; CS B)
+14. solve absolute value inequalities algebraically and graphically. (CG C,I; GE 2; CS B)
+15. solve simple rational inequalities. (CG C,I; GE 2; CS B)
+16. use inequalities to model and solve application problems. (CG C,I,J; GE 2; CS B)
+17. construct scatter plots and interpret correlation using a graphing calculator (optional).
+ (CG C,I; GE2; CS B)
+18. use a graphing calculator to find linear models for data. (CG I; GE 2; CS B)
+
+
+Unit III – Polynomial Functions     Approximately 3 weeks
+
+The student will be able to:
+
+1.   define and use properly in written and oral communication all of the vocabulary presented in
+      this unit. (CG A; GE 1,2; CS A)
+2.   determine whether a given expression or graph represents a polynomial. (CG F; GE 2; CS B)
+3.   apply the techniques of graph transformations to graph polynomials. (CG E,F,I; GE 2; CS B )
+4.   determine the end behavior of a polynomial using the  graphing transformations,  the degree
+      and the leading coefficient. (CG F; GE 2; CS B)
+5.   graph polynomials (roughly, without the calculator) using intercepts and end behavior.
+      (CG F,I; GE 2; CS B)
+6.   use the graphing calculator to graph and analyze a polynomial functions. (CG F,I; 
+      GE 2;CS B )
+7.   find local extrema of polynomials and zeros to three decimal places graphically. (CG F,I; 
+      GE 2; CS B)
+8.   write quadratic functions in standard form and use transformation and the results to sketch the
+      graph. (CG A,E,F,I; GE 2; CS A,B)
+9.   find minimum or maximum values of functions in application problems. (CG F,I,J; GE 2;
+      CS B)
+10. classify scatter plots as linear or quadratic and use the calculator to find appropriate models.
+     (CG C,I; CE 2; CS A,B)
+
+Unit IV – Conic Sections  Approximately 3 weeks
+
+The student will be able to:
+
+1.   define and use properly in written and oral communication all of the vocabulary presented in
+      this unit. (CG A; GE 1,2; CS A)
+2.   describe how conic sections are formed and how to recognize from an equation which of the 
+      conic sections the equation represents. (CG H; GE 1,2; CS A)
+3.   write the equation of a parabola using focus, directrix or vertex. (CG C,H; GE 2; CS A)
+4.   find the focus, directrix and vertex given the equation of a parabola. (CG H; GE 2; CS B)
+5.   sketch a parabola given focus, directrix and vertex or given its equation. (CG H,I; GE 2;
+      CS B)
+6.   find the equation of an ellipse or hyperbola using center, focus, and vertices or using the 
+      eccentricity and vertices. (CG H,I; GE 2; CS B)
+7.   find the center, vertices, foci and asymptotes of a hyperbola given the equation and vice versa.
+      (CG H,I; GE 2; CS B)
+8.   write the equation of a circle given the center and radius. (CG H,I; GE 2; CS A,B)
+9.   find the center and radius of a circle given the equation and vice versa. (CG H,I; GE 2: CS B) 
+10. use the properties of transformations of functions to analyze conic sections that are shifted
+      from the origin. (CG E,H,I; GE 2; CS B)
+11. solve application problems involving conic sections. (CG H,I,J; GE 2; CS B)
+
+
+
+Evaluation of student learning:
+
+Tests, quizzes, homework assignments and projects may be used in evaluating the students’ progress throughout the course depending on the individual instructor.  The department has prepared four unit tests and a final exam as well as reviews for each. A suggested day-by-day schedule and suggested homework problems are available to the instructors.  These are available from the course coordinators.  It is recommended that the instructors utilize the prepared tests and exam.  The final exam must be given in the course.  
+
+A possible plan for determining the students’ final grades is as follows:
+
+Unit tests (4 – one for each unit)			60%
+Cumulative Final Exam				25%
+Homework, Projects and quizzes		15%
+
+
+Academic Integrity Statement:  
+
+Under no circumstance should students knowingly represent the work of another as one’s own.  Students may not use any unauthorized assistance to complete assignments or exams, including but not limited to cheat-sheets, cell phones, text messaging and copying from another student.  Violations should be reported to the Academic Integrity Committee and will be penalized.  Please refer to the Student Handbook for more details.
+
+Before taking this course, the student is expected to be able to:
+* define and solve linear equations in one variable.
+* determine if a given number is a solution to a given linear equation.
+* define and solve linear inequalities in one variable.
+* determine if a given number is a solution to a given linear inequality.
+* graph solutions to linear inequalities on a real number line and express solutions in interval notation.
+* define, solve, and graph solutions to compound linear inequalities, as well as compound linear inequalities using “and” & “or” terminology.
+* plot points and identify quadrants on the coordinate plane.
+* define independent (x-variable) and dependent (y-variable) axes.
+* read, interpret, and explain trends in graphs which model applications.
+* define, calculate and interpret slope, especially as a rate of change.
+* determine relationship between slope and horizontal, vertical, parallel, and perpendicular lines.
+* define and graph linear equations in two variables. 
+* identify and graph x- and y-intercepts of a graph, and interpret them in context.
+* express and graph linear equations in slope-intercept form.
+* use linear modeling to find the equation of a line through two given points, or a slope and y-intercept.
+* define relations and functions.
+* use function notation to evaluate outputs for given inputs.
+* identify the domain and range of a function.
+* graph simple functions; apply vertical line test.
+* define monomial and polynomial (and its degree).
+* add and subtract polynomials.
+* multiply monomials and binomials (using FOIL) and special products (squares of binomials, etc.)
+* divide polynomials.
+* factor the GCF from polynomials and expressions.
+* factor polynomials by grouping.
+* factor various trinomials.
+* factor the difference of two squares, and the sum/difference of two cubes.
+* define and solve quadratic equations by the zero product property.
+* define rational expressions and identify where they’re undefined.
+* simplify rational expressions.
+* add, subtract, multiply and divide rational expressions.
+* solve rational equations.
+* define the imaginary number i and complex number  
+* define and solve quadratic equations by completing the square and/or the quadratic formula to get both real and complex solutions.
+* use the discriminant to find the number of real and complex solutions to a quadratic equation.
+* graph quadratic equations, identifying the vertex as well as the maximum/minimum value attained by the function.
+* identify the domain and range of a quadratic function.
+* solve linear systems of equations having solutions
+* define and calculate square, cube, and nth root of a number.
+* calculate and/or simplify expressions with radicals and rational exponents.
+MAT141	Course Outline	2008
+
+
+
+
+6
+
+

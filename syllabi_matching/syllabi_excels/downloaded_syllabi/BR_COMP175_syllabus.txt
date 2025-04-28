@@ -1,0 +1,424 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP175
+
+
+
+
+
+COURSE NAME
+
+Introduction to Game Design and Development
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course teaches the student the fundamental concepts needed to design 
+and develop a game. The focus is on the development process and the 
+documentation required to successfully implement a game, including the 
+creation of a game treatment and game spec. Rules, play mechanics, balance, 
+storytelling, interface design, and team management, and differentiation 
+between genres are also covered. 
+
+
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Introduction to Game Design
+
+II. Game Settings and Storytelling
+
+III. Character Development
+
+IV. User Experience
+
+V. Gameplay
+
+VI. Game Balance
+
+VII. Team Management and Roles
+
+VIII. Game Genres, Group I
+
+IX. Game Genres, Group II
+
+X. Game Genres, Group III
+
+
+
+
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Andrew Rollings and Ernest Adams on Game Design
+
+By Andrew Rollings  Ernest Adams, New Riders, ISBN 1-5927-3001-9
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+GRADEREQUIREMENTS
+
+
+
+AAverage grade of 90 thru 100 
+
+
+
+BAverage grade of 85 thru 89
+
+
+
+BAverage grade of 80 thru 84
+
+ 
+
+CAverage grade of 75 thru 79
+
+
+
+CAverage grade of 70 thru 74
+
+
+
+DAverage grade of 60 thru 69
+
+
+
+FEarn an average grade below 60 or have 3 unexcused absences.
+
+Required assignments: 25 of grade
+
+Projects: 25 of grade
+
+Assignments and projects will be graded for completeness and quality of 
+work. Assignment and project grades will be reduced for each week they are 
+late. 
+
+Midterm Exam: 25 of grade
+
+
+
+Final Exam: 25 of grade
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT 1: Introduction to Game Design
+
+
+
+The student will be able to:
+
+Define game design
+
+Identify design documents
+
+Understand the skills required of a game designer
+
+Develop an idea for a game
+
+Understand elements which influence game design
+
+
+
+Assignments:
+
+Read Chapters 1 and 2 in text.
+
+Assignment 1: Complete game concept worksheet on page 53.  Submit an idea 
+for an original game. 
+
+
+
+The student will be able to:
+
+Create a world for a game
+
+Define a games concepts of time, space, emotions, and logic.
+
+Differentiate between realism and abstraction
+
+Develop a story
+
+Create a narrative
+
+Assignments:
+
+Read Chapters 3, 4 and Appendix A in text.
+
+Assignment 2: Complete worksheet on page 118.
+
+Project 1: Create a High-Concept Document for a game.
+
+
+
+
+
+UNIT 3: Character Development
+
+
+
+ The student will be able to:
+
+Develop characters
+
+Apply story-driven character design
+
+Identify character archetypes
+
+Implement character growth
+
+Assignments:
+
+Read Chapter in text.
+
+Assignment 3:   Complete worksheet on page 145.
+
+
+
+
+
+UNIT 4: User Experience
+
+
+
+ The student will be able to:
+
+Understand the elements which make up a user experience
+
+Design an interface
+
+Evaluate hardware considerations
+
+Assignments:
+
+Read Chapter 6 in text.
+
+Assignment 4:   Complete worksheet on page 196.
+
+
+
+
+
+UNIT 5: Gameplay
+
+
+
+ The student will be able to:
+
+Define gameplay
+
+Understand differences between various categories of challenges
+
+Incorporate challenges into a game
+
+Assignments:
+
+Read Chapter 7 in text.
+
+Assignment 5: Complete worksheet on page 196.
+
+
+
+
+
+UNIT 6: Game Balance
+
+
+
+ The student will be able to:
+
+Define game balance
+
+Understand static and dynamic balance
+
+Create a simple net payoff matrix
+
+Evaluate trade-offs
+
+Assignments:
+
+Read Chapter 8 in text.
+
+Read Appendix A.
+
+Assignment 6: Complete worksheet on page 285.
+
+Project 2: Create a game Treatment for the game.
+
+
+
+
+
+UNIT 7: Team Management and Roles
+
+
+
+ The student will be able to:
+
+Describe the current model of game development
+
+Identify types of team members
+
+Successfully assign personnel
+
+Apply methods to improve morale
+
+Assignments:
+
+Assignment 5: Groups will be formed which will setup a company to implement 
+a project. 
+
+The students in the group will create a document which will identify roles 
+and assign members to those roles. The group will outline the duties of each 
+member. 
+
+
+
+
+
+UNIT 8: Game Genres, Group I
+
+
+
+ The student will be able to:
+
+Understand differences between action, strategy, and role playing games.
+
+Identify special design considerations for this group of genres.
+
+Recognize common elements of each category
+
+Assignments:
+
+Read Chapters 9, 10, and 11 in text.
+
+Assignment 6: Complete one worksheet on either page 319, 343, or 367.
+
+
+
+
+
+UNIT 9: Game Genres, Group II
+
+
+
+ The student will be able to:
+
+Understand differences between sports, vehicle simulation, and construction 
+simulation games 
+
+Identify special design considerations for this group of genres
+
+Recognize common elements of each category
+
+Assignments:
+
+Read Chapters 12, 13, and 14 in text.
+
+Assignment 7: Complete one worksheet on either page 393, 414 or 439.
+
+
+
+
+
+UNIT 10: Game Genres, Group III
+
+
+
+ The student will be able to:
+
+Understand differences between adventure, online, and other groups of games
+
+Identify special design considerations for this group of genres
+
+Recognize common elements of each category
+
+Assignments:
+
+Read Chapters 15, 16, and 17 in text.
+
+Assignment 6: Complete worksheet on page 475.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,340 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+4
+
+IST237 Java Programming
+
+
+
+
+
+                                                                 
+
+                                                                 
+
+                 Mercer County Community College
+
+                                
+
+           Arts, Communication and Technology Division
+
+                                
+
+                             IST 237
+
+                                
+
+                        JAVA PROGRAMMING
+
+                                
+
+                                
+
+                                
+
+                                
+
+
+
+COURSE DESCRIPTION
+
+
+
+An introduction to JAVA programming and applications on the World
+
+Wide  Web.   Students  will  write,  compile,  and  execute  JAVA
+
+programs.   The course will explore the development  of  platform
+
+independent graphical user interfaces with JAVA tools.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:  Competency in object oriented programming
+
+language such as Visual Basic,
+
+          Powerbuilder or C
+
+
+
+Co-requisites:
+
+
+
+Credits:  3         Lecture Hours: 2         Studio/Lab Hours:  2
+
+
+
+
+
+Food  and  drink  are strictly prohibited in  classrooms  as  per
+
+health  and safety laws.  Students may not bring in chemicals  or
+
+cleaning fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox             Latest Review:
+
+Fall 2003
+
+GRADING
+
+
+
+There will be 5 programming assignments and four tests
+
+contributing to your grade.  There will be no makeup test.
+
+Project assignments will be made at appropriate times during the
+
+semester.
+
+
+
+     Projects will comprise 60 of the final grade.
+
+     Test will comprise 40 of the final grade.
+
+
+
+
+
+JAVA PROGRAMMING
+
+
+
+WEEK 1:   Introducing JAVA
+
+               Language Fundamentals
+
+               Keywords and Identifiers
+
+               Primitive Data Types, Operators, Assignment
+
+               Literal, Strings, Arrays
+
+               Program Structure and Environment
+
+                Packages,  Classes and Fields, Flow  Control  and
+
+Exceptions
+
+               How Java Differs from C and C
+
+
+
+WEEK 2:   Object Oriented Programming
+
+               Theory and Technique
+
+
+
+WEEK 3:   Classes and Objects
+
+               Introduction to Classes and Objects
+
+                Object Creation and Destruction, Class Variables,
+
+Class Methods
+
+               Modifiers, Subclasses and Interfaces
+
+
+
+WEEK 4:   Overriding Methods, Data Handling and Encapsulation
+
+               Abstract Classes and Interfaces
+
+               Converting and Casting, Java Errors and Exception
+
+
+
+WEEK 5:   Programming with the Java API
+
+               Applets, Drawing Graphics
+
+                 Handling   Events,  Reading  Applet  Parameters,
+
+Animation
+
+               java.applet Package
+
+               java.awt Package
+
+               java.awt.event Package
+
+               java.lang Package
+
+               java.net Package
+
+               java.util Package
+
+
+
+
+
+WEEK 6:   Programming with the Java API Contd.
+
+WEEK 7:   Graphical User Interface
+
+               All Java GUI Components
+
+               Visual Components, Container Components
+
+               Menu Components, Handling GUI Events
+
+
+
+WEEK 8:   Graphical User Interface Contd.
+
+
+
+WEEK 9:   Input and Output
+
+                Reading  and Displaying Files, Getting  Directory
+
+and File Information
+
+               Copying a File, Filtering Input, Pipes
+
+
+
+WEEK 10:  Threads
+
+               Threads and Thread Groups, Deadlock
+
+
+
+WEEK 11:  Networking
+
+               Downloading the Contents of URL
+
+                 Using  URL  Connection,  Sending  and  Receiving
+
+Datagrams
+
+               Implementing Client/Server
+
+
+
+WEEK 12:  Introduction to Java Beans
+
+               Bean Basics
+
+
+
+WEEK 13:  Introduction to JDBC
+
+                Accessing Database, Building Database, Using  API
+
+Database
+
+
+
+WEEK 14:  Images in Java Applets and application
+
+               Smooth Animation
+
+               Keeping Track of Images
+
+               Filtering Images
+
+
+
+WEEK 15:  Building Web Pages
+
+               Basics of Web Pages
+
+               Structure of an HTML Page
+
+
+
+
+
+ACADEMIC INTEGRITY STATEMENT
+
+
+
+A student who a.) knowingly represents work of others as his/her
+
+own b.) uses or obtains unauthorized assistance in the execution
+
+of  any  work  or  c.)  gives fraudulent assistance  to  another
+
+student  is  guilty  of cheating. Violators will  be  penalized.
+
+(Student Handbook)
+
+
+
+CLASSROOM CONDUCT STATEMENT
+
+
+
+It  is  the  students  responsibility to  attend  all  of  their
+
+classes.  If  they miss a class meeting for any reason,  students
+
+are   responsible   for  all  content  that   is   covered,   for
+
+announcements  made  in  their absence,  and  for  acquiring  any
+
+materials that may have been distributed in class. It is expected
+
+that  students be on time for all their classes. If students walk
+
+into  a class after it had begun, it is expected that they choose
+
+a  seat  close  to where they entered the room  so  they  do  not
+
+disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy during
+
+class  session.  Engaging in private, side  conversations  during
+
+class   time  is  distracting  to  other  students  and  to   the
+
+instructor.  Leaving  class  early without  having  informed  the
+
+instructor prior to class is not appropriate. Unless there is  an
+
+emergency, leaving class and returning while class is in  session
+
+is  not  acceptable behavior. Disruptive behavior  of  any  type,
+
+including  sharpening  pencils  during  class  while  someone  is
+
+speaking, is not appropriate.
+
+
+
+The  college  welcomes  all  students into  an  environment  that
+
+creates  a sense of community and pride and respect we  are  all
+
+here to work cooperatively and to learn together.

@@ -1,0 +1,313 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+1
+
+
+
+              RARITAN VALLEY COMMUNITY COLLEGE
+
+                   ACADEMIC COURSE OUTLINE
+
+                              
+
+   MATH 100 FINITE MATHEMATICS (FOR BUSINESS APPLICATIONS)
+
+                              
+
+
+
+I.   Basic Course Information
+
+     
+
+     A.      Course Number and Title:
+
+          Finite Mathematics (For Business Applications)
+
+     
+
+     B.   Date of Revision:        September 2001, updated April
+
+     2002
+
+     
+
+     C.   Sponsoring Department:   Mathematics
+
+     
+
+     D.   Semester Credit Hours:   3
+
+     
+
+     E.   Weekly Contact Hours:    Lecture  3
+
+                              
+
+     F.     Prerequisites:            Intermediate  Algebra,
+
+     Algebra Mod 4, or
+
+                                 satisfactory    score    on
+
+     placement test
+
+     
+
+     G.   Laboratory Fees:         None
+
+     
+
+     H.      Dept.    Chair           Dr.   Nora    Thornber
+
+     (nthornberaritanval.edu)
+
+     
+
+     
+
+II.  Catalog Description
+
+     
+
+     This  course  is  designed for  students  in  business.
+
+     Emphasis is placed on computational skills, ideas,  and
+
+     problem  solving  rather than on  mathematical  theory.
+
+     Topics  include systems of equations, matrices,  linear
+
+     programming, probability, statistics, and finance.
+
+
+
+     
+
+III. Statement of Course Need
+
+
+
+     Finite  Mathematics  (For  Business  Applications)   is
+
+     designed  as  a  transfer  course  for  students  in  a
+
+     business curriculum.  RVCC currently does not have such
+
+     a  course on this topic available for students to take,
+
+     and this course would fill that need.
+
+     
+
+
+
+
+
+IV.  Place of Course in College Curriculum
+
+
+
+     A.   This   course  satisfies  the  General   Education
+
+          requirements in Mathematics and Science.
+
+
+
+     B.   Degree program, option, or certificate requirement
+
+          (specify program, option, or certificate):
+
+     
+
+          Applied Finite Math would also be appropriate  for
+
+          AS  and AAS business programs and for certain  AAS
+
+          technology programs in CIS.
+
+     
+
+     C.   Free Elective
+
+
+
+     D.   Course transferability:  This course is designed
+
+          to be similar to equivalent courses in business
+
+          programs at transfer colleges and should help with
+
+          the transfer of some AAS programs.
+
+
+
+
+
+V.   General Education Goals
+
+
+
+     To develop the ability to think clearly
+
+     
+
+     To develop the ability to communicate effectively
+
+     
+
+     To  collect,  organize,  and  evaluate  information  to
+
+     address different kinds of problems
+
+          
+
+     To develop the ability to reason quantitatively
+
+     
+
+     To  develop an understanding of fundamental principles,
+
+     concepts, and methods of the sciences.
+
+     
+
+          
+
+VI   Student Learning Outcomes
+
+
+
+     The student will be able to
+
+     
+
+     A.   Find the break-even point in producing and selling
+
+          items
+
+B.   Find the line of best fit for a set of data points
+
+C.   Maximize investment returns
+
+D.   Find how much of each material to use to minimize the
+
+production cost of an item
+
+E.   Find the monthly payments on a loan taken out to
+
+purchase a house
+
+F.   Find the probability that the number of items produced
+
+in a given week lies between certain limits, given the
+
+average number produced and the variance of the number of
+
+items produced
+
+
+
+
+
+VII. Outline of Course Content
+
+
+
+     Simplified  but  realistic versions of applications  to
+
+     real-world  models  are  presented.   Emphasis  is   on
+
+     computational skills, ideas, and problem solving rather
+
+     than  mathematical theory.  The topics include but  are
+
+     not limited to:
+
+     
+
+     A.   Systems of Linear Equations (Including a Review of
+
+          Linear Equations)
+
+          1.   Matrices
+
+2.   Matrix algebra
+
+     B.   Linear Programming
+
+          1.   Geometric approach
+
+2.   Simplex method
+
+     C.   Finance
+
+          1.   Various types of interest
+
+2.   Annuities
+
+3.   Amortization
+
+4.   Applications
+
+     D.   Counting Techniques
+
+          1.   Sets, elements
+
+2.   Permutations, combinations
+
+3.   The Binomial Theorem
+
+     E.   Probability
+
+          1.   Properties of probability
+
+2.   Conditional probability, Independence
+
+3.   Expected Value
+
+     F.   Statistics
+
+          1.   Data organization
+
+2.   Measures of Central Tendency
+
+3.   Measures of Dispersion
+
+4.   The Normal Distribution, Random Variables
+
+     H.   Markov Chains (optional)
+
+
+
+
+
+VIII.     Suggested Materials
+
+
+
+     A.   Textbook:
+
+          Finite  Mathematics, An Applied  Approach,  Eighth
+
+     Edition,
+
+          by Abe Mizrahi and Michael Sullivan, John Wiley  
+
+          Sons, Inc., 2000, ISBN 0-471-32202-4
+
+          
+
+     B.   Materials or equipment:
+
+
+
+          Scientific calculator required.
+
+
+
+     

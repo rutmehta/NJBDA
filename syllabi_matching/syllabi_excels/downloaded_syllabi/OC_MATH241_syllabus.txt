@@ -1,0 +1,189 @@
+Ocean County College
+
+Course syllabus
+
+
+
+
+
+1.Course Number and Title:MATH 241  Applied Calculus
+
+
+
+2.Semester Hours:3Contact Hours:(30)
+
+LecLab
+
+3.Catalog Description:
+
+
+
+This course is a survey of the major topics in calculus and their 
+
+applications, without an emphasis on theory. The course topics include 
+
+limits, derivatives ,integrals and their applications..  It is designed for 
+the 
+
+student needing calculus as a tool in other areas of study.  Technology will 
+
+be employed throughout the course.  This course does not fulfill the 
+
+calculus requirement for business, engineering, mathematics, or science 
+
+majors.
+
+
+
+4.Prerequisites:MATH 192, or MATH 195, or MATH 201 or high 
+
+school Precalculus with a grade of B or higher.
+
+
+
+5.Maximum Class Size:35
+
+Lab Fee:0
+
+Differential Funding Category:1
+
+
+
+6.Justification:
+
+a.Based on the recent explosion in technology and the expansion in 
+
+the use of mathematics in other disciplines, it has been observed 
+
+that students in non-science, non-mathematics majors are not 
+
+being adequately prepared for future course work.  The 
+
+Engineering and Business/Computer Science Departments have 
+
+brought this to light.
+
+
+
+b.There also has been a trend in four-year institutions to require 
+
+some students to study calculus at a less-rigorous level.  This 
+
+course would benefit that student and hopefully be a transferable 
+
+course.
+
+
+
+c.This course would better enable our students to function at a more 
+
+competent level in todays technologically oriented society.
+
+
+
+
+
+
+
+7.Course Objectives:
+
+a.To evaluate limits.
+
+b.To determine derivatives.
+
+c.To determine and evaluate integrals.
+
+d.To solve application problems involving derivatives and integrals.
+
+e.To solve first order differential equations.
+
+
+
+8.Methods of Instruction:
+
+a.Lecture
+
+b.Class discussion
+
+c.Group discussion
+
+d.Computer applications
+
+e.Graphing calculator applications
+
+
+
+
+
+9.Instructional Materials:
+
+a.Text:  Calculus and its Applications, 6e, by Marvin L. Bittinger, 
+
+Publisher:  Addison-Wesley
+
+b.Handouts
+
+c.Graphing calculator
+
+d.Computer software:  Converge and/or Derive
+
+
+
+10.Course Topics: 
+
+a.Limits
+
+b.The derivative and applications: maxima and minima, differential, 
+
+transcendental functions
+
+c.The integral and applications: formulas, means and root mean 
+
+squares, volumes, centroids, moments of inertia
+
+d.First Order Linear applications and differential equations
+
+
+
+11.Grade Determinants:
+
+Grade will be based upon performance on examinations and the quality
+
+of assigned projects submitted.
+
+
+
+The final grade in the course will be the cumulative grade based on the 
+following 
+
+letter grades or their numerical equivalents for the course assignments and 
+
+examinations:
+
+
+
+AExcellentBVery Good
+
+BGoodCAbove Average
+
+CAverageDPassing  Below Average
+
+FFailure
+
+
+
+12.Number of Papers and Examinations:
+
+Assessment
+
+
+
+In general, three tests are given of equal weight. Calculators are 
+
+permitted with the exception of the TI 89 , TI 92, or equivalent 
+
+calculator. No make-up tests are given.
+
+
+
+Date(s) reviewed/revised: March 2003 by P. Mitchell

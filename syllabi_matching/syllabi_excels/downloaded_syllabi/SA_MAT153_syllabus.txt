@@ -1,0 +1,52 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community MAT153 College Course Syllabus
+
+MAT153 Precalculus 4:0:4, Prerequisite: Assessment Test or MAT 136 or MA 95 or written permission of 
+instructor . Co-requisite: None
+
+Contact: Karen Mattison (876) 351-2672 kmattison@salemcc.edu 
+
+Course Description: This course prepares students for the study of Calculus.  This course will review 
+algebraic techniques and enable students to become proficient in analyzing linear, quadratic, polynomial, 
+rational, exponential, logarithmic and trigonometric functions.  Students are required to have a Texas 
+Instruments TI-83, TI-83 Plus, or TI-84 plus calculator.
+Place in the College Curriculum: This course is required in many of the college?s programs 
+and may be used as a 4 credit mathematics or open elective.
+Course Content Outline: I. Review of Algebraic Topics II. Functions (General)A. Domain & Range  B. 
+Sum, Difference, Product, and Quotient C.  Composition D. Inverses III. Linear Functions A. Slope B. 
+Graphs C. Equations D. Parallel and perpendicular E. Application IV.Quadratic Functions A. Standard 
+form and vertex B.Graphs C. ApplicationsD. V.Polynomial Functions A. Shapes of graphs B. Zeros C. 
+End behavior VI. Rational Functions A. Vertical B. symptotes C. Horizontal asymptotes D. Zeros E. 
+Graphs  VII. Exponential Functions A.Domain and range B. Asymptote C. Graphs D. Applications VIII. 
+Logarithmic Functions A. Domain and range B.  Asymptote C. Graphs D. Applications
+Performance Objective I:       The student will be able to analyze general functions.
+Performance Objective II:	The student will be able to analyze linear functions.
+Performance Objective III:	The student will be able to analyze quadratic functions.
+Performance Objective IV:	The student will be able to analyze polynomial functions.
+Performance Objective V:	The student will be able to analyze rational functions.
+Performance Objective VI:	The student will be able to analyze exponential functions.
+Performance Objective VII:	The student will be able to analyze logarithmic functions.
+Performance Objective VIII:	The student will be able to analyze trigonometric functions.
+Performance Objective IX:	The student will be able to graph trigonometric functions.
+Performance Objective X:	The student will be able to prove trigonometric identities
+Performance Objective XI:	The student will be able to solve trigonometric equations.
+Performance Objective XII:	The student will be able to analyze inverse trigonometric 
+functions.
+Performance Objective XIII:	The student will be able to solve a triangle problem
+General Education Outcomes: Critical Thinking & Problem Solving:  students will use critical thinking 
+and problem solving skills.
+General Education Outcomes Assessment:  A college-wide assessment program has been put into 
+place to enhance the quality and effectiveness of the curriculum and programs at Salem Community 
+College.  As part of this assessment program the learning objectives for this course will be assessed.  
+Assessment methods may include tests, quizzes, papers, reports and other instruments.  All information 
+will be held with Institutional Research and Planning.
+Course Requirements and Means of Evaluation: Self-evaluation, Tests and Quizzes, Auto-tutorial 
+interactive learning, Critical thinking skills scenarios
+Grading System:A=93-100	A- = 90-92 B+ = 88-89 B= 83-87 B- = 80-82 C+ =  78-79 C= 73-77 C- = 
+70-72 D+ = 68-69 D	= 60-67 F = Below 60	 F/A= The F/A grade is given for failing the course and 
+missing 30 percent or more of the course.
+
+Required Text(s): Larson, Hostetler. Precalculus: A Concise Course. Houghton Mifflin Company. 2007.  
+

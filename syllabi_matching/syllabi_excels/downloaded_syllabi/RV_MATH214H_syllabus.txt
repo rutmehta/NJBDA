@@ -1,0 +1,304 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College 
+
+Official Course Outline 
+
+
+
+
+
+MATH 214H: MATHEMATICAL THINKING  HONORS 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 214H: Mathematical Thinking  
+
+Honors 
+
+B. Date: November 1996 updated Summer 2001, updated Fall 2002 
+
+C. Sponsoring Department: Mathematics 
+
+D. Semester Credit Hours: 1 
+
+E. Weekly Contact Hours: 1 Lecture: 1 
+
+Laboratory: 0 
+
+F. Prerequisite or Corequisite: MATH 311: Unified Calculus I 
+
+G. Laboratory Fees: None
+
+H. Dept. Chair: Dr. Nora Thornber (nthornberaritanval.edu) 
+
+II. Catalog Description 
+
+Prerequisite or Corequisite: Unified Calculus I. This course is designed to 
+
+introduce students to the techniques of understanding and writing 
+mathematical 
+
+proof. Emphasis is on analyzing and writing proofs. Problems from a variety 
+of 
+
+mathematical areas are considered. Topics include set notation and 
+operations, 
+
+proof techniques, and induction. 
+
+
+
+III. Statement of Course Need 
+
+Honors courses in mathematics have been developed to provide mathematically 
+
+talented students the opportunity to obtain a level of rigor not currently 
+available 
+
+in existing courses. The concept of mathematical proof is fundamental to all 
+
+areas of mathematics, but is not stressed in any of the currently-offered 
+courses. 
+
+The ability to understand the underlying logic in proof requires effective 
+
+mathematical communication. This course will introduce the student to both 
+the 
+
+language and the logic used by mathematicians to work through problems that 
+
+cannot be solved by simply substituting numbers into a template. 
+
+
+
+02/19/03 Page 1 of 4 
+
+
+
+
+
+MATH 214: Mathematical Thinking - Honors 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. Mathematical Thinking satisfies general education requirements in 
+
+mathematics. It serves as one-credit of free elective in mathematics for all 
+
+programs. 
+
+B. Mathematical Thinking transfers as a mathematics course in most liberal 
+
+arts programs. 
+
+C. Mathematical Thinking serves as one-credit of an honors elective in 
+
+mathematics. 
+
+V. Outline of Course Content 
+
+A. Forward-backward method 
+
+B. Definitions and terminology 
+
+C. Quantifiers, Construction method 
+
+D. Quantifiers, Choose method 
+
+E. Quantifiers, Specialization 
+
+F. Nested Quantifiers 
+
+G. Contradiction Method 
+
+H. Contrapositive Method 
+
+I. Induction 
+
+VI. General Education Goals and Learning Outcomes 
+
+1. Education Goal: 
+
+The student will develop strategies to achieve precision in the use of 
+
+mathematical language (relates to Gen. Ed. Goals 1.a, 1.b, 1.c, 1.d, 1.e., 
+
+1.f, and 1.g.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Use the different methods of proof to prove a mathematical statement. 
+
+2. Education Goal: 
+
+The student will develop the ability to create proofs (relates to Gen. Ed. 
+
+Goals 5.a. and 5.d.). 
+
+
+
+2 11/26/02 
+
+
+
+
+
+
+
+MATH 214: Mathematical Thinking - Honors 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Manipulate quantified statements following the rules of mathematical 
+
+logic. 
+
+3. Education Goal: 
+
+The student will develop the ability to apply mathematical thinking to 
+
+problems in selected areas of the sciences (relates to Gen. Ed. Goal 6.c.) 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Translate a written statement into its mathematical form using 
+
+appropriate quantifiers. 
+
+VII. Modes of Teaching and Learning 
+
+The following are appropriate to the course and may be included 
+
+
+
+ lecture/discussion 
+
+ small-group work 
+
+ computer-assisted instruction 
+
+ student oral presentations 
+
+ student collaboration 
+
+ independent study 
+
+VIII. Papers, Examinations, and other Assessment Instrument 
+
+Student Learning outcomes are assessed using a combination of the following: 
+
+
+
+ homework problems 
+
+ tests 
+
+ final examination 
+
+ quizzes 
+
+ essays 
+
+ oral presentation 
+
+3 11/26/02 
+
+
+
+
+
+
+
+MATH 214: Mathematical Thinking - Honors 
+
+
+
+IX. Grade Determinants 
+
+Final grades are determined by a combination of tests, quizzes, projects, 
+labs, 
+
+homework, and a final exam. Individual instructors are free to use the above 
+in 
+
+any combination. 
+
+
+
+X. Texts and Materials 
+
+Textbook: How to Read and Do Proofs, 3rd edition, by Daniel Solow, John 
+
+Wiley  Sons Inc., 2002 
+
+XI. Resources 
+
+No additional resources are needed. 
+
+XII. Honors Courses 
+
+1. Mathematical Thinking deals with the subject of mathematical proof. 
+
+While it is always present in other math courses, formal proof is not 
+
+usually emphasized. A typical course in mathematical proof is usually 
+
+offered to mathematics majors at the junior-year level. This course 
+
+introduces the calculus student to the fundamentals of proof and gives 
+
+them experience in creating their own formal proofs of mathematical 
+
+statements. 
+
+2. See detailed Educational Goals and Student Learning Outcome in section 
+
+VI. 
+
+3. This is an existing and approved honors course. 
+
+calculus level. 
+
+Its content is at the 
+
+
+
+4 11/26/02 
+
+
+
+
+
+

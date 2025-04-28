@@ -1,0 +1,197 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+UNION COUNTY COLLEGE
+COURSE SYLLABUS
+
+COURSE NUMBER & NAME:	CIS 108 Introduction to Medical Informatics
+
+LECTURE/LAB HOURS	3 Lecture Hours
+
+CREDITS	3
+
+PREREQUISITES:	None
+
+COURSE DESCRIPTION:
+This course introduces the student to the field of medical informatics. Students learn about health data 
+acquisition, storage, security, and ethics. The course emphasizes the connection between computers 
+and telecommunications technology with health care.
+
+COURSE LEARNING OUTCOMES:
+Upon successful completion of this course the student should be able to:
+1.	Discuss the emergence of medical informatics technology and how it is influenced by ethics. 
+2.	Identify the essential concepts of biomedical computing and professions in this field.
+3.	Summarize the role of computers and communications in modern biomedical research, health, 
+and health care as it relates to IT policy.
+4.	Research, store, and secure electronic health record systems.
+5.	Evaluate medical informatics decision making technology. 
+
+
+STUDENT RESOURCES:
+Biomedical Informatics: Computer Applications in Health Care and Biomedicine, 4th ed.  edited 
+by Edward H. Shortliffe and James J. Cimino, Springer. 2013. ISBN: 978-1447144731 
+Storage device-flash drive. It is important that you save all your work until your final grade has been 
+received.
+.
+
+
+
+COURSE REQUIREMENTS:
+
+*	The successful completion of a tests and final exam. 
+*	The completion of all in-class assignments and projects. 
+*	The completion of all assigned readings and homework.
+*	Attendance and class participation. Students are required to attend all classes. See the College 
+Attendance Policy discussed in the UCC Catalog. 
+
+An essential element of this course includes information literacy. 'Information Literacy' is the 
+evaluation and assessment of integrated information. Students will be able to locate, discern, and 
+effectively use information to solve issues and/or problems.
+
+
+EVALUATION METHODS:
+	Assignments/Homework			40%
+	Tests						30%
+	Final Exam					20%
+	Research Paper				10%
+Grading:
+	A	90 or above
+C	70-76
+	B+	87-89
+D+	67-69
+	B	80-86
+D	60-66
+	C+	77-79
+F	below 60
+
+NOTE:
+The instructor reserves the right to modify the course requirements, assignments, grading procedures and other 
+related policies as circumstances may dictate.
+
+****STUDENTS WITH PHYSICAL LEARNING DISABILITIES****
+
+Any student with special needs that will affect performance in this class should feel free to make an 
+appointment to talk with the instructor during office hours (or by appointment) or contact the 
+disabilities counselor in the Counseling office on the Cranford Campus.
+
+Time
+Topic
+Assignments/Readings/Activities
+Week 1
+Syllabus.
+The emergence of medical 
+informatics
+Read: Chapter 1
+Week 2
+The role of computers in the 
+provision of medical services
+Professions in medical informatics
+Written: Web assignment
+Week 3
+Medical data
+Read: Chapter 2
+Week 4
+The acquisition & storage of data
+Con't Chapter 2
+Week 5
+What is medical decision making? 
+How is it done? What is involved?
+Test: Material from first four weeks.
+Read: Chapter 3
+Write answers to questions
+Week 6
+What is cognitive science?
+Read: Chapter 4
+Week 7
+More about cognitive science
+Written Assn: Short paper
+Week 8
+Essential concepts of medical 
+computing
+Reading: Corresponding chapter
+Week 9
+System design & engineering
+Explain research paper
+Test: Material from second four 
+weeks.
+Read: Corresponding chapter
+Week 10
+Electronic health records
+Reading: Corresponding chapter
+Write answers to questions
+Week 11
+More about electronic health 
+records.
+Written Assn: Does security matter?
+Week 12
+Information retrieval and digital 
+libraries
+Web assignment
+Week 13
+Emerging innovations and 
+technology 
+Test: Material from previous four 
+weeks.
+Web assignment
+Week 14
+Review
+Research Paper due
+Week 15
+
+Final Examination
+CLASS SCHEDULE:
+
+
+
+ 
+
+SUGGESTED TEACHING METHODOLOGIES:
+a.	Lecture, group discussion, presentations, multimedia/technology, projects, experiments, 
+demonstrations, etc.
+b.	Indication of the percentages or emphasis given to teaching methodologies used will assist 
+faculty members in course preparation and implementation.
+      
+
+ 
+CORRELATION OF PROGRAM OUTCOMES, COURSE OUTCOMES, AND ASSESSMENT
+      
+Program Learning 
+Outcomes
+
+Course Learning Outcomes
+Assessment of Outcomes
+Design, implement, and 
+administer a database 
+related to the health field
+Analyze a medical 
+situation and develop an 
+application by using 
+critical thinking skills and 
+appropriate software
+Identify the essential concepts of 
+biomedical computing and 
+professions in this field. 
+Research, store, and secure 
+electronic health record systems.
+Evaluate medical informatics 
+decision making technology.
+Written: Exams, research 
+paper, assignments.
+Verbal: Class discussion and 
+responses, group discussion 
+and responses.
+Communicate effectively 
+in written, verbal, and 
+electronic formats.
+Discuss the emergence of medical 
+informatics technology and how it is 
+influenced by ethics.
+Summarize the role of computers 
+and communications in modern 
+biomedical research, health, and 
+health care as it relates to IT policy.
+
+Written: Tests.
+Verbal: Discussions
+
+Intro to Medical Informatics Tech	1	2014 

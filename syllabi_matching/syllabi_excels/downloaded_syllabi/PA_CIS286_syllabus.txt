@@ -1,0 +1,256 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Course Outline
+
+
+
+Networking Security Fundamentals
+
+
+
+Title: Network Security FundamentalsCourse Number: CIS 286AB1
+
+Number of Credits:  3Laboratory Hours: Open lab
+
+Textbooks:Security  Guide to NETWORK SECURITY Fundamentals
+
+                         By Paul Cretario, Course Technology 
+
+
+
+Reference: Principles of Computer Security (Security and Beyond), 
+
+           By Wm. Author Conklin, McGraw-Hill 
+
+   
+
+Prerequisites: CIS 180
+
+
+
+
+
+
+
+Course Description:
+
+Introduces students to the basics of network security principles, including 
+authentication methods, malicious code, network and wireless security 
+techniques to safeguard against intrusions on file transfer services, 
+e-mail, web applications.  Students learn how this field relates to other 
+areas of information technology. Students gain network security practice 
+using hands-on lab exercises. This course prepares students for COMPTIAs 
+security certification exam and an entry-level information security position 
+in the IT field. 
+
+Course Outcome/Objective:
+
+Upon completion of this course, students will be able to:
+
+ Explain, implement and configure different authentication methods.
+
+ Explain and implement methods to manage different types of attacks and 
+malicious code. 
+
+ Identify the role of firewalls, routers, and other networking hardware 
+security measures. 
+
+ Explain and implement methods to manage security vulnerabilities associated 
+with remote access services, web applications, TCP/IP protocols, directory 
+and file transfer services, and e-mail 
+
+ Explain security issues related to wireless networking and instant 
+messaging. 
+
+ Determine the goals and factors involved in a secure network strategy, 
+including physical security concerns and disaster recovery 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation Criteria:
+
+
+
+To assess the above student outcomes, students will be given written 
+in-class exams, lab projects and homework assignment. In addition, students 
+have to demonstrate a satisfactory level of knowledge and Lab skills in the 
+following Security exam objectives: 
+
+ General security Concepts (Access control, Authentication, Attacks etc).
+
+ Communication security (Email, Web, FTP, wireless etc)
+
+ Infrastructure security (Devices, Security baselines, Application 
+hardening, Media, Topologies, Intrusion detection) 
+
+ Basics of Cryptography (PKI, Certificates)
+
+ Operational and organizational security (Physical security, Social 
+Engineering, Security policy) 
+
+
+
+Evaluation Method:
+
+Students will be graded on the basis of testing and an evaluation of 
+projects assigned by the instructor. The grade will be determined by the 
+following:  40 written tests, 20 Lab Projects, 10 homework, 20 Final Exam 
+and 10 attendance / participation. 
+
+Projects and homework will be assigned at the end of each chapter and a 
+minimum of 8 projects is required from each student. Some of these projects 
+will require group participation. 
+
+
+
+The 20 (Lab projects) of the grade is based on keeping a project notebook. 
+Students will be asked to obtain a small notebook or to use a lab notebook 
+and keep notes on the results of the hands-on projects at the end of each 
+chapter in the text. The notes will include comments that each student can 
+use once the class is over to help describe results of the 
+hands-on-projects. It will include any helpful tips or advice that might be 
+use in the future. 
+
+
+
+Special Facilities/Equipment:
+
+Hardware: Intel based system, notebook computer, a wireless NIC, and a Cisco 
+Aironet access point or 3Com AirConnect access point 
+
+Software:  Windows 2003 Server, Windows XP Professional or the Latest 
+version of Windows NOS. Free and open source downloadable software including 
+Knoppix-STD (Security Tools Distribution) Live CD, Fingerprint Synthesis, 
+BitDefender and FreeAVG Antivirus. 
+
+
+
+Resource Bibliography:
+
+ Security Guide to Network Security Fundamentals by Cisco Learning 
+Institute, Course Technology. 
+
+ 2600: The Hacker Quarterly
+
+ Principles of information Security by M. Whitman and H. Mattord, Course 
+Technology. 
+
+ Network Security A hackers Perspective by A Fadia, Premier Press.
+
+ Invasion Privacy by M. Weber, Premier Press.
+
+ A Guide to Operating systems Security by Michael Palmer, Course Technology
+
+ Biometrics for networking security by P. Reid, Prentice hall.
+
+
+
+ 
+
+ Weekly Detail Course Outline:
+
+
+
+WEEK 1    Chapter oneOperating Systems Security: Keeping 
+
+      Computers and Networks Security
+
+
+
+WEEK 2  3   Chapter twoViruses, Worms, and Malicious Software
+
+
+
+WEEK 4Chapter three            Security through Authentication and 
+\Encryption 
+
+
+
+WEEK 5Chapter FourAccount-based Security
+
+EXAM ONE
+
+
+
+WEEK 6  7Chapter Five File, Directory, and Shared Resources
+
+       Security 
+
+
+
+WEEK 8Chapter SixFirewalls and Border Security 
+
+
+
+WEEK 9Chapter Seven Physical and Network Topology Security  
+
+                        
+
+      
+
+WEEK 10Chapter Eight Wireless Security
+
+
+
+EXAM TWO
+
+
+
+WEEK 11Chapter Nine             Web, Remote Access, VPN Security
+
+
+
+WEEK 12Chapter TenE-mail Security
+
+
+
+WEEK 13Chapter Eleven          Security through Disaster Recovery
+
+
+
+WEEK 14Chapter Twelve          Security through Monitoring and Auditing
+
+Final Review
+
+
+
+WEEK 15Final Exam
+
+AB1Formerly CIS 210
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASSAIC COUNTY COMMUNITY COLLEGE
+
+Computer Information SciencesSpring 2007
+
+
+
+Cybersecurity / Computer Forensics Certificate             1 of 3

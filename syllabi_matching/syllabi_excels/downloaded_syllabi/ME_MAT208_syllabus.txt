@@ -1,0 +1,197 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE OUTLINECourse NumberCourse TitleCredits         MAT208                           Linear Algebra                                                           4Hours: lecture/Lab/Other 
+4 lecture hours                                                                                                                                   
+Co- or Pre-requisite
+
+Calculus I
+Implementation sem/year
+Fall 2012
+
+Catalog description (2012-2014 Catalog):   Designed as a sophomore level course for majors in Computer Science, Engineering, Physics, Biology, Chemistry or Mathematics.  Topics include  systems of linear equations from a computational as well as a theoretical point of view,  the geometry of Rn, linear equations and matrices, determinants, independence and basis, vector spaces and subspaces, the four fundamental subspaces, orthogonality,  linear transformations, and eigenvalues and eigenvectors. Applications to engineering, statistics, economics, science and other areas will be included and MATLAB will be used to gain additional insights into the concepts of linear algebra.
+Is course New, Revised, or Modified?  Revised 2012
+Required texts/other materials:  
+Elementary Linear Algebra with Applications, Kolman and Hill, 9rd Edition
+Publisher:  Pearson Prentice-Hall
+MATLAB Software
+
+Revision date: 2012 Course coordinator:    Yvonne A. Greenbaun
+                                       Phone:  609.570.3894
+                                       Email:  greenbay@mccc.edu
+Information resources: The Mercer County Community College Library has reference books that students may use. Students are also encouraged to utilize the Learning Centers for additional resources and/or tutoring. Other learning resources:  A list of freeware and other supplemental course material  that students may find helpful is available at greenbay@mccc.edu on the MAT208 homepage.  
+
+
+
+
+Course-specific General Education Knowledge Goals and Core Skills:
+General Education Knowledge Goals
+
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+
+MCCC Core Skills
+
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+
+In the Course Competencies/Goals list, General Education Knowledge Goals will be denoted GE and MCCC Core Skills will be denoted CS.
+
+
+Course Competencies/Goals:  
+
+Students will demonstrate the ability to:
+1.	generalize the properties of vectors to n-space.  (GE  2, CS B,E)
+2.  	solve Ax=b for matrices by the method of elimination involving row-reduction, pivots,     back-substitution, the invertibility of a square matrix A and matrix factorization. (GE 1,  2,4,  CS A, B,E)
+
+3.	define a vector space and subspace.  .(GE 1,  2, CS A, B)
+
+4.    	use the properties of determinants in applications involving the inverse of a matrix and volume problems. .(GE 1,  2, 4, CS A, B, E)
+
+5.    	define and apply  the concepts of basis, dimension and linear independence and determine bases for the four fundamental subspaces. .(GE 1,  2, CS A, B)
+
+6.  	apply projections for least-square solutions. (GE 1,  2, 4,  CS A, B, E)
+
+7.	orthogonalize a matrix by Gram-Schmidt factorization.
+8.	demonstrate the algebra of linear transformations.
+9.	construct the Singular Value Decomposition to diagonalize square and rectangular matrices.
+10.	calculate and use eigenvalues and eigenvectors in diagonalization of a matrix and in computing powers of a matrix A.
+11.       calculate the pseudoinverse of a non-square matrix.
+12.	complete projects involving practical applications of linear algebra.
+
+The main learning goals of this Linear Algebra course may be summarized by saying that this course should give students a sound foundation in Linear Algebra that will serve them well in future courses, continue the development of the mathematical maturity of the students, and introduce them to the use of technology tools to tackle more difficult but applications-oriented problems.
+
+
+General Education Knowledge Goals
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+
+
+
+Units of study in detail.
+
+1.   LINEAR EQUATIONS AND MATRICES 		(2 weeks)
+At the end of Unit 1, the student should be able to: 
+* Calculate the dot product between vectors. (Course Goal 1, Gen Ed Goal 2, Core Skill B)
+* Calculate the length of a vector. (Course Goal 1, Gen Ed Goal 2, Core Skill B)
+* Explain the concept of orthogonality of vectors. (Course Goal 1, Gen Ed Goals 1 and 2, Core Skills A and B)
+* Create a unit vector from a given vector. (Course Goal 1, Gen Ed Goal 2, Core Skill B)
+* Demonstrate that one vector is a linear combination of given vectors. (Course Goal 1, Gen Ed Goal 2, Core Skill B)
+* Use matrix operations. (Course Goal 1, Gen Ed Goal 2, Core Skill B)
+* Calculate the inverse of a matrix. (Course Goal 2, Gen Ed Goal 2, Core Skill B)
+* Solve systems by using row reduction and LU factorization. (Course Goal 2, Gen Ed Goal 2, Core Skill B)
+* Recognize the connection between the elimination process and factoring a matrix. (Course Goal 2, Gen Ed Goal 2, Core Skill B)
+* Set up matrix operations using proper technology. (Course Goal 1, Gen Ed Goals 2 and 4, Core Skills B and D)
+* Support the validity of results obtained through hand calculations and through technology. (Course Goal 1, Gen Ed Goals 2 and 4 , Core Skills A,B,D, and E)
+
+
+2.   VECTOR SPACES                                                                            (4 weeks)
+At the end of Unit 2, the student should be able to:
+* Explain the defining properties of a vector space. (Course Goal 3, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Give examples of vector spaces. (Course Goal 3, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Explain why a set defined with the necessary operations is or is not a vector space.  (Course Goal 3, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Explain why a subset of a given vector space is or is not a subspace.  (Course Goal 3, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Define the span of a set of vectors.  (Course Goal 3, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Determine if a collection of vectors from a given vector space is a spanning set for the vector space. (Course Goal 3, Gen Ed Goal 2, Core Skill B) 
+* Define linear independence. (Course Goal 3 and 5, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Calculate whether or not a given set of vectors is linearly independent. (Course Goal 5, Gen Ed Goal 2, Core Skill B) 
+* Calculate the rank of a given matrix. (Course Goal 5, Gen Ed Goal 2, Core Skill B) 
+* Explain the defining properties of a basis for a vector space. (Course Goal 5, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Determine if a given set of vectors from a vector space is or is not a basis for the space. (Course Goal 5, Gen Ed Goal 2, Core Skill B) 
+
+
+* Explain what is meant by the dimension of a vector space. (Course Goal 5, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* State the properties of subspaces and the relationships among the four fundamental subspaces of a matrix. (Course Goals 3 and 5, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Explain why the equation Ax=b is consistent if and only if b is in the column space of A.  (Course Goals 3 and 5, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Discuss how linear independence, spanning sets, basis and dimension are related. (Course Goals 5 and 12, Gen Ed Goals 1,2, and 4, Core Skills A and B) 
+*  State the properties of orthogonal matrices.  (Course Goal 7, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Derive the normal equations for a least squares problem and solve it. (Course Goal 6, Gen Ed Goal 2, Core Skill B) 
+* Explain what condition must be satisfied for the normal equations to have a unique solution. (Course Goal 6, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Apply least squares approximations to problems to minimize errors. (Course Goals 6 and 12, Gen Ed Goal 2, Core Skill B) 
+* Calculate the error in a least squares problem. (Course Goals 6 and 12, Gen Ed Goals 2 and 4, Core Skill B) 
+* Use the Gram-Schmidt process to construct an orthonormal set of vectors.  (Course Goal 7, Gen Ed Goal 2, Core Skill B) 
+* Find the QR factorization of a matrix. (Course Goal 7 and 12, Gen Ed Goal 2, Core Skill B) 
+* Apply the QR factorization to least-squares problem.  (Course Goals 6,7, and 12, Gen Ed Goals 2 and 4, Core Skills B and E) 
+* Estimate the minimum error for a problem using the processes of least squares and proper technology. (Course Goal 6,7, and 12, Gen Ed Goals 2 and 4, Core Skills A, B and E) 
+* Compare the methods of matrix factorization studied so far. (Course Goals 2 and 7, Gen Ed Goals 1 and 2, Core Skills A and B) 
+
+
+3.  EIGENVALUES and EIGENVECTORS			(4 weeks)
+
+At the end of Unit 3, the student should be able to:
+* Define determinant, eigenvalue and eigenvector. (Course Goal 10, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Calculate the determinant of a square matrix and use it to judge linear independence and invertibility. (Course Goal 4, Gen Ed Goal 2, Core Skill B) 
+* Apply the basic properties of determinants.  (Course Goal 4, Gen Ed Goal 2, Core Skill B) 
+* Use Cramer’s Rule to solve systems of equations and volume problems. (Course Goal 4, Gen Ed Goal 2, Core Skill B) 
+* Find the characteristic equation of a square matrix and solve to find eigenvalues. (Course Goal 10, Gen Ed Goal 2, Core Skill B) 
+* Find the associated eigenvectors of a square matrix. (Course Goal 10, Gen Ed Goal 2, Core Skill B) 
+
+
+* Explain how the eigenvalues of similar matrices are related. (Course Goals 4 and 10, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Analyze the relationship among determinants and number of eigenvalues, determinants and the product of eigenvalues, and the trace and the sum of eigenvalues. (Course Goals 4 and 10, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Explain the application of diagonalizing a matrix to the matrix exponential.  (Course Goal 9, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Find the singular value decomposition of an mxn matrix.  (Course Goal 9, Gen Ed Goal 2, Core Skill B) 
+* Explain the relationships among the columns of U and V of, the singular value decomposition of an mxn matrix A, and the four fundamental subspaces associated with A.  (Course Goals 5, 9, and 10, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Summarize the use of the singular value decomposition in applications such as Web search engines and image processing. (Course Goal 9, Gen Ed Goals 1 and 2, Core Skills A, B, D, and E) 
+* Conclude, through the use of technology, that the singular value decomposition is necessary for factoring non-square matrices. (Course Goals 9 and 12, Gen Ed Goals 1, 2, and 4, Core Skills A, B,D and E) 
+
+
+4. GENERALIZED VECTOR SPACES AND LINEAR TRANSFORMATIONS	(3 weeks)
+At the end of Unit 4, the student should be able to:
+* State the definition of a linear transformation from a vector space V to another vector space W. (Course Goal 8, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Give examples of linear transformations. (Course Goal 8, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Find the kernel and range of a linear transformation (Course Goal 8, Gen Ed Goal 2, Core Skill B) 
+* Identify a linear transformation and find and use its matrix representation. (Course Goal 8, Gen Ed Goal 2, Core Skill B) 
+* Illustrate the process of change-of-basis by building on previous work and definitions. (Course Goal 8, Gen Ed Goal 2, Core Skill B) 
+* Calculate the matrix representation of a linear transformation from a vector space V to a vector space W with respect to two given bases. (Course Goal 8, Gen Ed Goal 2, Core Skill B) 
+* Examine the geometry of linear transformations.  (Course Goal 8, Gen Ed Goal 2, Core Skills B and E) 
+* Define pseudoinverse for a non-square matrix. (Course Goal 11, Gen Ed Goals 1 and 2, Core Skills A and B) 
+* Use the singular value decomposition and pseudoinverse to solve least squares problems.  (Course Goals 9,11, and 12, Gen Ed Goals 2 and 4, Core Skills B and E) 
+* Use technology to construct an example of matrix diagonalization and pseudoinverses. (Course Goals 9, 10, 11, and 12, Gen Ed Goals 1, 2, and 4, Core Skills A, B, D, and E) 
+
+
+
+
+5.	APPLICATIONS						(2 weeks)
+
+At the end of Unit 5, the student should be able to:
+* Name relevant applications for methods studied. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, and E) 
+* Explain what routines may be used to solve a given problem. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, and E) 
+* Demonstrate an ability to select appropriate calculations for projects. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, and E) 
+* Interpret the validity of results. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, and E) 
+* Integrate theory, skills and technology to solve a given problem. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, D and E) 
+* Compare methods that may be used for a project and choose the one that is most efficient. (Course Goal 11, Gen Ed Goals 1,2, and 4, Core Skill A,B, D and E) 
+
+Evaluation of Student Learning
+Students will receive regular feedback on their work through assignments, examinations, lab work, and projects.  The syllabus for this course should describe the schedule for these assessment tools and how they will be used to calculate grades.  Learning activities will consist of a combination of lectures, lab work and computer assignments.  The specific choices for assessment will rest with the instructor.  Outside of class, students are expected to do a significant amount of work to achieve learning goals for this course.  A typical grading scheme for this course follows:
+       Exams				30%		Computer Labs	             10%
+       Project				15%		Final Exam		30%
+       Graded Assignments		15%
+
+
+Academic Integrity Statement:  
+
+Under no circumstance should students knowingly represent the work of another as one’s own.  Students may not use any unauthorized assistance to complete assignments or exams, including but not limited to cheat-sheets, cell phones, text messaging and copying from another student.  Violations should be reported to the Academic Integrity Committee and will be penalized.  Please refer to the Student Handbook for more details.
+
+
+
+
+
+MAT208	Course Outline	Fall 2012
+
+
+
+
+1
+
+

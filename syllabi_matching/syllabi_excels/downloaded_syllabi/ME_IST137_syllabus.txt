@@ -1,0 +1,1456 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+       COURSE OUTLINE
+
+                                
+
+IST137                             Introduction to Programming in
+
+Java
+
+Course Number                                  Course Title
+
+
+
+     3                             2 lecture, 2 laboratory
+
+Credits                       Hours: lecture/laboratory/other
+
+(specify)
+
+
+
+Catalog description:
+
+
+
+Introductory programming course using Java for students who have
+
+had some exposure to any language. Topics include procedural and
+
+object-oriented programming, the syntax of Java, conditional
+
+statements, looping, classes, the user interface, arrays,
+
+recursion, searching, and sorting. Some projects require an
+
+understanding of college algebra. 2 lecture/2 laboratory hours
+
+
+
+Prerequisite:
+
+
+
+IST102, IST103,  or IST109.
+
+
+
+Corequisite:
+
+
+
+MAT135 or a higher-level mathematics course.
+
+
+
+Required texts/other materials:
+
+
+
+Lambert, K. A.  Osborne, M. (2003). Fundamentals of Java:
+
+Comprehensive Course, 2nd Edition. Boston, MA: Thomson Course
+
+Technology.
+
+
+
+Students will find it easier to complete course assignments if
+
+they have access to a relatively up-to-date PC, with sufficient
+
+space to load Java, the JVM, and several programs.
+
+
+
+Last revised:  New course
+
+
+
+Course coordinator:
+
+
+
+Edwin S. Eichert, III
+
+
+
+Information resources: (Describe the primary information
+
+resources that support the course, including books, videos,
+
+journals, electronic databases, websites, etc.)
+
+
+
+Deitel  Deitel (2005). Java: How to Program, 6th Edition. Upper
+
+Saddle River, NJ: Prentice Hall.
+
+
+
+Lewis  Loftus (2005). Java Software Solutions: Foundations of
+
+Program Design, 4th Edition. Boston, MA: Addison-Wesley.
+
+
+
+Liang (2003). Introduction to Java Programming, 4th Edition.
+
+Upper Saddle River, NJ: Prentice Hall.
+
+
+
+Malik (2005). Java Programming: From Problem Analysis to Program
+
+Design, 2nd Edition. Boston, MA: Thomson Course Technology.
+
+
+
+Pohl  McDowell (2000). Java by Dissection: The Essentials of
+
+Java Programming. Boston, MA: Addison-Wesley.
+
+
+
+Riley (2003). The Object of Java: Introduction to Programming
+
+Using Software Engineering Principles, BlueJ Edition. Boston, MA:
+
+Addison-Wesley.
+
+
+
+Savitch (2004). Java: An Introduction to Computer Science and
+
+Programming, 3rd Edition. Upper Saddle River, NJ: Prentice Hall.
+
+
+
+Skansholm (2004). Java from the Beginning, 2nd Edition. Boston,
+
+MA: Addison-Wesley.
+
+
+
+Other learning resources:  (Describe any other student learning
+
+resources that are specific to this course, including any special
+
+tutoring or study group support, learning system software, etc.)
+
+
+
+Students must be able to download or load using CDs software to
+
+computers in the laboratory and they must be able to retain their
+
+programs on laboratory computers for the duration of the
+
+semester. It would be ideal if their programs were retained in a
+
+directory on a server that was accessible in both the laboratory
+
+and the learning center.
+
+
+
+Java is not a simple programming language. Qualified tutors, who
+
+are available several nights of the week, may contribute to
+
+student success.
+
+Course goals:  List the most important 5-8 overall student
+
+learning goals for your course. Learning goals (or competencies)
+
+are statements that describe the specific, measurable knowledge,
+
+skills, and/or values that the student is expected to
+
+demonstrate, perform or exhibit after completion of the course.
+
+Learning goals should focus on what the students will learn
+
+(rather than what the instructor will teach) and should include
+
+verbs (explain., demonstrate., identify.) that accurately reflect
+
+lower-order and higher-order learning goals.
+
+
+
+The student will be able to:
+
+   Discuss the fundamental concepts and advantages of object-
+
+     oriented programming.
+
+   Write, test, and debug a Java program of moderate complexity
+
+     as might be assigned to an entry-level programmer.
+
+   Use if and if else statements correctly and be able to
+
+     explain the inefficiencies that result when such statements
+
+     are not properly constructed.
+
+   Use loop constructs to achieve repletion.
+
+   Design and implement classes with appropriate methods and
+
+     constructors.
+
+   Construct applications with appropriate interfaces
+
+   Write, test, and debug Java programs that use single and
+
+     multidimensional arrays.
+
+   Use in actual Java programs and describe in conceptually
+
+     using ones own words programming concepts such as
+
+     inheritance, polymorphism, abstraction, sorting, searching,
+
+     and recursion.
+
+Course-specific General Education goals and objectives.   To an
+
+extent consistent with its primary purposes, each course in every
+
+program is expected to reflect the colleges commitment to
+
+general education, as affirmed in the attached list of General
+
+Education Goals and Objectives.  A General Education Course is
+
+one whose primary purposes and overall design coincide strongly
+
+with one or more of the approved general education goals and
+
+objectives.  For any approved (or proposed) General Education
+
+Course, the General Education Goals and Objectives form should be
+
+completed and attached to the course outline.
+
+   This course will require students to read and study an
+
+     average of 30 pages of highly technical material each week
+
+     this is essential to the development of life long learning
+
+     skills.
+
+   This course will require students to prepare complete
+
+     sentences and/or short paragraphs to answer an average of 30
+
+     short-answer written questions each week. These provide
+
+     students with the opportunity to demonstrate mastery of
+
+     those objectives that requires students to describe,
+
+     discuss, or explain a concept. These provide students with
+
+     an immediate opportunity to reflect on their reading and
+
+     they help to develop written communications skills.
+
+   Students are required to use code that is modeled in the
+
+     text to complete two small (100 line) to medium (300 line)
+
+     sized programs each week. Students are required to analyze,
+
+     design, program, and implement one medium sized laboratory
+
+     project each week. One large project will be assigned to
+
+     groups of three students. Finally, students will be required
+
+     to complete three small to medium sized programming projects
+
+     as in class examinations. These programming projects develop
+
+     critical thinking and problem solving skills and computer
+
+     literacy. Working on larger projects in teams will help to
+
+     develop collaboration and cooperation skills.
+
+   The initial module provides a good historical background of
+
+     computers in general and programming in specific.
+
+   This course is intended as a technology elective because
+
+     there are extensive projects and examples that involve
+
+     mathematics, it should also be considered a quantitative
+
+     understanding elective.
+
+
+
+Units of study in detail. List the units of study according to
+
+the general topics or themes by which the course is organized.
+
+Units of study are not chapter titles, but should be seen as
+
+independent of the selected textbook.  For each unit, identify
+
+specific learning objectives. These unit learning objectives
+
+should stem from the overall course objectives and applicable
+
+General Education objectives.  Unit learning objectives should
+
+state (in terms that can serve as the frame of reference for
+
+ongoing assessment of both student achievement and of the
+
+courses effectiveness) what successful students will be able to
+
+demonstrate, perform or exhibit at the end of the unit.
+
+
+
+Note: Learning Objectives are not text specific. In order to
+
+achieve consistence across the adjunct professors who teach this
+
+course, Learning Activities are text specific. Having two units
+
+for Control Statements, Classes, and Arrays has been found to
+
+facilitate learning these difficult concepts. These units may be
+
+combined in the course description, but they should be presented
+
+as specified in most classes.
+
+
+
+Unit I:        Background                         (week 1)
+
+
+
+Learning Objectives The student will be able to.
+
+   Describe how hardware and software make up computer
+
+     architecture.
+
+   Discuss the evolution of computer programming languages.
+
+   Discuss the fundamental concepts of object-oriented
+
+     programming.
+
+Learning Activities
+
+   Read and study Lesson 1, p. 3 to p. 25 in Lambert  Osborne.
+
+   Lecture topics should cover course requirements, a brief
+
+     history of computers, a brief history of programming
+
+     languages, a discussion of the advantages and disadvantages
+
+     of Java, and a discussion of the importance of object-
+
+     oriented programming.
+
+   Complete Exercise 1.2: 1-5 on p.9 1.3: 1-5 on p.13 1.4: 1-
+
+     4 on p.16 1.5: 1-4 on p.19 1.6: 1-5 on p.21 all review
+
+     questions on p.29-30 (Written Questions and Fill in the
+
+     Blank). With the exception of questions that deal with
+
+     mathematics or programming, answer all questions in complete
+
+     sentences or short paragraphs. Work is due at the start of
+
+     week 2.
+
+
+
+Unit II:       First Java Program                 (week 2)
+
+
+
+Learning Objectives The student will be able to.
+
+   Explain the Java virtual machine (JVM) and byte code and the
+
+     advantages and disadvantages compared to a compiled computer
+
+     programming language.
+
+   Write, edit, compile, and run a simple Java program using a
+
+     Java development environment based on models or examples
+
+     from Lambert  Osborne.
+
+   Demonstrate how to format a program to improve readability
+
+     and appearance.
+
+Learning Activities
+
+   Read and study Lesson 2, p. 27 to p. 49 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should walk the student
+
+     through the instructors versions of HelloWorld and
+
+     DrawShape
+
+   Complete Exercise 2.1: 1-3 on p.28 2.2: 1-3 on p.29 2.4: 1-
+
+     4 on p.32 2.5: 1-4 on p.38 2.6: 1-5 on p.41-42 2.7: 1-3
+
+     on p.45-46 all review questions on p.47-48 (Written
+
+     Questions and Fill in the Blank). With the exception of
+
+     questions that deal with mathematics or programming, answer
+
+     all questions in complete sentences or short paragraphs.
+
+     Work is due at the start of week 3.
+
+   Write, debug, and execute the following programs:
+
+       Convert temperature from Celsius to Fahrenheit and
+
+       Draw an RegularNgon
+
+    Provide your instructor with screen shots of your output and
+
+     listings of your code. Work is due at the start of week 3.
+
+
+
+Unit III: Java Syntax                        (week 3)
+
+
+
+Learning Objectives The student will be able to.
+
+   Construct (program or instantiate) and use numeric and
+
+     string literals.
+
+   Name in accordance with industry standards variables and
+
+     constants.
+
+   Understand the precedence and use of numeric and string
+
+     operators.
+
+   Analyses program errors and use output statements to debug
+
+     programs.
+
+Learning Activities
+
+   Read and study Lesson 3, p. 51 to p. 89 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should walk the student
+
+     through the instructors versions of TaxCalculator and
+
+     AreaTriangle.
+
+   Complete Exercise 3.1: 1-4 on p.53 3.2: 1-27 on p.54 to 69
+
+     3.3: 1-2 on p.70 3.4: 1-4 on p.71 3.5: 1-3 on p.80 3.6: 1-
+
+     2 on p.81 all review questions on p.86-87 (Written Questions
+
+     and Fill in the Blank). With the exception of questions that
+
+     deal with mathematics or programming, answer all questions
+
+     in complete sentences or short paragraphs. Work is due at
+
+     the start of week 4.
+
+   Write, debug, and execute the following programs:
+
+       CountAngels on pg 82-85 and
+
+       Projects 3.5 on pg 88.
+
+    For at home and in-laboratory programs provide your
+
+     instructor with screen shots of your input and output, and
+
+     listings of your code. Work is due at the start of week 5.
+
+   Project 3.1 will be done in class and treated as a major
+
+     examination (10 of grade) the text may be used, but no
+
+     external media or files may be accessed. For the in-class
+
+     programming assignment, demonstrate your completed program
+
+     to the instructor, make any adjustments to the user
+
+     interface or to correct program function, and provide the
+
+     instructor with a printout of your code.
+
+
+
+Unit IV:  Control Statements 1               (week 4-5)
+
+
+
+Learning Objectives The student will be able to.
+
+   Recognize and use the increment and decrement operators.
+
+   Select and use the correct form of an if or if-else
+
+     statement based on the nature of the control variable and
+
+     the efficient use of computers.
+
+   Select and use the most appropriate loop construct, for or
+
+     while, to accomplish the function of the procedure.
+
+Learning Activities
+
+   Read and study Lesson 4, p. 91 to p. 124 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should describe Java
+
+     assignment operators, an introduction to standard classes
+
+     and methods, if and if-else sequences, relational operators,
+
+     the while statement, the for statement, and the instructors
+
+     version of Spiral
+
+   Complete Exercise 4.1: 1-2 on p.92 4.2: 1-2 on p.95 4.4: 1-
+
+     3 on p.96-97 4.5: 1-7 on p.100-101 4.6: 1-5 on p.105 4.7:
+
+     1-3 on p.109 4.8: 1-2 on p.112 4.9: 1 on p.119 all review
+
+     questions on p.121-123 (Written Questions and Fill in the
+
+     Blank). With the exception of questions that deal with
+
+     mathematics or programming, answer all questions in complete
+
+     sentences or short paragraphs. Work is due at the start of
+
+     week 6.
+
+   Write, debug, and execute the following programs:
+
+       Gambling on pg 112-115
+
+       Project 4-4 on page 123, modify your pi program to
+
+           determine how many iterations are required to achieve
+
+           7 and 15 accurate significant digits and
+
+       Project U1-1 but find the value of a light year in
+
+           inches, feet, cubits, yards, furlongs, kilometers,
+
+           miles, and nautical miles.
+
+    For at home and in-laboratory programs provide your
+
+     instructor with screen shots of your input and output, and
+
+     listings of your code. Work is due at the start of week 6.
+
+
+
+Unit V:        Classes 1                     (week 6)
+
+
+
+Learning Objectives The student will be able to.
+
+   Construct (design and implement) a class or an object
+
+     template to meet relatively simple user requirements.
+
+   Use visibility modifiers to make methods visible to clients
+
+     and to restrict access to data within a class.
+
+   Code (create, design, and develop) appropriate mutator
+
+     methods, accessor methods, and constructors for a class.
+
+   Understand and use parameters, instance variables, and local
+
+     variables
+
+Learning Activities
+
+   Read and study Lesson 5, p. 131 to p. 168 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should describe classes and
+
+     objects review and enhance the Student class from p.133-146
+
+     in Lambert  Osborne discuss primitive and reference data
+
+     types review class structure and minimally acceptable
+
+     commenting describe methods, variable scope, and the
+
+     development of a SmileFace.
+
+   Complete Exercise 5.1: 1-5 on p.132-133 5.2: 1-11 on p.143-
+
+     144 5.4: 1-4 on p.153-154 5.5: 1-3 on p.158 and all
+
+     review questions on p.165-167 (Written Questions and Fill in
+
+     the Blank). With the exception of questions that deal with
+
+     mathematics or programming, answer all questions in complete
+
+     sentences or short paragraphs. Work is due at the start of
+
+     week 7.
+
+   Write, debug, and execute the following programs:
+
+       StudentTest p.146-149 and
+
+       Project 5-2.
+
+    For at home and in-laboratory programs provide your
+
+     instructor with screen shots of your input and output, and
+
+     listings of your code. Work is due at the start of week 7.
+
+
+
+Unit VI:  Control Statements 2               (week 7)
+
+
+
+Learning Objectives The student will be able to.
+
+   Construct (analyze the requirements for and design) complex
+
+     Boolean expressions using AND (), OR (), and NOT ()
+
+     operators.
+
+   Construct, interpret, and synthesize code based on truth
+
+     tables for Boolean expressions.
+
+   Discuss and design program segments with nested and extended
+
+     conditional (if) statements.
+
+Learning Activities
+
+   Read and study Lesson 6, p. 169 to p. 202 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should describe X AND Y, X OR
+
+     Y, NOT X, NOT (X AND Y), and NOT (X OR Y) and nested if
+
+     statements, nested loops. The instructor may wish to review
+
+     and enhance the Student class to provide a method to
+
+     determine the students letter grade.
+
+   Complete Exercise 6.1: 1-5 on p.175 6.2: 1-6 on p.183-184
+
+     6.3: 1-2 on p.188 6.5: 1-2 on p.193 6.6: 1-4 on p.194-195
+
+     and all review questions on p.199-200 (Written Questions and
+
+     Fill in the Blank). With the exception of questions that
+
+     deal with mathematics or programming, answer all questions
+
+     in complete sentences or short paragraphs. Work is due at
+
+     the start of week 8.
+
+   Write, debug, and execute the following programs:
+
+       Fibonacci p.195-196 modified to also determine if the
+
+           ratio of the N-th Fibonacci number divided by the (N-
+
+           1)-th Fibonacci number is converging
+
+       Project 6-3
+
+       Project 6.5 and
+
+       Project 6.8.
+
+    For at home and in-laboratory programs provide your
+
+     instructor with screen shots of your input and output, and
+
+     listings of your code. Two programs are due at the start of
+
+     week 8 two additional programs are due at the start of week
+
+     9.
+
+   Students are encouraged but not required to design and
+
+     develop these four programs in two or three person teams.
+
+     Those who work in teams may be given extra credit of up to
+
+     5 toward the overall course grade.
+
+
+
+Unit VII: User Interface                (week 8-9)
+
+
+
+Learning Objectives The student will be able to.
+
+   Create, design, and code a query-driven terminal interface.
+
+   Create, design, and code a menu-driven terminal interface.
+
+   Create, design, and code a graphical user interface.
+
+Learning Activities
+
+   Read and study Lesson 7, p. 203 to p. 227 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should walk students through
+
+     the Fahrenheit to Celsius conversion programs using a query,
+
+     a menu, and a GUI interfaces (students should be encouraged
+
+     to enter and analyze the code along with their instructor)
+
+     describe discuss user interface methods and formatted
+
+     output.
+
+   Complete Exercise 7.2: 1-3 on p.205 7.3: 1-3 on p.208 7.5:
+
+     1-4 on p.212-213 7.6: 1-5 on p.217 7.7: 1-2 on p.220 and
+
+     all review questions on p.226 (Fill in the Blank). Work is
+
+     due at the start of week 10.
+
+   Write, debug, and execute the following programs:
+
+        SalesTable p.220-225 and
+
+        Project 7-5 with a brief report describing the efficacy
+
+            of Newtons method.
+
+    The programs and assessment of Newtons method of
+
+     determining square roots are due at the start of week 10.
+
+   Project U2-1 will be done in class and treated as a major
+
+     examination (10 of course grade) the text may be used, but
+
+     no external media or files may be accessed. For the in-class
+
+     programming assignment, demonstrate your completed program
+
+     to the instructor, make any adjustments to the user
+
+     interface or to correct program function, and provide the
+
+     instructor with a printout of your code.
+
+
+
+Unit VIII:     Arrays 1                      (week 10)
+
+
+
+Learning Objectives The student will be able to.
+
+   Design and create programs or methods that handle
+
+     collections of similar items.
+
+   Describe and use appropriate Java syntax to declare array
+
+     variables and to instantiate array objects.
+
+   Design and develop programs or methods that manipulate
+
+     arrays within loops.
+
+Learning Activities
+
+   Read and study Lesson 8, p. 235 to p. 268 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should introduce students to
+
+     one dimensional data arrays, array manipulation, parallel
+
+     arrays, multi-dimensional arrays, arrays as class
+
+     parameters, and walk students through the new version of
+
+     StudentTestScores p.253-261.
+
+   Complete Exercise 8.1: 1-3 on p.236 8.2: 1-2 on p.238 8.3:
+
+     1-5 on p.240 8.4: 1-4 on p.243 8.5: 1-2 on p.244 8.6: 1-5
+
+     on p.245 8.7: 1-4 on p.248 8.8: 1-5 on p.251-252 8.9: 1-
+
+     2, on p252-253 and all review questions on p.262-265
+
+     (Written Questions and Fill in the Blank). Work is due at
+
+     the start of week 10.
+
+   Write, debug, and execute the following programs:
+
+       Project 8-8 and
+
+       An object oriented program that accepts N floating-point
+
+           numbers, where N is specified by the user, and then
+
+           displays the minimum, average, maximum, standard
+
+           deviation, and standard error of the mean for the
+
+           data that was entered.
+
+    The programs are due at the start of week 11.
+
+
+
+Unit IX:  Classes 2                     (week 11-12)
+
+Learning Objectives The student will be able to.
+
+   Select appropriate variable types and methods for use in a
+
+     class.
+
+   Describe and use inheritance to extend a class.
+
+   Describe and use polymorphism and know how to override
+
+     methods in a superclass
+
+Learning Activities
+
+   Read and study Lesson 9, p. 269 to p. 313 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should introduce students to
+
+     static variables and methods, polymorphism, Java interfaces,
+
+     inheritance (reusable code), abstraction, parameter and
+
+     return value classes, and exceptions and walk students
+
+     through the WeeklyPay program p.295-301.
+
+   Complete Exercise 9.1: 1-4 on p.274 9.3: 1-2 on p.281 9.4:
+
+     1-6 on p.286 9.5: 1-4 on p.292 9.6: 1 on p.294 9.7: 1 on
+
+     p.303 9.8: 1 on p.305 9.9: 1 on p.308 9.10: 1-4, on
+
+     p.311 and all review questions on p.312 (Fill in the
+
+     Blank). Work is due at the start of week 13.
+
+   Students will work in teams of three. Each student will
+
+     prepare and test two programs:
+
+        A Circle, a Rectangle, or a Wheel and
+
+        A Triangle (see Project 9-4) class.
+
+    by the start of week 12.
+
+    Each team will then create a program to prepare a suitable
+
+     abstract class to support their three classes and each
+
+     student will modify his or her class to utilize the abstract
+
+     class. The team will then write another program, as a group,
+
+     to draw a snowman or a wagon. Each student will write a one-
+
+     page memo, describing his or her feelings about the
+
+     advantages and disadvantages of working together on this
+
+     project. The memos and programs are due at the start of week
+
+     13.
+
+
+
+Unit X:        Arrays 2                      (week 13)
+
+
+
+Learning Objectives The student will be able to.
+
+   Describe and create methods to sort and search arrays.
+
+   Evaluate the advantages and disadvantages of sorting arrays
+
+     before searching them.
+
+   Write methods to insert and remove entries in sorted arrays.
+
+Learning Activities
+
+   Read and study Lesson 10, p.315 to p.359 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should describe advanced
+
+     string operations, searching, sorting, inserting  removing
+
+     data from sorted collections, arrays of objects,
+
+     BreezeSwing, and array methods and a walk through of
+
+     FinalStudentTestScores case study. .
+
+   Complete Exercise 10.1: 1-2 on p.318-319 10.2: 1-5 on
+
+     p.323 10.3: 1-4 on p.330 10.4: 1-3 on p.334 10.5: 1 on
+
+     p.336 10.7: 1-2 on p.356 and all review questions on p.357
+
+     (Fill in the Blank). Work is due at the start of week 14
+
+   Write, debug, and execute Project 10.5. The programs are due
+
+     at the start of week 14.
+
+
+
+Unit XI:  Recursion, Searching,  Sorting         (week 14-15)
+
+
+
+Learning Objectives The student will be able to.
+
+   Design and write recursive methods to satisfy user specified
+
+     problems.
+
+   Describe how a computer executes a recursive algorithm and
+
+     compare the advantages and disadvantages of recursive and
+
+     non-recursive methods or functions.
+
+   Describe the behavior of a complex sort algorithm, such as
+
+     QuickSort.
+
+Learning Activities
+
+   Read and study Lesson 11 p.361 to p.396 in Lambert 
+
+     Osborne.
+
+   Lecture and / or demonstration should describe recursion,
+
+     complexity analysis, sorting algorithms, binary searches,
+
+     and QuickSort.Walk students through the many queens program.
+
+   Complete Exercise 11.1: 1-6 on p.371-372 11.2: 1-3 on
+
+     p.381 10.3: 1-3 on p.385 11.4: 1-4 on p.388-389 and all
+
+     review questions on p.394 (Fill in the Blank). Work is due
+
+     at the last class of the semester
+
+   Write, debug, and execute the Sort case study on p.389-393
+
+     in text and complete Project 11-4 the programs are due at
+
+     the start of the last class.
+
+   Project U3-1 modified will be done in class and treated as a
+
+     major examination (10 of course grade) the text may be
+
+     used, but no external media or files may be accessed. In
+
+     this version of the project allow the user to specify the
+
+     number of inputs up to 100, find the minimum, maximum For
+
+     the in-class programming assignment, demonstrate your
+
+     completed program to the instructor, make any adjustments to
+
+     the user interface or to correct program function, and
+
+     provide the instructor with a printout of your code.
+
+
+
+
+
+Evaluation of student learning:   Describe general guidelines
+
+for examinations, required work, course work, assignments, and
+
+tests. Explain how assignments evaluate student achievement of
+
+course objectives. Multiple measures (quizzes, tests, essays,
+
+projects, portfolios, practicums, etc.) are recommended.
+
+   Written assignments will be graded based on two components
+
+     content and the proper use of English grammar and format. If
+
+     the English grammar and format component is acceptable, the
+
+     content grade will be used to access the students
+
+     performance in this course. If the grammar and format
+
+     component is not acceptable, the student will be sent to the
+
+     tutoring center to revise the document until it is
+
+     acceptable. In general, instructors should require that the
+
+     initial draft of written assignments be completed on time.
+
+   Programs and code segments that work meet the minimum
+
+     standard for passing (60). Additional factors include
+
+     variable naming (10), appropriate use of the programming
+
+     language (10), program format (10), and on-time completion
+
+     (10). Students must recognize that programming is both an
+
+     art and a science, both fields require learning and using
+
+     accepted standards. Instructors should clearly define their
+
+     requirements for on-time completion and the penalties for
+
+     late work. One policy that has worked successfully is
+
+     programs that are one week or less late will be graded and
+
+     10 will be subtracted from the grade programs that are
+
+     more than one week late but less than two or three weeks
+
+     late will not be graded, but will receive a grade of 65 if
+
+     the program works and 55 if it does not work.
+
+   Students approaches to determining the number of iterations
+
+     of Leibnizs method of estimating Pi, programming Projects
+
+     6.5, programming Project 6.8, finding the efficacy of
+
+     Newtons method of computing a square root, and checking on
+
+     the convergence of the Fibonacci ratio will be evaluated to
+
+     assess and help develop problem solving, analysis, and
+
+     critical thinking skills.  Students solution to the several
+
+     programming assignments, including Project U1-1 and the
+
+     floating point array program serve to help develop
+
+     independent learning skills and will be reviewed to assess
+
+     the students independent learning skills the computation of
+
+     standard deviations and standard error of the mean are not
+
+     addressed in the text and are not part of the lecture
+
+     material.
+
+   In-class programming assignments are aimed at assessing
+
+     fluency. They will be evaluated as follows: Programs that
+
+     work meet the minimum standard for passing (60). Additional
+
+     factors include variable naming (10), appropriate use of
+
+     the programming language (10), program format (10), and on-
+
+     time completion (10). Programs that do not work will be
+
+     evaluated based on the percentage of the total work that was
+
+     required, that was completed in class. At the instructors
+
+     discretion students may be permitted to complete a partially
+
+     coded program at home for a maximum assignment grade of 70.
+
+   On occasion, students are given opportunities to earn extra
+
+     credit for working in teams or are assigned to work in
+
+     teams. When students indicate that the want such credit, the
+
+     instructor should require them to discuss their experience
+
+     and how they divided and coordinated their work during a
+
+     timely class meeting. In some cases, they are also required
+
+     to document their feelings and experiences in individual
+
+     memos.
+
+   Students are required to complete a departmental final in
+
+     the Testing Center. It serves to insure that the student has
+
+     developed a basic understanding of the vocabulary and
+
+     concepts of Java programming. The test consists of 50
+
+     true/false or multiple-choice questions, which are based on
+
+     the questions at the end of each unit in the text. The
+
+     course coordinator based on the current version of the
+
+     course textbook will prepare the test.
+
+
+
+Attendance and Homework Expectations
+
+
+
+   This is a three credit, four contact-hour college-level
+
+     course. During a 15-week semester, the lecture and
+
+     demonstration portion of the course lasts 2 hours per week
+
+     for a total of 30 hours and the laboratory portion of the
+
+     course lasts 2 hours per week for a total of 30 hours.
+
+   In a college level course, a student can expect to study and
+
+     do work outside of class for 2 to 3 hours per hour of
+
+     lecture in this case, 4 to 6 hours of work will be assigned
+
+     each week for a total of 60 to 90 hours.
+
+   In a college level course, a student can expect to study 1
+
+     to 2 hours per hour of laboratory in this case, 2 to 4
+
+     hours of work will be assigned each week for a total of 30
+
+     to 60 hours.
+
+   Students are expected to attend all lectures if you miss a
+
+     lecture, you are responsible for obtaining lecture notes, in-
+
+     class assignments, or other materials from another student.
+
+     If you cut a lecture, you can expect to spend 1 to 2 times
+
+     more effort to learn the material that you missed on your
+
+     own.
+
+   Students are expected to try complete and test every program
+
+     in the chapters that are covered in the course and to come
+
+     to class with questions if they are unable to do so. These
+
+     programs should be brought to class on a flash drive or CD-
+
+     ROM. Most instructors will want this work completed before
+
+     the topic is covered in lecture.
+
+   Students who are caught up on their homework and laboratory
+
+     work, who have access to a computer with a Java compiler and
+
+     a JVM may be excused from laboratory. Such students will be
+
+     expected to work 2 hours per week or 30 hours per semester
+
+     to complete programming assignments.
+
+   A college-level programming course, particularly a course in
+
+     a sophisticated programming language, like Java, requires
+
+     active learning. Over the semester, this course requires 150
+
+     to 240 hours of effort, or an average of 195 hours per
+
+     semester or 13 hours per week during a 15-week semester.
+
+     Students who are unable to make this time commitment should
+
+     consider taking this course at another time.
+
+   When this course is offered during a semester of less than
+
+     15 weeks, the total time commitment of 150 to 240 (average 
+
+     195) hours does not change.
+
+ 
+
+Grade Factors:
+
+
+
+     Three in class programming assignments (10 each)
+
+30
+
+     Departmental Final in Testing Center - Up to 2 tries,
+
+highest grade counts          10
+
+     Eleven sets of exercises and review questions - one lowest
+
+grade dropped  25
+
+     Twenty-three programming projects - 3 lowest grades dropped
+
+25
+
+     Attendance and participation
+
+10
+
+
+
+Course Grades:
+
+
+
+     The grade or average for each factor is multiplied by the
+
+weight for the factor and these products are summed. The course
+
+grade is based on the sum as follows:
+
+
+
+     93.1 - 100.0   A         77.0 -  79.9   C
+
+     90.0 -   93.0  A-        70.0 -  76.9   C
+
+     87.0 -   89.9  B        60.0 -  69.9   D
+
+     83.1 -   86.9  B           0.0 -  59.9     F
+
+     80.0 -   83.0  B-
+
+
+
+Incompletes (I) may be given at the desecration of the instructor
+
+given that the student has completed at least 2/3rds of the work,
+
+including all departmental tests, with an average for the
+
+completed work of 70 or better. It is the responsibility of the
+
+student who receives an incomplete to (a) verify the work that is
+
+required to (b) complete the work as a single package to (c)
+
+meet with the instructor to go over the work package and (d) to
+
+schedule his or her activities to complete all work within 15
+
+weeks. Incompletes that are not made up within 15 weeks are
+
+automatically converted to F.
+
+
+
+Academic Integrity Statement:
+
+
+
+Standard statement
+
+                                
+
+                                
+
+                                                         Appendix
+
+                                                                 
+
+      Verbs that may be useful in formulating and assessing
+
+              Student learning goals and objectives
+
+       (listed from lower-order to higher-order learning)
+
+
+
+Knowledge (list, define, describe, identify, state, name,
+
+     who/when/where)
+
+     
+
+Comprehension  (summarize, describe, interpret, contrast,
+
+     predict, distinguish, discuss, paraphrase)
+
+     
+
+Application (complete, illustrate, examine, classify, discover,
+
+     solve, use)
+
+     
+
+Analysis (analyze, order, connect, arrange, compare, contrast,
+
+     explain, infer, categorize, discuss)
+
+     
+
+Synthesis (combine, integrate, create, design, hypothesize,
+
+     develop, formulate, rewrite)
+
+     
+
+Evaluation (judge, assess, convince, support, justify, rank,
+
+     recommend, choose, criticize)
+
+
+
+
+
+This listing, generally known as Blooms Taxonomy, relates to
+
+cognitive behaviors (B.S. Bloom, Major Categories in the
+
+Taxonomy of Educational Objectives, 1956).
+
+Student learning objectives can also be stated in terms of
+
+affective and psychomotor Objectives:
+
+      Affective objectives emphasize feeling and emotion (e.g.,
+
+     accept, attempt, challenge, defend, dispute, join, judge, praise,
+
+     question, share, support and volunteer).
+
+    Psychomotor objectives are concerned with motor skills
+
+(e.g., measure, dissect, assemble, .).
+
+
+
+For more resources on this topic, many helpful websites are
+
+available.  For example:
+
+     http://www.humboldt.edu/tha1/bloomtax.html

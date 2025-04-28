@@ -1,0 +1,309 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+GLOUCESTER COUNTY COLLEGE
+
+Arts & Sciences Division
+
+
+
+								 FALL  2008 	       
+								SEMESTER/YEAR
+
+
+
+MAT 202            						LINEAR ALGEBRA	
+COURSE CODE						COURSE TITLE
+
+
+               3                                  				       3          	                              
+LECTURE HOURS						CREDITS
+
+
+
+CALCULUS, by Larson               				CENGAGE  
+TITLE OF TEXT, Author/Edition				PUBLISHER
+
+
+
+15 Weeks							FREEMAN                          
+LENGTH OF SEMESTER					INSTRUCTOR
+
+
+
+COURSE DESCRIPTION:  
+
+This course is an in-depth study of mathematical proofs and linear algebra.  Topics will include specific skills and abstract approaches for mathematical proofs, and basic computational techniques, practical applications and theoretical results of linear algebra.
+.
+
+PREREQUISITES: 
+
+MAT 108 and MAT 122 are the prerequisites for Linear Algebra. 
+NOTE:  MAT 221 is usually taken during the same semester as MAT 202.
+
+GENERAL COURSE OBJECTIVE:
+
+Upon completion of the course, the students should be familiar with the concepts of linear algebra.  This includes the concepts of vectors and matrices, as well as how to apply these concepts to practical problems.
+
+
+GLOUCESTER COUNTY COLLEGE 
+CORE COMPETENCIES 
+ 
+The core competencies listed are essential for all GCC graduates, but they do not include all competencies that our graduates should possess. 
+
+Solve Problems 
+       • Critical Thinking and Information Literacy 
+The ability to access, analyze, synthesize, evaluate and apply information       from a variety of sources to make sound decisions. 
+ • Mathematical Reasoning 
+The ability to understand and solve practical problems using mathematical methods. 
+ • Teamwork 
+The ability to work collaboratively with others to solve problems efficiently and effectively. 
+
+Share information 
+	• Communication 
+The ability to communicate one’s thoughts in a clear and concise manner both orally and in writing. 
+ • Computer/Technological Literacy 
+The ability to use technology for research, information processing and communication. 
+
+Live responsibly 
+ • Awareness of the Arts 
+   The ability to understand and appreciate literary, visual or performing arts. 
+ • Community Skills 
+The ability to understand historical and current events in a global context and the social, political and environmental responsibilities of global citizenship. 
+ • Personal Skills 
+The ability to understand the individual’s responsibility for learning and for maintaining a healthy lifestyle. 
+
+
+
+
+MAT 202 – Linear Algebra – Core Competencies
+
+Linear Algebra will focus on three of the GCC Core Competencies
+* Critical Thinking and Information Literacy
+* Mathematical Reasoning
+* Technological/Computer Literacy
+
+SPECIFIC STUDENT LEARNING OUTCOMES
+Specific Outcomes mapped to Core Competencies and Assessment
+
+
+MAT 202 Students will GCC Core CompetenciesAssessment and Evaluation1.  Perform fundamental operations on 
+     matrices.
+a. Find the dot product of vectors.
+b. Find the cross-product of vectors.
+c. Form proofs of various concepts, statements, and theorems.
+d. Perform fundamental operations on matrices.Mathematical Reasoning
+Critical Thinking
+Technological LiteratureHomework, Quizzes, Class work, Exams2.   Apply matrices to systems of 
+      equations.
+a. Solve systems of linear equations using matrices.
+b. Find the “rank” and “row space” of a matrix.
+c. Find and apply the inverse of a matrix.
+d. Identify and apply elementary matrices.Mathematical Reasoning
+ Critical Thinking 
+Technological LiteratureHomework, Quizzes, Class work, Exams3.   Calculate and apply the determinant
+      of a matrix.
+a. Apply row reduction to find the determinant of matrices.
+b. Apply cofactor expansions to find the determinant of matrices.
+c. Calculate the inverse of a matrix by using the Adjoint matrix.
+d. Apply Cramer’s rule.Mathematical Reasoning
+Critical Thinking
+Technological LiteratureHomework, Quizzes, Class work, Exams4.   Apply the concepts of vector spaces.
+
+a. Apply the properties of vector spaces.
+b. Check for and prove linear independence.
+c. Find the span of a vector space.
+d. Use several methods to find bases.
+e. Prove various theorems.Mathematical Reasoning  
+Critical Thinking
+Technological LiteratureHomework, Quizzes, Class work, Exams5.  Apply linear transformations to 
+     matrices.
+a. Find the kernel and range of a linear transformation.
+b. Find Eigenvalues and Eigenvectors. 
+c. Apply linear algebra (including but not limited to Ohm’s Law, Least Squares Approximations, diff. eq. and Markov Chains).Mathematical Reasoning  
+Critical Thinking 
+Technological LiteratureHomework, Quizzes, Class work, Exams
+
+
+COURSE POLICIES
+
+GCC ATTENDANCE POLICY 
+
+Students attain maximum academic benefit through regular class attendance.   Nothing else has yet been discovered to replace in value the daily, cumulative, educational growth that results from regular participation in class.  This is especially true where ideas, concepts, points of view, social development, poise, confidence, knowledge and success derive from the interaction of students and faculty.
+
+Therefore, students are expected to attend all class sessions for which they are scheduled.  Each absence will take one total point away from your final average but no more than five points can be lost!
+
+MAT 202 students are expected to attend all classes.  Failure to attend each class could jeopardize a student's successful completion of the course.  Absence is not normally considered a valid excuse for not being prepared for the next class and students who do not attend a class are responsible for the material missed.   Attendance is required on days of announced tests. 
+
+
+ASSESSMENT, EVALUATION AND GRADING
+Evaluation will include:   
+* 3 Unit Tests (20% of final grade each) 
+* Homework Assignments and Quizzes (10% of final grade)
+* Comprehensive Final Examination (30% of final grade)
+
+Final Grade Calculation be an average of assessment tools listed above using the following scale.
+		90% -  100%  = A				70% - 76.9% = C
+		89% - 89.9% = A-				69% - 69.9% = C-
+		87% - 88.9% = B+				67% - 68.9% = D+
+		80% - 86.9% = B				60% - 66.9% = D
+		79% - 79.9% = B-				59% - 59.9% = D-
+		77% - 78.9% = C+				Below 59%    =  F
+
+TESTS
+* Tests in MAT 202 require that students use the skills they are learning to perform algebraic operations and concepts of linear algebra to solve problems.   Students will need a pencil and calculator for every test.  
+* Missed tests or quizzes may not be made up in MAT 202.  Consideration may be given only if the professor is informed in advance. If a student misses an announced test and has notified the professor in advance then they will be permitted to take a similar examination in the Learning Resource Center.  If no notification is given in advance then the student will receive the grade of 0 for the missed exam.   
+* Graded tests will be reviewed with the class and then retained by the student for further student review.   The student will need the tests for review of the cumulative final exam.
+
+QUIZZES AND ASSIGNMENTS
+Details about homework Assignments and Quizzes will be given in class.  Assignments submitted on or before an announced due date may earn full credit.  Assignments submitted after an announced due date may be penalized up to 50% of full credit.  Assignments may be accepted up to one week past the announced due date except at the end of the semester.
+  
+Graded quizzes and other assignments will be reviewed with the class and retained by the student until the end of the semester when final grades have been determined.
+
+TECHNICAL ASSISTANCE
+The Help Desk provides assistance with network and portal log-in along with campus computer hardware and software use.  The Help Desk office is located on the first floor of the College Center; the phone number is 415-2298.
+
+Blackboard assistance is provided in-person in IC435, by phone at 415-2241, and online at http://www.gccnj.edu/academics/distance_learning/webct/help.cfm.  Before entering your username and password to access Blackboard from your home computer, review the Browser Check, Pop-up Blockers, and Java Security Certificate information at the right of the page.  Having these technical aspects set up correctly at the beginning of the semester on your home computer will save you frustration and aggravation
+
+
+INSTRUCTIONAL METHODS AND COURSE RECOMENDATIONS
+*  Homework:  Students should expect to spend two hours working outside of class for every hour spent in class.  Specific assignments will be given in class. Students are responsible for being prepared for class even if they miss a class when a topic is discussed and an assignment is given.
+
+*  Calculator: A graphing calculator will be used in this course and TI-83 is recommended.  Use of the TI89 or TI92 will not be permitted!
+
+*  Tutoring: Students experiencing difficulty are encouraged to make use of the available tutoring services.  Peer tutoring, drop-in tutoring and computer tutorials are available free of charge in the Learning Resource Center, LRC 603.  Videos are also available in the library.  Students should understand that the tutoring services available are to supplement and reinforce work done in class with your instructor and are not to be used to replace class attendance and activities.  Note the following information for support services:
+
+Academic Support Services:
+                                        
+ACADEMIC TESTING CENTER –
+Make-up, distance learning, tele-course testing will be in LRC 608, phone # 415-2238 (must enter via 603), Teddi Stuart, Supervisor.   
+ 
+TUTORING – Will be located in LRC 601 and 602, phone # 415-2248 (must enter via 603), Carol Meglio-Lentz, Supervisor.
+
+
+TESTING AND OPEN LAB – 
+Testing the following: ACCUPLACER, COMPASS, HESI, ACT, NET, & CLEP 
+LRC 603, Testing, Eleanor Ternay, Co-coordinator, phone # 415-2268,        
+LRC 605, Testing, Kathie Scaffidi,  Supervisor, phone # 681-6249,
+LRC 604, Testing, Ken Rothfuss, Technician, phone #6404 (subject to change).	
+ 
+DIRECTOR’S OFFICE – 
+LRC 606, Georgia A. Campbell, Director,  phone # 415-2262.
+
+CLASSROOM PARTICIPATION AND COURTESY
+* Class participation is expected and involves asking questions about homework, participating in topic discussions, completing and submitting assignments on time, bringing a calculator to every class, taking notes, and completing Unit Tests on the announced dates.
+
+* Students are expected to show respect and courtesy to each other and the instructor.
+
+* Cell phones and beepers should not be heard or used in class.  If there is a family emergency, please notify the instructor before class and have the phone in silent mode.
+
+* Disruptive behavior, such as conversations and walking around or leaving the classroom before the class has ended, is a distraction to other students and to the instructor and can interfere with the learning of classmates.
+
+* No one is permitted to leave the class during a test.  If you must do so or be late to class or leave the class early on a regular basis, please talk to the instructor.
+
+	
+ACADEMIC INTEGRITY:
+In its most elemental form, academic integrity encompasses the principles of an honest, fair and continuing pursuit of truth, and means that students are expected to do and be responsible for their own work.  Therefore, cheating, plagiarism, fabrication, collusion or any other violation of academic integrity is not acceptable and the instructor will impose an academic sanction which is reasonable and commensurate with the violation. 
+
+GCC GRADING POLICIES
+
+AUDITING THE COURSE
+If a student wishes to attend a class regularly but does not wish to receive a grade or credit, the student may choose to audit the course.  For this to occur, the student must first register for the course, pay the tuition and any fees, and then switch to audit status.
+
+Audits are not accepted unless an Audit Form is completed by the student and course instructor and officially approved by the Director of Student Development.  All audit enrollments must occur during the first half of a semester or its equivalent. Once the auditor is enrolled, the course cannot be changed to credit.  The instructor will determine the conditions of the audit to which the student must adhere in order to receive an “R” grade, signifying successful completion of the audit.  If the student fails to meet the conditions, a “W” will be assigned, signifying audit withdrawal.
+WITHDRAWING FROM THE COURSE
+A student wishing to withdraw from a course or the college, should formally complete all withdrawal procedures at the Student Development Office prior to the announced end of the withdrawal period (the end of the 10th week of a regular semester or two-thirds through shorter semesters.).  
+
+A student who officially withdraws from a course will receive a “W” grade which will not affect the student’s GPA.  Withdrawal is not permitted after the withdrawal period.
+
+REQUESTING AN INCOMPLETE
+A grade of incomplete may be reported for a student who has carried a course with a passing grade until the end of the semester, but due to illness or other unusual and substantiated cause has been unable to complete the final examination or some limited amount of assigned work.
+		
+The student and faculty member must complete the 'Student Contract for Incomplete' form prior to a grade of 'I' being given.  Any incomplete not removed by the end of this period automatically becomes an 'F'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COURSE TOPICS
+
+Chapters and Topics from Elementary Linear Algebra:	
+
+Chapter 1		Vectors and Matrices
+
+			1.1	Fundamental Operations with Vectors	
+			1.2	The Dot Product
+			1.3	An Introduction to Proofs
+			1.4	Fundamental Operations with Matrices
+			1.5	Matrix Multiplication
+
+Chapter 2		Systems of Linear Equations
+
+			2.1	Solving Systems of Linear Equations	
+			2.2	Equivalent Systems and Rank
+			2.3	Row Space of a Matrix
+			2.4	Inverses of Matrices
+			2.5	Elementary Matrices
+			
+Chapter 3		Determinants
+
+			3.1	Introduction to Determinants
+			3.2	Using Row Reduction to Calculate Determinants
+			3.3	Cofactor Expansion and the Adjoint
+
+Chapter 4		Finite Dimensional Vector Spaces
+
+			4.1	Introduction to Vector Spaces
+			4.2	Subspaces
+			4.3	Span
+			4.4	Linear Independence
+			4.5	Basis and Dimension
+			4.6	Constructing Special Bases
+			4.7	Coordinatization	
+			
+Chapter 5		Linear Transformations and Orthogonality
+
+			5.1	Introduction to Linear Transformations
+			5.2	The Matrix of a Linear Transformation
+			5.3	The Dimension Theorem
+			5.4	Isomorphism
+			5.5	Orthogonality and the Gram-Schmidt Process
+			5.6	Orthogonal Complements
+
+Chapter 6		Eigenvalues and Eigenvectors
+
+			6.1	Introduction to Eigenvalues
+			6.2	Diagonalization
+			6.3	Orthogonal Diagonalization
+
+
+
+Chapter 8		Applications
+
+			8.1	Graph Theory
+			8.2	Ohm’s Law
+			8.3	Least-Squares Approximations
+			8.4	Markov Chains	
+			8.6	Function Spaces
+			8.7	Rotation of Axes
+			8.8	Differential Equations
+			8.9	Quadratic Forms
+
+
+
+
+2
+
+

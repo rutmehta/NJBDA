@@ -1,0 +1,288 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                            COURSE SYLLABUS
+
+                         Camden County College
+
+                          Blackwood, NJ 08012
+
+
+
+Course ID:          Computer Science - CSC-226
+
+
+
+Course Name:   Programming Languages
+
+
+
+Credits:       3
+
+
+
+Prerequisites:      None
+
+Co-requisites:                Computer Science II (CSC-223)
+
+
+
+Modified:      April 2006
+
+
+
+Semester  Year Course will First Be Offered or, if modified, semester
+
+ year when revised course will first be offered:  Fall 2006
+
+
+
+Contact Person:     Anita Wright
+
+
+
+Email Address:      awrightcamdencc.edu
+
+
+
+Course Description:
+
+Programming Languages is designed for students intending to major in
+
+Computer Science.  The course will look at the history of programming
+
+languages and explore the fundamental, underlying concepts of high-
+
+level programming languages, including: syntax and semantics,
+
+structuring concepts for control, programs, and data.  Different
+
+language paradigms will be studied and compared including object-
+
+oriented, functional, and logic and rule-based programming.
+
+
+
+Outline of Course Objectives:
+
+The classroom activities will include formal and informal lectures
+
+where new material and assigned problems will be explained.  Students
+
+will have the opportunity to contribute to the discussion and to ask
+
+questions about the material.  Students will be required to complete
+
+programming assignments.
+
+
+
+Course Materials:
+
+     Textbook(s):
+
+     To be chosen from the following:
+
+     1.  Thinking Mathematically, 3rd Edition, Robert Blitzer
+
+       (Prentice-Hall)
+
+     2.  Programming Language Concepts, 3rd Edition, Ghezzi and
+
+       Jazayeri (Wiley)
+
+
+
+Grade Determinants:
+
+Grades will be based on the students performance in the above-
+
+designated areas.  Percentages will be assigned by each individual
+
+professor.
+
+          A    90 to 100
+
+          B    80 to 89
+
+          C    70 to 79
+
+          D    60 to 69
+
+          F    Below 60
+
+          I    Incomplete (only under extreme emergencies)
+
+               Must be completed within one semester
+
+          NA   Not Attending
+
+          XA   Never Attended
+
+          W    Withdraw (student must complete official withdrawal
+
+     form by the deadline)
+
+
+
+Number of Papers  Examinations:
+
+1.   In-class examinations
+
+2.   Quizzes when appropriate
+
+3.   Graded programming projects
+
+
+
+Schedule of Topics to be covered:
+
+I.    Language and Software Development
+
+      A.  Brief Historical Perspective
+
+      B.  High-Level Languages
+
+      C.  Overview of Programming Language Concepts
+
+      D.  Program Organization
+
+      
+
+II.  Syntax and Semantics
+
+   A.  Language Definition
+
+   B.  Abstract syntax, Concrete syntax, and Pragmatics
+
+   C.  Formal Semantics
+
+     1.  Language Processing
+
+     2.  Interpretation
+
+     3.  Translation
+
+       4.  Concept of Binding
+
+   D.  Variables
+
+       1.  name and scope
+
+     2.  l-value, r-value
+
+       3.  References and unnamed variables
+
+      E. Routines
+
+        1.  Generic
+
+   2.  Aliasing and overloading
+
+       3.  Nesting
+
+       4.  Activation records
+
+       5.  Dynamic scoping, typing
+
+   F.  Parameter Passing
+
+
+
+     
+
+III.  Structuring the Data
+
+      A.  Atomic types
+
+      B.  Aggregates
+
+      C.  Union
+
+      D.   Programmer Defined types
+
+      E.  Abstract Data Types
+
+      F.  Constructors and destructors
+
+      G.  Type compatibility and conversions
+
+
+
+IV.   Structuring the Computation
+
+      A.  Expressions and statements
+
+      B.  Selection and Iteration
+
+      C.  Recursion
+
+      D.  Exceptions
+
+      E.  Event-driven computations
+
+      F.  Concurrent computations
+
+      G.  Non-determinism and backtracking
+
+      H. Pattern Matching
+
+      
+
+ V.  Structuring the Program
+
+     A.  Software Design Methods
+
+     B.  Encapsulation
+
+     C.  Separation of Interface and Implementation
+
+     D.  Libraries of Modules
+
+     E.  Language Features for programming in the large
+
+     F.  Generic algorithms and data structures
+
+
+
+   VI.   Object-oriented languages
+
+     A.  Classes and objects
+
+     B.  Inheritance
+
+          1.  Single
+
+          2.  Multiple
+
+     C.  Polymorphism
+
+          1.  Virtual functions
+
+          2.  Dynamic binding
+
+     D.  Abstract Base Classes
+
+
+
+  VII.   Functional programming languages
+
+     A.  Imperative language characteristics
+
+     B.  Values, binding and functions
+
+     C.  Lambda Calculus
+
+     D.  LISP/APL
+
+
+
+ VIII.   Logic and rule-based Languages
+
+     A.   Specification v. Implementation
+
+B.   Principles of Logic Programming
+
+C.   Preliminaries:  Facts, rules, queries, and deductions
+
+D.   PROLOG

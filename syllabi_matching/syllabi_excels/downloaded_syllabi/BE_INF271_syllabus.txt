@@ -1,0 +1,148 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF271
+Ethical Hacking 
+New Course: Fall 2009
+
+Course Description:
+INF-271 Ethical Hacking investigates the techniques used by malicious, black hat hackers to attack and penetrate a network. Students will learn to use these same hacking techniques to perform a white-hat ethical hack on the organization. Quantitative assessment and measurement of threats to information assets to determine where the organization is most vulnerable to hacking will be covered. 
+2 lecture, 2 lab, 3 credits
+Prerequisite:
+INF-160 OR INF-170 OR permission of Department Chair
+Recommended corequisite: INF-267 (To be successful in this course, students should adhere to the recommendation.)
+
+
+Student Learning Objectives  -  Assessment Measures
+1.	Perform an Ethical Hack on the organization’s network - Lab Exam
+2.	Document the penetration testing and use information obtained to secure the network - Written Exam and Lab Exam
+3.	Perform a vulnerability analysis on Windows - Lab Exam
+
+College Competencies:	1.	Student Learning Objective:
+1.	Technical and Information Fluency	1 – 3
+2.	Communication	2
+3.	Critical Thinking	3
+
+Assessment:	
+An average of 60% from combined assessment measures is required to demonstrate proficiency in course material.	
+	
+5 Exams	100%
+
+Quizzes:
+There may be several quizzes, each worth 10 points, given at the beginning pre-selected classes.  The quiz material will be based upon the prior lectures and labs, homework, and/or the reading assignments.  A quiz cannot be made up if missed.  A student entering class late, after a quiz has begun, will not be entitled to extra time to complete the quiz.  Students entering class after a quiz is completed will not be permitted to take the quiz and a zero grade will be assigned.
+
+Testing:
+Students are required to take examinations on the day and time they are scheduled.  If special circumstances require a test schedule adjustment, this must be worked out in advance with the instructor. If a student misses an exam (except for prearranged circumstances with the instructor) a zero grade will be assigned.
+
+The instructor can be reached by telephone (see course outline for appropriate phone number), e-mail, or a written note can be left in the Divisional Office (during the day) A-306C or in the Evening Office L-113.  If there are extreme circumstances (documentation may be required) that prevent a student from taking a test or an exam according to the published schedule, the student should use one of the above options to contact the instructor before the next class.  An arrangement for a special testing schedule is solely at the discretion of the instructor.  A student who waits for the next class session to speak with the instructor will not be accommodated with a special test schedule.
+
+It is the student’s responsibility to finish an examination correctly and completely.  Therefore, when computer Scantron forms are used as answer sheets, the student must use a Number 2 lead pencil and erase all stray marks completely.  The burden of proper erasure is at test taking time. Once the examinations are returned to the students, there will be no grade adjustments made due to inappropriate completion of the response form.
+
+The use of electronic devices during exams is prohibited.  Any student using an electronic device during an exam (unless directed to do so by the instructor) will receive a 0 for the exam.
+
+Projects, Assignments, Laboratory Work:
+Assignments are hands-on productions that show the instructor that the student understands concepts presented in class and in the readings and can competently use specified software to apply specific concepts.
+
+It is anticipated that students will spend at least 4 hours per week perfecting their skills and completing their assignments.  Some assignments are required for grading.  They must be submitted on the assignment due date, and cannot be handed in late.  Acceptance of late assignments is solely at the discretion of the instructor.
+
+Some assignments are instructional and need not be submitted. However lab assignments that are correct and complete and submitted on-time will help students prepare for graded assignments, quizzes, and exams.
+
+Homework:
+In addition to any homework assignment given during class, it is a standing assignment that the student read each chapter of the book prior to its discussion.  Following the class discussion, the student should reread the material and work with the exercises throughout the text.  It is anticipated that students will spend at least 4-hours per week reading the text and working with the exercises and supplemental resources.
+
+Policies:
+•	Lateness – The roll will be taken at the beginning of class.  If the student is not in attendance at that time, he/she will be carried in the roll book as being absent unless the instructor is notified immediately after class.  Attendance sheets cannot be adjusted at following class meetings.
+•	The student must adhere to all college polices.  Due to the nature of this course, it is recommended that the student review the policy titled “Acceptable Information Technology Use at Bergen Community College”.
+•	The use of portable electronic devices such as pagers and cell phones is not permitted while class is in session.  Please be sure to silence electronic devices before entering class.
+•	The use of audio CD or tape players, radios, and college computers to play music during class is prohibited.
+•	Students are expected to demonstrate listening, reading, note taking, and writing skills.  The student will need to take notes during class discussions and understand and follow verbal and written directions.  All assignments and correspondence with the instructor (including e-mail) must be well written in full sentence format.  Proper paragraph format must be used for all postings to the student bulletin board (if applicable).
+•	The subject line of all e-mail correspondence to the instructor must contain the course number and section and student’s name.  Any e-mail received without this information will not be opened.
+•	Plagiarism in any form will be treated as a failure to complete an assignment.  All work submitted should reflect individual effort by the student.
+•	In borderline cases that arise in almost every class each semester a student’s attendance, class participation, attitude, and observed effort will be considered in helping to determine the student’s final grade.
+
+If the instructor does not appear after 20 minutes following the scheduled time, students should generate an attendance list. One volunteer member need deliver the list, containing the course title, date, and instructor’s name, to the Evening Office L-113 or to the Divisional Office (during the day) A-306C.
+
+Additional policy and assessment information may be distributed by individual instructors.
+
+Textbooks and Supplies: 
+Gray Hat Hacking: The Ethical Hackers Handbook by Shon Harris, Allen Harper, Chris Eagle, Pub: McGraw Hill Osborne Media, ISBN: 978-0-07-149568-4
+
+Week	Topic*	Assignments*
+1
+_________	Chap 4 Metasploit
+Client side vulnerabilities
+Man in the middle password stealing	
+2
+_________	Chap 5 Using BackTrack Live
+Using BackTrack
+Creating a module in BackTrack	
+3
+_________	Chap 6  Programming Survival Skills
+C programming language
+Memory, RAM, buffers
+Debugging with gdb
+Python
+
+Exam 1	
+4
+_________	Chap 7 Basic Linux Exploits
+Chap 8 Advanced Linux Exploits
+Stack operations
+Buffer overflow exploits
+Format string exploits
+Heap overflow exploits	
+5
+_________	Chap 11 Basic Windows Exploits
+Compiling Windows programs
+Debugging on Windows
+Disassembling with CDB
+Windows exploits	
+6
+_________	Chap 12 Passive Vulnerability Analysis
+Source code analysis3
+Binary Analysis
+Decompilers
+
+Exam 2	
+7
+_________	Chap 13 Advanced Static Analysis with IDA
+Stripped binaries
+Statically linked binaries
+Basic structure of compiled C++ code	
+8
+_________	Chap 15 Client Side Browser Exploits
+Client side vulnerabilities
+Internet Explorer security
+Active X controls
+Exploiting Heap memory	
+9
+_________	Chap 16 Exploiting Windows Access Control for Local Elevation of Privileges
+Windows access control
+Tools for analyzing access control
+Special SIDs
+Elevation of privilege
+
+Exam 3	
+10
+_________	Chap 17 Introducing Fuzzing with Sulley
+Protocol analysis	
+11
+_________	Chap 18  From Vulnerability to Exploit
+Debugging for exploitation
+Payload protocol elements	
+12
+_________	Chap 19  Closing the Holes: Mitigation
+Port knocking
+Patching
+
+Lab Exam	
+13
+_________	Chap 20 Malware	
+14
+_________	Chap 21 Hacking Malware	
+15
+_________	Final Exam	
+*Topics, quizzes, exams, and assignments may be modified due to time constraints
+
+
+

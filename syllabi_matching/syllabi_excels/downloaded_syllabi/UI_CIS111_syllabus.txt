@@ -1,0 +1,470 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                               3
+
+                      Union County College
+
+            Integrating Technology in the Curriculum
+
+                 Suggested Course Code: CIS 111
+
+
+
+Course Description
+
+This course provides students with an in-depth knowledge of how
+
+to integrate technology into educational environments. Topics
+
+include the Internet, introduction to productivity software
+
+applications for educators, hardware, analysis of technology,
+
+integrating multimedia and education software applications, using
+
+digital equipment in the classroom, and creating curriculum
+
+pages. Two lecture/two laboratory hours. 3 credits
+
+
+
+Course Objectives
+
+By the end of the course, the student will be able to:
+
+    Explain the difference between computer, information, and
+
+  integration literacy
+
+    Define and describe computers and their functions and how
+
+  speed, reliability, accuracy, storage, and communications enable
+
+  computers to be powerful tools
+
+    Differentiate among the various categories of software and
+
+  software suites
+
+    Explain the purpose of a network and describe how and why
+
+  network computers are used in schools and school districts
+
+    Discuss the uses of the Internet and the World Wide Web
+
+    Explain why computer technology is important for education
+
+    Describe the National Educational Technology Standards (NETS-
+
+  T) for Teachers and provide examples of how computers are
+
+  changing the way people teach and learn
+
+    Define communications and identify the basic components of a
+
+  communications system
+
+    Explain how to use a Web search tool to find information
+
+    Identify several types of multimedia products available on
+
+  the Web
+
+    Describe the educational implications of the Internet and
+
+  the World Wide Web
+
+    Differentiate between storage and memory and identify types
+
+  of storage media and devices
+
+    Define multimedia and describe types of media used in
+
+  multimedia applications and explain why multimedia applications
+
+  are important for education
+
+    Identify various K-12 software applications
+
+    Explain technology integration or curriculum integration
+
+    Describe the use of computers in computer labs versus
+
+  classroom instruction
+
+    Identify ways in which technology can positively influence
+
+  learning
+
+    Identify ways to plan for technology integration
+
+    Explain various planning tools and instructional models
+
+    Describe the steps of the ASSURE Instructional Model
+
+    Identify the sources of information for evaluating
+
+  technology and software applications
+
+    List and explain the key criteria used to evaluate Web
+
+  resources
+
+    Describe the tools for evaluating the effectiveness of
+
+  technology
+
+    Describe the methods used to evaluate student projects
+
+    Identify the different technology integration strategies by
+
+  classroom layout
+
+    Define and describe the value of a curriculum page
+
+    Describe ways to integrate technology into specific
+
+  curriculum subject areas
+
+    Identify possible sources of funding for classroom
+
+  technology
+
+    Identify security issues, ethics, and emerging technologies
+
+  in education
+
+    Describe how computer viruses and malicious software
+
+  programs work and the steps you can take to prevent viruses
+
+    Describe different ways schools safeguard computers and
+
+  networks
+
+    Define what is meant by information privacy and its impact
+
+  on schools
+
+    Identify the components of copyright that impact education
+
+    Describe the ethical issues related to Internet usage and
+
+  steps schools are taking to address them
+
+    Describe the emerging technologies that will transform
+
+  traditional classrooms
+
+    Search the Internet for educational sites and present
+
+  findings to the class
+
+    Integrate software across the curriculum
+
+    Define information literacy and explain its ramifications
+
+  and implications.
+
+    Locate, discern, and effectively use information to solve
+
+  issues and/or problems using information and computer literacy
+
+  techniques.
+
+
+
+Rationale
+
+As we all know, computes influence the daily lives of most
+
+individuals. Todays teachers must educate students to live in
+
+technology-rich environments. This course will teach how to use
+
+computers, how to access and evaluate information on the World
+
+Wide Web, and how to integrate computers and educational
+
+technology into classroom curriculum. Todays children are not
+
+afraid to use computers. As a result, todays educators must be
+
+knowledgeable in educational technology. This course can be used
+
+as part of the mandatory professional development requirements
+
+for current K-12 educators. This course can also be sued for
+
+individuals interested in the education field at any level - pre-
+
+school through post-secondary.
+
+
+
+Transferability
+
+Kean University has a similar course in their education program.
+
+Kean provided UCC with a copy of the course outline. UCCs course
+
+is similar to Keans. Few four-year institutions are willing to
+
+spend time evaluating potential courses. They would rather see
+
+the finished product. Once approved, the course outline will be
+
+submitted to NJTransfer for evaluation. If the institutions do
+
+not accept the course, we will contact those schools and modify
+
+the course as needed.
+
+
+
+Resources and Costs
+
+No additional expenses are required at this time.
+
+Course Outline
+
+
+
+Week                               Topics
+
+
+
+1-2  Introduction, syllabus, and course expectations
+
+               Chapter 1: Introduction to Integrating Technology
+
+               in Education
+
+               Curriculum-specific learning
+
+               Computers and computer software
+
+               Why use computer technology in education
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+3-4  Chapter 2: Communications Network, The Internet and the
+
+               World Wide
+
+               Web
+
+              Communications and networks
+
+              Benefits of computer networks in education
+
+              The World Wide Web and other Internet services
+
+              Netiquette
+
+              Internet security
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+5-6  Test 1: Chapters 1 and 2
+
+               Chapter 3: Application Software Productivity Tools
+
+               for Educators
+
+               Application software
+
+               Graphics and multimedia software
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+               Creating a Teachers Web Page
+
+
+
+ 7             Chapter 4: Hardware for Educators
+
+               Components of a system unit
+
+               Input devices
+
+               Output devices
+
+               Storage media and devices
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+ 8-9
+
+               Test 2: Chapters 3 and 4
+
+               Chapter5: Integrating Multimedia and Educational
+
+               Software Applications
+
+               Multimedia
+
+               Multimedia applications
+
+               Educational software applications
+
+               Creating and presenting multimedia applications
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+10-11     Chapter 6: Technology and Curriculum Integration
+
+               Technology integration
+
+               Lesson planning with technology
+
+               Instructional models
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+12-13     Test 3: Chapters 5 and 6
+
+               Chapter 7: Evaluating Educational Technology and
+
+               Integration Strategy
+
+               Evaluating educational technology
+
+               Evaluating the effectiveness of technology
+
+               integration
+
+               Curriculum integration activities
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+               
+
+               Chapter 8: Security Issues, Ethics, and Emerging
+
+               Technologies
+
+               Computer security: risks and safeguards
+
+               Ethics and the information age
+
+               Health issues
+
+               Web components: www.course.com/td3
+
+                    Educational issues
+
+                    Integration and software
+
+                    Productivity in the classroom
+
+
+
+14             Wireless technology
+
+               Professional educational organizations
+
+               Portfolios
+
+
+
+Evaluation
+
+Tests               30
+
+Laboratory          30
+
+Portfolio           20
+
+Final Examination        20
+
+
+
+Textbook and Supplies
+
+Teachers Discovering Computers, Integrating Technology in the
+
+Classroom, WebEnhanced, Complete, Third Edition, Shelly, Cashman,
+
+Gunter, and Gunter, Course Technology, 2004.
+
+ISBN: 0-619-20180-0
+
+
+
+Bibliography
+
+Course Technology, www.course.com
+
+
+
+Governor McGreeveys Book Club, www.state.nj.us/bookclub
+
+
+
+National Education Association, www.nea.org
+
+
+
+New Jersey State Department of Education,
+
+www.state.nj.us/education
+
+
+
+Using Technology in the Classroom, Fifth Edition, Bitter and
+
+Pierson, Allyn and Bacon, 2002

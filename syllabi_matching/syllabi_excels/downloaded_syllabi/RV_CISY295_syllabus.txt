@@ -1,0 +1,284 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ 
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+ 
+
+CISY295- Computer Science Cooperative Education III 
+
+ 
+
+ 
+
+I. Basic Course Information 
+
+ 
+
+A. Course Number and Title: CISY295 – Computer Science Cooperative 
+Education III 
+
+ 
+
+B. New or Modified Course: Modified 
+
+ 
+
+C. Date of Proposal: Semester: Fall Year: 2016 
+
+ 
+
+D. Effective Term: Fall 2017 
+
+ 
+
+E. Sponsoring Department: Computer Science 
+
+ 
+
+F. Semester Credit Hours: 3 
+
+ 
+
+G. Weekly Contact Hours: Lecture: N/A 
+
+ Laboratory: N/A 
+
+ Work Site: 135 hours 
+
+ Out of class student work per week: 
+
+ 
+
+H. Prerequisites: CISY 293 Computer Science Cooperative 
+Education II, Coop Coordinator’s Approval, 
+Coordinator is Stephen Brower, 
+stephen.brower@raritanval.edu 
+
+ 
+
+ 
+
+I. Laboratory Fees: None 
+
+ 
+
+J. Name and Telephone Number or E-Mail Address of Department Chair: 
+Steven Schwarz, steven.schwarz@raritanval.edu 
+
+ 
+
+
+ 
+
+II. Catalog Description 
+
+ 
+
+Prerequisite: CISY 293 Computer Science Cooperative Education II and Coop 
+Coordinator’s Approval. Students learn best by doing. Co-operative Work 
+Experience Education offers students an on-the-job training program directly related 
+to their academic major and career interests. Its purposes are to help students choose a 
+career, find the right job and achieve success on the job. It provides a supervised off-
+campus work assignment through which students earn degree credit and in most 
+situations, a salary as well. If the experience used is at the same employer as the 
+experience used for the prerequisite, the coop coordinator will determine if different 
+language(s) or technologies are used, or has different goals established for this 
+experience. 
+
+ 
+
+III. Statement of Course Need 
+
+ 
+
+A. Co-operative education opportunities are an integral part of the experiential 
+learning process for students seeking careers in Information Technology field. 
+This course will afford the student an opportunity to connect the academic 
+material with the day-to-day responsibilities of Information Technology 
+professions. By interacting with practitioners, students develop marketable 
+skills and begin to establish valuable networks. Through observation and 
+participation, students are better informed to decide on career choices. 
+
+
+ 
+
+B. The lab component for this course consists of 135 hours at a selected worksite 
+in an Information Technology field. 
+
+
+ 
+
+C. This course may transfer as a computer elective. 
+
+
+ 
+
+IV. Place of Course in College Curriculum 
+
+ 
+
+A. Free Elective 
+B. This course is an program option for: 
+1. Computer Networking AAS Degree 
+2. Computer Networking Cisco Emphasis Certificate 
+3. Computer Programming AAS Degree 
+4. Computer Support Certificate 
+5. Information Systems & Technology AAS Degree 
+6. Multimedia Communications AAS Degree 
+7. Multimedia Communications Certificate 
+C. This course serves as a CIS Elective on the Computer Science Elective List 
+D. To see course transferability: a) for New Jersey schools, go to the NJ Transfer 
+website, www.njtransfer.org; b) for all other colleges and universities, go to 
+the individual websites. 
+
+
+ 
+
+
+ 
+
+V. Outline of Course Content 
+
+ 
+
+A. Students and agency supervisors will develop a set of five substantive goals 
+for completion during the course of the semester. These goals will be 
+approved by the program coordinator. Students will keep a daily journal of 
+observations, experiences and analyses of practices. Students will also keep 
+regular time records, which will be verified by the agency supervisor and 
+complete regular evaluations of progress toward their goals. 
+
+
+ 
+
+B. In addition to regular communication and collaboration with the coordinator, 
+the student will attend three scheduled seminars with the Computer Science 
+cooperative education coordinator. 
+
+
+ 
+
+C. Student will write a paper that addresses their experiences in their position and 
+how it relates to the material learned in academic courses and will compare 
+the experience to the one in used for the prerequisite 
+
+
+ 
+
+VI. General Education and Course Learning Outcomes 
+
+ 
+
+A. General Education Learning Outcomes: 
+
+
+ 
+
+ At the completion of the course, students will: 
+
+ 
+
+1. Produce written work that reflects critical analysis of their experience, 
+observation and participation at their agency. (GE-NJ 1) 
+2. Develop the ability to communicate clearly and logically, using both 
+verbal and writing skills, with members of the Information Technology 
+Organizations and its end clients. (GE-NJ 1) 
+
+
+ B. Course Learning Outcomes: 
+
+ 
+
+ At the completion of the course, students will be able to: 
+
+ 
+
+1. Apply hands on skills learned such as 
+a. troubleshooting client/server computer issues 
+b. configuring computer networks 
+c. designing, developing and coding in programming languages 
+d. designing, developing, and deploying Web Pages / Web Sites 
+
+
+
+
+ 
+
+2. Write about the learning experience in the position and to compare how 
+this experience was different than the experience used in the prerequisite. 
+
+
+ 
+
+ C. Assessment Instruments 
+
+ 
+
+ 
+
+
+1. Supervisor reports of hours worked and tasks completed 
+2. Written paper 
+3. Regular communication with coop coordinator 
+
+
+ 
+
+VII. Grade Determinants 
+
+ 
+
+Due to the nature of the course, traditional types of evaluation are less appropriate 
+and as such, various subjective methods of evaluation are necessary. 
+
+ 
+
+Student grades will be based in part on: 
+
+A. the agency supervisor’s evaluation of the student’s on-the-job performance 
+B. the student’s ability to demonstrate to the coordinator that he/she has 
+experienced academic benefit from the work assigned 
+C. the student’s daily journal 
+D. written paper. 
+
+
+ 
+
+Modes of Teaching and Learning 
+
+A. On the job training, observation, participation and experience 
+B. Regular communication and collaboration with coordinator. 
+
+
+ 
+
+VIII. Texts and Materials 
+
+ 
+
+A book will be selected depending on the technology used and the nature of the 
+position. 
+
+ 
+
+(Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks.) 
+
+ 
+
+IX. Resources 
+
+ 
+
+The course will take place off-campus, at the workplace, and no special RVCC 
+resources will be required. 
+
+ 
+
+

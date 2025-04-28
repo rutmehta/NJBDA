@@ -1,0 +1,872 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+               Mercer County Community College
+
+             Division of Business and Technology
+
+                           IST 129
+
+               Introduction to C Programming
+
+Course Description
+
+
+
+The course consists of twelve (12) modules that introduce
+
+the major components of command-line and Window-Forms
+
+programming using the procedural and object-oriented
+
+components of C and which introduce four of the seven
+
+factors that have made computers so prevalent in our society
+
+(specifically, accuracy, speed, repetition, decision making)
+
+The other factors (data storage, solving problems that
+
+people can postulate but not complete, and information
+
+retrieval / organization) should be mentioned, but are not
+
+covered in detail until the second and third course.
+
+
+
+Text(s):
+
+Prerequisites: MAT141 or equivalent
+
+Co-requisites: None
+
+Credits:  3         Lecture Hours:  2   Laboratory Hours:  2
+
+
+
+ Food and drink are strictly prohibited in classrooms as per
+
+health and safety laws.  Students may not bring in chemicals
+
+       of any kind without the appropriate MSD Sheets.
+
+
+
+
+
+Course Coordinator:  Edwin EichertLatest Review:  Fall 2004
+
+Overall Course Objectives
+
+Upon completion of this course, students will be able to:
+
+      Use C as a tool to solve problems on the computer.
+
+      Demonstrate the ability to construct procedural and
+
+     object-oriented programming in C using the correct syntax.
+
+    Demonstrate through example programs, classroom
+
+discussions, and brief writing assignments, several of the
+
+factors that have led to the pervasive use of computers in
+
+our society.
+
+    Students will demonstrate critical thinking skills by
+
+choosing the most appropriate constructs to complete
+
+assignments in C.
+
+
+
+
+
+Specific Module Objectives
+
+
+
+I. Microsoft Visual Studio Environment and Introduction to
+
+   Programming (Students will)
+
+   a. Recognize that war and the fear of war generated
+
+       lots of useful tools including computers
+
+   b. Observe and describe the compilation process and the
+
+       ability of computers to store both programs and data
+
+       (von Neumann)
+
+   c. Students will demonstrate the ability to use the
+
+       programming environment by studying a simple console
+
+       application and then creating a C console
+
+       application to perform a similar but different
+
+       simple process.
+
+   d. Students will demonstrate the ability to use the
+
+       programming environment by studying a simple forms
+
+       application and then creating a C windows forms
+
+       application to perform a similar but different
+
+       simple process.
+
+
+
+II Variable Types and Arithmetic (Students will)
+
+   a. Students will demonstrate an understanding of the
+
+       difference between variable names and keywords by
+
+       preparing a memo that compares them.
+
+   b. Students will demonstrate the ability to use
+
+       arithmetic and assignment operators by writing a
+
+       simple program to perform simple calculations.
+
+   c. Students will demonstrate the ability to control the
+
+       order of operations with parentheses by developing a
+
+       consol and a windows application to factor the
+
+       quadratic equation.  .
+
+   d. Students will demonstrate that they can compare and
+
+       contrast the accuracy of computers and humans by
+
+       preparing a written memo.
+
+
+
+IIIMethods (Students will)
+
+   a. Students will demonstrate that they can program a
+
+       Method by moving code from Main() to an
+
+       appropriately named Method().
+
+   b. Students will demonstrate that they can pass data to
+
+       a Method() by studying a Method() that sums five
+
+       numbers and then creating a Method() that receives
+
+       ten numbers and averages them.
+
+   c. Student will demonstrate that they can return data
+
+       from a Method() by modifing the Method() that
+
+       averages numbers to return the average.
+
+   d. Students will demonstrate their understanding of the
+
+       role that the speed of computers versus humans has
+
+       had on the impact that computers have had in society
+
+       by preparing a memo to discuss this factor.
+
+
+
+IV Branching or Decisions (Students will)
+
+   a. Demonstrate the ability to code a simple if
+
+       expression
+
+   b. Students will Compare and contrast computer (or
+
+       philosophical)  logic with the use of AND and OR in
+
+       the English language in a  written memo1.
+
+   c. After reviewing the development of code to determine
+
+       a students letter grade based on their course
+
+       average, students will demonstrate an understanding
+
+       of if-else-if statements by creating methods that
+
+       compute the U.S. Federal Income Tax for Single and
+
+       Married taxpayers.
+
+   d. Students will demonstrate an understanding of why
+
+       the if-else construct is more efficient than two
+
+       separate if statements in a written memo.
+
+   e. Students will demonstrate an understanding of why
+
+       the if-else-if construct is more efficient than a
+
+       bunch of if statements in a written memo.
+
+   f. Students will demonstrate an understanding of switch
+
+       statements by creating programs that compute the
+
+       U.S. Federal Income Taxes for two individuals or for
+
+       a married couple, based on their filing status.
+
+   g. Students will Explain the differences between the
+
+       way computers and people make decisions and discuss
+
+       the advantages and disadvantages of both approaches
+
+       in a written memo.
+
+
+
+V  Loops (Emphasize that a major value of computers is the
+
+   ability to do simple things over and over, without error
+
+   and without complaint.  Students will)
+
+   a. After reviewing programs to sum the integers up to a
+
+       specified number using for, while, and do loops,
+
+       student will create programs to compute the
+
+       factorial of the number, using all three looping
+
+       constructs.
+
+   b. Students will demonstrate the ability to design,
+
+       code, and test a simple console and a simple Windows
+
+       Forms application by coding a console application
+
+       that prompts the user for a number (N) and then uses
+
+       a for-loop to generate the N numbers of the
+
+       Fibonacci sequence and by coding a Windows Forms
+
+       application that uses a simple textbox to accept N
+
+       and a while-loop to generate the first N numbers in
+
+       the Fibonacci  sequence.
+
+   c. Students will explain the purpose of each of the
+
+       three looping constructs in a written memo  since
+
+       the rational for the various loops is poorly covered
+
+       in the chosen text, students will be expected to do
+
+       research in other texts or on the internet.
+
+   d. Students will Describe why looping is important to
+
+       the success of computers in a written memo.
+
+
+
+VI Handling Exceptions (try, catch, and throw  Students
+
+   will)
+
+   a. Given programs that detect and handle a bad month,
+
+       student will add code to detect and handle a bad day
+
+       or a bad season.
+
+
+
+VII.    Creating and using Classes and Objects (Students
+
+   will)
+
+   a. After studying a Circle class with a constructor
+
+       and a public Area(), students will demonstrate an
+
+       understanding of methods by adding a public method
+
+       called Circumference().
+
+   b. After studying and extending the Circle class,
+
+       with a constructor and several public methods,
+
+       student will demonstrate a basic understanding of
+
+       Classes and Objects by programming and testing a new
+
+       class Sphere with a constructor to load the
+
+       radius, and methods to determine the great circle
+
+       circumference, the great circle area, the surface
+
+       area, and the volume.
+
+   c. Student will demonstrate the ability to develop and
+
+       use Classes and Objects by programming a new class
+
+       RectangularPrism with a constructor to load
+
+       height, width, and depth, and methods for
+
+       SurfaceArea() and Volume().  These methods should be
+
+       used in a Window-Forms application to compute these
+
+       values.
+
+
+
+VIII     Values and References (Students will)
+
+   a. Students will be able to describe the differences
+
+       between variables and classes, and values and
+
+       references in a written memo.
+
+   b. Students will be able to describe boxing and
+
+       unboxing in writing.
+
+
+
+IX   Enumeration and Structures (Students will)
+
+   a. After studying an example of the enumeration of
+
+       Seasons and the use of an enumeration in Classes,
+
+       students will develop their skills using step by
+
+       step directions to enumerate Months.
+
+   b. After studying the Seasons and Months enumeration
+
+       examples, students demonstrate an understanding of
+
+       Enumeration by creating code that enumerates The-
+
+       Days-Of-The-Week.
+
+   c. After studying an example of using structures to
+
+       store and use time (hours, minutes, seconds)
+
+       variables, students will develop their skills using
+
+       step by step directions to incorporate an American-
+
+       Date method and date structure in a program.
+
+   d. Students will demonstrate an understanding of
+
+       structures by creating an extension to the date
+
+       structure to add and use a European-Date method.
+
+   e. Students will demonstrate the ability to create and
+
+       apply structures by creating a new program that uses
+
+       structures to store and retrieve names, addresses,
+
+       and telephone numbers.
+
+
+
+X. Arrays and Collections (Students will)
+
+   a. After studying a program that uses an array to store
+
+       data and to compute the average of the data, student
+
+       will add and use a method to compute the standard
+
+       deviation.
+
+   b  Students will demonstrate the ability to apply the
+
+       material that they have learned so far by completing
+
+       a major programming project.  Specifically, student
+
+       will develop a complete console application to store
+
+       student-names, individual test, homework,
+
+       laboratory, project, and participation grades, with
+
+       the weights for each of these grade categories.  The
+
+       program will compute the average in each category,
+
+       the course average, and a recommended letter grade.
+
+       Data should be stored in an object and use methods
+
+       that are defined for the object.
+
+   c. Student will be able to describe the differences and
+
+       similarities between collections and arrays, and
+
+       queues and stacks in written memo.
+
+   d. After working through the card shuffling and dealing
+
+       example, student will demonstrate the ability to use
+
+       arrays and collections by creating and using methods
+
+       to sort each hand and compute the total points based
+
+       on Gorens point count system.
+
+   
+
+XI.Overloading and Parameter Arrays (Students will)
+
+   a. Students will create a Class with overloaded Methods
+
+       to compute the square root of integers, longs,
+
+       floats, doubles, and decimals.
+
+   b. Students will use command line parameters to create
+
+       a new version of Hello World, that also says hello
+
+       to every name that is listed on the command line.
+
+
+
+XII.    Inheritance  (Students will)
+
+   a. Students will demonstrate their ability to read,
+
+       follow technical instructions, and learn from text
+
+       books dealing with C by working through the
+
+       inheritance exercise used to classify a C into the
+
+       various tokens that compose the language.
+
+   b. Students will continue to demonstrate their ability
+
+       to read, follow technical instructions and learn
+
+       from text books, by working through the inheritance
+
+       exercise that is used to display the C source file
+
+       in a rich text box using color coding.
+
+   c. After reading the text book(s), working through
+
+       these exercises, and if necessary doing research on
+
+       the Internet or in the library, students will
+
+       demonstrate an understanding of inheritance in
+
+       object oriented programming in a written memo.
+
+
+
+Final Project
+
+   
+
+   The final project will consist of developing two
+
+   classes, Quadratic and Cubic and the code to load the
+
+   coefficients of the cubic equation into the Cubic class.
+
+   The Cubic class will have a method to extract a real
+
+   root and to extract the coefficients of the reduced
+
+   Quadratic equation.  The extracted coefficients will be
+
+   used to initialize the Quadratic class.  The Quadratic
+
+   class will have a method to identify the type of roots,
+
+   real or imaginary, and to either extract the two real
+
+   roots or the real and imaginary parts of complex roots.
+
+   More details regarding this assignment, to exploit as
+
+   many features of C as possible, and to help students
+
+   understand the arithmetic involved will be developed and
+
+   passed out during the 10th week of the course.
+
+   
+
+   Completion of this project will
+
+   
+
+   a. Demonstrate the students ability to solve problems
+
+       independently using C
+
+   b. Help the student recognize that iteration permits
+
+       computers to solve problems that can not be
+
+       completed by humans.  Students will be expected to
+
+       explain how iteration is used to extract a real root
+
+       from the cubic equation.
+
+   c. Provide an opportunity for the student to present
+
+       his project to his classmates using a code-walk
+
+       through.
+
+
+
+Students will be required to enter, compile, and test
+
+programs outside of class.  There are suitably configured
+
+computers in the library.  The primary text for this course
+
+includes a C programming environment and a C compiler.  .
+
+
+
+Students will be expected to prepare for each class by
+
+reading assignments from the textbooks, by completing short-
+
+answer written exercise to demonstrate a factual
+
+understanding of the material, and by entering the code for
+
+the laboratory exercise in an appropriate text file.
+
+
+
+The course will consist of two hours of lecture and two
+
+hours of laboratory each week.  The course content is
+
+identical to CISabc.  The difference is that CISabd uses a
+
+traditional two hour lecture and a two hour laboratory
+
+format, where CISabc has one hour of lecture and four hours
+
+of laboratory each week.  CISabc is only offered in two
+
+session per week formats, where CISabd is offered in one or
+
+two session per week schedules.  The two hours of lecture
+
+will review the reading material, help students with any
+
+questions that they have, and cover some of the simpler
+
+examples that are included in the text.  During the two hour
+
+laboratory periods, students will work through the step-by-
+
+step laboratory exercises at their own pace. The student
+
+will document the results of his studies by adding detailed
+
+comments to the laboratory exercises.  Students will be
+
+expected to complete the step-by-step exercises and several
+
+other assignments outside of class.
+
+
+
+During the course, each student will be expected to complete
+
+two significant programming projects.  After the fifth
+
+module, about week 6 of the course, each student will be
+
+required to develop a console and a windows application to
+
+compute the first N number in the Fibonacci sequence.  After
+
+the tenth module, about week 12 of the course, each student
+
+will be require to use object-oriented programming
+
+techniques to completely factor a cubic equation.
+
+
+
+Textbook:    Sharp, John  Jagger, Jon, (2002). Microsoft
+
+        Visual C.NET Deluxe Learning Edition. Redmond, WA:
+
+        Microsoft Press.  ISBN: 0-7356-1633-7.  Includes
+
+        C.NET standard software.  REQUIRED
+
+
+
+        Coombs, Ted. (2002). Programming with C.NET.
+
+        Albany, NY: Delmar. ISBN: 0-7668-5008-0.
+
+
+
+Eleven memos (two pages or less each) are required during
+
+this course to demonstrate the students understanding of
+
+various concepts.  Each will be graded and the lowest, non-
+
+zero, grade will be dropped.
+
+
+
+When students are required to describe something in writing,
+
+they will be require to prepare a memo to the instructor
+
+explaining or answering the given question.  Memos are
+
+expected to be typed and to follow standard business form
+
+and are not expected to exceed two pages in length.
+
+Students name must appear on both pages of a two page memo.
+
+Multiple page memos should be stapled.  Memos will be graded
+
+for content (65), format or style (20), and timely
+
+submission (15).
+
+
+
+Students will be expected to complete each of the step-by-
+
+step exercises in the first 12 chapters of Sharp and Jagger
+
+in the laboratory portion of the course.  Any exercise that
+
+is not completed in the laboratory will be completed as
+
+homework.  Each assignment is to be thoroughly commented to
+
+demonstrate the students understanding of the code and
+
+turned in to the instructor.  Each set of laboratories will
+
+be graded and the two lowest, non-zero, grades will be
+
+dropped.
+
+
+
+Students are expected to demonstrate an understanding of
+
+each of the 12 modules by either creating a program or by
+
+significantly modifying code that was provided in the Sharp
+
+ Jagger text.  most of this work will be completed as
+
+homework.  As in the case of laboratories,  Each assignment
+
+is to be thoroughly commented to demonstrate the students
+
+understanding of the code and turned in to the instructor.
+
+Each assignment will be graded and the two lowest, non-zero,
+
+grades will be dropped.
+
+
+
+There are two significant programming projects.   All
+
+programming assignments, laboratories and new code will be
+
+graded based on the following:
+
+     Submitted On-time
+
+20
+
+     Performs the Required Functions
+
+30
+
+     Uses All Previously Covered Material, Including the
+
+Current Topic       10
+
+     Uses a Consistent and Correct Indentation Style
+
+10
+
+     Uses Sound Program Structuring Methods
+
+10
+
+     Contains Comments that Adequately Describe the Code
+
+10
+
+     Uses Constructs that are Typically Used by C
+
+Programmers         10
+
+
+
+
+
+This course requires an in class final with a significant
+
+programming component.  The course grade will be based on
+
+the following weights:
+
+
+
+     Final Examination
+
+20
+
+     Two major programming projects
+
+30
+
+     Laboratory Assignments
+
+15
+
+     Programming / Homework Assignments
+
+15
+
+     Writing Assignments
+
+10
+
+     Attendance and Participation
+
+10
+
+
+
+Because of the amount of homework that the instructor needs
+
+to grade, because students must stay caught up to master a
+
+subject like C programming and because a reasonable number
+
+of low grades are being dropped, LATE HOMEWORK, LABORATORY
+
+EXERCISES, and PROGRAMMING ASSIGNMENTS WILL NOT BE ACCEPTED.
+
+
+
+Students are reminded of the schools academic integrity
+
+policy.  In this class, if a student submits work that has
+
+been copied from an outside source, without proper
+
+citations, or if two or more students submit work that is
+
+essentially identical, the grade for the assignment will be
+
+ZERO.  Grades of ZERO will not be dropped.  Students who
+
+receive two or three ZEROS, depending on the assignment,
+
+will not be able to pass the course.
+
+
+
+The course percentage will be determined by multiplying the
+
+students average in each category by the specified weight
+
+and totaling these products.  The letter grade will then be
+
+determined as follows:
+
+
+
+          90  Percentage  100      A
+
+          80  Percentage <   90         B
+
+          70  Percentage <   80         C
+
+          60  Percentage <   70         D
+
+            0  Percentage <   60        F
+
+
+
+Students are reminded that they must be aware of the
+
+deadline for the drop-add period.  The professors who teach
+
+this course are not obligated to withdraw students who stop
+
+coming to class.  WITHDRAWING FROM ANY COURSE IS THE
+
+STUDENTS RESPONSIBILITY.
+
+
+
+
+
+1 This module has more than its share of written
+
+assignments.  The instructor is encouraged to stagger the
+
+due dates.

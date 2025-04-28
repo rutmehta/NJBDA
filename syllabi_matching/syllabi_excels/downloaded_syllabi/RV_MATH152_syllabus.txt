@@ -1,0 +1,256 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+
+
+
+
+MATH 152 CALCULUS II 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 152 Calculus II 
+
+B. New or Modified Course: Modified Course 
+
+C. Date of Proposal: Spring 2008 
+
+D. Sponsoring Department: Mathematics 
+
+E. Semester Credit Hours: 4 
+
+F. Weekly Contact Hours: 5 Lecture: 3 
+
+Laboratory: 2 
+
+G. Prerequisite: MATH 151 Calculus I 
+
+H. Laboratory Fees: None 
+
+I. Department Chair: Dr. Siham Alfred, salfredraritanval.edu 
+
+II. Catalog Description 
+
+Prerequisite: MATH 151 Calculus I. The second semester of a three-semester 
+
+sequence of introductory calculus with a technology-based computer 
+laboratory. 
+
+Topics include integration techniques, integration applications in various 
+
+coordinate systems, indeterminate forms, improper integrals, and infinite 
+series. 
+
+
+
+III. Statement of Course Need 
+
+This course is a perquisite for MATH 251 Calculus III. This course also 
+serves as 
+
+a math requirement for programs in Chemistry, Computer Science, Engineering 
+
+Science, General Science, and Mathematics. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. This course is a free elective and a Mathematics elective for all 
+programs. 
+
+B. This course serves as a General Education requirement in Mathematics. 
+
+C. This course meets a program requirement in Chemistry, Computer Science, 
+
+Engineering Science, General Science, and Mathematics. 
+
+1 
+
+
+
+
+
+D. This course transfers as a second semester calculus course. 
+
+V. Outline of Course Content 
+
+A. Applications of Integration 
+
+1. Area of a region between two curves 
+
+2. Volume, disk method and shell method 
+
+B. Integration Techniques, LHpitals Rule, and Improper Integrals 
+
+1. Basic integration rules, integration by parts, trigonometric 
+
+substitution 
+
+2. Partial fractions tables 
+
+3. Indeterminate forms and LHpitals Rule 
+
+4. Improper integrals 
+
+C. Infinite Series 
+
+1. Sequences, series, and convergence 
+
+2. Integral test, p-series, comparison test 
+
+3. Alternating series, ratio test, root test 
+
+4. Taylor polynomials and approximations power series 
+
+5. Representation of functions by power series Taylor and Mclaurin 
+
+series 
+
+D. Conics, Parametric Equations, and Polar Coordinates 
+
+1. Conics and calculus 
+
+2. Plane curves and parametric equations parametric equations and 
+
+calculus 
+
+3. Polar coordinates and polar graphs 
+
+4. Area and arc length in polar coordinates 
+
+5. Polar equations of conics and Keplers Laws 
+
+VI. Educational Goals and Learning Outcomes 
+
+A. General Education Goals 
+
+Students will: 
+
+
+
+1. apply mathematical arguments to problems. (G. E. 1) 
+
+2. solve problems quantitatively and symbolically. (G. E. 7) 
+
+B. Learning Outcomes 
+
+Students will be able to: 
+
+
+
+1. use algebraic techniques such as trigonometric substitutions, partial 
+
+fractions, and by parts, to evaluate integrals. 
+
+2 
+
+
+
+
+
+2. utilize integration techniques to solve problems involving volumes 
+
+and surface areas of solids of revolution, centroids, and arclength. 
+
+3. use the concept of limit to evaluate improper integrals and 
+
+indeterminate forms. 
+
+4. test infinite series for convergence and or divergence. 
+
+5. use Taylor polynomials to estimate function values. 
+
+6. operate in alternate reference frames including polar and 
+
+parametric coordinates. 
+
+VII. Modes of Teaching and Learning 
+
+A. tests 
+
+B. quizzes 
+
+C. cumulative final examination 
+
+D. projects 
+
+E. homework 
+
+F. small groups 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+A. tests 
+
+B. final examination 
+
+C. projects 
+
+D. laboratory products 
+
+E. quizzes 
+
+IX. Grade Determinants 
+
+A. cumulative final examination 
+
+B. tests 
+
+C. projects 
+
+D. individual teacher determinants 
+
+X. Texts and Materials 
+
+The following text and materials are required for the course: 
+
+
+
+A. Suggested Textbook: Thomas Calculus, latest ed., by Weir, Hass, 
+
+Giordano, Pearson Addison Wesley 
+
+B. Graphing calculator may be required. TI-84 is recommended. 
+
+Please Note: The course outline is intended only as a guide to course 
+content and 
+
+resources. Do not purchase textbooks based on this outline. The RVCC 
+Bookstore 
+
+is the sole resource for the most up-to-date information about textbooks. 
+
+
+
+XI. Resources 
+
+3 
+
+
+
+
+
+This course is held in a computer lab for two hours a week. The computers 
+need 
+
+to be installed with the math software currently licensed to the math 
+department. 
+
+Contact the math department to determine which software to install. 
+
+
+
+4 
+
+
+
+

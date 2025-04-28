@@ -1,0 +1,116 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 215  Visual Basic Programming
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+      CS 112 or permission of the instructor.
+
+      
+
+Description 
+
+      Introduces the student to the standards and conventions of programming 
+the graphical user interface (GUI). Emphasis will be placed on proper 
+design, placement, and coding of graphical features on the interface. Visual 
+Basic will be utilized to develop GUI design programs and to use simple and 
+array variables, database access, animation, as well as sequential and 
+random file access, 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Emphasize human interface design principles and how to implement them in 
+Visual Basic 
+
+ Compare and contrast traditional procedural languages with event driven 
+languages 
+
+ Review elementary Visual Basic concepts
+
+ Introduce procedure, functions, debugging and error handling.
+
+
+
+Topical Outline
+
+ Introduction to Visual Basic.NET
+
+ More Controls
+
+ Variables, Constants, and Calculations
+
+ Decisions and Conditions
+
+ Menus, Sub Procedures, and Sub Functions
+
+ OOP: Creating Object-Oriented Programs
+
+ Lists, Loops, and Printing
+
+ Arrays
+
+ Programming With Web Forms
+
+ Accessing DataBase Files
+
+ Saving Data and Objects in Files
+
+ Graphics in Windows and the Web
+
+ Advanced Topics in Visual Basic
+
+
+
+Texts
+
+      Programming in Visual Basic.NET: Update Edition for VB.NET 2003  
+w/5-CD VB.Net 2008 Software set by Bradley  Millspaugh, 5th edition: McGraw 
+Hill. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

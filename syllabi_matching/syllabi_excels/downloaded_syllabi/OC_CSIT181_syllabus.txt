@@ -1,0 +1,547 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+1.
+
+Course Number and Title:
+
+CSIT181Cisco Networking Fundamentals I
+
+2.
+
+Semester Hours:
+
+3 s.h.
+
+Contact Hours: 
+
+( 1
+
+Lecture
+
+
+
+3 )
+
+Lab
+
+
+
+3.
+
+Catalog Description:
+
+This course, the first in a six credit sequence, fulfills the Cisco 
+Networking Academy Program semester 1 and 2 requirement. Instruction 
+includes, but is not limited to, networking, network terminology and 
+protocols, network standards, LANs, WANs, OSI models, cabling, cabling 
+tools, routers, router programming, network physical and logical topologies, 
+and IP addressing. Emphasis is given to the use of decision-making and 
+problem-solving techniques in applied science, mathematics and 
+communications in the solution of networking problems. From the instruction 
+the student learns the principles and practices of networking technology and 
+completes the first half of the Cisco Academy training to be eligible to 
+take the Cisco Certified Network Associate (CCNA) exam. 
+
+This is an intensive curriculum where student Web access and self-discipline 
+is mandatory in order to adequately prepare for each in class session. This 
+is a demanding course and only motivated students should enroll. All testing 
+and lab assignments will be completed in the classroom/lab setting. 
+
+4.
+
+Prerequisites/zCorequisites:
+
+None
+
+5.
+
+Maximum Class Size:
+
+18
+
+Lab Fee Code:
+
+F
+
+6.
+
+Justification:
+
+
+
+
+
+A. General Education goal(s) this course addresses.
+
+The student will gain state of the art knowledge and skills required to 
+compete in todays business community and will have a foundation to continue 
+to grow in the fast evolving online information technology fields. 
+
+
+
+B. List the diversity requirements met by this course.
+
+Not Applicable.
+
+7.Course Objectives:
+
+A. The student will be able to define common networking terms.
+
+B. The student will be able to define and describe network standards.
+
+C. The student will be able to identify the functions of each of the seven 
+layers of the OSI reference model. 
+
+D. The student will be able to identify the types of networking media used 
+at the physical layer. 
+
+E. The student will be able to describe the process of encapsulation and 
+communication between layers. 
+
+F. The student will be able to identify and describe networking devices used 
+to filter traffic and reduce collision domains. 
+
+G. The student will be able to describe the LAN and Wan technologies, 
+standards and networking devices that operate at the physical, data link, 
+and network layers of the OSI reference model. 
+
+H. The student will be able to work with IP addressing and identify classes, 
+subnets, subnet masks and hosts. 
+
+I. The student will be able to describe ARP and RARP with respect to MAC and 
+IP addresses. 
+
+J. The student will be able to describe and identify the advantages and 
+disadvantages of bus, star and extended star topologies. 
+
+K. The student will be able to identify and describe structured cabling and 
+electrical specifications together with the wiring and electrical techniques 
+used in building networks. 
+
+L. The student will be able to describe the Application, Presentation, 
+Session and Transport Layers. 
+
+M. The student will be able to describe the function and processes used at 
+the transport layer to provide reliable delivery of data as well as 
+effective control of traffic flow. 
+
+N. The student will be able to describe TCP/IP and its operation to ensure 
+communications across a set of interconnected networks. 
+
+O. The student will be able to describe the routers use and operation in the 
+OSI reference model network layer. 
+
+P. The student will be able to perform basic network administration 
+procedures and functions necessary to ensure efficient and effective 
+delivery of data on a network with routers. 
+
+Q. The student will be able to load, maintain and maintain Cisco 
+Internetwork Operating System (IOS). 
+
+R. The student will be able to describe the process of configuring IP 
+addresses. 
+
+S. The student will be able to describe the initial router configuration 
+mode, the IP routing table and routing protocols. 
+
+T. The student will be able to identify the techniques and tools necessary 
+to manage a network. 
+
+
+
+8.Methods of Instruction:
+
+Class lecture/discussion, demonstrations, lab assignments, web-based 
+curriculum delivery, testing, assessment, evaluation and reporting.  This 
+course requires students to use the web-based modules to prepare for all 
+class sessions. 
+
+9.Instructional Materials:
+
+Cisco Networking Academy Program: First-Year Companion Guide
+
+By Vito Amato
+
+Cisco Press, 2000
+
+
+
+Cisco Networking Academy Program: Engineering Journal and Workbook, Volume I
+
+Cisco Press, 2000
+
+
+
+Cisco online curriculum
+
+
+
+10.Tentative Topical Outline:
+
+A. Cisco Networking Academy Semester 1 Curriculum
+
+
+
+1. Computing Basics
+
+a. Hardware
+
+b. Software
+
+c. Binary Number System
+
+d. Basic Networking Terminology
+
+e. Digital Bandwidths
+
+
+
+2. The OSI Model
+
+a. General Model of Communication
+
+b. The OSI Reference Model
+
+c. Comparison of the OSI Model and the TCP/IP Model
+
+d. Processes, People, Policies
+
+
+
+3. Local Area Networks
+
+a. Basic LAN Devices
+
+b. Evolution of Network Devices
+
+c. Basics of Data Flow Through LANs
+
+d. Basics of Data Flow Through LANs
+
+
+
+4. Electronics and Signals
+
+a. Basics of Electricity
+
+b. Basics of Digital Multimeters
+
+c. Basics of Signals and Noise in Communications Systems
+
+d. Basics of Encoding Networking Signals
+
+
+
+5. Layer 1 - Media, Connections and Collisions
+
+a. Most Common LAN Media
+
+b. Cable Specification and Termination
+
+c. Making and Testing Cable
+
+d. Layer 1 Components and Devices
+
+e. Collisions and Collision Domains in Shared Layer Environments
+
+f. Basic Topologies Used in Networking
+
+
+
+6. Layer 2 - Concepts
+
+a. LAN Standards
+
+b. Hexadecimal Numbers
+
+c. MAC Addressing
+
+d. Framing
+
+e. Media Access Control (MAC)
+
+
+
+7. Layer 2 - Technologies
+
+a. Basics of Token Ring
+
+b. Basics of Fiber Distributed Data Interface (FDDI)
+
+c. Ethernet and IEEE 802.3
+
+d. Layer 2 Devices
+
+e. Effects of Layer 2 Devices on Data Flow
+
+f. Basic Ethernet 10Base-T Troubleshooting
+
+
+
+8. Design and Documentation
+
+a. Basic Network Design and Documentation
+
+b. Planning Structured Cabling: Wiring Closet Specifications
+
+c. Planning Structured Cabling: Identifying Potential Wiring Closets
+
+d. Planning Structured Cabling: Selection Practice
+
+e. Planning Structured Cabling: Horizontal and Backbone Cabling
+
+f. Design Practice No. 1: Wiring Plan for Ethernet Star Topology LAN
+
+g. Design Practice No. 2: Multiple Earth Ground Problems
+
+h. Network Power Supply Issues: Power Line Problems
+
+i. Network Power Supply Issues: Surge Suppressors and Uninterruptible Power 
+Supply (UPS) Functions 
+
+
+
+9. Structured Cabling Project
+
+a. Project Planning
+
+b. RJ-45 Jack and Outlet Installation
+
+c. Basics of Cable Installation
+
+d. Structured Cable Run Installation
+
+e. Basics of Wiring Closets and Patch Panels
+
+f. Range of Equipment for Testing Structured Cabling Projects
+
+
+
+10. 
+
+Layer 3: Routing and Addressing
+
+a. Importance of a Network Layer
+
+b. Path Determination
+
+c. IP Address within the IP Header
+
+d. IP Address Classes
+
+e. Reserved Address Space
+
+f. Basics of Subnetting
+
+g. Creating a Subnet
+
+
+
+11. Layer 3 Routing Protocols
+
+a. Layer 3 Devices
+
+b. Network-to-Network Communications
+
+c. Advanced ARP Concepts
+
+d. Routable Protocols
+
+e. Routing Protocols
+
+f. Other Network Layer Services
+
+g. ARP Tables
+
+h. Interior Gateway Protocols (IGP) and Exterior Gateway Protocol (EGP)
+
+i. Protocol Analyzer Software
+
+
+
+12. Layer 4: The Transport Layer
+
+a. TCP and UDP
+
+b. TCP Connection Methods
+
+
+
+13. Layer 5: Session Layer
+
+
+
+14. Layer 6: The Presentation Layer
+
+
+
+15. Layer 7: The Application Layer
+
+a. Basics of the Application Layer
+
+b. Domain Name System
+
+c. Network Applications
+
+d. Application Layer Examples
+
+
+
+B. 
+
+Cisco Networking Academy Program Semester 2 Curriculum
+
+
+
+1. Routers
+
+a. Application Layer Examples
+
+b. WANs and Routers
+
+
+
+2. Using the Router
+
+a. Router User Interface
+
+b. Using The Router Interface and Interface Modes
+
+
+
+3. Router Components
+
+a. Router Components
+
+b. Router Show Commands
+
+c. Routers Network Neighbors
+
+d. Basic Networking Testing
+
+e. Challenge Lab
+
+
+
+4. Router Startup and Setup
+
+a. Router Boot Sequence and Setup Mode
+
+b. System Configuration Dialog
+
+c. Challenge Lab
+
+
+
+5. Router Configuration
+
+a. Router Configuration Files
+
+b. Router Configuration Modes
+
+c. Configuration methods
+
+d. Challenge Labs
+
+
+
+6. IOS
+
+a. The Basics of IOS Versions
+
+b. Bootstrap Options in Software
+
+c. IOS Naming and Software Image Backup
+
+
+
+7. Individual Router Configuration Practice
+
+a. Configuring a Router from the CLI after Start-up Config has been Erased
+
+b. Router Configuration Lab
+
+
+
+8. TCP/IP
+
+a. Router Configuration Lab
+
+b. 2 Layer 3 Concepts
+
+
+
+9. IP Addressing
+
+a. IP addressing and subletting
+
+b. The Role of DNS in Router Configurations
+
+c. Verifying Address Configuration
+
+d. Assigning New Subnet Numbers to the Topology
+
+10. Routing
+
+a. Routing Basics
+
+b. Why Routing Protocols are Necessary
+
+c. Distance-Vector Routing
+
+d. Link-State Routing
+
+e. The Context of Different Routing Protocols
+
+
+
+11. Routing Protocols
+
+a. Initial Router Configuration
+
+b. Interior and Exterior Routing Protocols
+
+c. RIP
+
+d. IGRP
+
+e. Challenge Labs
+
+
+
+12. Network Management
+
+a. Audits
+
+b. Management Tools
+
+c. Troubleshooting
+
+11.Grading and Evaluation:
+
+A. Chapter Quizzes
+
+Thirteen Quizzes for Semester 1
+
+Eight Quizzes for Semester 2
+
+B. Semester 1 Final Exam
+
+C. Lab Evaluation of Topics Covered in Semesters 1 and 2
+
+D. Semester 2 Final Exam
+
+
+
+
+
+
+
+Reviewed:   Mary A Burke06/2001
+
+CSIT181
+
+
+
+1 of 1

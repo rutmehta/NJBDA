@@ -1,0 +1,106 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MFG227
+
+CNC Programming
+
+Prerequisites: MFG224 Advanced Tooling, Materials, and Automation DFT210 
+Computer Aided Drafting I or MFG119 Manufacturing Design I 
+
+Credits: 4 credits
+
+New Course: Fall 2002
+
+
+
+Professor Mauro Marzocco
+
+Department Head, Science Technologies
+
+mmarzoccobergen.edu
+
+
+
+This course provides the fundamentals of programming Computer Numerical 
+Control Equipment with a heavy concentration on CNC turning and machining 
+centers. Included in this course will be language and graphics based 
+programming, automated features and capabilities, advanced CNC applications 
+and integration. Students will receive hands-on programming experience using 
+industry preferred software and controllers. 
+
+
+
+Course Objectives:
+
+01. Students will be capable of writing and storing a CNC program on a 
+computer and use DNC to upload and download programs 
+
+02. Students, given a blueprint and a process plan method, will be able to 
+write and store on a computer a program to drive a collection of tooling 
+through the tool-paths needed to produce the part shown on the blueprint. 
+The program will require change of tools, change of planes, use of canned 
+cycles, and tool offsets. Completed programs will be verified using CNC 
+simulation software to detect errors and optimize programs. NIMS National 
+Standard Excerpt 
+
+03. Students will demonstrate the ability to set-up and produce a 1st 
+article to specification, on a CNC turning or machining center 
+
+04. Students will be able to set up the tooling and work piece qualify the 
+work piece to the control prepare tools or load tools into tool magazine as 
+required qualify the tools to the control with respect to the work match 
+their identity to the program and establish initial tool values or offsets. 
+The part specified should have at least two steps with /- .001 tolerance, 
+one tapped hole, and arc/tangent surface, and require at least one canned 
+cycle on the mill NIMS National Standard Excerpt. 
+
+
+
+Course Content:
+
+01. Background and history of CNC Machining, Controls, and Data 
+Communication 
+
+02. Cartesian coordinate system and rotary axis A, B, C
+
+03. Programming Modes
+
+04. CNC Positioning Systems: a. point to point b. continuous-path 
+positioning contouring 
+
+05. Programming Format including G-code and M-code
+
+06. Linear, Circular, and Helical Interpolation
+
+07. Tool Settings and Offsets
+
+08. Work Settings and Offsets
+
+09. Cutter Radius and Diameter Compensation
+
+10. Programming Using Cartesian Coordinates
+
+11. Subroutines or Macros
+
+12. Part loading and programming options
+
+13. Programming and Set-up for Milling Centers
+
+14. Programming and Set-up for Turning Centers
+
+15. Troubleshooting set-ups
+
+16. CNC downtime causes and considerations, work holding and work changing
+
+17. Advanced CNC Subjects: probing, on-machine inspection, tool length 
+setting pallets CIM computer integrated manufacturing data management and 
+advanced connectivity CAD/CAM Tool Life Management, Tool Load Monitor 
+
+All machining courses will include instruction on safe operation of 
+equipment, handling and storage of materials. 
+
+
+
+Text: Basic Machine Shop Theory, William E. Hardman The Students Shop 
+Reference Handbook, Edward G. Hoffman. 

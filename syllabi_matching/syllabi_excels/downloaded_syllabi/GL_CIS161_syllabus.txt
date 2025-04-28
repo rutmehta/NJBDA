@@ -1,0 +1,650 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+6
+
+
+
+                   GLOUCESTER COUNTY COLLEGE
+
+              Business and Technologies Division
+
+
+
+                        COURSE SYLLABUS
+
+
+
+
+
+
+
+                                             Fall      2002
+
+                                             SEMESTER/YEAR
+
+
+
+
+
+
+
+CIS  161                             Structured Query Language
+
+(SQL)
+
+COURSE CODE                        COURSE TITLE
+
+
+
+
+
+                        2                                    2
+
+3
+
+LECTURE/RECITATI ON HOURS          CREDITS
+
+
+
+
+
+A Guide to SQL                     Philip J. Pratt
+
+TITLE OF TEXT                      AUTHOR
+
+
+
+
+
+                                   Course Technology
+
+                                   PUBLISHER
+
+
+
+
+
+15   Weeks
+
+LENGTH OF SEMESTER                 INSTRUCTOR
+
+
+
+
+
+
+
+CATALOG DESCRIPTION:
+
+
+
+Structured Query Language (SQL) is a command language that  is
+
+used  in  many database management systems.  Students will  be
+
+working  with  an  Oracle  Database in  this  course.   Topics
+
+covered  include using SQL to create tables, write queries  on
+
+single  and  multiple tables, update data,  data  types,   and
+
+overall database administration and reporting.  Students  will
+
+learn how to create basic and complex reports based upon  data
+
+in a table or view.
+
+
+
+PREREQUISITE:  CIS 110 or CIS 111 or permission by Chairperson
+
+of the Business and
+
+                               Technology Division
+
+
+
+
+
+
+
+161
+
+PURPOSE OF THE COURSE:
+
+
+
+It  is  the purpose of this course to provide an understanding
+
+of  Structured  Query  Language and to  provide  students  the
+
+opportunity to use Structured Query Language.
+
+
+
+OBJECTIVES OF THE COURSE:
+
+
+
+ 1.To  have  students understand how to use  SQL  commands  to
+
+   query a database.
+
+
+
+ 2.To   have   students  learn  the  database   administration
+
+   features of SQL
+
+
+
+SPECIFIC OBJECTIVES:
+
+
+
+After completing this course, the student will be able to:
+
+
+
+  1.   Create and run SQL commands to create tables, use  data
+
+types and add rows to tables.
+
+
+
+ 2.  Use SQL commands to query a database.
+
+
+
+  3.   Use  SQL  commands to update table data and  to  create
+
+tables.
+
+
+
+  4.   Understand and use the database administration features
+
+of SQL.
+
+
+
+  5.  To create basic and complex reports based upon data in a
+
+table or view.
+
+
+
+
+
+POLICIES OF THE COURSE:
+
+
+
+ 1.GCC Attendance Policy:
+
+
+
+   There  is  significant  value  in  the  daily,  cumulative,
+
+   educational  growth that results from regular participation
+
+   in  class.   This is especially true where ideas, concepts,
+
+   points  of  view,  social development,  poise,  confidence,
+
+   knowledge  and  success  derive  from  the  interaction  of
+
+   students and faculty.
+
+
+
+   Therefore,  students  are  expected  to  attend  all  class
+
+   sessions  for  which they are scheduled.   Students  attain
+
+   maximum  academic benefit through regular class attendance.
+
+   The   effect  of  absences  on  student  grades   will   be
+
+   determined by each instructor, consistent with his  or  her
+
+   stated policy provided in course outlines.
+
+
+
+ 2.Instructors Attendance Policy:
+
+
+
+   Daily  attendance  is  required of  all  students.   Exams,
+
+   quizzes  and  labs  missed may not be made  up,  except  in
+
+   cases of prolonged illness or other conditions approved  by
+
+   the   instructor  prior  to  the  class(es)  being  missed.
+
+   Students  absent from class are responsible  for  obtaining
+
+   materials missed.
+
+
+
+   WARNING:   The  information discussed in  the  lectures  is
+
+   cumulative  in  nature  therefore,  excessive  absenteeism
+
+   leads  to  a point where it will be impossible for  you  to
+
+   successfully  complete  this  course  with  a  transferable
+
+   grade.
+
+
+
+   A  penalty  will be assessed to the students final  letter
+
+   grade for excessive absences as follows:
+
+                 of Absences       Penalty
+
+                         4          1 grade level
+
+                                         5           2   grade
+
+   levels
+
+                                         6           3   grade
+
+   levels
+
+                                         7           4   grade
+
+   levels
+
+                                                             8
+
+   5 grade levels
+
+                                         9           6   grade
+
+   levels
+
+                              10 or more       grade of F
+
+
+
+METHOD OF EVALUATION:
+
+
+
+   Three  (3)  exams  worth 100 points each  and  several  lab
+
+   projects  worth 200 points will be used in determining  the
+
+   students final grade.  The following point breakdown  will
+
+   be used in determining the final letter grade:
+
+
+
+   Lab   Projects                                          200
+
+   points                           401-500           A
+
+   3   exams  worth  100  pts.  each               300  points
+
+   301-400           B
+
+                                                500     points
+
+   201-300           C
+
+                                                       101-200
+
+   D
+
+                                          100-below F
+
+MISSED WORK:
+
+
+
+   All  work  must  be  submitted at the  announced  deadline,
+
+   which unless stated otherwise, will be at the beginning  of
+
+   class on the announced date.
+
+
+
+   As  a  general  rule,  work  submitted  late  will  not  be
+
+   accepted.   Tests  or  assignments  may  not  be   made-up.
+
+   However,   if   you  think  you  have  a   sufficient   and
+
+   documentable  reason to warrant an exception to  the  rule,
+
+   see  the  instructor  immediately  after  the  absence   to
+
+   discuss the situation.
+
+
+
+ SPECIFIC CONDITIONS FOR AUDIT:
+
+
+
+   If  a  student wishes to attend a class regularly but  does
+
+   not  wish  to  receive a grade or credit, the  student  may
+
+   choose  to  audit  the  course.  For  this  to  occur,  the
+
+   student  must  first  register  for  the  course,  pay  the
+
+   tuition and any fees, and then switch to audit status.
+
+
+
+   Audits  are not accepted unless an Audit Form is  completed
+
+   by   the  student  and  course  instructor  and  officially
+
+   approved  by  the  Director  of Student  Development.   All
+
+   audit  enrollments must occur during the first  half  of  a
+
+   semester  or its equivalent.  Once the auditor is enrolled,
+
+   the  course  cannot be changed to credit.   The  instructor
+
+   will  determine the conditions of the audit  to  which  the
+
+   student  must  adhere  in order to receive  an  R  grade,
+
+   signifying  successful completion of  the  audit.   If  the
+
+   student  fails  to  meet  the conditions,  a  W  will  be
+
+   assigned, signifying audit withdrawal.
+
+
+
+ INCOMPLETE GRADE:
+
+
+
+   A  grade  of incomplete (I) may be reported for  a  student
+
+   who  has  carried a course with a passing grade  until  the
+
+   end  of  the semester, but due to illness or other  unusual
+
+   and  substantiated cause has been unable  to  complete  the
+
+   final examination or some limited amount of assigned work.
+
+
+
+   The  student and faculty member must complete the  Student
+
+   Contract  for  Incomplete form prior to  a  grade  of  I
+
+   being  given.   Any incomplete not removed by  the  end  of
+
+   this period automatically becomes an F.
+
+
+
+ WITHDRAWALS:
+
+
+
+   A student wishing to withdraw from a course or the
+
+   College, should formally complete all withdrawal
+
+   procedures at the Student Development Office prior to the
+
+   announced end of the withdrawal period (the end of the
+
+   10th week of a regular semester or two-thirds through
+
+   shorter semesters.).
+
+
+
+   A student who officially withdraws from a course will
+
+   receive a W grade which will not affect the students
+
+   GPA.  Withdrawal is not permitted after the withdrawal
+
+   period.
+
+
+
+                               
+
+
+
+OFFICE HOURS:
+
+
+
+   Your  instructors  office hours  will  be  posted  by  his
+
+   office  door in the College Center.  You are encouraged  to
+
+   take advantage of this time.
+
+   Your instructors e-mail address is
+
+   and the office phone is 415-
+
+
+
+INSTRUCTIONAL MATERIALS:
+
+
+
+   A Guide to SQL, by Philip J. Pratt
+
+
+
+ ACADEMIC INTEGRITY:
+
+
+
+   Honesty  and  the  scholarly pursuit  of  truth  are  basic
+
+   precepts of academic integrity and are fundamental to  this
+
+   course  and College.  As a member of the College community,
+
+   you  have the responsibility to maintain academic integrity
+
+   and  to  conduct yourself in a manner consistent  with  the
+
+   Colleges policy on Student Conduct, which is found in  the
+
+   Student  Handbook.   Accordingly, you are  expected  to  do
+
+   your  own  work and not to give or receive assistance  with
+
+   your work unless directed to do so by the instructor.    To
+
+   do otherwise would constitute academic dishonesty.
+
+
+
+   Academic  dishonesty is a serious offense and will  not  be
+
+   tolerated.   It  may include, but is not  limited  to,  the
+
+   following violations.
+
+
+
+                Cheating  -  (i.e.,  the use  of  unauthorized
+
+       materials,   information,  or  aid  in   the   learning
+
+       process.)
+
+
+
+                Collaboration  -  (i.e., unauthorized  working
+
+       with others to complete work)
+
+                Fabrication - (i.e., submitting an  untruthful
+
+       statement or the resubmitting of returned academic work
+
+       without prior permission)
+
+
+
+                Plagiarism  - (i.e., submitting  the  work  of
+
+       others  as  ones  original work  or  failure  to  cite
+
+       sources of information used)
+
+
+
+               Tampering With Testing or Grades
+
+
+
+   College  sanctions  for  violations  are  outlined  in  the
+
+   Student  Handbook.   Penalties in the course  for  academic
+
+   dishonesty  may range from a reprimand to failure  for  the
+
+   course.
+
+
+
+   It  is  your  responsibility  to  bring  knowledge  of  any
+
+   violations  of academic integrity to the attention  of  the
+
+   instructor.
+
+                OUTLINE OF LEARNING ACTIVITIES
+
+                               
+
+                                                      Text
+
+Week                                               Chapters
+
+
+
+     1      Introduction   to   SQL   and   Database   Systems
+
+1
+
+
+
+   2    Create and run SQL commands to create tables, use
+
+        data types and add rows to table                  2
+
+
+
+    3-4   Using  SQL  commands  to  query  a  database,  under
+
+3
+
+        simple and compound conditions.  Problem solving
+
+        exercises
+
+
+
+     5    Completion  of querying a database  by  discussing
+
+4
+
+         and  demonstrating queries that join  more  than  one
+
+table.
+
+
+
+     6  Exam I - Lab projects due
+
+
+
+      7-8                                  Study and  use  the
+
+commands to update table data.                   5
+
+        Study how to create a new table from an existing
+
+        table and how to change the structure of a table.
+
+
+
+      9-10                                 Study the  database
+
+features of SQL, including the                  6
+
+        use of views granting and revoking database
+
+        privileges to users dropping and using an index
+
+        using and obtaining information from system catalog
+
+        and using integrity constraints to control data entry.
+
+
+
+     11 Exam II - Lab project due
+
+
+
+      12-13                                Study how to create
+
+basic and complex reports based                  7
+
+        on data in a table or view.  Study how to concentrate
+
+        data, create a view for a report, change report column
+
+         headings and formats,  and add report titles.   Study
+
+how
+
+         to  calculate totals and subtotals in  a  report  and
+
+group data.
+
+        Topics of scripting and spooling are discussed.
+
+
+
+      14  Study  embedding  SQL  commands  with  a  procedural
+
+8
+
+        language.  Discussion of the use of embedded SQL to
+
+        insert more rows and change and delete existing rows,
+
+        including a discussion of how to retrieve single rows.
+
+        Using embedded commands and how to use cursors
+
+        to retrieve multiple rows.
+
+
+
+     15 Exam II - Final Lab project due

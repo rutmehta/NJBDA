@@ -1,0 +1,349 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+ 
+
+MATH 152H CALCULUS II HONORS 
+
+ 
+
+I. Basic Course Information 
+
+ 
+
+A. Course Number and Title: MATH 152H Calculus II Honors 
+
+ 
+
+B. New or Modified Course: New 
+
+ 
+
+C. Date of Proposal: Fall 2014 
+
+ 
+
+D. Effective Term: Spring 2015 
+
+ 
+
+E. Sponsoring Department: Mathematics 
+
+ 
+
+F. Semester Credit Hours: 4 
+
+ 
+
+G. Weekly Contact Hours: 5 Lecture: 3 
+
+ Laboratory: 2 
+
+ 
+
+H. Prerequisites: GPA of 3.5 or permission of the instructor; AND 
+
+MATH 151 Calculus I or Math 151H Calculus I Honors 
+
+ 
+
+I. Laboratory Fees: None 
+
+ 
+
+J. Name and Telephone Number or E-Mail Address of Department Chair: 
+
+ Rosemarie Gorini (908) 526-1200 extension 8546, rgorini@raritanval.edu 
+
+ 
+
+II. Catalog Description 
+
+ 
+
+Prerequisite: GPA of 3.5 or permission of the instructor; AND 
+
+MATH 151 Calculus I or Math 151H Calculus I Honors. 
+
+ 
+
+The second semester of a three-semester sequence of introductory calculus with a 
+technology-based computer laboratory component. Topics include integration 
+techniques, integration applications in various coordinate systems, indeterminate forms, 
+improper integrals, and infinite series. Proofs, and calculus application problems from 
+business, the natural sciences, and mathematics. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+III. Statement of Course Need 
+
+ 
+
+A. This course also serves as a prerequisite for MATH 251 Calculus III. This course also 
+serves as a math requirement for programs in Chemistry, Computer Science, 
+Engineering Science, General Science, and Mathematics. 
+
+
+ 
+
+Enrollment History: 
+
+In the fall 2014 semester we have approximately 80 students who registered for 
+Calculus II. Students from such a cohort can opt to take Calculus II Honors instead 
+of the regular calculus section. (Note that a Calculus I Honors course ran last fall 
+and is again running this fall.) 
+
+ 
+
+Additional Value for Students; 
+
+Honors courses in mathematics have been developed to provide mathematically 
+talented students the opportunity to obtain a level of rigor above the level currently 
+available in existing courses. 
+
+ 
+
+B. The two-hour lab is standard for all of our Caculus I, II, and III sections. It enables 
+the students to use technology to help them become proficient in the course material. 
+C. This course generally transfers as a mathematics course in the mathematics program 
+and as a program elective in technical (physical science, computer science) fields. 
+
+
+ 
+
+IV. Place of Course in College Curriculum 
+
+ 
+
+A. This course is a free elective and a Mathematics elective for all programs. 
+B. This course serves as a General Education requirement in Mathematics. 
+C. This course meets a program requirement in Chemistry, Computer Science, 
+Engineering Science, General Science, and Mathematics. 
+D. This course transfers as a second semester calculus course. Course transferability: for 
+New Jersey schools go to the NJ Transfer website, www.njtransfer.org. For all other 
+colleges and universities go their individual websites. 
+
+
+ 
+
+V. Outline of Course Content 
+
+ 
+
+A. Applications of Integration 
+
+
+ 1. Area of a region between two curves 
+
+ 2. Volume, disk method and shell method 
+
+ 
+
+B. Integration Techniques, L'Hôpital's Rule, and Improper Integrals 
+
+1. Basic integration rules, integration by parts, trigonometric substitution 
+
+ 2. Partial fractions; tables 
+
+ 3. Indeterminate forms and L'Hôpital's Rule 
+
+
+ 4. Improper integrals 
+
+ 
+
+C. Infinite Series 
+
+ 1. Sequences, series, and convergence 
+
+ 2. Integral test, p-series, comparison test 
+
+ 3. Alternating series, ratio test, root test 
+
+ 4. Taylor polynomials and approximations; power series 
+
+5. Representation of functions by power series; Taylor and Maclaurin series 
+
+ 
+
+D. Conics, Parametric Equations, and Polar Coordinates 
+
+ 1. Conics and calculus 
+
+2. Plane curves and parametric equations; parametric equations and calculus 
+
+ 3. Polar coordinates and polar graphs 
+
+ 4. Area and arc length in polar coordinates 
+
+ 5. Polar equations of conics and Kepler's Laws 
+
+ 
+
+E. Enrichment and proofs 
+1. Selected Proofs appropriate to the level of the course 
+F. Application Problems 
+
+
+ 
+
+1. Applied Math applications 
+2. Engineering/Physics applications 
+3. Natural science applications 
+4. Business applications 
+
+
+ 
+
+VI. Educational Goals and Learning Outcomes 
+
+ 
+
+A. General Education Learning Outcomes 
+
+ 
+
+ At the completion of the course, students will be able to:: 
+
+ 
+
+1. Use algebraic techniques such as trigonometric substitutions, 
+
+
+partial fractions, and by parts, to evaluate integrals (GE – NJ 2) 
+
+2. Utilize integration techniques to solve problems involving volumes and 
+surface areas of solids of revolution, centroids, and arclength (GE – NJ 2) 
+
+3. Use the concept of limit to evaluate improper integrals and indeterminate 
+forms (GE – NJ 2) 
+
+ 4. Test infinite series for convergence and or divergence 
+
+ (GE – NJ 2) 
+
+ 5. Use Taylor polynomials to estimate function values (GE – NJ 2) 
+
+6. Operate in alternate reference frames including polar and parametric 
+coordinates (GE – NJ 2) 
+
+ 7. Prove selected theorems appropriate to the level of the course. 
+
+(GE – NJ 2) 
+
+ 8. Demonstrate proficiency in the computer algebra software 
+
+ designated for calculus labs (GE – NJ 4) 
+
+
+ 
+
+B. Course Learning Outcomes 
+
+
+ 
+
+See above. 
+
+ 
+
+C. Assessment Instruments: 
+
+
+ 
+
+A. homework 
+B. weekly problems 
+C. quizzes 
+D. laboratory products 
+E. projects 
+F. tests 
+G. cumulative final examination, or designated portions therof 
+
+
+ 
+
+VII. Grade Determinants 
+
+ 
+
+ Factors that may enter into the determination of the final grade: 
+
+ 
+
+A. homework 
+B. weekly problems 
+C. quizzes 
+D. laboratory products 
+E. projects 
+F. tests 
+G. cumulative final examination 
+H. individual teacher determinant 
+
+
+ 
+
+ 
+
+Primary formats, modes, and methods for teaching and learning that may be used in 
+the course: 
+
+ 
+
+A. lecture 
+B. small groups 
+C. labs with technology component 
+D. homework 
+E. weekly problems 
+F. quizzes 
+G. projects 
+H. tests 
+I. cumulative Final Examination 
+
+
+ 
+
+VIII. Texts and Materials 
+
+ 
+
+A. Suggested Textbook: Calculus Early Transcendentals, latest edition, by Briggs 
+and Cochran, Pearson Addison Wesley, or similar textbook. 
+
+
+
+ 
+
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+ 
+
+B. A graphing calculator may be required; TI-84 is recommended 
+
+
+IX. Resources 
+
+ 
+
+This course is held in a computer lab for two hours a week. The computers need to be installed 
+with the math software currently licensed to the math department. Contact the math department 
+to 
+
+

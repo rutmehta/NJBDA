@@ -1,0 +1,71 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course: CS 110: Technology Literacy
+Credits: 2
+Prerequisites: College Level Reading and Writing
+Description:
+This course will focus on ethical, social, and security issues stemming from the use of computers in society. This course will stress ethical decision-making and social responsibility in connection with technology-related concerns. Issues such as security, crime, privacy, intellectual property and social media will be examined in the context of computer use. Internet browsing, researching, and keyboarding skills will also be introduced and refined.
+Learning Outcomes
+At the completion of this course, students will be able to:
+* Identify and describe ethical considerations for technology.
+* Apply critical thinking skills to retrieve, organize, analyze, and evaluate information using technological means. 
+* Analyze the impact of technology and connectivity on society and culture.
+* Demonstrate a working knowledge of universally accepted keyboarding skills.
+
+Topical Outline
+* Keyboarding
+* Internet researching skills and Browser basics
+* An overview of computer ethics
+* Cyber threats and security
+* Intellectual Property in the Information Age
+* Impact of Information Technology on society
+* Social Media and privacy
+Text: 
+
+Annual Editions Technologies, Social Media and Society, 23rd Edition, Mittleman and Druckenmiller, McGraw Hill Education, ISBN: 978-1-260-18028-2 and Open Education Resources (OER).
+Student Assessment
+(Assessment may be accomplished through research projects, quizzes, presentations and/or compositions.)
+Academic Integrity
+Plagiarism is cheating. Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+Whether the act of plagiarism is deliberate or accidental, plagiarism is, indeed, a “criminal” offense. (Ignorance of the proper rules for handling material is no excuse.) As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+Tutoring & Project Assist
+If you are having difficulty with work in this class, tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+Before Withdrawing From This Course
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS 110 Technology Literacy AssessmentStudent Learning OutcomeMethod of AssessmentIdentify and describe ethical considerations for technology.
+Reflective writings
+Quizzes 
+
+Analyze the impact of technology and connectivity on society and culture.
+Research project 
+Quizzes
+
+Apply critical thinking skills to retrieve, organize, analyze, and evaluate information using technological means.
+Research project outline with credible resources.
+Quizzes
+
+Demonstrate a working knowledge of universally accepted keyboarding skills.
+Weekly keyboarding exercises and speed assessments. 
+

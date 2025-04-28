@@ -1,0 +1,304 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College 
+
+Official Course Outline 
+
+
+
+
+
+MATH 212H: SUMMATIONS, SEQUENCES  SERIES  HONORS 
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 212H: Summations, Sequences,  
+
+Series  Honors 
+
+B. Date: November 1996 updated Summer 2001, updated Fall 2002 
+
+C. Sponsoring Department: Mathematics 
+
+D. Semester Credit Hours: 1 
+
+E. Weekly Contact Hours: 1 Lecture: 1 
+
+Laboratory: 0 
+
+F. Corequisite: MATH 112: Precalculus I, or 
+
+MATH 113: Precalculus II, or 
+
+MATH 211H: Foundations for Calculus 
+
+G. Laboratory Fees: None
+
+H. Dept. Chair: Dr. Nora Thornber (nthornberaritanval.edu) 
+
+II. Catalogue Description: 
+
+Corequisite: MATH 112: Precalculus I, or MATH 113: Precalculus II, or 
+
+MATH 211H: Foundations for Calculus. This course is designed as an honors 
+
+component to supplement existing courses at the precalculus level. The 
+course is 
+
+intended to provide students with exposure to relevant ideas for future 
+courses in 
+
+Calculus. Topics include arithmetic and geometric sequences and sums, 
+infinite 
+
+series, the binomial theorem, mathematical induction, permutations, 
+combinations 
+
+and probability. 
+
+
+
+III. Statement of Course Need: 
+
+Honors courses in mathematics have been developed to provide mathematically 
+
+talented students the opportunity to obtain a level of rigor not currently 
+available 
+
+in existing courses. Topics in this course have been selected to supplement 
+and 
+
+enrich the curriculum of the co-requisite courses by providing additional 
+theory 
+
+and applications that will sharpen the students deductive and inductive 
+reasoning 
+
+
+
+02/19/03 Page 1 of 4 
+
+
+
+
+
+MATH 212: Summations, Sequences,  Series 
+
+
+
+skills and empower them with the tools of symbolic language and methods to 
+
+acquire mathematical knowledge most needed for the calculus series. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. Summations, Sequences,  Series satisfies general education requirements 
+
+in mathematics. It serves as one-credit of free elective in mathematics for 
+
+all programs. 
+
+B. Summations, Sequences,  Series transfers as a mathematics course in 
+
+most liberal arts programs. 
+
+C. Summations, Sequences,  Series serves as one-credit of an honors 
+
+elective in mathematics. 
+
+V. Outline of Course Content 
+
+A. General Sequences and Sums 
+
+B. Arithmetic Sequence and series 
+
+C. Geometric Sequence and series 
+
+D. Infinite Series 
+
+E. The Binomial Theorem 
+
+F. Mathematical Induction 
+
+G. Counting Principles 
+
+H. Applications of the Counting Principles, Sequences and Series 
+
+VI. General Education Goals and Learning Outcomes 
+
+1. Education Goal 
+
+The student will develop strategies to analyze and solve math problems 
+
+involving sums, sequences, and series (relates to Gen. Ed. Goals 1.a., 1.b, 
+
+1.c, 1.d, 1.e., 1.f, and 1.g). 
+
+
+
+Learning Outcomes: 
+
+
+
+The student will be able to: 
+
+
+
+ Use Mathematical Induction as a method of proof. 
+
+ State the properties of an arithmetic sequence and a geometric 
+
+sequence and find the nth term and the sum of each. 
+
+2. Educational Goal: 
+
+2 11/26/02 
+
+
+
+
+
+
+
+MATH 212: Summations, Sequences,  Series 
+
+
+
+The student will develop the ability to apply geometric and algebraic skills 
+
+quantitatively to sequences, sums, and series (relates to Gen. Ed. Goals 
+
+5.a., 5.b., 5.c, and 5.d.). 
+
+
+
+Learning Outcomes: 
+
+
+
+The student will be able to: 
+
+
+
+ Define a sequence, a sequence of partial sums, and an infinite series 
+
+and distinguish between all three mathematical objects. 
+
+ Define the Binomial Theorem and use it to expand a binomial 
+
+expression and find its nth term 
+
+3. Educational Goal : 
+
+The student will develop the ability to apply sums to problems in selected 
+
+areas of the sciences and social sciences (relates to Gen. Ed. Goal 6.c and 
+
+7.d..). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Apply the counting principle and the formulas for combinations and 
+
+permutations to problems. 
+
+VII. Modes of Teaching and Learning 
+
+The following are appropriate to the course and may be included 
+
+
+
+ Lecture/discussion 
+
+ Small-group work 
+
+ Graphing Calculator assisted instruction 
+
+ Students in class oral presentations 
+
+ Student Collaboration 
+
+ Independent study. 
+
+3 11/26/02 
+
+
+
+
+
+
+
+MATH 212: Summations, Sequences,  Series 
+
+
+
+VIII. Papers, Examinations and other Assessment Instruments 
+
+Student Learning outcomes are assessed using a combination of the following: 
+
+
+
+ Teacher written exams 
+
+ In-Class quizzes 
+
+ Labs and/or Projects 
+
+ Student Oral Presentation 
+
+ Final examination 
+
+X. Text and Materials 
+
+Textbook: Precalculus with Limits, a Graphing Approach 3nd ed. Larson, 
+
+R.E., Hostetler, R. P.,  Edwards, B. H. Houghton Mifflin, 2001 
+
+
+
+Required technology: A scientific calculator is necessary. A graphing 
+
+calculator is recommended of all students. 
+
+
+
+XI. Resources 
+
+No additional resources are needed. 
+
+
+
+XII. Honors Courses 
+
+1. This is a one-credit honors course designed to supplement topics in 
+
+Precalculus I, Precalculus II or Foundations of Calculus. 
+
+2. See detailed Educational Goals and Student Learning Outcome in section 
+
+VI. 
+
+3. This is an existing and approved honors course. Its content is at the 
+
+precalculus level. 
+
+4 11/26/02 
+
+
+
+
+
+

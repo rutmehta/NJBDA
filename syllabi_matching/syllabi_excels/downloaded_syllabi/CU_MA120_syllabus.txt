@@ -1,0 +1,237 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Course Syllabus for College Trigonometry
+
+
+
+MA 120M  College Trigonometry (3:3:0)
+
+
+
+Brief Description:
+
+A continuation of MA 110.  Topics included are angular measure, 
+trigonometric functions, identities and equations, curve sketching, inverse 
+trigonometric functions, applications on right triangles, oblique triangles, 
+vectors, complex numbers, and polar coordinates. This course is designed for 
+students who may continue in math, science, technology or business related 
+fields. 
+
+
+
+Prerequisite:
+
+MA101 or MA 110 or placement by CBSPT scores.
+
+
+
+General Objectives:
+
+A. To provide the student with the trigonometry necessary to continue in the 
+fields of engineering, mathematics, science, technology, and business 
+related fields. 
+
+B. To engage students in extensive trigonometric problem solving.
+
+C. To have students experience trigonometry topics through modeling 
+real-world situations. 
+
+D. To have students expand their reasoning skills.
+
+E. To have students communicate about trigonometric topics both orally and 
+in writing. 
+
+F. To have students use appropriate technology to enhance their 
+understanding of trigonometry topics. 
+
+
+
+Competency-Based Objectives with Exit Criteria:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Describe angles
+
+ Use radian and degree measure
+
+ Use angles and trigonometric functions to model and solve real-life 
+problems 
+
+ Evaluate trigonometric functions using a unit circle, acute angles, or any 
+number 
+
+ Use the domain and period to evaluate the sine and cosine functions
+
+ Use a calculator to evaluate trigonometric functions
+
+ Use the fundamental trigonometric identities
+
+ Use reference angles to evaluate trigonometric functions
+
+ Sketch graphs of the trigonometric functions
+
+ Evaluate inverse trigonometric functions
+
+ Evaluate the composition of trigonometric functions
+
+ Recognize and write the fundamental trigonometric identities
+
+ Use the fundamental trigonometric identities to evaluate trigonometric 
+functions, simplify trigonometric expressions, and rewrite trigonometric 
+expressions 
+
+ Verify trigonometric identities
+
+ Solve trigonometric equations
+
+ Use sum and difference formulas to evaluate trigonometric functions, verify 
+identities, and solve trigonometric equations 
+
+ Use multiple-angle, power-reducing, half-angle, product-to-sum, and 
+sum-to-product formulas to rewrite and evaluate trigonometric 
+
+ Use the law of sines and cosines to solve oblique triangles and model 
+real-life problems 
+
+ Find the areas of oblique triangles
+
+ Recognize a conic as the intersection of a plane and double-napped cone
+
+ Write the standard form of the equation of the conics
+
+ Use the properties of conics to solve real-life problems
+
+ Evaluate a set of parametric equations for a given value of the parameter
+
+ Sketch a curve that is represented by a set of parametric equations
+
+ Rewrite a set of parametric equations as a single rectangular equation
+
+ Find a set of parametric equations for a graph
+
+ Plot points on the polar coordinate system
+
+ Convert points and equations from rectangular to polar form
+
+Outline of Course content and Suggested time Schedule:
+
+I. Trigonometry (7 weeks)
+
+Radian and degree measure
+
+Trigonometric functions: The unit circle
+
+Right triangle trigonometry
+
+Trigonometry functions of any angle
+
+Graphs of sine and cosine functions
+
+Graphs of other trigonometric functions
+
+Applications and models
+
+II. Analytic trigonometry (4 weeks)
+
+Using fundamental identities
+
+Verifying trigonometric identities
+
+Solving trigonometric equations
+
+Sum and difference formulas
+
+Multiple-angle and product-to-sum formulas
+
+III. Additional topics in trigonometry (1 week)
+
+Law of sines
+
+Law of cosines
+
+IV. Topics in analytic geometric (2 week)
+
+Introduction to conics: Parabolas
+
+Ellipses
+
+Hyperbolas
+
+Parametric equations
+
+Polar coordinates
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+90-100A
+
+80-89B
+
+70-79C
+
+60-69D
+
+Below-60F
+
+
+
+Attendance:  
+
+Regular class attendance is of primary importance for success in 
+Mathematics.  You will be permitted six hours absence.  Any absences after 
+six hours may cause the student to be dropped from the course. 
+
+
+
+Bibliography:
+
+Larson, R.,  Hostetler, R. P. (2004). Precalculus (6th ed.). New York: 
+Houghton Mifflin. 
+
+
+
+
+
+Fall 2003
+
+Page 1 of 3

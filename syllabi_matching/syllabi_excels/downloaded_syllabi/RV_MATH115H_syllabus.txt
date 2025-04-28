@@ -1,0 +1,162 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+ACADEMIC COURSE OUTLINE 
+
+
+MATH 115H SUMMATIONS, SEQUENCES & SERIES – HONORS 
+
+I. Basic Course Information 
+A. Course Number and Title: MATH 115H Summations, Sequences & Series - 
+Honors 
+B. New or Modified Course: Modified 
+C. Date of Proposal: Spring 2008 
+D. Sponsoring Department: Mathematics 
+E. Semester Credit Hours: 1 
+F. 
+Weekly Contact Hours: 1 Lecture: 1 
+Laboratory: 0 
+G. 
+Corequisites: MATH 112 Precalculus I, or 
+MATH 113 Precalculus II, or 
+MATH 114H: Precalculus Honors 
+H. Laboratory Fees: None 
+I. Department Chair: Siham Alfred, salfred@raritanval.edu 
+II. Catalog Description 
+Corequisites: MATH 112 Precalculus I, or MATH 113 Precalculus II, or MATH 
+114H: Precalculus Honors. This course is designed as an honors component to 
+supplement existing courses at the precalculus level. The course is intended to 
+provide students with exposure to relevant ideas for future courses in Calculus. 
+Topics include arithmetic and geometric sequences and sums, infinite series, the 
+binomial theorem, mathematical induction, permutations, combinations and 
+probability. 
+
+III. Statement of Course Need 
+Honors courses in mathematics have been developed to provide mathematically 
+talented students the opportunity to obtain a level of rigor not currently available 
+in existing courses. Topics in this course have been selected to supplement and 
+enrich the curriculum of the co-requisite courses by providing additional theory 
+and applications that will sharpen the students’ deductive and inductive reasoning 
+
+OAA/je 
+1 
+
+4/2/2008 
+
+
+skills and empower them with the tools of symbolic language and methods to 
+acquire mathematical knowledge most needed for the calculus series. 
+
+IV. Place of Course in College Curriculum 
+A. This course serves as a one credit free math elective for all programs. 
+B. This course transfers as a math course in most liberal arts programs. 
+V. Outline of Course Content 
+A. 
+General Sequences and Sums 
+B. 
+Arithmetic Sequence and series 
+C. 
+Geometric Sequence and series 
+D. 
+Infinite Series 
+E. 
+The Binomial Theorem 
+F. 
+Mathematical Induction 
+G. 
+Counting Principles 
+H. 
+Applications of the Counting Principles, Sequences and Series 
+VI. Educational Goals and Learning Outcomes 
+A. Educational Goals 
+Students will: 
+
+1. 
+apply mathematical arguments to problems. (G. E. 1) 
+2. 
+solve problems quantitatively and symbolically. (G. E. 7) 
+B. Learning Outcomes 
+Students will be able to: 
+
+1. 
+use mathematical induction as a method of proof. 
+2. 
+state the properties of an arithmetic sequence and a geometric 
+sequence and find the nth term and the sum of each. 
+3. 
+define a sequence, a sequence of partial sums, and an infinite 
+series and distinguish between all three mathematical objects. 
+4. 
+define the Binomial Theorem and use it to expand a binomial 
+expression and find its nth term 
+5. 
+apply the counting principle and the formulas for combinations 
+and permutations to problems. 
+VII. Modes of Teaching and Learning 
+The following are appropriate to the course and may be included 
+
+A. Lecture/discussion 
+B. Small-group work 
+OAA/je 
+2 
+
+4/2/2008 
+
+
+C. Graphing Calculator assisted instruction 
+D. Student oral presentations 
+E. Student Collaboration 
+F. 
+Independent study 
+VIII. Papers, Examinations, and other Assessment Instruments 
+A. Teacher written exams 
+B. In-Class quizzes 
+C. Labs and/or Projects 
+D. Student Oral Presentation 
+E. Final examination 
+IX. Grade Determinants 
+A. Tests 
+B. 
+Quizzes 
+C. Projects 
+D. 
+Laboratory products 
+E. 
+Homework 
+F. Final exam 
+X. 
+Texts and Materials 
+The following text and materials are required for the course: 
+
+A. Suggested Textbook: 
+Precalculus by Blitzer, published by Pearson 
+Prentice Hall 
+B. Graphing calculator is required. TI-84 is recommended. 
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+XI. Resources 
+No additional resources are needed. 
+
+XII. Honors Course 
+A. Educational Goals and Learning Outcomes: 
+See detailed Educational Goals 
+and Student Learning Outcomes in Section VI. 
+B. Honors Content: 
+This is a one-credit honors course designed to supplement 
+topics in MATH 112 Precalculus I, MATH 113 Precalculus II or MATH 
+114H Precalculus Honors. 
+OAA/je 
+3 
+
+4/2/2008 
+
+
+C. Grade Determinants for Honors Work: See Section IX. 
+OAA/je 4 
+
+4/2/2008 
+
+

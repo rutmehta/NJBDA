@@ -1,0 +1,385 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Syllabus for Differential Equations
+
+
+
+MATH 220 - Differential Equations (4:4:0)
+
+
+
+Brief Description:
+
+Topics include first order differential equations, higher order linear 
+equations with constant and variable coefficients, solutions by infinite 
+series, Laplace transforms and numerical methods.  Other topics include 
+existence and uniqueness theorems, phase plane and equilibrium points as 
+well as modeling many real world problems by using differential equations. 
+
+
+
+Prerequisite: 
+
+MA201 or MA 210.
+
+
+
+General Objectives:
+
+A. Develop an appreciation of the history of Differential Equations and the 
+role it has played in mathematics and other disciplines. 
+
+B. Learn to use symbolic notation correctly and appropriately.
+
+C. To increase the students mastery of the deductive nature of reasoning.
+
+D. To increase the students ability in problem solving.
+
+E. Use modeling techniques to show applications involving first order, 
+second order, and systems of differential equations. 
+
+F. To increase the students ability to work with others towards a common 
+goal. 
+
+G. Use technology to solve problems, communicate solutions and explore 
+options. 
+
+
+
+Competency-Based Objectives with Exit Criteria:
+
+Upon completion of this course, the student will be able to demonstrate 
+competency in the following areas: 
+
+ Basic knowledge and terminology
+
+a. Classify differential equations in terms of ordinary or partial, order 
+and linearity. 
+
+b. Verify a solution by substitution into the differential equation.
+
+c. Determine whether a first order linear initial valueproblem has a unique 
+solution over a given interval. 
+
+d. Apply initial conditions to a general solution to find a unique solution.
+
+e. Determine a differential equation for a variety of application problems 
+by applying modeling methods. 
+
+ First-Order Differential Equations
+
+Apply directional fields to visualize the family of solutions to a first 
+order differential equation. 
+
+a. Recognize an autonomous differential equation, find its critical points 
+and classify them as attractors, repellers or unstable. 
+
+b. Recognize a separable differential equation and solve by separating 
+variables. 
+
+c. Recognize a linear differential equation and solve by using an 
+integrating factor. 
+
+d. Recognize an exact differential equation by using partial derivatives and 
+solve by partial integration. 
+
+e. Recognize homogeneous and Bernoulli differential equations and solve by 
+substitution. 
+
+ Numerical methods
+
+a. Apply Eulers method to estimate points on a solution curve for first 
+order initial value problems. 
+
+b. Apply Improved Eulers method to estimate points on a solution curve for 
+first order initial value problems. 
+
+c. Apply Runge-Kutta method to estimate points on a solution curve for first 
+order initial value problems. 
+
+d. Use computer software to estimate solution curves.
+
+ Modeling with first order differential equations
+
+a. Solve exponential growth/decay problems.
+
+b. Solve Newtons law of cooling problems.
+
+c. Solve mixture problems.
+
+d. Solve logistic growth problems.
+
+e. Solve basic dynamics problems.
+
+f. Solve basic fluid flow problems.
+
+g. Set up a system of differential equations to model Predator-Prey and 
+mixture problems. 
+
+ Higher order differential equations.
+
+a. Determine if an initial value problem has a unique solution for an nth 
+order linear differential equation. 
+
+b. Determine if a set of solutions to a homogeneous linear differential 
+equation are linearly independent. 
+
+c. Define the Wronskian and use it to determine if a set of solutions to a 
+homogeneous linear differential equation are linearly independent. 
+
+d. Define the concept of a fundamental set of solutions, and how it relates 
+to the general solution. 
+
+e. Explain the form of the solution of a nonhomogeneous linear differential 
+equation. 
+
+f. Given one solution to a second order homogeneous linear differential 
+equation, use reduction of order to find a second solution. 
+
+g. Find the general solution of a homogeneous linear differential equation 
+with constant coefficients based on the roots of the auxiliary equation. 
+
+h. Apply the method of undetermined coefficients to find a particular 
+solution to a nonhomogeneous linear differential equation with constant 
+coefficients with an appropriate driving function. 
+
+i. Apply variation of parameters to find a particular solution.
+
+j. Identify and solve a Cauchy-Euler differential equation.
+
+k. Solve a system of linear differential equations by using differential 
+operators and elimination. 
+
+ Modeling with higher-order differential equations
+
+a. Explain the terms free undamped, free damped and driven motion for a 
+spring/mass system. 
+
+b. Explain the terms overdamped, critically damped and underdamped 
+oscillation for a free damped spring/mass system. 
+
+c. Explain the terms steady state solution, transient solution and pure 
+resonance for a driven spring/mass system. 
+
+d. Solve a variety of spring/mass system problems.
+
+ Series solutions of linear equations
+
+a. Determine if a given point is an ordinary, regular singular, or irregular 
+singular point for a second order linear differential equation with 
+polynomial coefficients. 
+
+b. Find the first several terms in each of two linearly independent power 
+series solutions for a given ordinary point. Determine the radius of 
+convergence based on the singular points. 
+
+c. Find the first several terms in each of two linearly independent 
+Frobenius series solutions for a given regular singular point. 
+
+d. Solve Bessels equation using Bessel functions of the first and second 
+kind. 
+
+ Laplace Transforms
+
+a. State the definition of a Laplace Transform, and use the definition to 
+calculate the transform of simple functions. 
+
+b. Use tables and general properties of Laplace Transforms to find the 
+transform of a given function. 
+
+c. Use tables and general properties of Inverse Laplace Transforms to 
+inverse of a Laplace Transform. 
+
+d. Use Laplace Transforms to solve a nonhomegeneous second-order IVP.
+
+e. Use the Laplace Transform to solve a system of differential equations.
+
+
+
+Outline of Course Content and Suggested Time Schedule:
+
+I. Differential Equations and their Solutions. (4 hours) 
+
+1. Classification of Differential Equations.
+
+2. Solutions of Differential Equations.
+
+3. Initial-value problems and existence uniqueness for firstorder initial 
+value problems. 
+
+4. Modeling applications as Differential Equations.
+
+II. Solving First-Order Differential Equations. (8 hours)
+
+1. Separable equations.
+
+2. Exact differential equations.
+
+3. First order linear equations by variation of parameters an and by 
+integration factors. 
+
+4. Solutions by substitution and Homogeneous equations.
+
+5. Bernoulli differential equations.
+
+III. Numerical Methods Of Approximating The Solution Of First Order 
+Differential Equations. (5 hours) 
+
+1. Direction Fields.
+
+2. Eulers Method.
+
+3. Improved Eulers Method.
+
+4. Runge-Kutta Method.
+
+IV. Modeling with First-Order Differential Equations.(6 hours)
+
+1. Newtons law of cooling, mixture and dynamics.
+
+2. Logistic, flow rates and velocity.
+
+3. Systems of linear and nonlinear differential equations.
+
+a) Combined mixture problems.
+
+b) Predator-Prey models.
+
+c) Numerical estimation of solution curves.
+
+V. Higher-Order Differential Equations (12 hours)
+
+1. Terminology and preliminary theory. 
+
+2. Linear independence and a general solution.
+
+3. Reduction of order.
+
+4. Solving homogeneous linear equations with constant coefficients.
+
+5. Undetermined coefficients.
+
+6. Variation of Parameters.
+
+7. Cauchy-Euler equation.
+
+8. Solving systems of linear equations.
+
+VI. Modeling With Higher-Order Differential Equations (6 hours)
+
+1. Undamped vibration system
+
+2. Damped vibration system.
+
+3. Driven motion.
+
+4. Nonlinear equations.
+
+5. Diabetes and a Glucose Tolerance Test.
+
+VII. Infinite Series Solutions (6 hours)
+
+1. Review of Power series.
+
+2. Power series solutions.
+
+3. Method of Frobenius.
+
+VIII. The Laplace Transform. (4 hours)
+
+1. Definition and general properties.
+
+2. Inverse transform and the transform of a derivative.
+
+3. Using to solve initial value problems.
+
+4. Solving systems of linear equations.
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems.  A TI-92 will also 
+be provided and all students will be required to use the TI-92 graphics 
+calculator. All students wil be required to spend time in the computer lab 
+to complete hand in assignments working with DERIVE. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+91-100A
+
+81-90B
+
+71-80C
+
+61-70D
+
+Below-61F
+
+
+
+Attendance:
+
+Students are expected to attend all classes and be there on time.  If for 
+some reason a student misses a class, it is their obligation to catch up on 
+the work missed.  If a student misses more than 8 hours of class and has 
+below a C average the student will be dropped from the class.  If a student 
+misses more than 10 hours of class they may be dropped from the class no 
+matter what their grade.  No warning will be given before instituting this 
+policy. 
+
+
+
+Bibliography:
+
+Zill,D. (2001).A First Course in Differential Equations (7th ed.). 
+Calfornia: Brooks/Cole Publishing 
+
+
+
+
+
+
+
+Fall 2003
+
+Page 1 of 4
+
+
+
+
+
+-----------------------------105871865726559--

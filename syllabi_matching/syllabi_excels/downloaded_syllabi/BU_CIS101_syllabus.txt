@@ -1,0 +1,390 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+BURLINGTON COUNTY COLLEGE
+
+COURSE INFORMATION FORM
+
+This form must be completed for all new and modified courses offered for 
+credit, including 
+
+experimental courses.
+
+I. Course Prefix and number: e.g. ART101: CIS 101
+
+II. Course Title: Introduction to Computers
+
+III. Lecture Hrs. 3
+
+       
+
+V. Prerequisite(s):  
+
+VI. Co-Requisite(s):      
+
+    VII. Dr. David Spang, Dean Science, Math, Technology, 609-894-9311 ext. 
+1367,  dspangbcc.edu 
+
+
+
+    X.  Modified Course 
+
+
+
+XI. Semester and Year Course will first be Offered (or, if a modified 
+course, semester and year when 
+
+revised course will first be offered):  Spring 1999
+
+       XII. Relation of Course to Curriculum(s):  Elective
+
+
+
+XIII. General Education Designator (if course is intended to satisfy a 
+general education requirement 
+
+check appropriate designator): 
+
+
+
+XIV. Catalogue Description:  This course builds computer literacy as 
+students (1) examine concepts of 
+
+computer technology and the use of computers in modern business and living 
+(2) acquire practical 
+
+operating system and productivity software skills and (3) get an 
+introduction to the basics of data 
+
+analysis, problem analysis and programming.
+
+Classes and labs are structured for students with diverse and varied prior 
+computer experience to build 
+
+from each students current skill level.  Individual and group learning 
+activities will be employed. 
+
+Students will utilize and e-mail account and a web-based on-line learning 
+site for the course. 
+
+XV. Course Objectives (Learning Outcomes): 
+
+ As broad objectives, Students:
+
+1.Will be able to employ and discuss applications of computer technology 
+typically used in 
+
+business, academic and personal life experiences, measured by
+
+Labs, reports and oral participation based on class work and research.
+
+Regular use of online email, web-based course site, and internet research
+
+2.Will be able to create documents using productivity tools, measured by
+
+Given a simple requirement such as a letter, can independently (or with 
+minimal assistance) 
+
+develop a WORD document to provide a computer-based solution.
+
+Given a simple list of items such as a list of expenses, can independently 
+(or with minimal 
+
+assistance) develop an EXCEL spreadsheet to provide a computer-based 
+solution. 
+
+Given a need to make a class presentation, participates in the preparation 
+of a POWERPOINT 
+
+slide set to provide a computer-based solution.
+
+3.Will be able to recognize key computer technology terms and concepts, 
+measured by 
+
+Tests, quizzes and oral participation based on readings and lectures.
+
+4.Will achieve introductory coding skills in a high level programming 
+language, measured by 
+
+Given a very simple problem, can independently analyze and write, and test a 
+procedural 
+
+program to solve.
+
+
+
+This course may lead to further study in the area of computer and 
+information sciences. 
+
+
+
+XVI. Textbook(s): 1.  TECHNOLOGY IN ACTION 3rd Edition
+
+                                   Authors: Evans, Martin, Poatsy
+
+                                  Pearson, Prentice Hall: ISBN 0-13-187886-7
+
+
+
+                              2.  Microsoft Office 2003 Illustrated Series - 
+Brief 
+
+                                   Microsoft Windows XP Brief Edition
+
+                                    Authors: Hunt and Halvorson.
+
+                                    Thomson Course Technology: ISBN 
+1-4188-6040-9 
+
+XVII. Other Course Materials to be supplied by Student: USB 2.0 thumb drive 
+, 
+
+   Course Compass online account:   access code included with text sold in 
+College Bookstore, or may 
+
+be purchased separately online  approximate cost of 18  
+
+
+
+XVIII. Grading Policy (Number and Weight of Papers, Quizzes, Examinations, 
+etc.) 
+
+Tests  (2 20)40    2 tests including final exam
+
+Online HW quizzes                    15   Online quizzes on assigned text 
+readings to be 
+
+                                                                             
+    completed outside of class, prior to due date/time. 
+
+Portfolio:
+
+Word, Excel, Access             Labs graded for completion, quality. 
+
+Analysis/Programming  
+
+Internet                          25   ALL LABS, plus follow-up homework  
+via email 
+
+Projects.. 10   Resume Project (5), individ Research Paper (5)    
+
+ Teamed- 2-3 projects   10    Team presentation plus addl activities.
+
+              A significant part of course depends on
+
+             teamed activity requiring attendance
+
+                                                                    
+
+                                        100
+
+ 
+
+Participation Extra Credit 5  pts possible
+
+Instructor may award or add to final grade
+
+Demonstrate innovative solution or provide unique insight to class.
+
+Demonstrate significant improvement in subject
+
+
+
+XIX. Detailed Description of Project Final Examination (if applicable): 
+
+XX. Schedule of topics to be covered in Course: 
+
+ICOURSE OUTLINE: (summarizes approximate content)
+
+
+
+Week 1
+
+Discussion: Information Technology Applications in Organizations, 
+Social/Ethical Implications and 
+
+Issues
+
+Course Overview - Discussion of Syllabus, expectations
+
+Lab Rules and expectations
+
+Why Computers Matter to You (Text Chapter 1)
+
+Lab Activities
+
+Sign on to class online account/website  
+
+Send e-mail to instructor with attachments as instructed
+
+
+
+Week 2
+
+Discussion: Hardware and Hardware Functions
+
+Looking at Computers and Understanding the Parts (Text Chapter 2)
+
+The History of the PC
+
+Lab Activities:
+
+Windows XP, File Management (Lab Book Windows XP Unit A, B)
+
+
+
+Week 3
+
+Discussion:  Telecommunications, Social/Ethical Implications and Issues
+
+Using the Internet (Text Chapter 3)
+
+Internet Search Engines
+
+Lab Activities:
+
+Student Web Activities created by instructor and/or from Text
+
+Intro to WORD (Lab book WORD Unit B)
+
+
+
+Week 4
+
+Discussion:  Computer Software
+
+Application Software (Text Chapter 4)
+
+Digital Entertainment
+
+Lab Activities:
+
+Formatting a document (Lab Book Word Unit C)
+
+Introduction to Creating a Resume (handout, project assignment)
+
+
+
+Week 5
+
+Discussion: Computer Software
+
+Using System Software (Text Chapter 5)
+
+Lab Activities:
+
+Enhancing a document (Lab Book Word Unit D)
+
+Week 6
+
+Discussion: Information Technology Applications in Organizations
+
+Understanding and Assessing Hardware (Text Chapter 6)
+
+Lab Activities:
+
+Creating a worksheet (Lab Book Excel Unit E)
+
+Week 7
+
+    Discussion: Hardware and Hardware Functions, Information Technology 
+Applications in 
+
+Organizations
+
+computer/technology advertisements
+
+Computing Alternatives
+
+Lab Activities:
+
+Using complex formulas, functions, and lists (Lab Book Excel Unit F)
+
+
+
+Week 8
+
+Mid Term Exam
+
+Lab Activities
+
+Creating a Chart (Lab Book Excel Unit G)
+
+Teamed survey recap (spreadsheet)
+
+
+
+Week 9
+
+Discussion: Computer/Telecommunications Hardware and Hardware Functions
+
+Networking and Security (Text Chapters 7 and 12)
+
+Lab Activities:
+
+Creating a Presentation (Lab Book PowerPoint Unit K)
+
+
+
+Week 10
+
+Discussion: Data Management
+
+Databases and Information Systems (Text Chapter 11)
+
+Lab Activities:
+
+Creating a Database (Lab Book Access Unit H)
+
+
+
+Week 11
+
+Discussion: Computer/Telecommunications Hardware and Hardware Functions
+
+Mobile Computing (Text Chapter 8)
+
+     Lab Activities:
+
+Database Forms and Reports (Lab Book Access Unit I)
+
+
+
+Week 12
+
+Discussion: Computer Software/Programming, Information Technology 
+Applications in Organizations 
+
+Software Programming (Text Chapter 10)
+
+Problem Analysis (flow charting)
+
+Lab Activities:
+
+Flow Chart Exercise 
+
+
+
+Week 13
+
+Discussion: Computer Software/Programming  
+
+Programming Introduction
+
+Lab Activities:
+
+Programming Lab 1
+
+
+
+Week 14
+
+    Course  Final Exam review  
+
+Lab Activities:
+
+Programming Lab 2
+
+Week 15
+
+      Final Exam 

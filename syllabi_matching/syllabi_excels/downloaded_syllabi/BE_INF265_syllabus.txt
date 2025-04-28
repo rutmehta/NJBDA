@@ -1,0 +1,117 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF265
+
+Network Configuration I
+
+Credits: 4 credits
+
+Prerequisites: INF264 Networking Fundamental II Helpful: A Certification 
+Microsoft Office Skills Introductory programming or multimedia courses 
+introductory electronics 
+
+New Course - Fall 2003
+
+
+
+Professor Lucy Caruso-Deane
+
+Department Head, Business
+
+lcaruos-deanebergen.edu
+
+
+
+This course applies the concepts and techniques acquired during prior 
+coursework to perform LAN switching and LAN segmentation using routers, 
+switches and bridges. Topics include Ethernet, Fst Ethernet, the benefits of 
+segmentation, and LAN performance. Students will work with the IPX protocol 
+and configure interfaces as well as monitor the operation of the router. 
+Benefits of the Spanning Tree Protocol and virtual LANs will be explored. 
+This course assists in preparation towards the CISCO CNA certification. 
+
+
+
+Course Objectives:
+
+01. Master Basic Content: Review of first two semesters LAN switching VLANs 
+LAN Design IGRP Access Lists VLANs 
+
+02. Master Lab Skills: Increasingly sophisticated router configuration 
+(IGRP, Access Lists, IPX) switch configuration network troubleshooting 
+skills 
+
+03. Master Documentation Skills: maintaining engineering journal design 
+documentation and electronic portfolio development 
+
+04. Master People Skills: working in engineering teams, self and project 
+management, oral exams, presentations 
+
+05. Achieve Awareness and Access: basic technological literacy awareness of 
+IT careers preparation for 2 and 4 yr. EE, CS, and IT programs access to 
+well-paying, learning-oriented jobs ability to design, install, and maintain 
+internetworks. 
+
+
+
+Course Content:
+
+01. List the required IPXTM address and encapsulation type.
+
+02. Configure IPX access lists and SAP filters to control basic Novell 
+traffic. 
+
+03. Enable the Novell IPX protocol and configure interfaces.
+
+04. Monitor Novell IPX operation on the router.
+
+05. Describe the advantages of LAN segmentation.
+
+06. Describe LAN segmentation using bridges.
+
+07. Describe LAN segmentation using routers.
+
+08. Describe LAN segmentation using switches.
+
+09. Name and describe two switching methods.
+
+10. Describe full- and half-duplex Ethernet operation.
+
+11. Describe network congestion problem in Ethernet networks.
+
+12. Describe the benefits of network segmentation with bridges.
+
+13. Describe the benefits of network segmentation with routers.
+
+14. Describe the benefits of network segmentation with switches.
+
+15. Describe the features and benefits of Fast Ethernet.
+
+16. Describe the guidelines and distance limitations of Fast Ethernet.
+
+17. Distinguish between cut-through and store-and-forward LAN switching. 
+
+18. Describe the operation of the Spanning Tree Protocol and its benefits. 
+
+19. Describe the benefits of virtual LANs.
+
+
+
+Text: Online Multimedia
+
+
+
+Grade Determinants:
+
+Skill Exams - pass/fail
+
+20 - Oral Exams
+
+20 - Journal
+
+20 - Exams
+
+20 - Final Exam
+
+20 - Portfolio

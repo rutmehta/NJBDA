@@ -1,0 +1,463 @@
+MAT-134
+
+Contemporary Mathematics
+
+Credits: 3
+
+Prerequisite: College Placement Test or Mat 093 or written
+
+permission of instructor
+
+Revised Syllabi Fall 2002
+
+
+
+Howard Valentine
+
+Department Chair, Mathematics
+
+valentinesalemcc.edu
+
+
+
+Course Description:
+
+This course is designed to enable students to develop an
+
+appreciation of mathematics and an awareness of how it is used
+
+today.  The course will investigate transformational geometry,
+
+statistics and discrete mathematical models (graph theory).  In
+
+addition, the instructor may choose from the following topics:
+
+voting theory, fair division, apportionment, fractal geometry, and
+
+real numbers as related to continuous mathematics.
+
+
+
+
+
+Performance Objective 1:
+
+     The student will perform rudimentary statistical analysis.
+
+
+
+Enabling Objectives:
+
+     A.   The student will describe the issues concerning data
+
+collection.
+
+     B.   Given a statistical sample, the student will summarize
+
+the data using descriptive
+
+          statistics.
+
+     C.   The student will calculate some simple probabilities.
+
+     D.   The student will interpret normal curve distributions
+
+          and describe how such distributions can be used to make
+
+          statistical inferences.
+
+
+
+
+
+Performance Objective 2:
+
+     The student will use transformational geometry.
+
+
+
+Enabling Objectives:
+
+     A.   Given a geometrical figure, the student will determine
+
+if it has geometrical
+
+          symmetry.
+
+     B.   The student will demonstrate rigid motions involving two-
+
+dimensional objects.
+
+     C.   The student will demonstrate reflections involving two-
+
+dimensional objects.
+
+     D.   The student will demonstrate rotations involving two-
+
+dimensional objects.
+
+     E.   The student will demonstrate translations involving two-
+
+dimensional objects.
+
+     F.   The student will demonstrate glide reflections involving
+
+two-dimensional objects.
+
+     G.   The student will identify recurring patterns in two-
+
+dimensional objects.
+
+
+
+Performance Objective 3:
+
+     The student will analyze a discrete mathematical model.
+
+
+
+Enabling Objectives:
+
+     A.   Given an Euler Circuit problem, the student will apply
+
+          basic mathematical theory involving graphs, edges,
+
+          vertices and their degrees, loops, paths, and
+
+          connectedness to solve it.
+
+     B.   Given a Hamiltonian Circuit problem, the student will
+
+          determine an algorithm for finding a Hamiltonian circuit
+
+          of minimum cost.
+
+     C.   The student will apply trees, sets, and counting
+
+          techniques to discrete mathematical models.
+
+     D.   Given a Traveling Salesman Problem (TSP), the student
+
+          will explain the need for computationally efficient
+
+          algorithms.
+
+     E.   Given a minimum network problem, the student will solve
+
+          it using various strategies such as subgraphs, circuits,
+
+          connectedness, trees, edges, and vertices (graph
+
+          theory).
+
+     F.   The student will demonstrate the need for scheduling,
+
+          describe some of the complexities in scheduling
+
+          problems, and solve simple scheduling problems.
+
+          (Optional)
+
+
+
+
+
+Performance Objective 4: (Optional)
+
+     Students will describe and demonstrate the problems of
+
+finding a fair voting system.
+
+
+
+Enabling Objectives:
+
+     A.   Students will describe and use the Plurality Method of
+
+voting.
+
+     B.   Students will describe and use the Borda Count Method of
+
+voting.
+
+     C.   Students will describe and use the Plurality-with-
+
+          Elimination Method of voting.
+
+     D.   Students will describe and use Pairwise Comparisons.
+
+
+
+
+
+Performance Objective 5:  (Optional)
+
+     Students will demonstrate the procedures involved in various
+
+systems of fair division.
+
+
+
+Enabling Objectives:
+
+     A.   Students will describe and use Divider-Chooser Method of
+
+sharing.
+
+     B.   Students will describe and use the Lone-Divider Method
+
+of sharing.
+
+     C.   Students will describe and use the Lone-Chooser Method
+
+of sharing.
+
+     D.   Students will describe and use the Last-Diminisher
+
+Method of sharing.
+
+     E.   Students will describe and use the Method of Sealed
+
+Bids.
+
+     F.   Students will describe and use the Method of Markers.
+
+
+
+
+
+Performance Objective 6: (Optional)
+
+     Students will demonstrate the mathematics of apportionment.
+
+
+
+Enabling Objectives:
+
+     A.   Students will describe and use Hamiltons Method.
+
+     B.   Students will describe and use The Quota Rule.
+
+     C.   Students will describe and use The Alabama Paradox.
+
+     D.   Students will describe and use Jeffersons Method.
+
+     E.   Students will describe and use Adams Method.
+
+     F.   Students will describe and use Websters Method.
+
+
+
+
+
+Performance Objective 7: (Optional)
+
+     Students will demonstrate discrete models of continuous data.
+
+
+
+Enabling Objectives:
+
+     A.   The student will use mathematics to describe the
+
+dynamics of population growth.
+
+     B.   The student will describe and use the linear growth
+
+model.
+
+     C.   The student will describe and use the exponential growth
+
+model.
+
+     D.   The student will describe and use the logistic growth
+
+model.
+
+
+
+
+
+Performance Objective 8:  (Optional)
+
+     Students will demonstrate manifestations of fractal geometry.
+
+
+
+Enabling Objectives:
+
+     A.   The student will describe and create the Koch Snowflake.
+
+     B.   The student will describe and create the Sierpinski
+
+Gasket.
+
+     C.   The student will describe the Chaos Game.
+
+     D.   The student will describe and create a subset of the
+
+Mandelbrot Set.
+
+
+
+Required Text:
+
+     Tannenbaum, P. and R. Arnold.  Excursions in Modern
+
+          Mathematic. (5th ed.). Upper Saddle Rive, NJ: Prentice
+
+          Hall.  2001.
+
+
+
+Course Requirements and Means of Evaluation:
+
+     Homework and class participation (maximum) 75 points
+
+     Quizzes (3 or more) 25 points each
+
+     Exams (3 or more) 100 points each
+
+     Final Exam (comprehensive) 200 points
+
+
+
+     Course Grade:  (based on a percentage of total possible
+
+points)
+
+
+
+          A    93 - 100
+
+          A-   90 - 92
+
+          B   88 - 89
+
+          B    83 - 87
+
+          B-   80 - 82
+
+          C   78 - 79
+
+          C    73 - 77
+
+          C-   70 - 72
+
+          D   68 - 69
+
+          D    60 - 67
+
+          F    < 60
+
+          FA   Failure due to lack of attendance
+
+          W    Withdraw
+
+          Note:     Withdrawing from the course MUST be completed
+
+               through the Student Affairs Office.
+
+
+
+Attendance Policy: Students are expected to attend all scheduled
+
+classes.
+
+
+
+Academic Honesty Policy:
+
+Students found to have committed an act of academic dishonesty may
+
+be subject to failure in this course, academic probation, and/or
+
+suspension from the college. A breach of the Academic Integrity
+
+and Conduct Rule occurs if a student a) knowingly represents the
+
+work of others as his or her own (plagiarism) b) uses or obtains
+
+unauthorized assistance in any academic work or c) gives
+
+fraudulent assistance to another student. (This list is not
+
+exhaustive.) See the Student Handbook for additional details.
+
+
+
+Course Activities:
+
+     Content will be delivered by means of lecture and group
+
+discussion.  The students
+
+     will have the opportunity to work collaboratively to explore
+
+mathematical
+
+     situations.
+
+
+
+Course Outline:
+
+
+
+     I.   Statistics
+
+          A.   Collecting Data
+
+          B.   Descriptive Statistics
+
+          C.   Probability
+
+          D.   Inferential Statistics
+
+
+
+     II.  Transformational Geometry
+
+          A.   Geometrical Symmetry
+
+          B.   Rigid Motions
+
+          C.   Reflections
+
+          D.   Rotations
+
+          E.   Translations
+
+          F.   Glide Reflections
+
+          G.   Patterns
+
+
+
+     III. Discrete Mathematical Models (Graph Theory)
+
+          A.   Euler Circuits
+
+          B.   Hamiltonian Circuits
+
+          C.   Trees, Sets, and Counting Techniques
+
+          D.   Traveling Salesman Problem (TSP)
+
+          E.   Networks
+
+          E.   Scheduling (Optional)
+
+
+
+     IV.  Additional Topics (Optional)
+
+          A.   Mathematics of Voting
+
+          B.   Fair Division
+
+          C.   Apportionment
+
+          D.   Discrete Models of Continuous Data
+
+          E.   Fractal Geometry

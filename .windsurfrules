@@ -1,0 +1,23 @@
+1. Each excel file for a sending institution contains course equivalencies with receiving institutions.
+    - This is the source of truth for course equivalencies.
+    - The columns for these excels are: "SI", "Course ID",  "Eff. Term", "Course Title", "Min Credit", "Max Credit", "GenED", "Stat", "Re", "RI", "Eff. Term", "PMAP", "EQ 'FN'", "Min Credit", "Max Credit", "TR", "Min Grade", "GenED", "Linked", "Course Note"
+    - This is the data dictionary: 
+        - "SI": Sending Institution
+        - "Course ID": Course ID
+        - "Eff. Term": Effective Term
+        - "Course Title": Course Title
+        - "Min Credit": Minimum Credits
+        - "Max Credit": Maximum Credits
+        - "GenED": General Education
+        - "Stat": Status
+        - "Re": Re
+        - "RI": Receiving Institution
+        - "PMAP": PMAP
+        - "EQ 'FN'": Equivalency
+        - "Min Grade": Minimum Grade
+        - "Linked": Linked
+        - "Course Note": Course Note
+2. The purpose of this project is to look at course equivalencies between institutions, and visualize them in a matrix, extracting data on what does and does not transfer
+3. The entries of the matrix will denote a 0 if the course from the SI does not transfer to the RI, and a 1 if it does
+4. The matrix will be used as the ground truth to train an ML model to predict course equivalencies using the syllabi of each course pair by using the SI and RI course IDs and course names
+

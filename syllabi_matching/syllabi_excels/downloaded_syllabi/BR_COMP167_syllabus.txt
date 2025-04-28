@@ -1,0 +1,1028 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE ID
+
+COMP167
+
+
+
+COURSE NAME
+
+CLIENT SIDE SCRIPTING
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+Four (4) credits
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+The prerequisite for this course is COMP-166, or HTML and
+
+COMP-132 or an approved procedural language
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Doll
+
+(732) 224-2849
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will gain a working knowledge of the Web-based
+
+scripting language JavaScript. This course provides the structure
+
+to allow students to design, code and execute JavaScript
+
+applications in a lab environment.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+This course is comprised of 12 units:
+
+
+
+               UNIT         TITLE
+
+
+
+               1.   Introduction to JavaScript
+
+2.   Variables, Functions and Objects
+
+3.   Using Events
+
+4.   Data Types/Operators
+
+5.   Decision Making
+
+6.   Using Windows
+
+7.   Using Frames
+
+8.   Using Forms
+
+9.   Dynamic HTML
+
+10.  Animation/Cascading Style Sheets (CSS)
+
+11.  Cookies
+
+12.  Active Server Pages (ASP)
+
+
+
+               
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+GRADE DETERMINANTS
+
+JavaScript Comprehensive, Don Gosselin, Course Technology, ISBN:
+
+0619-06334-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+Levels of achievement are determined by several factors including
+
+attendance, class participation, and testing and lab assignments.
+
+There will be 2 tests given during the semester as well as 12 lab
+
+assignments for receiving a C in the course. In addition there
+
+will be 2 B level and 1 A level assignments for consideration to
+
+higher grades. Final grades will be determined using the
+
+following:
+
+
+
+          GRADE          CRITERIA
+
+
+
+               A         Test average 90 or above
+
+                         Complete C-1 thru C-12
+
+                         Complete B1 and B2
+
+                         Complete A1
+
+
+
+               B         Test average 80 or above
+
+                         Complete C-1 thru C-12
+
+                         Complete B1 and B2
+
+
+
+               C         Test average 70 or above
+
+                         Complete C-1 thru C-12
+
+
+
+               D         Test average 60 -69
+
+                         Complete C-1 thru C-12
+
+
+
+               F         Test average below 60
+
+                         Or did not complete C-1 thru C-12
+
+
+
+                         
+
+Testing: There will be no retesting and all tests must be taken.
+
+
+
+Incomplete: A grade of Incomplete is approved only at the
+
+discretion of the instructor. To be eligible 70 of all work must
+
+be completed before consideration. A grade can only go up 1 level
+
+(i.e. D to C, C to B, B to A) on an Incomplete.
+
+
+
+Course Materials: All course materials can be downloaded from
+
+www.course.com.
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT 1
+
+Name of unit: Introduction to JavaScript
+
+
+
+Unit Objective:  The student will be able to create an HTML page
+
+and use the  <SCRIPT> tag to run JavaScript code.
+
+Method of Evaluation:  Completion of C-1 and Test1
+
+
+
+Estimated Time to Achieve:  1 week
+
+
+
+
+
+Learning Objectives:
+
+     The student will:
+
+          1.   Attend the lab demonstration on how to run a Browser
+
+
+
+
+
+
+
+          2.   Review several HTML tags
+
+3.   Create an HTML document
+
+4.   Create a JavaScript source file
+
+5.   Run the JavaScript code
+
+          
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Attend Lab Demonstration
+
+         Read in Gosselin Pages 1 thru 38
+
+         Complete C-1
+
+     
+
+     
+
+UNIT 2
+
+Name of unit:  Variable, Functions and Objects
+
+
+
+Unit Objective:  The student will be able to use JavaScript
+
+objects and variable prototype
+
+               and scope in order to make the JavaScript code more
+
+flexible.
+
+
+
+Method of Evaluation:  Completion of C-2 and Test 1
+
+
+
+Estimated Time to Achieve: 2 weeks
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   How to declare and use variables
+
+2.   How to define functions
+
+3.   How to call functions
+
+4.   How to use JavaScript objects
+
+5.   What inheritance  means
+
+6.   What scope means
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 48 thru 72
+
+         Complete C-2
+
+
+
+
+
+UNIT 3
+
+Name of unit: Using Events
+
+
+
+Unit Objective:  To use the available Events in JavaScript in
+
+order to expand the functionality of the HTML document
+
+
+
+Method of Evaluation:  Completion of C-3 and Test 1
+
+
+
+Estimated Time to Achieve:  1 week
+
+
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+               1.   What an Event is
+
+2.   How to use Events
+
+3.   The relationship between HTML tags and Events
+
+4.   How to use Links
+
+5.   How to create an Image Map
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 81 thru 102
+
+         Complete C-3
+
+
+
+
+
+UNIT 4
+
+Name of unit: Data Types/Operators
+
+
+
+Unit Objective:  The student will be able to use and store
+
+different types of data
+
+               in the JavaScript code.
+
+
+
+Method of Evaluation:  Completion of C-4 and Test 1
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will:
+
+          1.   Learn the JavaScript primitive data types
+
+2.   Be able to use different types of variables
+
+3.   Learn how to define and use Arrays
+
+4.   Learn the various JavaScript operators
+
+5.   Be able to use methods from the String object
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 109 - 164
+
+         Complete C-4
+
+
+
+
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+                                 
+
+
+
+UNIT 5
+
+Name of unit: Decision Making
+
+
+
+Unit Objective:  To use the decision making tools available to
+
+provide choice in the JavaScript code as well as loops.
+
+
+
+Method of Evaluation:  Completion of C-5 and Test 1
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   To use the if statement
+
+2.   To use the if.else statement
+
+3.   Nested if
+
+4.   Compound if
+
+5.   The switch
+
+6.   the while
+
+7.   the do.while
+
+8.   and the for statements
+
+          
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 173 - 222
+
+         Complete in Gosselin C-5
+
+
+
+
+
+
+
+UNIT 6
+
+Name of unit: Working with Windows
+
+
+
+Unit Objective:  To use the Window object in the JavaScript code
+
+to enhance the
+
+               HTML document.
+
+
+
+Method of Evaluation:  Completion of C-6 and Test 1
+
+
+
+Estimated Time to Achieve:  1 week
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   About the JavaScript object model
+
+2.   About the Window object
+
+3.   How to open and close windows
+
+4.   To use timeouts and intervals effectively
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 231 thru 248
+
+         Complete C-6
+
+
+
+
+
+
+
+UNIT 7
+
+Name of unit: Using Frames
+
+
+
+Unit Objective:  To use the Frames in the JavaScript code to
+
+further enhance the HTML document.
+
+
+
+Method of Evaluation:  Completion of C-7 and Test 2
+
+
+
+Estimated Time to Achieve:  1 week
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   How to create frames
+
+2.   How to create a TARGET attribute
+
+3.   How to create nested frames
+
+4.   The Location object
+
+5.   The History object
+
+6.   How to reference frames and windows
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 252 thru 281
+
+         Complete C-7
+
+
+
+
+
+UNIT 8
+
+Name of unit: Using Forms
+
+
+
+Unit Objective:  To use the <FORM> tag to expand the capability of
+
+the HTML
+
+               document.
+
+
+
+Method of Evaluation:  Completion of C-8, A-1 and Test 2
+
+
+
+Estimated Time to Achieve: 2 weeks
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   About Hidden form fields
+
+2.   About the Form object
+
+3.   How to reference forms and form elements
+
+4.   How to e-mail forms data
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin 293 - 357
+
+         Complete C-8 and A-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNIT 9
+
+Name of unit: Dynamic HTML
+
+
+
+Unit Objective:  Use the controls made available in DHTML to make
+
+the HTML
+
+               documentdynamic.
+
+
+
+Method of Evaluation:  Completion of C-9, B-1 and Test 2
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+          1.   What DHTML is
+
+2.   About the Document object
+
+3.   About Document object properties
+
+4.   About Document object methods
+
+5.   About the Image object
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 427 - 457
+
+         Complete C-9 and B-1
+
+     
+
+
+
+
+
+UNIT 10
+
+Name of unit: Animation and Cascading Style Sheets (CSS)
+
+
+
+Unit Objective:  To use CSS for positioning and presentation in
+
+the HTML
+
+               document.
+
+
+
+Method of Evaluation:  Completion C-10, B-2 and Test 2
+
+
+
+Estimated Time to Achieve:  1 week
+
+
+
+
+
+Learning Objectives:
+
+     The student will:
+
+          1.   About Cascading Style Sheets (CSS)
+
+2.   How to use JavaScript with styles in different browsers
+
+3.   How to position a style sheet in different browsers
+
+4.   Cross-browser compatibility
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 463 - 496
+
+         Complete C-10 and B-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNIT 11
+
+Name of unit: Cookies
+
+
+
+Unit Objective:  To understand how to use cookies.
+
+
+
+Method of Evaluation:  Completion of C-11 and Test 2
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+               1.   The status of information coming into and leaving your
+
+                 Document.
+
+               2.   About the String object
+
+3.   How to use query strings
+
+4.   How to create and read cookies
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 504 - 555
+
+         Complete C-11
+
+
+
+
+
+UNIT 12
+
+Name of unit: Active Server Pages (ASP)
+
+
+
+Unit Objective:  To effectively use an ASP application.
+
+
+
+Method of Evaluation:  Completion of C-12 and Test 2
+
+
+
+Estimated Time to Achieve: 2 weeks
+
+
+
+
+
+
+
+Learning Objectives:
+
+     The student will learn:
+
+               1.   How to create Active Server Pages Applications
+
+2.   About the various ASP objects
+
+3.   How ASP connect to databases
+
+4.   About the ADO Connection Object
+
+5.   How to execute SQL commands
+
+6.   How to perform transaction processing with ADO
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+         Attend class meeting
+
+         Read in Gosselin Pages 597 - 625,  680 - 712
+
+         Complete C-12
+
+
+
+
+
+
+
+
+
+
+
+JavaScript    Lab A1
+
+
+
+
+
+For this lab create an online catalog page that allows customers
+
+to order and find out about their order. Build a catalog page that
+
+lists four or five of the products. For each product provide a way
+
+to get more information for the product and a way to order a
+
+quantity of the product. Also provide a button that allows a
+
+customer to see an invoice of all the requested purchases. You may
+
+wish to use objects to help you store the product information and
+
+methods to display the products and invoice.  A sample user
+
+interface is shown below. You may change the design but the info
+
+button should open a new window to display information for that
+
+product (which includes the price). The add-to-cart button prompts
+
+the user for the amount to purchase. The JavaScript code you write
+
+must only allow valid numeric quantities for the amount. The Show
+
+Invoice button displays the items that have been added to the
+
+cart. The invoice should list only the products ordered and
+
+provide a grand total. As a bonus add a way to delete an item from
+
+the shopping cart. As an additional bonus store the items ordered
+
+in cookies.
+
+
+
+                                 
+
+                     LAB ASSIGNMENTS COMP-167
+
+
+
+LAB                   UNIT ASSIGNED          PAGE/EXERCISE
+
+                                 
+
+      C-1               1                      43      8
+
+      C-2               2                      76      1 or 9
+
+      C-3               3                      106          3
+
+      C-4               4                     169      5
+
+       C-5                    5                    226      7 or 9
+
+      C-6               6                     250      3 or 6
+
+      C-7               7                     287      7
+
+      C-8               8                     361       6 or 8
+
+A-1                  8                   pg 16 of syllabus
+
+      C-9                  9                   461        6 or 8
+
+      B-1               9                       460          1
+
+      C-10                  10                500       1 or 3
+
+      B-2              10                      500           4 or
+
+5
+
+      C-11                  11                      532
+
+7 or 8
+
+      C-12                  12                      628
+
+6
+
+     
+
+                                 

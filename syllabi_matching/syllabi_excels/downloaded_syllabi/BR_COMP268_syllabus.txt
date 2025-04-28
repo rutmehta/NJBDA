@@ -1,0 +1,584 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP268
+
+
+
+
+
+COURSE NAME
+
+Server Side Scripting
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+COMP 166 or HTML and COMP 171 Programming I or an approved procedural 
+language 
+
+
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED--4 credits to 3 credits 
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will gain a working knowledge of JavaServer Pages to develop 
+server-side applications. This includes using server-side software to 
+develop JavaServer Pages and servlets, working with sessions and cookies, 
+using JavaBeans, and accessing databases from web pages. 
+
+
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Introduction to Server-Side Technologies
+
+II. HTML and Tomcat
+
+III. Introduction to JSP programming
+
+IV. How to Develop servlets
+
+V. Web Development and JSP
+
+VI. Sessions and Cookies
+
+VII. JavaBeans
+
+VIII. Custom JavaServer Page Tags
+
+IX. Databases and JSP
+
+X. Secure Connections
+
+XI. Restricting Access
+
+XII. HTTP Requests and Responses
+
+GRADE DETERMINANTS
+
+
+
+ATest average 90 or above and
+
+Successfully complete Labs 1 to 15
+
+
+
+BTest average 85 or above and
+
+Successfully complete Labs 1 to 14
+
+
+
+BTest average 80 or above and
+
+Successfully complete Labs 1 to 14
+
+
+
+CTest average 75 or above and
+
+Successfully complete Labs 1 to 12
+
+
+
+CTest average 70 or above and
+
+Successfully complete Labs 1 to 12
+
+
+
+DTest average 60 through 69 and
+
+Successfully complete Labs 1 to 12
+
+
+
+FTest average below 60 or
+
+Did not successfully complete Labs 1 to 12
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED:
+
+
+
+Unit 1: Introduction to Server-Side Technologies
+
+Unit Objective: To introduce server-side concepts, available technologies 
+and tools used in this course. 
+
+Method of Evaluation: Completion of lab 1 and test 1.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Learn about client/server architecture
+
+Learn the components of a three tier system
+
+Learn about static versus dynamic web pages
+
+Discuss various server-side technologies
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Introduction and Chapter 1
+
+Complete lab 1
+
+
+
+     
+
+Unit 2: HTML and Tomcat
+
+Unit Objective: To review some HTML tags and learn how to use Tomcat.
+
+Method of Evaluation: Completion of lab 2 and test 1.
+
+Estimated Time to Achieve: 2 Weeks
+
+Learning Objectives:
+
+The student will:
+
+Install and configure Tomcat
+
+Examine JSP Applications
+
+Use links, style sheets, tables and forms in HTML pages
+
+Understand the difference between GET and POST methods
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 2 and Chapter 3
+
+Complete lab 2
+
+
+
+
+
+Unit 3: Introduction to JSP programming
+
+Unit Objective: To learn how to develop a web application consisting of HTML 
+pages and JavaServer Pages. 
+
+Method of Evaluation: Completion of lab 3 and test 1.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Learn how to create a JSP application
+
+Understand the benefits of using JSP
+
+Use regular Java classes within JSP
+
+Use JSP tags
+
+Work with JSP errors
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 4
+
+Complete lab 3
+
+
+
+
+
+Unit 4: How to Develop Servlets
+
+Unit Objective: To learn how to develop a web application using Java 
+Servlets. 
+
+Method of Evaluation: Completion of lab 4 and test 1.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Examine a running servlet
+
+Create, request and debug a servlet
+
+Learn the methods of a servlet such as init, service, doGet, doPost and 
+destroy 
+
+Understand the meaning of thread-safe servlets
+
+Debug servlet
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 5
+
+Complete lab 4
+
+
+
+
+
+Unit 5: Web Development and JSP
+
+Unit Objective: To learn how to use servlets and JSPs to structure an 
+application. 
+
+Method of Evaluation: Completion of lab 5 and test 1.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Learn how to validate data on the client
+
+Learn how to validate data on the server
+
+Work with web.xml
+
+Use the best features of servlets and JSP
+
+Use requests and response objects
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 6
+
+Complete lab 5
+
+
+
+
+
+Unit 6: Session and Cookies
+
+Unit Objective: To learn to keep track of user preferences.
+
+Method of Evaluation: Completion of lab 6 and test 2.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Understand what sessions are
+
+Use the set and get methods of the session object
+
+Create and use cookies
+
+Use various methods for working with cookies
+
+Learn how to use hidden fields
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 7
+
+Complete lab 6
+
+
+
+
+
+Unit 7: JavaBeans
+
+Unit Objective: To learn how to use and code JavaBeans.
+
+Method of Evaluation: Completion of lab 7 and test 2.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Define and create JavaBeans
+
+Understand the benefits of using beans
+
+Learn the various properties of beans
+
+Examine an application which uses beans
+
+Compile and install bean classes
+
+Use beans in scriptlets
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 8
+
+Complete lab 7
+
+
+
+
+
+Unit 8: Custom JavaServer Page tags
+
+Unit Objective: To learn how to use and code customer JSP tags.
+
+Method of Evaluation: Completion of lab 8 and test 2.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Use and code taglib directive
+
+Create a tag library descriptors
+
+Create and define tag handlers
+
+Understand the benefit of using custom tags
+
+Manipulate JSP content using custom tags
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 9
+
+Complete lab 8
+
+
+
+
+
+Unit 9: Databases and JSP
+
+Unit Objective: To learn how to access databases from JSP and servlets.
+
+Method of Evaluation: Completion of lab 9 and test 3.
+
+Estimated Time to Achieve: 2 Weeks
+
+Learning Objectives:
+
+The student will:
+
+Learn basic database and DBMS concepts
+
+Use JDBC to connect to databases from JSP pages
+
+Retrieve, populate and update databases using JSP pages
+
+Understand the benefit of using databases from JSP pages
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapters 10 and 11
+
+Complete lab 9
+
+
+
+
+
+
+
+Unit 10: Secure Connections
+
+Unit Objective: To learn how to prevent hackers from intercepting data.
+
+Method of Evaluation: Completion of lab 10 and test 3.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Learn how authentication works
+
+Request and use secure connections
+
+Describe the SSL protocol
+
+Create digital certificates
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Attend a lab demonstration of enabling SSL in Tomcat
+
+Read textbook Chapter 13 
+
+Complete lab 10
+
+
+
+
+
+Unit 11: Restricting Access
+
+Unit Objective: To learn how to restrict access to parts of a web site.
+
+Method of Evaluation: Completion of lab 11 and test 3.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Use container-managed security
+
+Describe the use of web.xml, server.xml and database files for security
+
+Distinguish between basic authentication and form-based authentication
+
+Implement security using different techniques
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 14 
+
+Complete lab 11
+
+
+
+
+
+Unit 12: HTTP requests and responses
+
+Unit Objective: To learn to work with HTTP requests and responses.
+
+Method of Evaluation: Completion of lab 12 and test 3.
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student will:
+
+Understand how HTTP requests and responses work
+
+Describe the components of an HTTP request and response
+
+Use different MIME types supported by HTTP
+
+Work with request and response headers
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 15 
+
+Complete lab 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

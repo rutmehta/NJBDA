@@ -1,0 +1,323 @@
+
+
+1. Course Number and Title: CSIT 162  VB.Net Programming
+
+
+
+2. Semester Hours: 3 s.h. Contact Hours:( 3    0 )
+
+      Lecture/Lab
+
+
+
+3. Catalog Description:
+
+This course is designed to introduce students to the next phase in the 
+evolution of Visual Basic - the integration of object-oriented programming 
+(OOP), graphical-user-interface (GUI), exception handling, multithreading, 
+multimedia, file processing, prepackaged data structures, database 
+processing, the Internet, World-Wide-Web client/server networking and 
+distributed computing - to enable Web-based applications to be distributed 
+to consumer-electronic devices, such as cell phones and Personal Digital 
+Assistants (PDAs) as well as desktop computers. 
+
+Open lab time required. 
+
+
+
+4. Prerequisites:A working knowledge of object-based (Visual Basic) or 
+object-oriented (C or Java) programming languages. 
+
+
+
+Co-requisites:None 
+
+
+
+5. Maximum Class Size:22  Course Fee Code:E  Differential Funding 
+Category:IV 
+
+
+
+6.Justification:
+
+
+
+a. Demonstrated demand.
+
+Microsofts shift to the .NET architecture has created a need for enterprise 
+applications using the .NET Platform and more traditional Visual Basic 
+applications that can take advantage of the enhancements to the language. 
+Visual Basic.Net is Microsofts solution to creating a software-development 
+paradigm that increases programmer productivity while decreasing development 
+time. 
+
+
+
+b. Related courses within the college.
+
+This course supplements the concepts taught in Visual Basic, object-oriented 
+courses, Internet and Web-based courses. It serves as the second course in a 
+programming language sequence and is an elective in both the Computer 
+Science AAS degree and certificate programs. This type of course is also an 
+elective at other colleges. 
+
+
+
+c. Related courses in other institutions.
+
+This course is similar to those at other institutions that offer a cutting 
+edge certificate or concentration in web development or information 
+technology. 
+
+
+
+d. Consistency with philosophy, mission, Academic Master Plan, and strategic 
+initiatives of the College. 
+
+Instruction in software development and deployment supports the fundamental 
+purpose of the College to provide state of the art technology to prepare 
+students for transfer and/or immediate career employment. This course 
+further supports the fundamental purpose of the College to educate and train 
+students for in demand occupations in response to changing labor needs. 
+
+
+
+e. General Education goal(s) this course addresses and how it addresses 
+them. 
+
+Demonstrating proficiency in designing and implementing object-oriented 
+Internet and World-Wide-Web-based applications that seamlessly integrate 
+with PC-based applications satisfies the General Education goal: 
+mathematics, science and technology, defined as courses designed to enhance 
+mathematics and scientific conceptual understanding and application, 
+including computer science. 
+
+
+
+f. Does this course satisfy the diversity requirement defined as Any course 
+whose primary purpose is to help students analyze the implications of the 
+commonalties and differences among culturally diverse people(s)  May include 
+courses in gender studies or in non-western history or thought.  If so, 
+explain. 
+
+Not Applicable.
+
+
+
+7. Course Objectives:
+
+A. The student will be able to write programs that demonstrate the mechanics 
+of inheritance. 
+
+B. The student will be able to create abstract classes, interfaces and 
+delegates. 
+
+C. The student will be able to code exception and error handling procedures.
+
+D. The student will be able to create and manipulate graphical user 
+interfaces. 
+
+E. The student will be able to create menus, tabbed windows and 
+multiple-document interface programs. 
+
+F. The student will be able to create custom controls.
+
+G. The student will be able to create, manage and destroy threads.
+
+H. The student will be able to understand thread synchronization, priorities 
+and scheduling. 
+
+I. The student will be able to create and manipulate character string 
+objects. 
+
+J. The student will be able to use and manipulate graphic objects.
+
+K. The student will be able to use Windows Media Player and Microsoft Agent 
+in a Visual Basic application. 
+
+L. The student will be able to create, read, write and update files.
+
+M. The student will be able to use the File and Directory classes.
+
+N. The student will be able to mark up data using XM, create Schemas, create 
+and use XSLT documents. 
+
+O. The student will be able to use the classes and interfaces of various 
+namespaces to manipulate databases and XML files. 
+
+P. The student will be able to create and control Web-based applications.
+
+Q. The student will be able to use Web services with Windows and Web 
+applications. 
+
+R. The student will be able to implement Visual Basic networking 
+applications using sockets and datagrams. 
+
+
+
+8. Method of Instruction:
+
+Class lecture/discussion, demonstrations, individual and team programming 
+projects. 
+
+
+
+9. Instructional Materials:
+
+Class notes, textbooks, software, manuals and online help.
+
+
+
+10.Tentative Topical Outline:
+
+A. Introduction
+
+1. Review of Program Development Cycle
+
+2. Review of Object-Based Programming
+
+a. Inheritance
+
+b. Access Types
+
+c. Overloading Methods
+
+d. Polymorphism
+
+
+
+B. Building and Deploying Applications
+
+1. Compiler Directives
+
+2. Controls
+
+3. Events
+
+4. System Object Class
+
+5. Garbage Collection
+
+
+
+C. Files and Streams
+
+1. Data Hierarchy
+
+2. File and Directory Classes
+
+3. Sequential-Access File Processing
+
+4. Random-Access File Processing
+
+5. Strings
+
+
+
+D. Exception Handling
+
+1. .NET Exception Hierarchy
+
+2. Exception Properties
+
+3. Programmer-Defined Exception Classes
+
+
+
+E. Building the Windows User Interface
+
+1. Forms
+
+2. Event-Handling Model
+
+3. Control Properties and Layout
+
+4. Mouse-Event Handling
+
+5. Keyboard-Event Handling
+
+6. Multiple-Document-Interface (MDI) Windows
+
+7. Visual Inheritance
+
+8. User-Defined Controls
+
+
+
+F. Threads
+
+1. Thread States
+
+2. Thread Priorities, Scheduling and Synchronization
+
+3. Monitor Class
+
+
+
+G. Graphics and Multimedia
+
+1. Graphics Contexts and Objects
+
+2. Animation
+
+3. Windows Media Player
+
+4. Microsoft Agent
+
+
+
+H. Extensible Markup Language (XML)
+
+1. XML Documents
+
+2. XML Namespaces
+
+3. Document Object Model (DOM)
+
+4. Document Type Definitions (DTDs), Schemas and Validation
+
+5. Extensible Stylesheet Language (XSL) and XslTransform
+
+
+
+I. Network Applications
+
+1. Establishing Client/Server Stream Sockets
+
+2. Client/Server Interaction Using Stream Sockets
+
+3. Connectionless Client/Server Interaction using Datagrams
+
+
+
+11. Grade Determinants:
+
+The final grade in the course will be the cumulative grade based on the 
+following letter grades for the course assignments and examinations: 
+
+
+
+AExcellentDBelow Average
+
+BVery GoodFFailure
+
+BGoodPPassing
+
+CAbove AverageI Incomplete
+
+CAverageRAudit
+
+
+
+12. Number of Papers and Exams:
+
+Six major programming projects and six minor programming projects.
+
+
+
+Submitted by Mary Burke
+
+Spring 2004
+
+Revised Summer 2005

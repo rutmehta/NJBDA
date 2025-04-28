@@ -1,0 +1,284 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ 
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+ 
+
+CSIT 296H Computer Science Capstone Research Honors 
+
+ 
+
+ 
+
+I. Basic Course Information 
+
+ 
+
+A. Course Number and Title: Computer Science Capstone Research Honors 
+CSIT 296H 
+
+
+ 
+
+B. New or Modified Course: New 
+
+ 
+
+C. Date of Proposal: Semester: Fall Year: 2017 
+
+ 
+
+D. Effective Term: Fall 2018 
+
+ 
+
+E. Sponsoring Department: Computer Science 
+
+ 
+
+F. Semester Credit Hours: 3 
+
+ 
+
+G. Weekly Contact Hours: Lecture: 0 
+
+ Laboratory: 0 
+
+ Out of class student work per week: 9 
+
+ 
+
+H. Prerequisites/Corequisites: Student must be enrolled in his or her last Honors 
+College academic year before graduation 
+
+ 
+
+I. Laboratory Fees: none 
+
+ 
+
+J. Name and Telephone Number or E-Mail Address of Department Chair and Divisional 
+Dean at time of approval: Steven Schwarz – steven.schwarz@raritanval.edu (Chair), 
+Sarah Imbriglio – Sarah.Imbriglio@raritanval.edu (Divisional Dean) 
+
+ 
+
+ 
+
+II. Catalog Description 
+
+ 
+
+Prerequisite: Student must be enrolled in his or her last Honors College academic 
+year before graduation 
+
+ 
+
+The course is intended to guide sophomore Honors College students from all disciplines 
+through the stages of conducting a semester-long research project and/or developing an 
+artistic pursuit. Topics include planning, research and documentation, prose style and 
+editing, document design, ethics, abstracts, and oral presentations. Because the course 
+
+
+will enroll from different disciplines students will also become acquainted with research 
+topics, ways of framing arguments, and making points outside their fields of study, which 
+will help them develop a more interdisciplinary perspective. Class will include research 
+training, developing a timeline, as well as independent study of research. 
+
+ 
+
+ 
+
+III. Statement of Course Need 
+
+ 
+
+A. Research on the value of intensive undergraduate research experiences abounds, and 
+requiring enrollment in this research capstone will provide RVCC Honors College 
+students with: a strong student-faculty collaboration and scholarship; an original 
+research in the discipline; an understanding of intensive research in preparation for 
+classes in the major or for more intensive graduate school research; and a high profile 
+project that will aid in transfer applications. 
+
+
+ 
+
+Class will consist of five major components: library instruction, research and 
+guidance with faculty member, group discussions on topics and progress, the final 
+written (or artistic) project, and a formal presentation. 
+
+ 
+
+B. This course has no lab component 
+
+
+ 
+
+C. This course is not designed for transfer, yet dependent on transfer institution may 
+transfer as a Computer Science program elective. 
+
+
+ 
+
+ 
+
+IV. Place of Course in College Curriculum 
+
+ 
+
+A. Free Elective 
+B. This course does not meet a General Education requirement 
+C. This course meets a program requirement for the Honors College 
+D. CIS Elective on the Computer Science Elective List 
+E. To see course transferability: a) for New Jersey schools, go to the NJ Transfer 
+website, www.njtransfer.org; b) for all other colleges and universities, go to the 
+individual websites. 
+
+
+ 
+
+V. Outline of Course Content 
+
+ 
+
+Class will consist of the following major components 
+
+A. Information literacy instruction to support research in Computer Science 
+B. Advanced Computer Science topic exploration 
+C. Literature research utilizing discipline-specific information sources, databases, 
+interlibrary loan, etc. 
+D. Background research and discussion of the capstone topic with capstone Computer 
+Science faculty advisor to create a timeline of completion 
+E. Develop methods to understand and analyze the Computer Science research topic 
+F. Application of Computer Science research topic and results to relevant situations 
+
+
+
+G. Research and guidance with capstone Computer Science faculty advisor via weekly 
+consultations to discuss results, assess progress and adjust timeline as needed. 
+H. The final Computer Science capstone project 
+I. A formal capstone presentation (Capstone Day). 
+
+
+ 
+
+ 
+
+VI. General Education and Course Learning Outcomes 
+
+ 
+
+ 
+
+ 
+
+A. General Education Learning Outcomes: 
+
+
+ 
+
+ At the completion of the course, students will be able to: 
+
+1. Logically and persuasively state and support orally and in writing their findings 
+from the research or creative project (GE-NJ1, *) 
+2. Evaluate relevance and authority of information (GE-NJ IL) 
+3. Create and revise drafts and/or review artistic process to address capstone 
+objectives and employ standard appropriate editing practices for the specified 
+discipline (GE-NJ1) 
+4. Use discipline-specific information sources and/or databases to better understand 
+the research topic and find existing research in the field. (GE-NJ IL) 
+5. Complete a research project or develop an artistic product that incorporates newly 
+acquired and prior information and is delivered in a medium appropriate to the 
+discipline and intended audience. (GE-NJ Il, NJ1) 
+6. Cite sources, compile a bibliography, and make consistent and correct use of a 
+citation style appropriate to the discipline (GE-NJ IL) 
+
+
+* embedded critical thinking 
+
+ B. Course Learning Outcomes: 
+
+ 
+
+ At the completion of the course, students will be able to: 
+
+1. Explain and present all aspects of their Computer Science capstone project 
+
+
+ 
+
+ C. Assessment Instruments 
+
+ 
+
+1. Research process 
+2. Final capstone product 
+3. Capstone project presentation 
+
+
+ 
+
+ 
+
+VII. Grade Determinants 
+
+ 
+
+A. research process 
+B. completion of agreed upon timeline deadlines 
+
+
+
+C. revisions of drafts and/or review of artistic process 
+D. final capstone product oral presentation 
+
+
+ 
+
+ 
+
+Given the goals and outcomes described above, the primary formats, modes, and methods 
+for teaching and learning that may be used in the course: 
+
+A. lecture/discussion 
+B. small-group work 
+C. computer-assisted instruction 
+D. guest speakers and lectures 
+E. student oral presentations 
+F. student-faculty collaboration 
+G. independent study and research 
+
+
+ 
+
+ 
+
+VIII. Texts and Materials 
+
+ 
+
+Any texts and materials will be dependent upon individual capstone project requirements. 
+
+ 
+
+ 
+
+IX. Resources 
+
+ 
+
+A. Databases 
+B. Archives 
+C. Museums/performances 
+D. Subject matter experts 
+E. Additional hardware/software might be acquired through a budget request process 
+
+
+ 
+
+

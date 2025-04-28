@@ -1,0 +1,185 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+ACADEMIC COURSE OUTLINE 
+
+
+MATH 150 APPLIED CALCULUS 
+
+
+I. Basic Course Information 
+A. Course Number and Title: MATH 150 Applied Calculus 
+B. New or Modified Course: Modified Course 
+C. Date of Proposal: Fall 2008 
+D. Sponsoring Department: Mathematics 
+E. Semester Credit Hours: 4 
+F. 
+Weekly Contact Hours: 4 Lecture: 4 
+Laboratory: 0 
+G. Prerequisites: MATH 113 Precalculus II, or MATH 114H Precalculus Honors, 
+or appropriate score on math placement test 
+H. Laboratory Fees: None 
+I. Department Chair: Patti Hulsen, phulsen@raritanval.edu 
+II. Catalog Description 
+Prerequisite: MATH 113 Precalculus II, MATH 114H Precalculus Honors, or a 
+satisfactory score on a placement test. A one-semester course in Calculus as applied 
+to business, economics, the behavioral sciences, the social sciences, and biology. 
+Topics include the basic principles of limits; continuity; derivatives of algebraic, 
+trigonometric, exponential, and logarithmic functions; the study of antiderivatives; 
+the integral of algebraic, trigonometric, and exponential functions; and applications of 
+the integral. Credit will not be given for both Applied Calculus and Calculus I. 
+
+III. Statement of Course Need 
+This course may serve as a math requirement for all A.A. programs and some 
+
+A.S. programs. 
+IV. Place of Course in College Curriculum 
+1 
+
+
+A. This course is a free elective. Also, it serves as a mathematics elective for all 
+programs except Engineering, Physics, Chemistry, Computer Science, and 
+Mathematics. 
+B. This course serves as a General Education requirement in Mathematics. 
+C. This course may serve as a program math requirement for all A.A. and some 
+A.S. degrees. 
+D. This course transfers as a mathematics course in most liberal arts programs. 
+V. Outline of Course Content 
+A. Review – Linear Functions 
+1. Slopes and Equations of Lines 
+2. Linear Functions 
+3. Least squares 
+B. Review - Nonlinear Functions 
+1. Properties of Functions 
+2. Quadratic Functions 
+3. Polynomial and Rational Functions 
+4. Exponential Functions 
+5. Logarithmic Functions 
+6. Trigonometric Functions 
+7. Applications 
+C. The Derivative 
+1. Limits 
+2. L'Hôpital’s Rule 
+3. Continuity 
+4. Rates of Change 
+5. Definition of the Derivative 
+6. Graphical Differentiation 
+D. Calculating the Derivative 
+1. Finding Derivatives 
+2. Products and Quotients 
+3. The Chain Rule 
+4. Derivatives of Exponential and Logarithmic Functions 
+5. Derivatives of Trigonometric Functions 
+6. Implicit Differentiation 
+E. Graphs and the Derivative 
+1. Increasing and Decreasing Functions 
+2. Relative Extrema 
+3. Higher Derivatives, Concavity, and Second Derivative Test 
+4. Curve Sketching 
+2 
+
+
+ F. 
+Further Applications of the Derivative 
+1. 
+Absolute Extrema 
+2. 
+Applications of Extrema 
+3. 
+Related Rates 
+4. 
+Differentials 
+5. 
+Applications in Business, Biology, and Social Science 
+G. 
+Integration 
+1. 
+Antiderivatives 
+2. 
+Substitution 
+3. 
+Area and the Definite Integral 
+4. 
+The Fundamental Theorem of Calculus 
+5. 
+Area between Two Curves 
+6. 
+Applications in Business, Biology, and Social Science 
+VI. Educational Goals and Learning Outcomes 
+A. 
+General Education Goals 
+Students will: 
+
+1. 
+Apply mathematical arguments to problems. (G. E. 1) 
+2. 
+Solve problems quantitatively and symbolically. (G. E. 7) 
+B. 
+Learning Outcomes 
+Students will be able to: 
+
+1. 
+Evaluate limits numerically, graphically, algebraically, or by using 
+L'Hôpital’s Rule. 
+2. 
+Differentiate polynomial, rational, exponential, logarithmic, and 
+trigonometric functions by applying methods such as the 
+Definition of the Derivative, Product Rule, Quotient Rule, Chain 
+Rule, and Implicit Differentiation. 
+3. 
+Utilize the derivative, instantaneous rate of change, optimization, 
+curve sketching, or related rates in solving business, biology, and 
+social science application problems. 
+4. 
+Evaluate definite and indefinite integrals of polynomial, 
+exponential, and trigonometric functions by applying methods such 
+as rules of integration and substitution. 
+5. 
+Utilize the Fundamental Theorem of Calculus along with area 
+between two curves in solving business, biology, and social 
+science application problems. 
+VII. Modes of Teaching and Learning 
+3 
+
+
+Instructors can use a variety of modes including, but not limited to the following: 
+
+A. tests 
+B. quizzes 
+C. cumulative final exam 
+D. projects 
+E. homework 
+F. small groups 
+VIII. Papers, Examinations, and other Assessment Instruments 
+Student learning outcomes are assessed using a combination of the following: 
+
+A. tests 
+B. cumulative final examination 
+C. quizzes 
+D. projects 
+IX. Grade Determinants 
+Final grades are determined by a combination of the following: 
+
+A. cumulative final examination 
+B. tests 
+C. projects 
+D. quizzes 
+E. small groups 
+F. homework 
+X. Texts and Materials 
+The following text and materials are required for the course: 
+
+A. Suggested Textbook: Calculus with Applications, latest ed., by Lial, 
+Greenwell, and Ritchey 
+B. Graphing calculator is required. TI-84 is recommended. 
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+XI. Resources 
+No unusual resources are needed. 
+
+4 
+
+

@@ -1,0 +1,362 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+1
+
+
+
+Page 1 of 4                                        1/14/2005
+
+              Raritan Valley Community College
+
+            Outline for Proposals for New Courses
+
+
+
+
+
+I. Basic Course Information
+
+
+
+       A.   Date: September 2003
+
+          
+
+B.   Course Prefix and Title:  CISY 266 Microsoft.NET
+
+Databases
+
+
+
+C.   Sponsoring Department: Computer Science and Educational
+
+Technology
+
+
+
+D.   Course Developer:  Steven Schwartz
+
+
+
+E.   Semester Credit Hours:  3
+
+
+
+F.   Weekly Contact Hours :  4          Lecture 2
+
+                                                      Lab
+
+2
+
+
+
+G.   Prerequisites:  Introduction to Visual Basic.NET,
+
+Active Server Pages.NET, or permission of the Instructor
+
+
+
+H.   Laboratory Fees:  Yes, at current rate
+
+
+
+       I.   Dept. Chair:  Dr. Thomas Edmunds
+
+       (tedmundsraritanval.edu)
+
+
+
+II.  Catalog Description
+
+
+
+This course will instruct students on how to create database
+
+driven, Windows and Web based applications using the Visual
+
+Basic.NET programming language. The applications will
+
+communicate with both Access and SQL Server databases using
+
+ADO.NET, Microsofts latest data access technology.
+
+
+
+III.  Statement of Course Need
+
+
+
+The introduction of Microsofts .NET Framework marks the
+
+beginning of major revisions to all of its programming
+
+languages.
+
+.NET is the programming model for building, deploying, and
+
+running Web-based applications, smart client applications,
+
+and XML Web services. Because it controls memory management,
+
+developers can focus on writing applications business
+
+logic.
+
+Students enrolled this course will already have a solid
+
+foundation in developing applications in either Introduction
+
+to Visual Basic.NET or Active Server Pages.NET. However,
+
+just about every software application connects to a database
+
+of one kind or another. In todays difficult job market,
+
+students need to leave Raritan Valley Community College with
+
+sufficient programming skills so they may be productive
+
+immediately without requiring excessive additional training.
+
+       
+
+IV. Place of Course in College Curriculum
+
+       A.   CIS Programming Elective
+
+       B.    Requirement in the .NET Certificate Program, currently
+
+       in development.
+
+C.   Free Elective
+
+D.   Transfers as an elective
+
+       
+
+
+
+V. Outline of Course Content
+
+
+
+This course will explore the following topics:
+
+
+
+     v    Introduction to ADO.NET
+
+v    Structured Query Language (SQL)
+
+v    Connecting to a Remote SQL Server
+
+v    Typed and Un-typed Datasets
+
+v    Bound and Unbound Controls
+
+v    Data Adapter Configuration Wizard
+
+v    Validating Data
+
+v    Data Views
+
+v    Parameterized Queries
+
+v    Relationships
+
+v    Data Commands
+
+v    Dataset Schemas
+
+v    Database Classes
+
+v    DataList and DataGrid Controls
+
+v    Using XML
+
+v    Using Crystal Reports
+
+v    The Server Explorer
+
+
+
+VI. Educational Goals and Learning Outcomes
+
+
+
+General Education Goals
+
+
+
+After completion of this course, the student will
+
+
+
+1.   Apply creativity to problem solving decision making
+
+  and quantitative reasoning. (RVCC General Education Goals
+
+  1E, 1F, 1G, and 5B)
+
+2.   Describe the importance of ADO.NET and explain the
+
+procedures underlying its use. (RVCC General Education Goal
+
+3C)
+
+3.   Demonstrate proficiency in the use of an object
+
+oriented programming language. (RVCC General Education Goal
+
+3D)
+
+4.   Build communication skills (effective writing and
+
+speaking) through collaborative learning, utilizing team
+
+projects and multi-tasking.   (RVCC General Education Goals
+
+2A and 2B)
+
+
+
+
+
+Student Learning Outcomes:
+
+
+
+At the conclusion of the course, students will be able to:
+
+1.   Create an application written in VB.NET that accesses,
+
+  adds, and removes data from a remote database.
+
+2.   Compare/contrast typed and un-typed datasets.
+
+3.   Compare/contrast bound and unbound controls
+
+4.   Compare/contrast Windows and Web based data access.
+
+5.   Utilize the Structured Query Language (SQL) to design
+
+efficient queries.
+
+
+
+
+
+VII. Modes of Teaching and Learning
+
+           lecture/discussion
+
+    student collaboration via small-group work
+
+    computer-assisted instruction
+
+    laboratory assignments
+
+    student collaboration
+
+    independent study projects
+
+       
+
+VIII. Papers, Examinations, and other Assessment Instruments
+
+           research paper
+
+    computer programs
+
+    Exams/Quizzes/Homework Assignments
+
+    hands-on ADO.NET  lab projects
+
+     
+
+IX. Grade Determinants
+
+           Homework
+
+            o    The student will complete six homework assignments
+
+               throughout the semester. The assignments will relate to the
+
+               topics currently being discussed in class.
+
+           Research Paper
+
+            o    The student will complete a research paper focusing on
+
+               a single ADO.NET class. The paper will contain a minimum of
+
+               five sources. Allowable sources include trade books,
+
+               journals, and .NET related Web sites.
+
+           Exams
+
+            o    Exams will be given three times during the course of
+
+               the semester. Test questions will be multiple choice, short
+
+               answer, fill in the blank, true/false, and coding.
+
+           Computer Programs
+
+            o    Four labs will be assigned during the courses
+
+               duration. Students will be required to follow lab
+
+               specifications to completion with a minimum of errors. .
+
+               Labs must also be clearly documented so other users may
+
+               comprehend the codes purpose and logic.
+
+
+
+X.  Required Materials
+
+
+
+Textbook:
+
+     Murachs VB.NET Database Programming with ADO.NET
+
+     Anne Prince and Doug Lowe
+
+     Publisher: Mike Murach and Associates
+
+     ISBN: 1-890774-19-7
+
+
+
+Web sources (See Resources)
+
+
+
+XI. Resources
+
+    http://www.gotdotnet.com/
+
+    http://groups.google.com/groupshlenlrieUTF-
+
+8groupmicrosoft.public.dotnet
+
+    http://www.microsoft.com/net/
+
+    http://www.dotnetbooks.com/
+
+    http://www.xtras.net/VisualStudio.Net.asp
+
+    http://www.murach.com/books/adon/index.htm
+
+    http://www.learnvisualstudio.net/
+
+    http://www.codeproject.com/dotnet/ADO2ENET
+
+    http://www.123aspx.com/directory.aspxdir40
+
+     

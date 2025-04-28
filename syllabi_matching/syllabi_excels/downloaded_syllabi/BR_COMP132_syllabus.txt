@@ -1,0 +1,1141 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP132
+
+
+
+
+
+COURSE NAME
+
+Structured Programming Using C
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP126 Computer Fundamentals
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED-4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will be able to analyze a variety of real-world problems, 
+develop algorithms to solve those problems and code solutions using the 
+ANSI/ISO C language.  Specifically, the student will be able to write 
+structured program code typical of generalized application problems.  
+Programming topics will include data types, operations and expressions, 
+control structures, functions, arrays, pointers, object structures and 
+input/output handling.  Students will be able to debug and edit their 
+program code using compiler diagnostics. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I.       Introduction: Basic Elements of C 
+
+II.       Input/Output Statements 
+
+III.       Selection Statements 
+
+IV.       Repetition Statements 
+
+V.       User-defined Functions 
+
+VI.       Namespaces and Character Strings 
+
+VII.       Arrays and Applications 
+
+VIII. Classes and Data Abstraction 
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+
+
+Text:C Programming: From Problem Analysis to Program Design, Third Edition, 
+D.S. Malik 
+
+Thomson Course Technology 2004, ISBN:  1-4188-3639-7
+
+
+
+Storage: A portable secondary storage media (i.e., jump drive, zip disk)
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. The final grade requirements for the course will 
+be: 
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90  thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-10
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.
+
+
+
+      FEarn an average test grade below 60 or fail to successfully complete 
+labs 1-10. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT:1
+
+
+
+NAME OF UNIT:  INTRODUCTION:  BASIC ELEMENTS OF C
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the computer, problem solving 
+techniques, and simple C language programs 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignments  LAB-1  AND  LAB-2
+
+
+
+ESTIMATED TIME TO ACHIEVE:  3  weeks
+
+
+
+LEARNING OBJECTIVES:  The student will learn about:
+
+
+
+1.  The organization of a computer and how various hardware and software 
+components of a computer interact. 
+
+
+
+2.  The concepts of problem solving, algorithm design, and program 
+development using input, processing, output. 
+
+
+
+3.  The basic elements of the C language, including data types, operators, 
+and expressions. 
+
+
+
+4.  Simple input and output statements that use the keyboard and screen.
+
+
+
+5.  Executing a sample C program in the Computer Lab using the editor, 
+compiler, and linker. 
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapters 1 and 2 in text.
+
+3.  Do exercises at end of Chapters 1 and 2.
+
+4.  Participate in computer workshop.
+
+
+
+5.  Complete Programming Assignment  LAB-1:
+
+
+
+Chapter 1, page 27, 12
+
+
+
+6.  Complete Programming Assignment  LAB-2:
+
+
+
+Chapter 2, page 112, 15
+
+
+
+Run the program twice, use the following test data.  Show all output.
+
+
+
+
+
+
+
+
+
+
+
+UNIT:2
+
+
+
+NAME OF UNIT:  INPUT / OUTPUT STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To examine techniques for performing and controlling input 
+and output processes in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-3
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Use the standard input/output objects and their operators, cout<< and 
+cin>>. 
+
+
+
+2.  Activate predefined versions of the cin statement to manipulate and 
+format input streams. 
+
+
+
+3.  Code enhancements of the cout statement to manipulate and format output 
+streams. 
+
+
+
+4.  Perform input and output of string and character data.
+
+
+
+5.  Read and write data to disk files.
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapter 3 in text.
+
+3.  Do exercises at end of Chapter 3.
+
+
+
+4.  Complete Programming Assignment LAB-3:
+
+
+
+Chapter 3, page 164, 1
+
+
+
+Run the program twice, use the following input files.  Show all output.
+
+
+
+
+
+UNIT:3
+
+
+
+NAME OF UNIT:  SELECTION STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the various methods of 
+selection and decision making in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-4    AND
+
+ Satisfactory Completion of Test 1(Chapters 1-4 )
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1  weeks
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate decisions into the process of developing algorithms and 
+solving problems. 
+
+
+
+2.  Differentiate between relational operators, logical operators, and 
+logical expressions. 
+
+
+
+3.  Use the if statement for making one-sided and two-sided decisions.
+
+
+
+4.  Use nested if statements and the switch statement for multiple 
+alternative decisions. 
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapter 4 in text.
+
+3.  Do exercises at end of Chapter 4.
+
+
+
+4.  Complete Programming Assignment LAB-4:
+
+
+
+Chapter 4, page 228, 10
+
+
+
+Run the program five times, use the following test data.  Show all output.
+
+
+
+15.230.8
+
+42.60.0/
+
+64.372.7
+
+200.49.0-
+
+8812
+
+
+
+
+
+
+
+UNIT:4
+
+
+
+NAME OF UNIT:  REPETITION STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the various methods of 
+repetition and looping in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-5
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1  weeks
+
+
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate looping into the process of developing algorithms and 
+solving problems. 
+
+
+
+2.  Use the while statement in various forms, including sentinel loops and 
+EOF loops. 
+
+
+
+3.  Implement counting loops using the for statement.
+
+
+
+4.  Differentiate between pre-test loops and post-test loops with the 
+do-while statement. 
+
+
+
+5.  Use nested loops for advanced repetition processing.
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapter 5 in text.
+
+3.  Do exercises at end of Chapter 5.
+
+
+
+4.  Complete Programming Assignment  LAB-5:
+
+
+
+Chapter 5, page 305, 17
+
+
+
+Run the program once, using an eof while loop to process the input file 
+data. Show all output. 
+
+
+
+
+
+UNIT:5
+
+
+
+NAME OF UNIT:  USER-DEFINED FUNCTIONS
+
+
+
+UNIT OBJECTIVE:  To develop the technique of writing modular C programs 
+through the use of programmer-written functions 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-6    AND
+
+  Completion of Assignment LAB-7    AND
+
+ Satisfactory Completion of Test 2(Chapters 5-7)
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate modular functions in the process of developing algorithms 
+and solving problems. 
+
+
+
+2.  Differentiate between void functions and functions that return values.
+
+
+
+3.  Use reference parameters and value parameters in functions.
+
+
+
+4.  Identify the scope of an identifier and levels of function calls.
+
+
+
+5.  Distinguish between global variables, static variables, automatic 
+variables. 
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapters 6 and 7 in text.
+
+3.  Do exercises at end of Chapters 6 and 7.
+
+
+
+4.  Complete Programming Assignment LAB-6:
+
+     Chapter 6, page 343, 5
+
+
+
+Run the program once, using a loop to process the following test data.  Show 
+all output. 
+
+765439108032- 456
+
+
+
+5.  Complete Programming Assignment LAB-7:
+
+      Chapter 7, page 412, 4
+
+
+
+Run the program once, using a loop to process the input file data.  Show all 
+output. 
+
+
+
+
+
+UNIT:6
+
+
+
+NAME OF UNIT:  NAMESPACES AND CHARACTER STRINGS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the use of strings in C for 
+storing and manipulating character data 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-8
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Distinguish between the standard C namespace and user-defined 
+namespaces. 
+
+
+
+2.  Incorporate character strings in the process of developing algorithms 
+and solving problems. 
+
+
+
+3.  Use the built-in string data type and string operations to manipulate 
+character data. 
+
+
+
+4.  Differentiate between string objects and C-string character arrays.
+
+
+
+5.  Use the string library functions available for C-string processing.
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapter 8 in text and Chapter 9, pages 496-502
+
+3.  Do exercises at end of Chapters 8 and 9.
+
+
+
+4.  Complete Programming Assignment LAB-8:
+
+
+
+See description of assignment on Page 11, the next page of this syllabus.
+
+
+
+Run the program once, using a loop to process the following test data.  Show 
+all output. 
+
+
+
+George  A  Washington
+
+Marie  X  Curie
+
+Jacque  M  Cousteau
+
+Eleanor  P  Roosevelt
+
+
+
+
+
+PROGRAMMING ASSIGNMENT LAB-8
+
+
+
+For this assignment, use the standardized string object data type from the 
+ANSI/ISO Standard C library.  This library is include <string> 
+
+
+
+
+
+Write a C program that does the following:
+
+
+
+Input a name in a single string variable in this order:  first name  middle 
+initial  last name. 
+
+
+
+Find the first name and store it in a separate string variable.  Display the 
+first name substring along with its length. 
+
+
+
+Find the middle initial and store it in a separate string variable.
+
+
+
+Find the last name and store it in a separate string variable.  Display the 
+last name substring along with its length. 
+
+
+
+Concatenate a new string with the last name, a comma, a blank, the first 
+name, a blank, and the middle initial.  Display the new name. 
+
+
+
+Display the length of the concatenated string.
+
+
+
+Find and display the position of the comma in the concatenated string.
+
+
+
+Swap the first name and last name strings.  Display the names after they are 
+swapped. 
+
+
+
+Your output should resemble the following:
+
+
+
+Enter a first name, middle initial, last name:  Katherine  G  Mills
+
+
+
+The 9 characters of the first name are:  Katherine
+
+
+
+The 5 characters of the last name are:  Mills
+
+
+
+In the phone book, the name would be:  Mills, Katherine G
+
+
+
+The length of the name is:  18
+
+
+
+The comma is at position:  5
+
+
+
+After the swap, the last name is Katherine and the first name is Mills
+
+
+
+
+
+
+
+UNIT:7
+
+
+
+NAME OF UNIT:  ARRAYS AND APPLICATIONS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to arrays in C as important data 
+structures for storing and manipulating homogeneous data 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-9    AND Completion of 
+Assignment  LAB-10 
+
+
+
+ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate arrays into the process of developing algorithms and solving 
+problems. 
+
+
+
+2.  Define one-dimensional arrays, access array elements, perform input and 
+output operations. 
+
+
+
+3.  Establish parallel arrays of information perform sequential and binary 
+search functions. 
+
+
+
+4.  Use sorting and other list processing functions to manipulate array 
+data. 
+
+
+
+5.  Define multidimensional arrays, use functions to access and process 
+individual elements. 
+
+
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+1.  Attend class meetings.
+
+2.  Read Chapters 9 and 10 in text.
+
+3.  Do exercises at end of Chapters 9 and 10.
+
+
+
+4.  Complete Programming Assignment LAB-9:
+
+
+
+Chapter 9, page 544, 7
+
+
+
+Run the program once, looping to process the data given in text.  Show all 
+output. 
+
+
+
+5.  Complete Programming Assignment LAB-10:
+
+
+
+Chapter 9, page 546, 11
+
+
+
+Run the program once, using a loop to process the input file data.  Show all 
+output. 
+
+
+
+
+
+
+
+UNIT:8
+
+
+
+NAME OF UNIT:  CLASSES AND DATA ABSTRACTION
+
+
+
+UNIT OBJECTIVE:  To introduce the student to objects in C as important data 
+structures for storing and manipulating heterogeneous data 
+
+
+
+METHOD OF EVALUATION:  Satisfactory Completion of Test  3  ( Chapters 8-10, 
+12 ) 
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate objects, attributes, and behaviors into the process of 
+problem solving and reusability. 
+
+
+
+2.  Define the interface for simple objects using UML diagrams and class 
+definitions. 
+
+
+
+3.  Differentiate between public and private members, accessor and mutator 
+functions. 
+
+
+
+4.  Construct and destruct objects with special constructor functions.
+
+
+
+5.  Instantiate objects and activate their behaviors in high-level programs.
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+1.  Attend class meetings.
+
+2.  Read Chapter 12 in text.
+
+3.  Do exercises at end of Chapter 12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMP 132
+
+PROGRAMMING PROBLEMS
+
+LAB SUMMARY PAGE
+
+
+
+LAB
+CHAPTER
+PAGE/PROB
+TOPIC
+DUE DATE
+
+
+
+1
+1
+PAGE 27, 12
+MILES PER GALLON
+
+
+2
+2
+PAGE 112, 15
+CONVERSION  
+
+Use data in syllabus
+
+
+3
+3
+PAGE 164, 1
+FILE PROCESSING  
+
+Use files inData1.txt and inData2.txt
+
+
+4
+4
+PAGE 228, 10
+CALCULATOR  
+
+Use data in syllabus
+
+
+5
+5
+PAGE 305, 17
+AVERAGE GPA  
+
+Use file inData3.txt
+
+
+6
+6
+PAGE 343, 5
+REVERSE DIGIT  
+
+Use data in syllabus
+
+
+7
+7
+PAGE 412, 4
+AVERAGE GPA  
+
+Use file inData3.txt
+
+
+8
+8
+IN SYLLABUS
+MANIPULATE NAMES  
+
+Use data in syllabus
+
+
+9
+9
+PAGE 544, 7
+CANDIDATE VOTES  
+
+Use data in text
+
+
+10
+9
+PAGE 546, 11
+FREQUENCY LIST  
+
+Use file inData5.txt
+
+
+11
+6
+PAGE 343, 6
+CARTESIAN CIRCLE  Use 4 sets of test data
+
+
+12
+7
+PAGE 412, 5
+
+Must use functions
+DAY OF YEAR  
+
+Use 4 sets of test data
+
+
+13
+9
+PAGE 546, 10
+TEMPERATURES  
+
+Use file inData6.txt
+
+
+
+
+GENERAL REQUIREMENTS
+
+The student must print out and submit the following for each programming 
+problem: 
+
+
+
+1. A listing of the program code
+
+The first three lines in the program must have the following comments at a 
+minimum: 
+
+Student name, COMP 132 and section no., Program problem no.(Lab1,etc.)
+
+
+
+2. A print out of the program results or output
+
+The output must include the students name and the lab number at the bottom 
+or top. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

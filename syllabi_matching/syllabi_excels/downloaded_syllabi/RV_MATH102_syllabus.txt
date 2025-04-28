@@ -1,0 +1,591 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+1
+
+
+
+              RARITAN VALLEY COMMUNITY COLLEGE
+
+                   ACADEMIC COURSE OUTLINE
+
+    MATH 102 - PROBLEM SOLVING STRATEGIES IN MATHEMATICS
+
+                              
+
+
+
+I. Basic Course Information
+
+
+
+     A. Course Number and Title:   MATH 102, Problem Solving
+
+     Strategies in Mathematics
+
+     
+
+     B. Date of Proposal:     September 2002
+
+     
+
+     C. Sponsoring Department: Mathematics
+
+     
+
+     D. Semester Credit Hours:     3.0
+
+     
+
+     E.  Weekly Contact Hours:     Lecture: 2.0
+
+     Laboratory: 2.0
+
+     
+
+     F.   Prerequisites:  Intermediate Algebra, Algebra  Mod
+
+     4, or a
+
+                    satisfactory score on placement test
+
+     
+
+     G. Laboratory Fees: None
+
+     
+
+     H. New course offered first Fall 2002
+
+     
+
+     I.   Department Chair: Dr. Nora Thornber, (908) 526-1200
+
+          ext. 8538
+
+          nthornberaritanval.edu
+
+
+
+
+
+II.  Catalog Description
+
+
+
+     This  course  is  designed as  a  transfer  course  for
+
+     students  seeking degrees in Elementary  Education  and
+
+     Early  Childhood  Education.   Emphasis  is  placed  on
+
+     computational skills, problem solving and teaching  via
+
+     a  hands-on  approach.  Topics include  number  theory,
+
+     probability,   statistics,  functions,  geometry,   and
+
+     measurement.   The  prerequisites for  the  course  are
+
+     either  Intermediate  Algebra,  Algebra  Mod  4,  or  a
+
+     satisfactory score on placement test.
+
+   
+
+
+
+III.  Statement of Course Need
+
+  
+
+   Background:
+
+   Raritan Valley Community College was one of 18 community
+
+   colleges out of 65 applicants chosen to participate in
+
+   the NSF funded Phi Theta Kappa grant Preparing
+
+   Tomorrows Science  Math Teachers: The Community
+
+   College Response.  This multi-component project is
+
+   designed to enhance and expand the role of community
+
+   colleges in preparing future K-12 science, mathematics,
+
+   and technology teachers to meet the countrys current
+
+   critical teacher shortage.
+
+
+
+   First National Teacher Preparation Conference:
+
+   On March 15 - 17, 2002, the first national conference
+
+   was held in New Orleans, Louisiana.  The purpose of this
+
+   conference was to provide the selected colleges with
+
+   extensive mentoring services, and an array of proven
+
+   teacher preparation activities, courses, and curricula.
+
+   The conference focused on the roles that community
+
+   colleges can assume in recruiting future science, math,
+
+   and technology teachers, preparing them, and providing
+
+   them with an understanding of the needs of today
+
+   technological workforce.  By the end of the conference,
+
+   our team had developed an Action Plan to be implemented
+
+   during the projects thirteen month period (March 1,
+
+   2002 - March 31, 2003).
+
+   
+
+   Projects Action Plan:
+
+   As a result of the conference and subsequent Action
+
+   Plan, it was identified that RVCC needs to develop an
+
+   additional Mathematics course (in addition to the
+
+   already existing Number Systems course) that will
+
+   complete the Mathematics requirements and provide
+
+   seamless transfer of our Elementary Education students
+
+   as juniors into Kean University. After reviewing Kean
+
+   Universitys course outline, student requirements, and
+
+   reviewing their assessment of their students and what
+
+   areas they need to improve upon, the Mathematics
+
+   Department at RVCC has decided that there is a genuine
+
+   need to develop a Problem Solving Course with a large
+
+   critical thinking and hands on component.
+
+   
+
+   This collaborative effort, in partnership with Kean
+
+   University, will likely form the foundation of a much
+
+   larger initiative that will result in an increased
+
+   supply of math and science teachers with stronger
+
+   preparation in content and pedagogy.
+
+     
+
+IV. Place of Course in College Curriculum
+
+
+
+  A.  Check the item(s) applicable to this course:
+
+         Free elective (This applies automatically to all credit
+
+       courses in the College.)
+
+         The course serves as a General Education Elective in
+
+       Mathematics.
+
+         The course meets a mathematics requirement in the
+
+       Elementary Education program, the Liberal Arts Program, and
+
+       the future AA degree for transfer in Early Childhood
+
+       Education.
+
+  
+
+  
+
+V. Outline of Course Content
+
+     
+
+     Mathematics  is  seen  as a cooperative  venture  among
+
+     students in which they are encouraged to explore, build
+
+     connections among concepts, and solve problems  growing
+
+     out  of  their explorations. The mathematical knowledge
+
+     needed  for  teaching  is  quite  different  from  that
+
+     required by college students pursuing other mathematics-
+
+     related professions.  Prospective teachers need a solid
+
+     understanding of mathematics so that they can teach  it
+
+     as  a  coherent, reasoned activity and communicate  its
+
+     elegance and power.  This course teaches mathematics in
+
+     the  connected  sense-making way that  future  teachers
+
+     need  and  is consistent with the National  Council  of
+
+     Teachers  of Mathematics Principles and Standards  for
+
+     School  Mathematics  as well as other  recent  national
+
+     reports on school mathematics.  The topics include  but
+
+     are not limited to:
+
+     
+
+     A.   Problem Solving
+
+          1.   Set Theory
+
+2.   Logic and Problem Solving
+
+     B.   Number Theory
+
+          1.   Whole Numbers/Integers Operations
+
+2.   Order of Operations
+
+3.   Prime and Composite numbers
+
+4.   Greatest Common Divisor
+
+5.   Least Common Multiple
+
+6.   Patterns
+
+     C.   Probability
+
+          1.   Properties of probability
+
+2.   Counting Principles
+
+     D.   Statistics
+
+          1.   Data Organization/Representing Data
+
+2.   Measures of Central Tendency/Dispersion
+
+     E.   Rational/Irrational Numbers
+
+          1.   Fraction Operations
+
+2.   Ratio/Proportion
+
+3.   Decimal Representation
+
+4.   Percent Representation
+
+5.   Irrational Numbers
+
+     F.   Function Basics
+
+          1.   Definition of a Function
+
+2.   Equations and Inequalities
+
+3.   Cartesian Coordinate System
+
+4.   Systems of Linear Equations
+
+5.   Exponents/Scientific Notation
+
+     G.   Geometry Basics
+
+          1.   Two-dimensional Geometry
+
+2.   Constructions
+
+3.   Three-dimensional Geometry
+
+     H.   Measurement
+
+          1.   Angles
+
+2.   Perimeter/Area/Volume
+
+3.   Tessellations
+
+4.   Transformations/Rotations/Reflections
+
+
+
+VI. Educational Goals and Learning Outcomes
+
+     
+
+   General Education Goals
+
+   
+
+   The student will:
+
+   
+
+   1 develop the ability to think critically.
+
+       a.   Draw reasonable inferences from observations.
+
+b.   Classify and organize information.
+
+c.   Analyze and synthesize information.
+
+d.   State a problem clearly.
+
+e.   Develop problem solving strategies.
+
+f.   Interpret information and draw conclusions.
+
+   2 develop the ability to communicate effectively.
+
+       a.   Read and listen analytically, with understanding and
+
+         openness toward another point of view.
+
+b.   Write and speak clearly, accurately, and fluently with
+
+focus and continuity in standard American English.
+
+c.   Organize information to develop and support a main
+
+idea.
+
+   3  collect,   organize,  and  evaluate  information   to
+
+       address different kinds of problems.
+
+       a.   Access information from libraries and other sources.
+
+b.   Develop clearly defined and suitable research topics
+
+which can be completed with available resources.
+
+c.   Collect organize, evaluate, and present information
+
+about a topic.
+
+   5 develop the ability to reason quantitatively.
+
+       a.   Demonstrate basic arithmetic and algebraic skills.
+
+b.   Apply mathematical or statistical skills to other
+
+disciplines.
+
+c.   Use mathematics to solve everyday problems.
+
+d.   Demonstrate knowledge of basic spatial and geometric
+
+relations.
+
+   6  develop  an  understanding of fundamental principles,
+
+       concepts,  and  methods of mathematics  in  order  to
+
+       effectively teach them.
+
+       a.   Define a properly designed experiment.
+
+b.   Make observations, test hypotheses, and solve problems
+
+in a selected area of the sciences.
+
+       
+
+   
+
+   Student Learning Outcomes
+
+   
+
+   The student will be able to:
+
+   
+
+   A.   Demonstrate the technique of prime factoring and use
+
+     the process to determine least common multiples and greatest
+
+     common factors.
+
+B.   Write and teach a lesson plan on any one of the topics
+
+in the course outline.
+
+C.    Gather information and analyze data using set theory
+
+and logic.
+
+D.   Recognize the Euclidean geometry of points, lines,
+
+planes, and angles.
+
+E.   Perform many levels of mathematical operations on
+
+various representations of numbers.
+
+F.   Construct various type of patterns using tessellations,
+
+transformations, rotations and reflections.
+
+G.   Identify, graph and solve linear equations/inequalities
+
+and use the process to solve application problems.
+
+H.   Demonstrate adding/subtracting/multiplying/dividing
+
+rational expressions and use the process to solve
+
+application problems.
+
+   
+
+VII. Modes of Teaching and Learning
+
+
+
+     Given the goals and outcomes described above, the
+
+     following formats, modes, and methods for teaching and
+
+     learning are appropriate to the course:
+
+           lecture/discussion
+
+    small-group work
+
+    guest speakers
+
+    laboratory
+
+    student oral presentations
+
+    simulation/role playing
+
+    student collaboration
+
+
+
+VIII. Papers, Examinations, and other Assessment Instruments
+
+     
+
+     Given the outcomes described above, the following
+
+     assessment methods will be used:
+
+           laboratory reports
+
+    research papers
+
+    lesson plans
+
+    presentations (teaching) of lesson plans
+
+    essays
+
+    math games
+
+
+
+IX. Grade Determinants
+
+
+
+     The following will be used to determine the students
+
+     final grade:
+
+           Lesson plans
+
+    Lab reports on results from working with manipulatives
+
+and problem solving activities
+
+    Creative math games
+
+    Term paper on creative teaching techniques for K-8 math
+
+students.
+
+    Midterm
+
+    Final exam
+
+     
+
+X.  Texts and Materials
+
+
+
+           Textbook: Mathematics for Elementary Teachers via
+
+          Problem Solving by Masingila, Lester, and Raymond
+
+    Student Activity Manual: Mathematics for Elementary
+
+Teachers via Problem Solving by Masingila, Lester, and
+
+Raymond
+
+    Journals: NCTM Journals: Mathematics Teacher,
+
+Mathematics Teaching in the Middle School, Teaching Children
+
+Mathematics
+
+    Web sources
+
+    Manipulatives
+
+
+
+XI. Resources
+
+
+
+     This course will require extensive use of math
+
+     manipulatives for use and understanding during the lab
+
+     component of this course.  Manipulatives include, but
+
+     are not limited to, a fraction bars classroom center, a
+
+     geometry classroom set, compasses, rulers, and a
+
+     dedicated classroom for this and the Elementary
+
+     Education courses.
+
+
+
+
+
+-----------------------------7d33874c02b2--

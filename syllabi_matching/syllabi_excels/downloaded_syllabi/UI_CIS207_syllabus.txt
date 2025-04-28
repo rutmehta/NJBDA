@@ -1,0 +1,80 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+PC Troubleshooting and Repair 1 4/13/2004 1:26 PM
+
+Union County College
+
+Course Number: CIS 207
+
+Course Name: PC Troubleshooting and Repairs
+
+Credits: 3
+
+Prerequisites: CIS 107
+
+Course Description:
+
+This course provides students with a foundation of both PC
+
+hardware, software, and
+
+Internet concepts. The course also affords students a practical
+
+knowledge of baseline IT
+
+skills and technologies enabling students to solve basic PC
+
+problems. 2 lecture and 2
+
+laboratory hours. 3 credits.
+
+Course Objectives:
+
+Upon completion of this course the student should be able to:
+
+. Describe the various parts of a PC
+
+. Know how to solve problems with a Windows installation
+
+. Recognize an Internet or online problem
+
+. Troubleshoot problems with various storage devices
+
+. Troubleshoot problems with printers
+
+. Troubleshoot problems with multimedia
+
+. Troubleshoot problems with input devices
+
+. Troubleshoot basic memory problems
+
+. Troubleshoot problems with power supplies
+
+. Locate, discern, and effectively use information to solve
+
+issues and/or problems in
+
+PC troubleshooting and repair.
+
+Required Materials:
+
+Soper, Mark Edward. PC Help Desk in a Book. Que, 2003.
+
+Resources:
+
+Meyers, Michael. Introduction to PC Hardware and Troubleshooting.
+
+McGraw-Hill,
+
+2003.
+
+Grading Procedures
+
+Assignments/Homework 30
+
+Tests 30
+
+Final Exam 20
+
+Research Paper 20

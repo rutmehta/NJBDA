@@ -1,0 +1,329 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+UNION COUNTY COLLEGE
+COURSE SYLLABUS
+
+COURSE NUMBER & NAME:	CIS 112 - Mobile Computing
+
+LECTURE/LAB HOURS	2 Lecture Hours/2 Laboratory Hours
+
+CREDITS	3
+
+PREREQUISITES:	None
+
+COURSE DESCRIPTION:
+This course provides the beginning programmer with a strong foundation necessary to build mobile applications 
+for Android devices. Assuming little or no prior programming experience, this course introduces key 
+programming concepts, including variables, decision making, lists, and arrays, and gives the confidence and 
+technical skills to create fully-functional Android apps.
+
+COURSE LEARNING OUTCOMES: 
+Upon successful completion of this course the student should be able to:
+1.	Build simple mobile applications for Android devices
+2.	Implement icons and themes in an application
+3.	Create control structures in an application
+4.	Use lists and arrays in an application
+5.	Implement audio, graphics and animation in an application
+
+STUDENT RESOURCES:
+Corrine Hoisington, Android Boot Camp for Developers using Java, Comprehensive: A Beginner's Guide to 
+Creating Your First Android Apps, Course Technology, Cengage Learning 2013, ISBN: 9781133597209
+Flash drive. It is important that you save all your work until your final grade has been received.
+
+COURSE REQUIREMENTS:
+*	The successful completion of a tests and final exam. 
+*	The completion of all in-class assignments and projects. 
+*	The completion of all assigned readings and homework.
+*	Attendance and class participation. Students are required to attend all classes. See the College 
+Attendance Policy discussed in the UCC Catalog. 
+
+An essential element of this course includes information literacy. 'Information Literacy' is the evaluation and 
+assessment of integrated information. Students will be able to locate, discern, and effectively use information to 
+solve issues and/or problems.
+
+EVALUATION METHODS:
+
+      Tests				40%
+      Assignments			40%
+      Final exam			20%
+Grading:
+	A	90 or above
+C	70-76
+	B+	87-89
+D+	67-69
+	B	80-86
+D	60-66
+	C+	77-79
+F	below 60
+
+NOTE:
+The instructor reserves the right to modify the course requirements, assignments, grading procedures and other related 
+policies as circumstances may dictate.
+
+****STUDENTS WITH PHYSICAL LEARNING DISABILITIES****
+
+Any student with special needs that will affect performance in this class should feel free to make an 
+appointment to talk with the instructor during office hours (or by appointment) or contact the disabilities 
+counselor in the Counseling office on the Cranford Campus.
+
+ 
+CLASS SCHEDULE:
+Time
+Topic
+Assignments/Readings/Activities
+Week 1
+Introduction, syllabus, books, 
+storage media, course expectations 
+labs
+Reading: Chapter 1
+Written Assn: What is information systems, Case 
+Study 1
+Week 2
+Installing the Android Eclipse 
+SDK
+Voilla! Meet the Android
+Reading:Continue with Chapter 1
+Written Assn: Employment within Information 
+Systems
+Week 3
+Simplify! The Android User 
+Interface
+Research Paper: Explanation
+Reading: Chapter 2
+Written Assn: Review questions, Case Study.
+Week 4
+Engage! Android User Input, 
+Variables, and Operations
+Test 1: Material covered in previous classes
+Reading: Corresponding chapter 3
+Written Assn 
+Week 5
+Explore! Icons and Decision-
+Making Controls
+Reading  chapter 4and Written Assn Review 
+Questions, Case Study
+Week 6
+Investigate! Android Lists, Arrays, 
+and Web Browsers
+Reading: Corresponding chapter 6
+Written Assn Review Questions, Case Study
+Week 7
+Jam! Implementing Audio in 
+Android Apps
+Test 2: Material covered in previous classes
+Readings and written assn. Corresponding 
+chapter, Review Questions, Case Study
+Week 8
+Reveal! Displaying Pictures in a 
+Gallery
+Reading: Corresponding chapter 7
+Written Assn Review Questions, Case Study
+Week 9
+Design! Using a DatePicker on a 
+Tablet
+Research Paper: Outline due
+Reading: Corresponding chapter 8
+Written Assn Review Questions, Case Study
+Week 10
+Customize! Navigating with Tabs 
+on a Tablet App
+Test 3 - Material covered in previous chapters
+Reading: Corresponding chapter 9
+Written Assn Review Questions, Case Study
+Week 11
+Move! Creating Animation and 
+Graphics
+Reading: Corresponding chapter 10
+Written Assn: Review Questions, Case Study
+Week 12
+Discover! Incorporating Google 
+Maps
+Reading: Corresponding chapter 11
+Written Assn Review Questions, Case Study
+Week 13
+Finale! Publishing your Android 
+App
+Reading: Corresponding chapter 12
+Written Assn Review Questions, Case Study
+Week 14
+Review
+Test 4 - Material covered in previous
+Week 15
+
+Final Examination
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+CLASS POLICIES:
+1.	Assignments are due by the date posted on the Web calendar. All assignments must be submitted in 
+order to pass the course. Be sure to keep up with the assignments.
+2.	If you are repeating this course, you must re-create all assignments. Be sure to create new files. Work 
+submitted from a previous semester will not be accepted.
+3.	Late work will be accepted; however, eleven points will be deducted for each day the assignment is late. 
+No work will be accepted more than three calendar days after the due date. During the last full week of 
+class, no work will be accepted late. Be sure to check the calendar!
+4.	All tests must be taken. Each test may be taken only one time; so be sure you are prepared to take the 
+test. While taking each test, you must disable any and all pop-up blockers that are enabled. You are on 
+the honor system - no books, notes, or any type of assistance is permitted while taking tests. You may 
+take the test at any time the test is available up to the closing date of the test. Tests cannot be made up. A 
+grade of zero will be given for any test. In order to receive a passing grade, all tests, research paper, and 
+final exam must be taken.
+5.	To appeal a grade you must send a mail message to the instructor through ANGEL within five days of 
+the posted grade. Overdue appeals will not be considered.
+6.	It is important for you to log on to the class site a few times a week. Be sure to spend a minimum of 
+eight hours a week completing the work for this class.
+7.	Any acts of classroom disruption (including that of online courses) that go beyond the normal rights of 
+students to question and discuss with instructors the educational process relative to subject content will 
+not be tolerated, in accordance with the Academic Code of Conduct described in the Student Handbook. 
+See the Student Handbook for the policy on 'Academic Integrity.' I strongly support the policy 
+regarding academic behavior and disruptive behavior.
+
+COURSE POLICIES
+Preparing for Examinations
+Complete the assignments and read the chapters. Most of the questions are taken directly from the reading 
+material. Be sure to check the Key Terms and Review Questions at the end of each chapter. Use the student 
+online companion and take advantage of the 'Self-Assessment Test' sections.
+
+Appeals Policy
+To appeal a grade, send an email to your instructor's email address within two weeks of the grade having been 
+received. Overdue appeals will not be considered.
+
+Incomplete Policy
+Students will not be given an incomplete grade in the course without sound reason and documented evidence as 
+described in the Student Handbook. In any case, for a student to receive an incomplete, he or she must be 
+passing and must have completed a significant portion of the course.
+
+Cheating Policy
+Students are expected to uphold the school's standard of conduct relating to academic honesty. Students assume 
+full responsibility for the content and integrity of the academic work they submit. The guiding principle of 
+academic integrity shall be that a student's submitted work, examinations, tests, assignments, papers, and 
+projects must be that of the student's own work. Students shall be guilty of violating the honor code if they:
+
+1.	Represent the work of others as their own.
+2.	Use or obtain unauthorized assistance in any academic work, including copying disks.
+3.	Give unauthorized assistance to other students
+4.	Modify, without instructor approval, an exam, paper, record, or report for the purpose of obtaining 
+additional credit.
+5.	Misrepresent the content of submitted work.
+
+The penalty for violating the honor code is severe. Any student violating the honor code is subject to receive a 
+failing grade for the course and may be subject to disciplinary action as described in the Student Handbook. If a 
+student is unclear about whether a particular situation may constitute an honor code violation, the student 
+should meet with the instructor to discuss the situation.
+
+For this class, it is permissible to assist classmates in general discussions of computing techniques. General 
+advice and interaction are encouraged. Each person, however, must develop his or her own solutions to the 
+assigned homework and lab exercises. Except when assignments are given as group assignments, students may 
+not 'work together' on graded assignments. Such collaboration constitutes cheating, unless it is a grouped 
+assignment. A student may not use or copy (by any means) another's work (or portions of it) and represent it as 
+his/her own. If you need help on an assignment, contact your instructor, not other classmates.
+
+HOMEWORK AND LABORATORY POLICY:
+Although the homework and laboratory assignments comprise 30 percent of the final grade, a student can 
+receive a final grade no greater than a D if all assignments are not submitted. Homework and laboratory 
+assignments receiving less than a 50 percent (F) score are considered not submitted.
+
+No assignments will be accepted more than three days after the due date. Plan to spend approximately eight to 
+twelve hours each week on reading, homework, and laboratory assignments.
+
+Make sure your name, course and section, and assignment (Chapter 1) appear on the first page of a file. Put 
+your name and the date in the upper right corner of a page.
+
+DISABILITIES POLICY
+Any student with special needs that will affect performance in this class should feel free to make an 
+appointment to talk with me during office hours (or by appointment) or contact the disabilities counselor in the 
+Counseling office on the Cranford Campus at 908-709-7164.
+
+SUGGESTED TEACHING METHODOLOGIES:
+a.	Lecture, group discussion, presentations, multimedia/technology, projects, experiments, 
+demonstrations, etc.
+b.	Indication of the percentages or emphasis given to teaching methodologies used will assist faculty 
+members in course preparation and implementation.
+      
+CORRELATION OF PROGRAM OUTCOMES, COURSE OUTCOMES, AND ASSESSMENT
+      
+Program Outcomes
+Course Learning Outcomes
+Assessment of Outcomes
+Use software methods and 
+algorithmic thinking to 
+design technological 
+solutions for a variety of 
+different fields.
+Design, implement, test, 
+and evaluate complete, 
+logical programs with 
+documentation that meet 
+defined specifications.
+
+Build simple mobile applications 
+for Android devices
+Implement icons and themes in an 
+application
+Create control structures in an 
+application
+Use lists and arrays in an 
+application
+
+Written: Exams and 
+programming assignments.
+Verbal: Class discussion and 
+responses, group discussion and 
+responses.
+Use current techniques, 
+skills, and tools with 
+computer programming 
+languages to solve real-
+world problems.
+
+Implement audio, graphics and 
+animation in an application
+
+Written: Exams and 
+programming assignments.
+Verbal: Class discussion and 
+responses, group discussion and 
+responses
+
+Mobile Computing	1	2013

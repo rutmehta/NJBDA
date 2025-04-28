@@ -1,0 +1,98 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+  Computer Science  133
+
+  Web Page Development II
+
+  Credits:     4
+
+  Prerequisites:    4
+
+  New Course   Spring
+
+
+
+  Dr. Robert Hancox
+
+  hancoxcccnj.edu
+
+   CS 133 Web Page Development II (4:4:0)  This course introduces students
+
+to the techniques and
+
+  methods used in the development of a commercial, business Web site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  COURSE OBJECTIVES
+
+  Students will design, develop, install and support a business Web site
+
+using Microsoft FrontPage,
+
+  JavaScript, CGI and other utilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  TEXT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GRADE DETERMINANTS:
+
+
+
+
+
+
+
+  CASE STUDIES:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  COURSE TOPICS

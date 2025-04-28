@@ -1,0 +1,410 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+1.
+
+Course Number and Title:
+
+CSIT182Cisco Networking Fundamentals II
+
+2.
+
+Semester Hours:
+
+3 s.h.
+
+Contact Hours: 
+
+( 1
+
+Lecture
+
+
+
+3 )
+
+Lab
+
+
+
+3.
+
+Catalog Description:
+
+This course, the second in a six credit sequence, fulfills the Cisco 
+Networking Academy Program semester 3 and 4 requirement. Instruction 
+includes, but is not limited to, networking, network terminology and 
+protocols, network standards, LANs, WANs, OSI models, cabling, cabling 
+tools, routers, router programming, network physical and logical topologies, 
+and IP addressing. Emphasis is given to the use of decision-making and 
+problem-solving techniques in applied science, mathematics and 
+communications in the solution of networking problems. From the instruction 
+the student learns the principles and practices of networking technology and 
+completes From the instruction the student learns the principles and 
+practices of networking technology and completes the second half of the 
+Cisco Academy training to be eligible to take the Cisco Certified Network 
+Associate (CCNA) exam. 
+
+This is an intensive curriculum where student Web access and self-discipline 
+is mandatory in order to adequately prepare for each in class session. This 
+is a demanding course and only motivated students should enroll. All testing 
+and lab assignments will be completed in the classroom/lab setting. 
+
+4.
+
+Prerequisites:
+
+CSIT181
+
+5.
+
+Maximum Class Size:
+
+18
+
+Lab Fee Code:
+
+F
+
+6.
+
+Justification:
+
+
+
+
+
+A. General Education goal(s) this course addresses.
+
+The student will gain state of the art knowledge and skills required to 
+compete in todays business community and will have a foundation to continue 
+to grow in the fast evolving online information technology fields. 
+
+
+
+B. List the diversity requirements met by this course.
+
+Not Applicable.
+
+
+
+
+
+7.Course Objectives:
+
+A. The student will be able to list the required IPX(tm) address and 
+encapsulation type. 
+
+B. The student will be able to configure IPX access lists and SAP filters to 
+control basic Novell traffic. 
+
+C. The student will be able to enable the Novell IPX protocol and configure 
+interfaces. 
+
+D. The student will be able to monitor Novell IPX operation on the router.
+
+E. The student will be able to describe LAN segmentation using bridges, 
+routers and switches. 
+
+F. The student will be able to name and describe two switching methods.
+
+G. The student will be able to describe full and half-duplex Ethernet 
+operation. 
+
+H. The student will be able to describe network congestion problems in 
+Ethernet networks. 
+
+I. The student will be able to describe the benefits of network segmentation 
+with bridges, routers and switches. 
+
+J. The student will be able to describe the features, benefits, guidelines 
+and distance limitations of Fast Ethernet. 
+
+K. The student will be able to distinguish between cut-through and 
+store-and-forward LAN switching. 
+
+L. The student will be able to describe the operation of the Spanning Tree 
+Protocol and its benefits. 
+
+M. The student will be able to describe the benefits of virtual LANs.
+
+N. The student will be able to differentiate between the following WAN 
+services: LAPB, Frame Relay, ISDN/LAPD, HDLC, PPP, and DDR. 
+
+O. The student will be able to recognize key Frame Relay terms and features.
+
+P. The student will be able to list commands to configure Frame Relay LMIs, 
+maps, and subinterfaces. 
+
+Q. The student will be able to list commands to monitor Frame Relay 
+operation in the router. 
+
+R. The student will be able state a relevant use and context for ISDN 
+networking. 
+
+S. The student will be able to identify ISDN protocols, function groups, 
+reference points, and channels. 
+
+T. The student will be able to describe Ciscos implementation of ISDN BRI.
+
+8.Methods of Instruction:
+
+Class lecture/discussion, demonstrations, lab assignments, web-based 
+curriculum delivery, testing, assessment, evaluation and reporting.  This 
+course requires students to use the web-based modules to prepare for all 
+class sessions. 
+
+9.Instructional Materials:
+
+Cisco Networking Academy Program: Second-Year Companion Guide
+
+By Vito Amato
+
+Cisco Press, 2000
+
+
+
+Cisco Networking Academy Program: Engineering Journal and Workbook, Volume 2
+
+Cisco Press, 2000
+
+
+
+Cisco online curriculum
+
+
+
+
+
+10.Tentative Topical Outline:
+
+A. Cisco Networking Academy Semester 3 Curriculum
+
+
+
+1. Introduction
+
+a. Review OSI Reference Model
+
+b. Review Router Operations
+
+c. Review Routing Protocols
+
+
+
+2. LAN Switching
+
+a. Network Demands
+
+b. Improving LAN Performance
+
+c. Switching and Bridging Overview
+
+d. Spanning-Tree Protocol
+
+
+
+3. VLANs
+
+a. VLAN Overview
+
+b. Segmenting with Switching Architectures
+
+c. VLAN Implementations
+
+d. Benefits of VLANs
+
+
+
+4. LAN Design
+
+a. LAN Design Goals
+
+b. Network Design Components
+
+c. Network Design Methodology
+
+d. Case Study - LAN Design
+
+
+
+5. Routing Protocols: IGRP
+
+a. Network-Layer Basics
+
+b. Routed Versus Routing Protocols
+
+c. IP Routing Protocols
+
+d. IP Routing Configuration
+
+e. Understanding IGRP Operation
+
+f. Case Study - Routing Protocols and Configuring IGRP
+
+6. 
+
+ACLs
+
+a. ACL Overview
+
+b. ACL Configuration Tasks
+
+c. Standard ACLs
+
+d. Extended ACLs
+
+e. Using Named ACLs
+
+f. Using ACLs with Protocols
+
+g. Using ACLs with Firewalls
+
+h. Case Study - Using ACLs
+
+
+
+7. Novell IPX
+
+a. Cisco Routers in NetWare Networks
+
+b. IPX Overview
+
+c. Novell Encapsulations
+
+d. Novell Routing Using RIP
+
+e. Service Advertising Protocol
+
+f. Novell IPX Configuration Tasks
+
+g. Monitoring and Managing an IPX Network
+
+h. Case Study - Configuring Novell
+
+
+
+8. Network Management and Semester 3 Test Review
+
+
+
+
+
+B. 
+
+Cisco Networking Academy Program Semester 4 Curriculum
+
+
+
+1. WANs
+
+a. WAN Technology Overview
+
+b. WAN Devices
+
+c. WANs and the OSI Reference Model
+
+d. WAN Frame Encapsulation Formats
+
+e. WAN Link Options
+
+f. Case Study - WANs
+
+
+
+2. WAN Design
+
+a. WAN Communication
+
+b. WAN Design Considerations
+
+c. Identifying and Selecting Networking Capabilities
+
+d. Case Study - WAN Design
+
+
+
+3. PPP
+
+a. PPP Overview
+
+b. PPP Session Establishment
+
+c. PPP Authentication
+
+d. Case Study - PPP
+
+
+
+4. ISDN
+
+a. ISDN Overview
+
+b. ISDN and the OSI Reference Model
+
+c. ISDN Encapsulation
+
+d. ISDN Uses
+
+e. ISDN Services: BRI and PRI
+
+f. ISDN Configuration Tasks
+
+g. Dial-on-Demand Routing
+
+h. Case Study - ISDN
+
+
+
+5. Frame Relay
+
+a. Frame Relay Technology Overview
+
+b. Ciscos Implementation of Frame Relay: LMI
+
+c. Global Addressing
+
+d. Frame Relay Subinterfaces
+
+e. Configuring Basic Frame Relay
+
+f. Case Study - Frame Relay
+
+
+
+6. Network Management and Semester 4 Test Review
+
+
+
+
+
+11.Grading and Evaluation:
+
+A. Chapter Quizzes
+
+Eight Quizzes for Semester 3
+
+Nine Quizzes for Semester 4
+
+B. Semester 3 Final Exam
+
+C. Lab Evaluation of Topics Covered in Semester 3 and 4: trouble shooting 
+techniques 
+
+D. Semester 4 Final Exam
+
+E. White Paper, which deals with the approach to designing a network
+
+
+
+
+
+
+
+Reviewed:   Mary A Burke06/2001
+
+CSIT182
+
+
+
+1 of 1

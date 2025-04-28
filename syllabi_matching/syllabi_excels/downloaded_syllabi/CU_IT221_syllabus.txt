@@ -1,0 +1,73 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	IT 221 Fundamentals of Manufacturing
+
+Credits:	4 (4:3:2)
+
+Prerequisites:	IT 160 CNC Programming
+
+Description: A study of selected materials and related processes used in manufacturing including plastics and metals. This course will be completed in a lab setting and is based on lecture and lab.
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+* Demonstrate the ability to work both as an individual and as a team member
+* Correctly utilize a variety of technical terminology needed to communicate in a manufacturing environment.
+* Safely utilize industrial manufacturing equipment, materials, and processes
+* Understand some basic principles of materials properties and testing
+* Become comfortable in a manufacturing setting, as well with department laboratories and equipment. 
+* Develop an appreciation for the skills, expertise, and responsibilities of skilled workers and their impact on the manufacturing environment. 
+* Understand the standard and metric system and how they are used in manufacturing. 
+* Develop or enhance a background in metallic materials and processes, which can be carried to other courses, later research, and employment in manufacturing.
+
+
+Topical Outline:
+
+* Safety/Review of math fundamentals
+* Introduction of materials
+* Strength of materials (metallurgy, alloys, plastics)
+* Manufacturing and Cost
+* Plant layout
+* Machining, electroplating
+* Tools
+* Hot/cold working
+* Sustainability
+* Micro-fabrication
+
+
+Text:
+
+Groover, M.  Fundamentals of Modern Manufacturing; 4th edition. ISBN: 978-0-470-46700-2. 
+
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				30%
+      Assignments				10%
+      Quizzes				10%
+      Lab Exercises				10%
+      Final Exam				40%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.

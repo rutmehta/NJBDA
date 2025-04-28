@@ -1,0 +1,721 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP267
+
+
+
+
+
+COURSE NAME
+
+Client Side Using Java Script
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+COMP 166 or HTML and COMP 171 Programming I or an approved procedural 
+language 
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED--4 credits to 3 credits 
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will gain a working knowledge of the Web-based scripting 
+language JavaScript. This course provides the structure to allow students to 
+design, code and execute JavaScript applications in a lab environment. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Introduction to JavaScript
+
+II. Data Types, Variables and Dialog Boxes
+
+III. Operators and Expressions
+
+IV. Decision Making/Loops
+
+V. Using Functions
+
+VI. Using Objects
+
+VII. JavaScript Objects
+
+VIII. Using Windows and Frames
+
+IX. Using Forms
+
+X. Event Handling
+
+XI. Regular Expressions
+
+XII. Cookies
+
+XIII. Database Access using Active Server Pages
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+ 
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-11
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.  
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-11. 
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+Unit 1: Introduction to JavaScript
+
+Unit Objective: The student will be able to create an HTML page, use the 
+<script> tag and display to the browser window. 
+
+
+
+Method of Evaluation: Completion of lab 1, lab 2 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+See a demonstration on how to run a browser and use EditPlus
+
+Review several HTML tags
+
+Create an HTML document
+
+Create and run a JavaScript source file
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 1 and Chapter 2
+
+Complete labs 1 and 2
+
+
+
+
+
+
+
+
+
+
+
+Unit 2: Data Types, Variables and Dialog Boxes
+
+Unit Objective: The student will be able to use JavaScript variables and 
+dialog boxes to make the JavaScript code interact with the user. 
+
+
+
+Method of Evaluation: Completion of lab 3, lab 4 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Declare and use variables
+
+Understand loosely type variables
+
+Use primitive and composite data types
+
+Understand different methods to interact with the user
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 3 and Chapter 4
+
+Complete labs 3 and 4
+
+
+
+
+
+Unit 3: Operators and Expressions
+
+Unit Objective: To learn the different operators used to manipulate data and 
+combine them to form an expression. 
+
+
+
+Method of Evaluation: Completion of lab 5 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Understand the purpose of JavaScript operators
+
+Explore the mathematical operators
+
+Understand the comparison operators
+
+Use assignment operators
+
+Learn about logical operators
+
+Understand the need for data conversion
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 5
+
+Complete lab 5
+
+
+
+
+
+Unit 4: Decision Making / Loops
+
+Unit Objective: To use the decision-making tools available to provide choice 
+in JavaScript code as well as the ability to repeat actions. 
+
+
+
+Method of Evaluation: Completion of lab 6 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn about conditional statements and their structure
+
+Learn about loops and their structure
+
+Identify the various types of conditional statements and loops
+
+Apply conditional statements and loops in scripts
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 6
+
+Complete lab 6
+
+
+
+
+
+Unit 5: Using Functions
+
+Unit Objective: To learn how to define and use functions and understand why 
+they are useful. 
+
+
+
+Method of Evaluation: Completion of lab 7 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Understand the purpose of functions
+
+Declare and properly structure a JavaScript function
+
+Use parameters and return statements I functions
+
+Call functions in scripts
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 7
+
+Complete lab 5
+
+
+
+    
+
+
+
+Unit 6: Using Objects
+
+Unit Objective: To define, create and use objects within JavaScript.
+
+
+
+Method of Evaluation: Completion of lab 8 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn what objects are
+
+Find out why objects are useful
+
+Create and use objects
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 8
+
+Complete lab 8
+
+
+
+
+
+Unit 7: JavaScript Objects
+
+Unit Objective: To learn how to use and code JavaBeans.
+
+
+
+Method of Evaluation: Completion of lab 9 and test 1.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn about predefined JavaScript objects
+
+Use the Array object
+
+Use the Date object
+
+Use the Math object
+
+Understand what wrapper objects are
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 9
+
+Complete lab 9
+
+
+
+
+
+
+
+Unit 8: Using Windows and Frames
+
+Unit Objective: To use the window object and frames in JavaScript code to 
+enhance the HTML document. 
+
+
+
+Method of Evaluation: Completion of lab 10 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn about the Window object
+
+Open and close windows from within JavaScript
+
+Use timeouts and intervals effectively
+
+Reference frames and windows from within JavaScript
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 10
+
+Complete lab 10
+
+
+
+
+
+Unit 9: Using Forms
+
+Unit Objective: To learn how to access form data from within JavaScript.
+
+
+
+Method of Evaluation: Completion of lab 11, lab 16 and test 2.
+
+
+
+Estimated Time to Achieve: 2 Weeks
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn about the form object
+
+Reference form and form elements
+
+Retrieve, validate and populate forms using JavaScript
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 11
+
+Complete lab 11 
+
+
+
+Unit 10: Event Handling
+
+Unit Objective: To learn how to take advantage of events within an HTML 
+page. 
+
+
+
+Method of Evaluation: Completion of lab 12 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Learn how events are useful in JavaScript
+
+Discover where event handlers can be placed on a page
+
+Find out what events are in JavaScript
+
+Be able to code scripts that make use of event handlers
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 12 
+
+Complete lab 12
+
+
+
+
+
+Unit 11: Regular Expressions
+
+Unit Objective: To learn how to form patterns to validate user input.
+
+
+
+Method of Evaluation: Completion of lab 15 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Create regular expressions
+
+Describe the benefit of using regular expression
+
+Learn and use some of the metacharacters
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Attend lab demonstration of using regular expressions
+
+Read textbook Chapter 13 
+
+Complete lab 15
+
+
+
+    
+
+
+
+
+
+Unit 12: Cookies
+
+Unit Objective: To learn to work with cookies as a way of storing user 
+information. 
+
+
+
+Method of Evaluation: Completion of lab 13, lab 15 and test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Understand how information comes into and leaves the document.
+
+Use query strings.
+
+Create and read cookies.
+
+Use encodeURI and decodeURL
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 14 
+
+Complete lab 13
+
+
+
+
+
+Unit 13:  Database Access using Active Server Pages
+
+Unit Objective: To learn to work with a database from a web page using ASP.
+
+
+
+Method of Evaluation: Completion of test 2.
+
+
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student will:
+
+Create an Active Server Page Application.
+
+Learn about the various ASP objects.
+
+Learn JScript for the server side.
+
+Learn how to execute SQL commands from JScript.
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read handouts on ASP 
+
+Read textbook Appendix C pages 605-615
+
+Attend lab demonstration of ASP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

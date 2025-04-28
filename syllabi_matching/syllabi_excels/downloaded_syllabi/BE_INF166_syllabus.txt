@@ -1,0 +1,133 @@
+INF166
+
+Introduction to StarOffice
+
+1 credit
+
+Pre-requisite or Co-requisite: None
+
+New Course
+
+Fall 2004
+
+Professor Lucy Caruso-Deane, Department Chair, 201.447-7214
+
+lcarusodeanebergen.edu
+
+
+
+Introduction to StarOffice provides hands-on experience using an 
+office-suite product to 
+
+perform common tasks such as basic word-processing, spreadsheet development 
+and presentation 
+
+graphics preparation. Students also gain exposure to fundamental 
+vector-drawing tools. This 
+
+project-based course will include preparation of documents such as letters, 
+memos, flyers, 
+
+reports, tables, charts, single-page spreadsheets and short screen-based 
+presentations. 
+
+
+
+Objectives:
+
+1. Create, save, edit, print, and format information using the 
+word-processing, spreadsheet, 
+
+   and presentation components of StarOffice.
+
+2. Share information among word-processing, spreadsheet and presentation 
+graphics documents. 
+
+3. Work with vector graphics.
+
+
+
+Course Texts and/or other study materials:
+
+To be determined.
+
+
+
+Grade Determinants:
+
+Exams - 75
+
+Hands-on Projects - 25
+
+
+
+Course Content:
+
+1. Introduction - open source products: sources and resources. Introduction 
+to StarOffice. 
+
+   Introductory remarks concerning file and user interface compatibility 
+with Microsoft Office. 
+
+   Learning curve for those already familiar with MS Office.
+
+2. More word-processing. Letters and memos.
+
+3. More word-processing. Flyers and newsletters.
+
+4. More word-processing. Research papers 7 hours total on word-processing.
+
+5. Test 1
+
+6. StarOffice spreadsheet. Text, numbers, formulas simple spreadsheets sales 
+reports. 
+
+7. More spreadsheet. Functions, formatting spreadsheets, sales forecasts, 
+market reports and 
+
+   forecasts.
+
+8. More spreadsheet. Problem-solving using spreadsheets, grade tracking 6 
+hours total on 
+
+   spreadsheet preparation.
+
+9. StarOffice drawing program. Basic 2D shapes, borders, fills, gradients, 
+textures rotating, 
+
+   resizing, copying layers, Bezier point editing 3D shapes 2 hours total on 
+vector drawing. 
+
+10. Test 2
+
+11. StarOffice presentation graphics. Basic slide show preparation story 
+lines, story boards 
+
+    slide layout text entry inserting graphic elements sequencing 
+animations, sound, 
+
+    transition Me, Myself and I Presentation.
+
+12. More presentation graphics. Working with slide masters, presentation 
+templates, content 
+
+    wizards automatic advance, business presentation 4 hours total on 
+presentation graphics. 
+
+13. Integrating StarOffice components. Basic object-linking-and-embedding 
+embedding and 
+
+    spreadsheet in a text document, embedding a spreadsheet chart into a 
+slideshow, embedding 
+
+    a drawn object into a slideshow.
+
+14. Integrating StarOffice products with other products in Windows primarily 
+Microsoft Office 
+
+    documents with complex formatting documents with embedded objects 4 
+hours total on 
+
+    integration.
+
+15. Test 3

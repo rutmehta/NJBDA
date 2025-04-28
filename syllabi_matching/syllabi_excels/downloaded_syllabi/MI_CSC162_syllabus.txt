@@ -1,0 +1,287 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+COURSE ID (DEPARTMENT AND COURSE NUMBER)
+
+CSC 162
+
+
+
+COURSE NAME
+
+Object Oriented Programming using Java
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+4
+
+
+
+PREREQUISITE OR COREQUISITE COURSES OR ACADEMIC STANDING
+
+Prerequisite(s):CSC 161-Introduction to Computer Science Using Java 
+
+                         MAT 129-Precalculus or
+
+                         MAT 129A-Precalculus I
+
+
+
+Co-requisite(s): MAT 129B-Precalculus II or higher
+
+                          
+
+
+
+NEW OR MODIFIED COURSE
+
+New
+
+
+
+SEMESTER AND YEAR COURSE WILL FIRST BE OFFERED
+
+Fall 2006
+
+
+
+NAME AND TELEPHONE NUMBER OR EMAIL ADDRESS OF DEPARTMENT CHAIR
+
+Frank Burke
+
+FrancisBurke middlesexcc.edu
+
+
+
+DETAILED COURSE DESCRIPTION:
+
+This course builds on the Java foundation developed in CSC161 and is the 
+
+second core course required for students in the Computer Science Transfer 
+
+program. It investigates the software engineering principles of 
+encapsulation, 
+
+information hiding and code reuse, and discusses how these concepts are used 
+
+to build abstract data types. The object oriented programming features of 
+
+classes, inheritance, polymorphism and composition are studied, along with 
+
+constructors and method overloading. Students implement Java programs 
+
+incorporating features from the Java programming language.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+1.Define the terms abstract data type and encapsulation, and explain the    
+
+advantages of programs written using these principles.
+
+
+
+2.Demonstrate how to create abstract data types and write Java programs 
+
+which 
+
+use classes and objects.
+
+
+
+3.Demonstrate the creation of objects using constructor methods.
+
+
+
+4.  Demonstrate the use of class and instance variables and methods.
+
+
+
+5. Explain, distinguish and use visibility modifiers 
+
+(public/private/protected).
+
+
+
+6.Demonstrate the ability to create and use composite classes.
+
+
+
+7.Demonstrate the ability to write Java classes which use abstract classes 
+
+and 
+
+interfaces.
+
+
+
+8.Demonstrate the ability to write programs that create and use arrays of 
+
+objects.
+
+
+
+9.Define the terms inheritance, polymorphism and dynamic binding and 
+
+write 
+
+Java programs which use these features.
+
+
+
+10.   Describe and use the Object class and its methods.
+
+
+
+11.  Describe the Java heap and garbage collection.
+
+
+
+12.      Describe and demonstrate an understanding of exception hierarchy 
+and 
+
+exception handling.
+
+
+
+13.Demonstrate the ability to create programs using objects from the 
+
+java.util 
+
+package
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Introduction to Java Programming 5th Ed., Liang, Y. Daniel. Upper Saddle 
+River: 
+
+Pearson, Prentice Hall (2005).
+
+
+
+
+
+SUGGESTED GRADING CRITERIA
+
+Exams40
+
+Lab Assignments20
+
+Homework10
+
+Class Participation  5
+
+Final Exam25
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+1.Review Arrays, Methods and 
+
+                File Processing
+
+
+
+2.Two Dimensional Arrays and Ragged Arrays
+
+
+
+3.Abstract Data Types, Encapsulation, and Reuse
+
+
+
+4.Classes - Constructors, Variables and Methods
+
+
+
+Visibility
+
+
+
+5.Composition: Using objects as data members in 
+
+other classes
+
+
+
+6.Exception handling
+
+
+
+7.Midterm
+
+
+
+8.this reference
+
+
+
+9.Dynamic Allocation and garbage collection
+
+
+
+10.     Arrays of objects           
+
+
+
+11.     Inheritance and Polymorphism
+
+HAS-A, IS-A relationships
+
+protected members
+
+dynamic binding
+
+Object class and methods
+
+Overriding methods
+
+
+
+
+
+12.Abstract classes and interfaces
+
+
+
+13.Using java.util package
+
+
+
+14.Final
+
+Course Code: CSC 162Page 1/3
+
+
+
+
+
+
+
+Course Approval Form Effective: September 2005
+
+
+
+-----------------------------7d63bd143301d0--

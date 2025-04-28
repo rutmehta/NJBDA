@@ -1,0 +1,194 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+
+Course NumberCourse TitleCredits     
+        MAT041		              	 Foundation Math I		                       	      3
+
+
+Hours: lecture/Lab/Other 
+Co- or Pre-requisiteImplementation sem/year            	    3/0				      none			          		Fall 2013
+
+
+Catalog description (2012-2014 Catalog).  Developmental mathematics course designed for students needing a review of basic arithmetic, including an introduction to algebra. Topics include whole numbers, fractions, decimals, percentages, and integer operations. Students work through the material in self-paced mastery-based modules in a lab setting. [Does not fulfill mathematics elective requirement.]
+
+Is course New, Revised, or Modified?  Revised Fall 2012
+
+
+Required texts/other materials:  Carnegie Learning Software
+
+Revision date:           	   Course coordinator:   
+Fall 2012	     	   Betty Peterson		 609.570.3421   	  	petersob@mccc.edu 
+
+
+Information resources:  The Mercer County Community College Library has a wide assortment of reference books that students may use. Students may access tutoring resources from the Carnegie Learning System.  Tutors are available during lab periods and at the West Windsor and James Kerney Learning Center.
+As this is a foundations level mathematics course, the objective of the course is to prepare students to take a college-level mathematics course.  Crucial to success in a mathematics course is the ability to think “algebraically”; that is, to be able to demonstrate an ability to move beyond following prescribed algorithms into abstract reasoning.
+A minimum grade of 'C' is required for movement from one developmental course to another and for the completion of developmental requirements to qualify for credit-bearing mathematics courses.
+
+
+
+Course-specific General Education Knowledge Goals and Core Skills:
+General Education Knowledge Goals
+
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+MCCC Core Skills
+
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+
+In the list below, GE refers to General Education Knowledge Goals and Core refers top MCCC Core Skills.
+
+Course Competencies/Goals:
+
+Students will be able to demonstrate through tests and assignments the ability to:
+
+1. perform order of operations in solving any given problem. (GE  2;  Core B,E)
+
+2. identify arithmetic properties in performing operations involving addition, subtraction, multiplication, division, and in applying rules of exponents. (GE  2;  Core B,E)
+
+3. analyze the relationships among fractional, decimal, and percentage representations of a number. (GE  2;  Core B, E)
+
+4. demonstrate proportional reasoning in solving application and other problems. (GE  2;  Core B)
+
+5. identify the relative size of different representations of numbers and be able to make comparisons. (GE  2,4;  Core B,E)
+
+6. calculate equivalent forms of rational numbers. (GE  2;  Core B,E)
+
+7. perform computations with and without the use of technology. (GE  2;  Core B,E)
+
+8. recognize and interpret information given in graphs and tables. (GE  2;  Core B,E)
+
+9. simplify algebraic expressions. (GE2, Core B,E)
+
+10. use the properties of real numbers to solve linear equations. (GE2, Core B,E)
+
+11. demonstrate an understanding of the order of operations in solving linear equations. 
+(GE2, Core B,E)
+
+12.  apply the appropriate properties of equality to solve linear equations.  (GE2, Core B,E)
+
+
+In the following outline of the units of study, CG matches each objective with its course goal and the associated general education and MCCC core skills.
+
+Units of study in detail:
+
+
+Unit I		Whole Numbers
+
+The student will be able to:
+* calculate using order of operations.  (CG 1,2,7)
+* find the least common multiple of two or more numbers. (CG 1,2,7)
+* find the greatest common factor of two or more numbers. (CG 1,2,7)
+* find the prime factorization of a number. (CG 1,2,7)
+* use exponents to write the prime factorization.  (CG 1,2,7)
+
+
+Unit II 		Rational Numbers:  Fractions
+
+The student will be able to:
+* write equivalent fractions with both larger and smaller denominators. (CG 3,6,7)
+* write fractions that represent a given situation.  (CG 3,6,7)
+* express a number as a product of prime factors. (CG 2,7 )
+* perform the mathematical operations of addition and subtraction of fractions and mixed numbers with both common and different denominators both by hand and with a calculator (CG 2,3,6,7)
+* perform the mathematical operations of multiplication and division on fractions and mixed numbers. (CG 2,3,6,7)
+* use the order of operations to evaluate expressions involving fractions. (CG 1, 2,3,6,7)
+* solve application problems that contain fractions. (CG 2,3,4, 6,7,8)
+* apply the properties of equality to solve equations containing fractions. (CG 2,3,6,7)
+
+
+Unit III	Rational Numbers: Decimals, Proportions and Percentages 
+
+   The student will be able to:
+* identify place values of numbers written in decimal form and round to a given place.  (CG 5,6,7) 
+* convert between decimal and fraction or mixed number and recognize that they are equivalent numbers. (CG 3,6,7)
+* compare decimal numbers and fractions to determine relative size.  (CG 3,5, 6,7)
+* perform the mathematical operations of addition, subtraction, multiplication and division on decimal numbers and solve application problems containing decimals. (CG 2, 3,5, 6,7,8)
+* use the order of operations to evaluate expressions involving fractions and decimals. (CG 1, 2, 3,5, 6,7)
+* use the properties of equality to solve equations containing decimals.  (CG 1, 2, 3,5, 6,7)
+* write ratios and rates as a fraction.  (CG 3,5, 6,7)
+* find unit rates and use them to determine the best buy based on cost per unit.  (CG   3,4, 5, 6,7,8)
+* use proportions to solve for an unknown if given a known relationship.  (CG 2, 3,4, 5, 6,7)
+* use proportions to solve application problems. (CG 2, 3,4, 5, 6,7,8 )
+* express a given percentage  as a rational number and be able to convert between decimals, fractions and percentages. (CG 2, 3,4, 5, 6,7)
+* solve percent problems either using the proportion or equation.  (CG 2, 3,4, 5, 6,7,8)
+* solve application problems including percentage increases and percentage decreases. (CG 2, 3,4, 5, 6,7,8)
+Unit IV 	Exponents
+
+   The student will be able to:
+* identify integers, whole numbers, fractions and decimals and be able to express whole numbers using words and digits. (CG 1, 2, 3 ,7)
+* represent quantities in real-world situations using integers. (CG 5,7,8)
+* compare integers using inequality symbols. (CG 2, 3,4, 5, 6,7)
+* calculate the absolute value of integers. (CG 2,3 ,4, 5, 6,7)
+* perform the mathematical operations of addition, subtraction, multiplication and division on integers, both by hand and by using a calculator and be able to solve application problems. (CG 2, 3,4, 5, 6,7)
+* round and estimate answers. (CG 2, 3,4, 5, 6,7,8)
+* apply exponents to integers. (CG 1,2, 3,4, 5, 6,7)
+* use order of operations with expressions that involve integers.  (CG 1, 2, 3,4, 5, 6,7)
+* find and estimate square roots of numbers.  (CG 1, 2, 3,4, 5, 6,7)
+* classify numbers in the real number system.  (CG 2, 3,4, 5, 6,7)
+* represent numbers using scientific notation and perform multiplication and division of numbers expressed in scientific notation.  (CG 2, 3,4, 5, 6,7)
+
+
+Unit V		Linear Equations
+
+The student will be able to:
+
+* write equations involving the operations of addition, subtraction, and multiplication. (CG 9,10)
+* apply the operations of addition, subtraction, multiplication, and division to solve one-step linear equations. (CG 9,10,11,12)
+* combine expressions to calculate solutions to linear equations involving integers and decimals. (CG 9,10,11,12)solve two-step linear equations by combining like terms involving integers and decimals. ((CG 9,10,11,12)
+* apply the operations of addition, subtraction, multiplication, and division to solve two-step linear equations. (CG 9,10,11,12)
+* apply the properties of real numbers to calculate a solution to a linear equation with a variable in the denominator. (CG 9,10,11,12)
+* recognize and apply the distributive property to solve linear equations. (CG1,2,3,4)
+* determine and apply the properties needed to solve linear equations with variables on both sides of the equation(CG 9,10,11,12)
+* recognize when an equation has no solution or an infinite number of solutions. (CG 9,10,11,12)
+
+
+
+Evaluation of student learning:
+
+Achievement of the course objectives will be evaluated through the following methods:
+* Pre-and post-test assessments covering all course objectives throughout the course (CG 1-12).
+* Completion of written assignments relating course objectives in each unit to written proficiency of same (CG 1-12).
+*  A comprehensive final examination to demonstrate a student’s ability to retain and apply course objectives (CG 1-12).
+A suggested grading scheme follows.  Grade will be based on the following percentages: 
+
+* Pre/Post Test Modules 				50%
+* Hours in Software				10%
+* Assignments 					15% 
+* Final Examination				25%
+
+o Students who score 80% or higher on a pretest will be exempt from work on that module and will move to the next module.
+o Students must demonstrate a mastery level of at least 70% to move from one module to another. 
+o A written assignment at the end of each module will constitute part of the student’s grade and will give the student experience with the type of work expected on the final exam.
+o Assignments will be made available to instructors at the beginning of the course.
+o Students should receive regular feedback on their work through lab work and assignments.
+o Review packet for final exam to be provided.
+o Practice exams on software to be created.
+o Final exam scheduled in Testing Center.  
+o Students may take the final exam only once.
+* Students who cannot complete the course in one 7-week session can register for the following 7-week session and continue where s/he left off.  There is no need to repeat modules already completed.
+* Students who complete MAT041 in fewer than 7 weeks may begin work on MAT042.
+* Students who complete MAT042 during this semester may take a challenge test and place out of MAT042.
+* Students who do not complete MAT042 register for the course in the next 7-week session
+
+Academic Integrity Statement: 
+
+Mercer County Community College is committed to academic integrity – the honest, fair and continuing pursuit of knowledge, free from fraud or deception.
+
+Students should never: 
+* knowingly represent the work of others as their own 
+* knowingly represent previously completed academic work as current 
+* fabricate data to support academic work 
+* use or obtain unauthorized assistance in the execution of any academic work 
+* give fraudulent assistance to other students 
+* unethically use technological means to gain academic advantages
+
+Violators of the above actions will be penalized. The student will be reported to the Academic Integrity Committee.  The student has right to a hearing and also to appeal any decisions. These rights are outlined in the student handbook.
+
+	
+MAT041	Course Outline	Fall 2012
+
+5
+
+

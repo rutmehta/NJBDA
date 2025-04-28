@@ -1,0 +1,126 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 218  Web Page Dynamics
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+      None
+
+      
+
+Description 
+
+      Introduces students to the techniques and methods used in the design 
+and development of a dynamic web site. Students will use advanced web site 
+development tools to create dynamic text, images, rollovers movies and 
+animation. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Design and build a web site structure using Dreamweaver MX, understand the 
+use of the site map, and design a navigation strategy using hyperlinks, 
+navigation bars , rollover buttons, images, image maps and jump menus 
+
+ Use Dreamweaver productivity tools and functions to lay out a web site with 
+tables, frames and layers design a table page layout using either standard 
+or layout views use Dreamweaver tools to create and manage frameset and the 
+frames and lay out a web site using layers and convert the layers to tables 
+to provide consistent appearance in different browsers 
+
+ Add Dynamic HTML through Dreamweaver MX to add functionality to web sites 
+create and manipulate layers create Dreamweaver MX behaviors and event 
+handlers to control layers and create simple animation using layers on a 
+timeline 
+
+ Describe Flash MX main components including the timeline, stage, work area, 
+toolbox and panels and utilize the drawing and color tools 
+
+ Use the timeline to create animation knowledge of frame types including 
+blank keyframes, keyframes, and frames create a frame by frame animation 
+adjust animations using onion skins and free transform tool insert, delete, 
+copy and reverse frames on the timeline 
+
+ Create shape tweening text and multiple shape tweening animations create 
+animating gradients use layer properties in animations create graphic 
+symbols and instances for animation create motion tweening animations and 
+the use of motion guides in animations 
+
+ Create rollover buttons work with static, dynamic and input text in 
+animations use of actionscript basics and publishing and exporting movies. 
+
+
+
+Topical Outline
+
+ Web Site Management
+
+ Web Site Layout
+
+ Dynamic HTML
+
+ Interface and Drawing and Color Tools
+
+ Animation Basics and Shape Tweening
+
+ Motion Tweening and Bitmaps
+
+ Buttons and ActionScripting Basics
+
+ Working With Text and Publisning and Exporting
+
+
+
+Texts
+
+      Flash Professional  Hands On Training by Gonzalez: Peach Pit Press.
+
+      Macromedia Dreamweaver  Hands On Training by Short, Green: Peach Pit 
+Press. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

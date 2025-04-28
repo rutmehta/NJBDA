@@ -1,0 +1,119 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+BURLINGTON COUNTY COLLEGE
+
+COURSE INFORMATION FORM
+
+This form must be completed for all new and modified courses offered for 
+credit, including 
+
+experimental courses.
+
+I. Course Prefix and number: e.g. ART101: CIS 201
+
+II. Course Title: Cisco Intermediate Network Security
+
+III. Lecture Hrs. 4
+
+V. Prerequisite(s):  CIS 200
+
+VI. Co-Requisite(s):      
+
+    VII. Dr. David Spang, Dean Science, Math, Technology, 609-894-9311 ext. 
+1367,  dspangbcc.edu 
+
+
+
+X. New Course
+
+XI. Semester and Year Course will first be Offered (or, if a modified 
+course, semester and year when 
+
+revised course will first be offered): Spring 2005 (estimated date)
+
+    XII. Relation of Course to Curriculum(s): Elective
+
+XIII. General Education Designator (if course is intended to satisfy a 
+general education requirement 
+
+check appropriate designator):   TL  Technological Literacy
+
+
+
+XIV. Catalogue Description:   This course is an intermediate level course in 
+network security focusing 
+
+on the overall security processes with particular emphasis on hands-on 
+skills in the following areas 
+
+advanced configuration of the Cisco Pix security appliance including AAA, 
+IDS, VPN maintenance 
+
+and management, enabling secure VPNs using IPSec technologies, configuring 
+Cisco VPN 3000 
+
+concentrators, VPN 3002 hardware clients and software clients and 
+administering and monitoring VPN 
+
+equipment and software in remote-access and LAN-to-LAN networks using IPSec 
+protocols and 
+
+features.     
+
+
+
+XV. Course Objectives (Learning Outcomes): 
+
+1.  Understand the concepts and operation of intermediate network security 
+protocols 
+
+2.  Configure and troubleshoot various network security devices
+
+3.  Demonstrate competency by passing associated industry certification 
+exams. 
+
+
+
+    XVI. Textbook(s):  To be designated.
+
+
+
+XVII. Other Course Materials to be supplied by Student:  
+
+XVIII. Grading Policy (Number and Weight of Papers, Quizzes, Examinations, 
+etc.) 
+
+XIX. Detailed Description of Project Final Examination (if applicable): 
+
+XX. Schedule of topics to be covered in Course: 
+
+
+
+1.  PIX Security Applicance AAA
+
+2.  PIX Advanced Protocols and Intrusion Detection
+
+3.  PIX Failover and System Maintenance
+
+4.  PIX VIN
+
+5.  PIX Security Appliance Management
+
+6.  Overview of VPN and IPSec Technologies
+
+7.  Cisco VPN 3000 Concentrator Series Hardware Overview
+
+8.  Configuring Cisco VPN 3000 for Remote Access Using Preshared Keys
+
+9.  Configuring Cisco VPN 3000 for Remote Access Using Digital Certificates
+
+10.  Configuring the Cisco VPN Client Firewall Feature
+
+11.  Monitoring and Administering the VPN 3000 Series Concentrator
+
+12.  Configuring Cisco 3002 Hardware Client for Remote Access
+
+13.  Configuring Scalability Features of the VPN 3002 Hardware Client
+
+14.  Cisco VPN 3000 LAN-to-LAN with Preshared Keys

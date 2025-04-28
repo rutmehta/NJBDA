@@ -1,0 +1,763 @@
+6
+
+
+
+IT 204
+
+Computer Repair II
+
+Credits: 4
+
+Pre-Requisites: Pre-Requisites: IT 106, IT102, IT104 or written
+
+permission of Instructor
+
+New Course Fall 2002
+
+
+
+Donna Dobie
+
+Department Co-Chair: Business, Computer, and Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description: Students will continue to build on what they
+
+learn in IT 104 Computer Repair I. This course continues to
+
+parallel the CompTia A certification requirements. They will
+
+learn to troubleshoot a system and peripherals using third party
+
+diagnostic software and hardware available in todays market.
+
+Students will learn how to provide continuing maintenance for the
+
+personal computer and peripherals. An introduction to networks
+
+and the Internet and connecting the personal computer to them is
+
+covered.
+
+
+
+Course Objectives:
+
+1.   Students will be able to install and troubleshoot
+
+  peripherals at the Interrupt and I/O address level.
+
+2.   Students will be able to use software tools to repair and
+
+  recover hard drives and other magnetic storage.
+
+3.   Students will be able to install and troubleshoot video
+
+  controllers and displays.
+
+4.   Students will be able to install and troubleshoot printers
+
+  of various types within the Windows operating environment.
+
+5.   Students will be able to install and troubleshoot modems and
+
+  NIC cards.
+
+6.   Students will be able to install and troubleshoot multimedia
+
+  devices.
+
+7.   Students will be able to implement a preventive maintenance
+
+  program for computers and peripherals as well as communicate
+
+  effectively with their customer base regarding safety and
+
+  maintenance needs.
+
+
+
+Enabling Objectives:
+
+All Sections: Students will identify and adhere to the safety
+
+procedures specified in every lab. This will always include using
+
+an ESD strap and unplugging the PC from external power whenever
+
+the cover is off the PC or the components are being installed on
+
+the motherboard. Students will always take these important steps
+
+in addition to other component specific steps before proceeding
+
+to work on the PC.
+
+
+
+All Sections: Students will search for products and company
+
+information via the web as needed in the lab assignments. They
+
+will find URLs needed for any given application/specification.
+
+They will use search strings in the product knowledge base to
+
+configure and troubleshoot products (software and hardware), and
+
+use listserv groups to enhance their knowledge of any given
+
+subject. They will be able to locate, download, and apply the
+
+patches. Students will use on-line and paper manuals to set up
+
+and use products. Students will also search the web via browsers
+
+to locate URLs that provide additional information about products
+
+and specifications. Students, reinforcing and complimenting all
+
+assignments inside and outside the classroom, will regularly seek
+
+out the information on the web. (IL - satisfies the information
+
+literacy component for all courses)
+
+
+
+PART I Input/Output Devices
+
+1.   Students will identify the port connectors that can be used
+
+  in a PC.
+
+2.   Students will list the various uses for the parallel port.
+
+3.   Students will describe the function of a Centronics parallel
+
+  interface.
+
+4.   Students will explain the need for parallel/serial
+
+  conversions.
+
+5.   Students will explain how synchronous and asynchronous
+
+  transmissions work and list the advantages and limitations of
+
+  each.
+
+6.   Students will explain the operation of an RS-232C serial
+
+  interface port and define the signal lines.
+
+7.   Students will explain how a Universal Serial Bus works.
+
+8.   Students will list the three tasks a keyboard must perform
+
+  to present data to the PC.
+
+9.   Students will list the events that occur when a key is
+
+  depressed on the keyboard.
+
+10.  Students will list the steps to troubleshoot keyboard
+
+  problems.
+
+11.  Students will explain the operation of a mouse and a
+
+  trackball.
+
+12.  Students will describe the operation of a game port used
+
+  with a joystick or a game paddle.
+
+13.  Students will describe the operation of a light pen.
+
+14.  Students will describe the operation of scanners.
+
+15.  Students will list the steps to troubleshoot scanner
+
+  problems.
+
+
+
+PART II Magnetic Storage
+
+1.   Students will describe the format of a hard disk.
+
+2.   Students will list the events that occur during a track seek
+
+  operation.
+
+3.   Students will list the events that occur during a write
+
+  operation.
+
+4.   Students will list the events that occur during a read
+
+  operation.
+
+5.   Students will list the responsibilities of the FDD
+
+  controller.
+
+6.   Students will list the signal lines of a FDD signal cable.
+
+7.   Students will list the steps to troubleshoot FDD problems.
+
+8.   Students will identify the different connecting cables
+
+  (SCSI, IDE, FDD).
+
+9.   Students will list the differences between hard and floppy
+
+  disk drive types.
+
+10.  Students will install IDE and EIDE devices, configuring them
+
+  for master/slave/single designations.
+
+11.  Students will install and configure SCSI device chains.
+
+12.  Students will configure SCSI device addresses and
+
+  terminations to avoid conflicts and problems.
+
+13.  Students will list the steps to troubleshoot HDD problems.
+
+14.  Students will list the different RAID levels and when to use
+
+  them.
+
+15.  Students will list the different tape drive formats.
+
+
+
+PART III Video Displays
+
+1.   Students will explain how to position a single dot on the
+
+  face of the CRT using raster scanning.
+
+2.   Students will describe how a character generator is used to
+
+  convert ACII-coded characters into screen images.
+
+3.   Students will describe how color displays are created on the
+
+  screen.
+
+4.   Students will list the characteristics of MGA, CGA, HGA,
+
+  EGA, and VGA videos.
+
+5.   Students will describe the type of physical connector
+
+  specified for VGA video.
+
+6.   Students will explain how installed video memory affects the
+
+  capabilities of a video adapter card.
+
+7.   Students will explain how characters are processed in text
+
+  mode.
+
+8.   Students will list the steps to troubleshoot video problems.
+
+9.   Students will list the safety considerations associated with
+
+  working around a CRT.
+
+10.  Students will list the components commonly found inside a
+
+  CRT monitor.
+
+11.  Students will list the steps to troubleshoot monitor
+
+  problems.
+
+12.  Students will list the symptoms associated with common
+
+  monitor problems.
+
+13.  Students will list the symptoms associated with the
+
+  monitors video circuitry.
+
+14.  Students will describe the operation of liquid crystal
+
+  displays.
+
+15.  Students will describe the operation of gas-plasma displays.
+
+
+
+PART IV Printers
+
+1.   Students will list the types of paper handling common to
+
+  different printer technologies.
+
+2.   Students will list special considerations that must be
+
+  observed when installing or repairing serial printers.
+
+3.   Students will identify types of cable connections between
+
+  printer and PCs.
+
+4.   Students will list the flow-control methods applied to
+
+  serial printers.
+
+5.   Students will list the troubleshooting techniques for dot-
+
+  matrix printers.
+
+6.   Students will list the symptoms associated with components
+
+  of the dot-matrix printer.
+
+7.   Students will describe the alignment procedures for
+
+  printhead mechanisms.
+
+8.   Students will describe the operation of an ink-jet printer.
+
+9.   Students will identify the major components of an ink-jet
+
+  printer.
+
+10.  Students will list troubleshooting techniques for ink-jet
+
+  printers.
+
+11.  Students will list symptoms associated with components of an
+
+  ink-jet printer.
+
+12.  Students will explain the process for applying print to a
+
+  page in a laser printer.
+
+13.  Students will identify the major components of a laser
+
+  printer.
+
+14.  Students will list the troubleshooting techniques associated
+
+  with laser printers.
+
+15.  Students will list symptoms associated with components in a
+
+  laser printer.
+
+
+
+PART V Data Communications
+
+1.   Students will describe the three types of modulation
+
+  commonly used in data communications.
+
+2.   Students will compare hardware and software oriented
+
+  protocols.
+
+3.   Students will list the steps to troubleshoot a modem
+
+  problem.
+
+4.   Students will differentiate among typical LAN topologies.
+
+5.   Students will differentiate among the different types of
+
+  network media.
+
+6.   Students will list the steps to troubleshoot a LAN
+
+  networking problem.
+
+7.   Students will define the term wide area network (WAN).
+
+8.   Students will list the basic concepts relating to Internet
+
+  access.
+
+9.   Students will describe the function of routers, hubs, and
+
+  bridges.
+
+10.  Students will describe the ISDN connection.
+
+11.  Students will FTP a file from a server.
+
+12.  Students will explain the term email and its functions.
+
+13.  Students will explain various other Internet tools and their
+
+  functions.
+
+14.  Students will explain what the World Wide Web uses are.
+
+15.  Students will explain what an Internet browser is and how it
+
+is used.
+
+16.  Students will list the steps to troubleshoot a WAN problem.
+
+
+
+PART VI Multimedia
+
+1.   Students will define the term multimedia.
+
+2.   Students will list the current Windows multimedia support
+
+  tools.
+
+3.   Students will describe the function of multimedia authoring
+
+  programs.
+
+4.   Students will describe the operations of a CD-ROM drive.
+
+5.   Students will install and configure a CD-ROM drive.
+
+6.   Students will list the steps to troubleshoot a CD-ROM
+
+  problem.
+
+7.   Students will describe how audio signals are digitized.
+
+8.   Students will install and configure a sound card.
+
+9.   Students will explain the MIDI standard and discuss its use.
+
+10.  Students will list the steps to troubleshoot a sound card.
+
+11.  Students will list the characteristics of MPEG and JPEG
+
+  compression formats.
+
+12.  Students will install and configure a video capture card.
+
+13.  Students will list the steps to troubleshoot a video capture
+
+  card.
+
+14.  Students will install and configure a VGA-TV adapter for
+
+  operation.
+
+15.  Students will list the steps to troubleshoot a VGA-TV card
+
+  problem.
+
+
+
+PART VII Preventive Maintenance and Safety
+
+1.   Students will demonstrate the proper procedures to clean
+
+  various system components.
+
+2.   Students will define methods of preventing ESD hazards.
+
+3.   Students will define the term ground.
+
+4.   Students will define the two types of uninterruptable power
+
+  supplies and state advantages and limitations of each.
+
+5.   Students will list the various UPS specifications and state
+
+  how to apply them in a given situation.
+
+6.   Students will list the typical precautions that should be
+
+  observed when working on computer equipment.
+
+7.   Students will perform the generic preventive maintenance
+
+  routines on a system and printer.
+
+8.   Students will list the preventive maintenance procedures for
+
+  hard and floppy disks.
+
+9.   Students will perform basic disk-management functions on a
+
+  hard drive.
+
+10.  Students will use software utilities to identify and remove
+
+  viruses from a computer system.
+
+11.  Students will list the precautionary steps that should be
+
+  taken when handling floppy disks.
+
+12.  Students will list the steps to clean a dot-matrix, ink-jet,
+
+  and laser printer.
+
+13.  Students will establish and maintain preventive maintenance
+
+  schedules for a group of systems.
+
+14.  Students will list the potential hazards that are present
+
+  when working with laser printers and monitors.
+
+15.  Students will list the various customer service skills that
+
+  lead to customer satisfaction.
+
+
+
+PART VIII A Preparation
+
+1.   Students will review all materials presented in ELT104
+
+  Computer Repair I and ELT204 Computer Repair II.
+
+2.   Students will take the A certification practice test
+
+  included with the book.
+
+3.   Students will visit web sites that help prepare for the A
+
+  certification test.
+
+
+
+Required Text: Andrews, Jean, Ph.D., Enhanced A Guide to
+
+Managing and Maintaining Your PC, Enhanced, Course Technology, a
+
+division of Thomson Learning
+
+
+
+Course Requirements and Means of Evaluation: 50 of the grade is
+
+determined by test grades. Six tests will be given throughout the
+
+semester. 50 of the grade is determined by lab experiments and
+
+homework. All lab assignments, procedures, and handouts will be
+
+complete for each test area will be completed before students
+
+take the test and will be reviewed after each test. All homework
+
+must be typed and handed in by the due date assigned. No late
+
+work or labs will be accepted.
+
+
+
+Attendance: Students are expected to attend all scheduled
+
+classes. They are expected to make up all missed work. Students
+
+who miss a class are required to make up any missed lab before
+
+the test for the section. Missed homework cannot be made up as
+
+you have several different ways to hand it in on time including
+
+face to face early or email. Any missed test must be completed by
+
+the end of the next class after the test. Failure to do so will
+
+result in a 0 for items missed.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others.
+
+Specific procedures are to be adhered to when working with the PC
+
+and equipment. These procedures will be demonstrated by the
+
+instructor, detailed in handouts and procedures, and are an
+
+intricate part of every lab. Should students have any doubts or
+
+questions regarding a procedure, they should ask the instructor
+
+before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the school PCs. It is an illegal act to
+
+copy this software. Students will run the risk of dismissal from
+
+the class and possibly the school if software is copied
+
+illegally. Viruses can be transmitted through various media.
+
+Students will take every precaution when working with the
+
+schools software and hardware, adhering to the procedures for
+
+protecting from viruses. Students will not bring their own
+
+software to class, nor will they install it on any school PC.
+
+
+
+Course Activities: Students will spend half the time in a
+
+lecture/demonstration series by the instructor. The instructor
+
+will use PowerPoint presentations, videos (taped and from the
+
+Internet) and overhead projections from the instructors PC
+
+during that time. The instructor will also use the PC to
+
+demonstrate hands-on processes the students are expected to
+
+learn. The other half of the time the students are expected to
+
+reinforce the things learned in the lecture/demonstration in a
+
+supervised instructor led lab. Student will use the PC to
+
+gather information needed to do the hands-on lab portion. This
+
+includes using the Internet to visit the sites of on-line
+
+companies, and using all available on-line resources (knowledge
+
+bases, on-line videos, on-line technical support, and on-line
+
+product manuals) to complete labs as assigned. The PC is also the
+
+center of the lab experience, as students will apply what they
+
+have learned via installing and configuring software and hardware
+
+on the personal computer.
+
+
+
+Course Content outline:
+
+I.   Input/Output Devices
+
+     a.   I/O ports
+
+     b.   Troubleshooting Port Conflicts
+
+     c.   Troubleshooting Input Devices
+
+
+
+II.  Magnetic Storage
+
+     a.   Magnetic Disks
+
+     b.   Floppy Disk Drives
+
+     c.   Hard Disk Drives
+
+     d.   RAID systems
+
+     e.   Tape Drives
+
+     
+
+III. Video Displays
+
+     a.   Color Monitors and Graphics
+
+     b.   Video Standards
+
+     c.   Integrated Video Controllers
+
+     d.   Troubleshooting and Repairing Monitors
+
+     e.   Other Display Types
+
+
+
+IV.  Printers
+
+     a.   Printer Types and Settings
+
+     b.   Dot-Matrix Printers
+
+     c.   Ink-Jet Printers
+
+     d.   Laser Printers
+
+     e.   Installing printer drivers
+
+     f.   Troubleshooting Windows Printer Problems
+
+     
+
+V.   Data Communications
+
+     a.   Modems
+
+     b.   Local Area Networks
+
+     c.   Wide Area Networks
+
+     
+
+VI.  Multimedia
+
+     a.   Multimedia Applications
+
+     b.   CD-ROM
+
+     c.   Sound Cards
+
+     d.   Video Capture Cards
+
+     e.   VGA to TV Converters
+
+     
+
+VII. Preventive Maintenance and Safety
+
+     a.   Customer Service
+
+     b.   Preventive Maintenance for Components
+
+     c.   Safety
+
+     d.   Communication Skills and Customer Service
+
+
+
+VIII.     A Preparation

@@ -1,0 +1,720 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+       LIBERAL ARTS DIVISION                                CIS 248  Page
+
+CIS 248 Course Outline
+
+
+
+Prepared by Queen E. Odinkemere
+
+Version 1 4/2001
+
+
+
+Prepared by Queen E. Odinkemere
+
+Version 1 4/2001
+
+
+
+                  Mercer County Community College
+
+                                 
+
+            Arts, Communication and Technology Division
+
+                                 
+
+                              CIS 248
+
+                                 
+
+               ORACLE PROGRAMMING WITH VISUAL BASIC
+
+                                 
+
+
+
+COURSE DESCRIPTION:
+
+Oracle Programming with Visual Basic will be used to create event
+
+driven programming applications to run on Windows and Server
+
+environment.  Object oriented solutions for a variety of personal
+
+and business computing problems will be developed.  Course includes
+
+interfacing Visual Basic with Oracle database to optimize database
+
+administration.
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:  CIS 145 or prior programming experience
+
+
+
+Co-requisites:   None
+
+
+
+Credits:  4         Lecture Hours:  2             Studio/Lab Hours:
+
+2
+
+
+
+Food and drink are strictly prohibited in classrooms as per health
+
+ and safety laws.  Students may not bring in chemicals or cleaning
+
+            fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston Maddox           Latest Review: 8/2001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COURSE OBJECTIVES
+
+
+
+The course is designed to provide the student with programming
+
+skills required to create and maintain Oracle database(s), queries
+
+and stored procedures.  Students will update data using standard
+
+SQL commands, write procedural programming language using PL/SQL,
+
+and write stored procedures that can communicate with Visual Basic.
+
+Exposure will include various components required for communicating
+
+between Visual Basic on the client and Oracle database server. Also
+
+five most common data-access technologies will be covered.
+
+
+
+TESTS
+
+
+
+A minimum of six tests/mini projects will evaluate student
+
+learning. Each test/mini project will contain sentence completion,
+
+interpretation of a flowchart and/or program, and may require the
+
+writing of a program or program element.
+
+
+
+QUIZZES
+
+
+
+Students should expect a brief quiz each week based upon the
+
+previous lecture and reading assignment.
+
+
+
+LABORATORY
+
+
+
+Students will be given a minimum of six major projects to provide a
+
+hands-on experiential component in the programming environment.
+
+All assignments will have deadlines.
+
+
+
+LABORATORY EVALUTION
+
+
+
+Students performance of each laboratory assignment will be
+
+evaluated and assigned a point value according to the following:
+
+
+
+
+
+          Standards           0 to 2 points
+
+                         Adherence to specified Programming
+
+                         Standard. Programs must contain properly
+
+                         identified modules. The minimum modules
+
+                         for any program are: Program
+
+                         Identification, Variable Map, Program
+
+                         Description, Main Routine, and EOJ
+
+                         Routine.
+
+                         
+
+
+
+
+
+
+
+
+
+     
+
+     Remarks             0 to 2 point
+
+                         Generous use of remarks within the Main
+
+                         and Subroutines must be made.
+
+
+
+     Use of Project Lesson    0 to 2 points
+
+                         The Visual Basic/Oracle/both elements
+
+                         specified in the project lesson section
+
+                         of the assignment must be used.
+
+          
+
+     Execution           0 to 4 points
+
+                         Output must be according to the projects
+
+                    specifications.
+
+          
+
+     Total each project       0 to 10 points
+
+
+
+
+
+
+
+FINAL GRADE
+
+
+
+     The final grade is a composite based upon:
+
+
+
+          Tests (Theory/projects/both)       40
+
+          Laboratory Major Projects(class)             30
+
+          Midterm Examination                15
+
+          Final Examination                               15
+
+
+
+
+
+
+
+
+
+Course Outline
+
+
+
+
+
+
+
+
+
+                                                     Reading
+
+  Week               Lecture Topics               Assignment and
+
+                                                     Projects
+
+One      Introduction to Oracle and Visual Basic  Chapter 1  2
+
+             Architecture of Relational
+
+            Database
+
+             Oracle Server
+
+             Oracle Server Advanced Features
+
+             VB in Oracle World
+
+         Oracle Database Architecture             
+
+             Instances and Database
+
+             Memory Structure
+
+             Processes and  Database files
+
+             Data Concurrency and Data
+
+            Consistency
+
+             Schemas  and How Oracle works
+
+         
+
+Two      Creating a Database                      Chapter 3
+
+             Administration Tools
+
+             Oracle Installation
+
+             Initialization Files
+
+             Starting up and Shutting Down the
+
+            database
+
+             Creating the database
+
+             Configuring the network
+
+         
+
+Three    Database Administration                  Chapter 4
+
+             Backup Procedures                   
+
+            O     Data Export and Import
+
+             Mirroring the Redo logs
+
+             Mirroring the Control files
+
+             Ensuring Archive files are active
+
+             Doing Hot Backups
+
+             Recovering a database
+
+             Setting database security
+
+             Regular maintenance tasks
+
+             Using Enterprise Manager
+
+         
+
+                                                     Reading
+
+  Week               Lecture Topics               Assignment and
+
+                                                     Projects
+
+                                                  
+
+Four     Database Design                          Chapter 5 and
+
+             Conceptual Design and Logical       6
+
+            Design
+
+             Using Primary, Surrogate and
+
+            Foreign keys
+
+             Automating the Design Process
+
+         Implementation
+
+             Creating Tablespace  and Creating
+
+            a Table
+
+             Specifying Constraints, Creating
+
+            Indexes
+
+             Creating and Using Sequences
+
+             Audit Trails, Other Schema Objects
+
+             Setting Privileges
+
+             Using Microsoft Database Designer
+
+         
+
+Five     Queries                                  Chapter 7
+
+             A SQL Overview and Types of SQL
+
+            Commands
+
+             The Basic SELECT Command
+
+             Group Functions
+
+             Queries form More Than One Table
+
+             Subqueries
+
+             Optimizing Your Queries
+
+             Specifying Schemas
+
+         
+
+Six      Updating Database                        Chapter 8 and
+
+             A Philosophy for Updating Tables    9
+
+             Inserting, Updating and Deleting
+
+            Rows
+
+             Transaction Control and Security
+
+             Database Triggers
+
+             Bulk Loading of Data
+
+             Dates and the Year 2000 Problem
+
+         Introductio to PL/SQL
+
+             PL/SQL as an Extension of SQL
+
+             Stored Procedures
+
+             Packages
+
+             Tools for Creating Stored
+
+            Procedures
+
+             Error Handling in PL/SQL
+
+         
+
+         
+
+                                                     Reading
+
+  Week               Lecture Topics               Assignment and
+
+                                                     Projects
+
+                                                  
+
+Seven    Creating Stored Procedures               Chapter 10
+
+             PL/SQL Data Types
+
+             Declaring Variable
+
+             Statements and Assignments
+
+             Flow of Control Statements
+
+             User Defined Data Types
+
+             Cursor Variables
+
+             Using Triggers, Providing
+
+            Transaction Audit
+
+             Procedures and Visual Basic
+
+         
+
+Eight    Client-Side Technology                   Chapter 11
+
+             The Software Layers
+
+             Setting Up Net8 SQL Net
+
+             ODBC
+
+             Sources of ODBC Drivers
+
+             Setting Up an ODBC Data Source
+
+             Creating an ODBC Connection String
+
+             Potential Problems with the ODBC
+
+            Setup
+
+Nine     Accessing Oracle from Visual Basic       Chapter 12
+
+             The JET Engine
+
+             Remote Data Objects
+
+             ODBCDirect
+
+             The ODBC API
+
+             ActiveX Data Objects
+
+             Oracle Objects for OLE
+
+             Comparison of Object Model
+
+             Exporting an Access Table to
+
+            Oracle
+
+             Oracle Export Wizard
+
+Ten      Visual Basic Design Issue                Chapter 13
+
+             Logging On the Database
+
+             Views, Synonyms, and Schemas
+
+             Cursor Selection
+
+             Querying and Updating of Database
+
+             Transaction Control
+
+             Locking Issues and Using BLOB-Type
+
+            Data
+
+             Error Handling
+
+Weeks                Lecture Topics               Reading
+
+                                                  Assignment and
+
+                                                  Projects
+
+Eleven   The DAO Object Hierarchy                 Chapter 14
+
+             Accessing a Database
+
+             Creating Recordsets
+
+             Executing SQL Commands
+
+             Calling Stored Procedures
+
+             Error handling
+
+             Viewing Structure of Database
+
+             Drawbacks to DAO
+
+Twelve   Remote Data Objects                      Chapter 15
+
+             The Object Hierarchy
+
+             Databases and Connections
+
+             Working with rdoResultsets
+
+             Using doResultset Event
+
+             Exploring rdoResultset Methods and
+
+            Properties
+
+             Using rdoQuery Objects, Executing
+
+            SQL Commands and Calling Stored
+
+            Procedures
+
+             Asynchronous Operation
+
+             Retrieving PL/SQL Tables and Error
+
+            Handling
+
+             Disadvantages and Future of RDO
+
+Thirteen ODBCDirect                               Chapter 16
+
+             ODBCDirect Object Hierarchy         
+
+             Accessing ODBCDirect
+
+             Creating Recordsets and Using
+
+            QuerDefs
+
+             Calling Stored Procedures
+
+             Asynchronous Operation
+
+             Drawbacks to ODBCDirect
+
+Fourteen ActiveX Data Objects                     Chapter 17
+
+             ADO Object Model
+
+             Connecting to Oracle
+
+             Working With Recordsets and
+
+            Recordset Events
+
+             Executing SQL Commands
+
+             Calling Stored Procedures
+
+             Retrieving PL/SQL Tables
+
+             Asynchronous Operation
+
+             Error Handling
+
+             Using the Data Environment
+
+             Drawbacks to ADO
+
+Fifteen  Oracle Objects for OLE                   Chapter 18
+
+             Oracle Objects for OLE Object
+
+            Hierarchy
+
+             Early Binding Issue
+
+             Accessing a Database
+
+             Creating OraDynasets
+
+             Exploring the OraDynaset Methods
+
+             Executing SQL Commands
+
+             Calling Stored Procedures
+
+             Retrieving Cursor Variables
+
+             Retrieving PL/SQL Tables
+
+             Using OraSQLStmts
+
+             Batch Updates
+
+             Error Handling
+
+             Drawbacks to OO4O
+
+
+
+
+
+Academic Integrity Statement:
+
+
+
+A student who a.) knowingly represents work of others as his/her
+
+own b.) uses or obtains unauthorized assistance in the execution
+
+of any work or c.) gives fraudulent assistance to another student
+
+is guilty of cheating. Violators will be penalized. (Student
+
+Handbook)
+
+
+
+Classroom Conduct Statement:
+
+
+
+It is the students responsibility to attend all of their classes.
+
+If they miss a class meeting for any reason, students are
+
+responsible for all content that is covered, for announcements made
+
+in their absence, and for acquiring any materials that may have
+
+been distributed in class. It is expected that students be on time
+
+for all their classes. If students walk into a class after it had
+
+begun, it is expected that they choose a seat close to where they
+
+entered the room so they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy during
+
+class session. Engaging in private, side conversations during class
+
+time is distracting to other students and to the instructor.
+
+Leaving class early without having informed the instructor prior to
+
+class is not appropriate. Unless there is an emergency, leaving
+
+class and returning while class is in session is not acceptable
+
+behavior. Disruptive behavior of any type, including sharpening
+
+pencils during class while someone is speaking, is not appropriate.
+
+
+
+The college welcomes all students into an environment that creates
+
+a sense of community and pride and respect we are all here to work
+
+cooperatively and to learn together.
+
+     

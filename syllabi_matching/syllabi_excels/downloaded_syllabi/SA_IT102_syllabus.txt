@@ -1,0 +1,493 @@
+IT102
+
+How the Mac Works
+
+Credits:  2
+
+Pre-Requisites:  Completion of EN 098, EN 099 and MA 091, if
+
+required
+
+Revised Credit Distribution Spring 2002
+
+
+
+Donna Dobie
+
+Department Co-Chair, Business, Computer  Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description:
+
+This course is designed to teach the students the Macintosh
+
+computer user interface, operating systems, troubleshooting
+
+hardware problems and software problems, and networking with
+
+TCP/IP,  LocalTalk and wireless (Airport).  They will learn
+
+about the various components and accessories that make up
+
+the Macintosh computer.  They will also learn about the
+
+various tools needed to troubleshoot both hardware and
+
+software problems.  In addition, students will load an
+
+operating system.   They will learn to find updates and
+
+patches for software and hardware via the Internet.
+
+
+
+
+
+Course Performance Objectives:
+
+1.    Students will learn the history of Apple Computers and
+
+the software and hardware companies
+
+       that continually make major contributions to the
+
+Macintosh computer.
+
+2.   Students will identify all of the components of the
+
+  Macintosh computer.
+
+3.   Students will be able to navigate the Macintosh
+
+  computer and know basic keyboard commands.
+
+4.   Students will be able to install and configure the
+
+  Macintosh operating system.
+
+5.   Students will be able to configure basic networking via
+
+  LocalTalk, TCP/IP and Airport.
+
+6.   Students will know basic troubleshooting techniques for
+
+  hardware problems.
+
+7.   Students will know basic troubleshooting techniques for
+
+  software problems.
+
+
+
+Enabling Objectives:
+
+All Sections: Students will understand and be able to adhere
+
+to the safety procedures specified in every lab. This will
+
+always include using an ESD strap and unplugging the
+
+Macintosh from external power whenever the cover is off the
+
+Macintosh or any components are being installed. Students
+
+will always take these important steps in addition to other
+
+component specific steps before proceeding to work on the
+
+Macintosh.
+
+
+
+All Sections: Students will search for products and company
+
+information via the web as needed in the lab assignments.
+
+They will find URLs needed for any given
+
+application/specification. They will use search strings in
+
+the product knowledge base to configure and troubleshoot
+
+products (software and hardware), and use listserv groups to
+
+enhance their knowledge of any given subject. They will be
+
+able to locate patches for products and download and apply
+
+the patches. Students will use on-line and paper manuals to
+
+set up and use products. Students will also search the web
+
+via browsers to locate URLs that provide additional
+
+information about products and specifications. Students,
+
+reinforcing and complimenting all assignments inside and
+
+outside the classroom, will regularly seek out the
+
+information on the web. (IL)
+
+
+
+  PART I Macintosh Computer Background
+
+      Students will visit the web sites of the major
+
+     contributors of software and hardware and explore available
+
+     technical support, especially Apples knowledge base and
+
+     technical specifications.
+
+  PART II Components that make Up the Basic Macintosh
+
+  computer
+
+      Students will visually identify the following
+
+     components that can be used to make a typical Macintosh
+
+     computer: logic board, processor, memory, case, power
+
+     supply, storage devices, keyboard, mouse, multimedia
+
+     hardware and monitor.
+
+
+
+  PART III Logic Board
+
+      Students will identify parts of the logic board and
+
+     features relating to each part.
+
+  PART IV Memory
+
+      Students will visually identify the different types of
+
+     RAM (SIMM and DIMM).
+
+  PART V Input Devices
+
+         Students will install a keyboard and a mouse (ABD and
+
+       USB).
+
+  PART VI I/O Interfaces
+
+  
+
+      Students will describe the functions and usage for each
+
+     of the following I/O
+
+  
+
+      Interfaces: ABD, serial, printer port, modem port, IDE,
+
+     SCSI, USB and Firewire ports.
+
+
+
+      Students will configure multiple devices on a SCSI
+
+     chain.
+
+
+
+  PART VII Communications
+
+
+
+      Students will configure a modem for Internet access.
+
+
+
+  PART VIII Operating Systems
+
+
+
+      Students will learn how to determine which operating
+
+     systems are compatible with which Macintosh models.
+
+
+
+      Students will initialize the hard drive to accept the
+
+     operating system.
+
+
+
+      Students will load the Macintosh operating system.
+
+
+
+      Students will apply any updates required via the web
+
+     for the operating system.
+
+
+
+      Students will use the Macintosh Apple System Profiler
+
+     to examine the system setup.
+
+
+
+      Students will learn basic troubleshooting tools, repair
+
+     techniques and maintenance procedures.
+
+
+
+  PART IX Networking
+
+
+
+      Students will network a number of Macintosh computers
+
+     with a hub and TCP/IP protocol.
+
+
+
+      Students will network a number of Macintosh computers
+
+     with PhoneNet connectors and LocalTalk.
+
+
+
+      Student will network a number of Macintosh computer
+
+     with an Airport Base Station.
+
+
+
+Required Text:   Rizzo, John and Clark, K. Daniel, How the
+
+Mac Works, Millennium Edition, Que, ISBN 0-7897-2428-6.
+
+
+
+Course Requirements and Means of Evaluation:
+
+60 of the grade is determined by twelve quizzes. 40 of the
+
+grade will be determined by completion of homework
+
+assignments.
+
+
+
+Attendance: Students are expected to attend all scheduled
+
+classes. They are expected to make up all missed work.
+
+Students who miss a class are required to make up its
+
+contents (labs, homework, and tests) within two weeks of the
+
+absence. Failure to do so will result in a 0 for items
+
+missed.
+
+
+
+Academic Honesty Policy: Students found to have committed an
+
+act of academic dishonesty may be subject to failure in this
+
+course, academic probation, and/or suspension from the
+
+college. See the student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to
+
+follow procedures for their own safety and the safety of
+
+others. Specific procedures are to be adhered to when
+
+working with the computer and equipment. These procedures
+
+will be demonstrated by the instructor, detailed in handouts
+
+and procedures, and are an intricate part of every lab.
+
+Should students have any doubts or questions regarding a
+
+procedure, they should ask the instructor before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to
+
+use all software required in class and lab. Students will
+
+not be allowed to copy software from the school computers.
+
+It is an illegal act to copy this software. Students will
+
+run the risk of dismissal from the class, and possibly the
+
+school, if software is copied illegally. Viruses can be
+
+transmitted through various media. Students will take every
+
+precaution when working with the schools software and
+
+hardware, adhering to the procedures for protecting from
+
+viruses. Students will not bring their own software to
+
+class, nor will they install it on any school computer.
+
+
+
+
+
+Material or Supplies: Students will be supplied with all
+
+tools, software, hardware, and safety equipment required for
+
+each lab. Items necessary to complete each lab will be given
+
+out at the beginning of each lab and returned at the end of
+
+each lab.
+
+
+
+Course Activities: Students will spend two hours in a
+
+lecture/demonstration series by the instructor. The
+
+instructor will use PowerPoint presentations, videos or
+
+overhead projections from the instructors computer during
+
+that time. During the other hour, the students are expected
+
+to reinforce the things learned in the lecture/demonstration
+
+in a supervised instructor led lab. Student will use the
+
+Macintosh to do hands-on lab portions. This includes using
+
+the Internet to visit the sites of on-line companies and
+
+using all available on-line resources (knowledge bases, on-
+
+line technical support, and on-line product manuals). The
+
+Macintosh is also the center of the lab experience, as
+
+students will apply what they have learned.
+
+
+
+Course Content Outline:
+
+I  Macintosh Background
+
+     A.   History of Apple Computers and the Macintosh
+
+B.   Hardware and software companies for the Macintosh
+
+
+
+II.  Hardware Components That Make up the Basic Macintosh
+
+Computer
+
+     A.   Case (Chassis)
+
+B.   Power Supply
+
+C.   Hard Disk Drive
+
+D.   Floppy Disk Drive
+
+E.   CD-ROM Drive
+
+F.   Zip Drive
+
+G.   Logic Board (Motherboard)
+
+H.   Processor
+
+I.   Memory (RAM), Virtual Memory, Cache Memory, RAM disk
+
+J.   Video Card
+
+K.   Sound Card
+
+L.   Network Card, Airport card, Built-in Ethernet
+
+M.   Modem Card
+
+N.   Monitor
+
+O.   Keyboard
+
+P.   Mouse
+
+     
+
+III.  I/O Interfaces
+
+     A.  ABD Ports
+
+     B.   Serial Ports
+
+     C.   IDE Interface
+
+     D.   SCSI Interface
+
+     E.   USB Ports
+
+     F.   Firewire Ports
+
+
+
+IV.  Software
+
+     A.  Macintosh Operating Systems 6 through X
+
+          1.   Loading the operating system
+
+2.   Basic commands
+
+3.   System folder
+
+4.   Extensions
+
+5.   Control Panels
+
+6.   Preferences
+
+     C.   Network System software
+
+1.   LocalTalk
+
+2.   TCP/IP
+
+3.   Wireless
+
+
+
+V.    Troubleshooting Problems and Maintenance Procedures
+
+     A.   Hardware
+
+     B.   Software
+
+
+
+VI.  Basic Printer Technology

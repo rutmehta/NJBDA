@@ -1,0 +1,140 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+BURLINGTON COUNTY COLLEGE
+
+COURSE INFORMATION FORM
+
+This form must be completed for all new and modified courses offered for 
+credit, including 
+
+experimental courses.
+
+I. Course Prefix and number: e.g. ART101: CIS 158
+
+II. Course Title: Cisco Fundamentals of Wireless LANs
+
+III. Lecture Hrs. 4
+
+V. Prerequisite(s):  CIS 151
+
+VI. Co-Requisite(s):      
+
+    VII. Dr. David Spang, Dean Science, Math, Technology, 609-894-9311 ext. 
+1367,  dspangbcc.edu 
+
+
+
+X. New Course
+
+XI. Semester and Year Course will first be Offered (or, if a modified 
+course, semester and year when 
+
+revised course will first be offered): Spring 2005 (estimated date)
+
+    XII. Relation of Course to Curriculum(s): Elective
+
+
+
+XIII. General Education Designator (if course is intended to satisfy a 
+general education requirement 
+
+check appropriate designator):   TL  Technological Literacy
+
+
+
+XIV. Catalogue Description:   This introductory course to Wireless LANs 
+focuses on the design, 
+
+planning, implementation, operation, and troubleshooting of Wireless LANs.  
+It covers a 
+
+comprehensive overview of technologies, security, and design best practices 
+with particular emphasis 
+
+on hands-on skills.  It prepares students for Cisco Wireless LAN Support 
+Specialist certification. 
+
+
+
+XV. Course Objectives (Learning Outcomes): 
+
+1. Demonstrate an understanding of wireless radio technologies and 
+topologies. 
+
+2.  Describe IEEE 802.11 wireless standards
+
+3.  Configure and install wireless access points, bridges, adapters and 
+antennae. 
+
+4.  Understand wireless design, installation, configuration, monitoring and 
+maintenance using CLI and 
+
+web-based Device Manager.
+
+5.  Identify wireless security threats and vulnerabilities.
+
+6.  Understand wireless security using MAC filtering, WEP, LEAP, EAP, and 
+802.1x technologies. 
+
+7.  Understand proper site survey techniques and safety practices.
+
+8.  Configure monitoring technologies such as Syslog, SNMP and logging.
+
+9.  Demonstrate the ability to troubleshoot wireless installations and 
+configurations. 
+
+10.  Understand vertical and horizontal wireless implementations and uses.
+
+
+
+XVI. Textbook(s):  Cisco Networking Academy Program Fundamentals of Wireless 
+LANs Companion 
+
+Guide 
+
+Cisco Networking Academy Program Fundamentals of Wireless LANs Lab Companion 
+
+Cisco Networking Academy Program Fundamentals of Wireless LANs Engineering 
+Journal and 
+
+Workbook
+
+XVII. Other Course Materials to be supplied by Student:  
+
+XVIII. Grading Policy (Number and Weight of Papers, Quizzes, Examinations, 
+etc.) 
+
+XIX. Detailed Description of Project Final Examination (if applicable): 
+
+XX. Schedule of topics to be covered in Course: 
+
+
+
+1.  Introduction to wireless LANs
+
+2.  Network and 802.11 interface cards
+
+3.  Wireless radio technology
+
+4.  Wireless topologies
+
+5.  Wireless links and bridges
+
+6.  Antennas
+
+7.  Security
+
+8.  Application design 
+
+9.  Site survey
+
+10.  Troubleshooting management, monitoring and diagnostics
+
+11.  Emerging technologies
+
+
+
+
+
+CIF Entered/Printed:   November 21, 2007

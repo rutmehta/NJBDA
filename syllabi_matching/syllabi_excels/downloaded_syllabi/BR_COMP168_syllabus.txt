@@ -1,0 +1,946 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID
+
+COMP168
+
+
+
+COURSE NAME
+
+SERVER SIDE SCRIPTING
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+Four (4) credits
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP 116 and COMP 166 or equivalents.
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT
+
+CHAIR
+
+Thomas Doll
+
+(732) 224-2849
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will gain a working knowledge of JavaServer
+
+Pages to develop server-side applications.
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+This course is comprised of 12 units:
+
+
+
+             Unit      Title
+
+               1       Introduction to Server-Side
+
+                       Technologies
+
+               2       Client-side versus Server-Side
+
+                       Scripting
+
+               3       Form Processing Techniques
+
+               4       Variables and JSP Control Structures
+
+               5       Scripting with JSP Elements
+
+               6       Processing the Client Request
+
+               7       Application, Sessions, and Cookies
+
+               8       JavaBeans
+
+               9       Scopes of Variables and JavaBeans
+
+              10       More Advanced JSP
+
+              11       Databases with JSP
+
+              12       Competing Technologies
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+JavaServer Pages, Xue Bai, Thomson Course Technology, ISBN 0-619-
+
+06343-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+The levels of achievement in this course are based upon grades
+
+received on 3 exams, as well as the completion of lab assignments.
+
+The final grades will be determined as follows:
+
+
+
+          Grade               Requirements
+
+
+
+             A           Test average 90 or above
+
+                         Complete Labs C-1 through C-12
+
+                         Complete Labs B-1 and B-2
+
+                         Complete Labs A-1 and A-2
+
+
+
+             B           Test average 80 or above
+
+                         Complete Labs C-1 through C-12
+
+                         Complete Labs B-1 and B-2
+
+
+
+            C            Test average 70 or above
+
+                         Complete Labs C-1 through C-12
+
+
+
+            D            Test average 60 through 69
+
+                         Complete Labs C-1 through C-12
+
+
+
+            F            Test average below 60 OR
+
+                         Did not complete Labs C-1 through C-12
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT 1
+
+Name of Unit:  Introduction to Server-Side Technologies
+
+
+
+Unit Objective:  To introduce server-side concepts, available
+
+technologies, and tools used in this course.
+
+
+
+Method of Evaluation:  Completion of lab C-1 and test 1.
+
+
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn about client/server architecture
+
+     2.   Learn the components of a three tier system
+
+     3.   Learn about static versus dynamic web pages
+
+     4.   Discuss various server-side technologies
+
+     5.   Understand history of technologies
+
+     6.   Install and configure tools required for course
+
+
+
+
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook preface and chapter 1
+
+    Complete lab C-1
+
+    Setup Apache Tomcat (optional for students working at home)
+
+
+
+
+
+UNIT 2
+
+Name of Unit:  Client-side versus Server-side Scripting
+
+
+
+Unit Objective:  To learn the differences between client and
+
+server-side scripting and significance of each.
+
+
+
+Method of Evaluation:  Completion of lab C-2 and test 1.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Use JavaScript to create dynamic web pages
+
+2.   Insert client-side code into an HTML page
+
+3.   Insert server-side code into an HTML page
+
+4.   Understand difference in two approaches
+
+5.   Setup client-side validation
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 2
+
+    Complete lab C-2
+
+
+
+
+
+UNIT 3
+
+Name of Unit:  Form Processing Techniques
+
+
+
+Unit Objective:  To learn how to collect information from website
+
+visitors for processing.
+
+
+
+Method of Evaluation:  Completion of lab C-3 and test 1.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Design a form to collect information from users
+
+2.   Understand GET and POST methods
+
+3.   Retrieve information from a form
+
+4.   Output information to users
+
+5.   Use variables to store information obtained from the form
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 3
+
+    Complete lab C-3
+
+
+
+                                 
+
+UNIT 4
+
+Name of Unit:  Variables and JSP Control Structures
+
+
+
+Unit Objective:  Learn about Java variables and control structures
+
+for use in JSP.
+
+
+
+Method of Evaluation:  Completion of labs C-4, B-1, and test 1.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Declare and use variables in JSP scripts
+
+2.   Learn about JSP data types
+
+3.   Learn control structures in JSP scripts
+
+4.   Use logical operators in JSP scripts
+
+5.   Manipulate strings in JSP scripts
+
+6.   Declare and use arrays in JSP scripts
+
+7.   Create and use Enumeration objects
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 4
+
+    Complete labs C-4 and B-1
+
+  
+
+  
+
+  
+
+UNIT 5
+
+Name of Unit:  Scripting with JSP Elements
+
+
+
+Unit Objective:  To learn about the types of JSP elements and how
+
+to use them.
+
+
+
+Method of Evaluation:  Completion of lab C-5 and test 2.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn four groups of JSP elements
+
+2.   Use JSP page directives
+
+3.   Use JSP include directives
+
+4.   Use simple JSP scripting elements
+
+5.   Use JSP comments to make code more readable
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 5
+
+    Complete lab C-5
+
+  
+
+  
+
+  
+
+UNIT 6
+
+Name of Unit:  Processing the Client Request
+
+
+
+Unit Objective:  To learn about JSP implicit objects and how to
+
+use them to process a client request.
+
+
+
+Method of Evaluation:  Completion of lab C-6 and test 2.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn how to use JSP implicit objects
+
+2.   Use the request object to obtain header, client, and server
+
+information
+
+3.   Process form input fields using the request object
+
+4.   Get and use arrays using the request object
+
+5.   Control the output stream using the out object
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 6
+
+    Complete lab C-6
+
+
+
+
+
+UNIT 7
+
+Name of Unit:  Applications, Sessions, and Cookies
+
+
+
+Unit Objective:  To learn how to maintain state information
+
+despite the fact that HTTP is a stateless protocol.
+
+
+
+Method of Evaluation:  Completion of labs C-7, A-1, and test 2.
+
+
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Understand limitations of HTTP
+
+2.   Learn about the application object
+
+3.   Learn about the session object
+
+4.   Create cookies
+
+5.   Send cookies using the response object
+
+6.   Read cookies using the request object
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 7
+
+    Complete labs C-7 and A-1
+
+
+
+
+
+UNIT 8
+
+Name of Unit:  JavaBeans
+
+
+
+Unit Objective:  To learn about developing reusable components.
+
+
+
+Method of Evaluation:  Completion of labs C-8, B-2, and test 2.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Survey the basics of the  Java programming language
+
+2.   Write JavaBeans
+
+3.   Compile and install bean classes
+
+4.   Use beans with action tags
+
+5.   Get and set a beans properties
+
+6.   Connect beans with forms
+
+7.   Use beans in scriptlets
+
+8.   Write a file bean to read and write to files
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 8
+
+    Complete labs C-8 and B-2
+
+
+
+
+
+UNIT 9
+
+Name of Unit:  Scope of Variables and JavaBeans
+
+
+
+Unit Objective:  To learn the different scopes of variables and
+
+how they effect bean use.
+
+
+
+Method of Evaluation:  Completion of lab C-9 and test 3.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn the difference between variable scope and duration
+
+2.   Learn the difference between variables defined in
+
+declarations and variables defined in scriptlets
+
+3.   Create and use page scope, session scope, and application
+
+scope variables
+
+4.   Create and use page scope, request scope, session scope, and
+
+application scope beans
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 9
+
+    Complete lab C-9
+
+
+
+
+
+UNIT 10
+
+Name of Unit:  More Advanced JSP
+
+
+
+Unit Objective:  To learn about custom tags and other more
+
+advanced JSP topics.
+
+
+
+Method of Evaluation:  Completion of lab C-10 and test 3.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn the difference between forwarding and redirecting
+
+2.   Declare and use methods in JSP pages
+
+3.   Handle exceptions to make your web applications more robust
+
+4.   Create and use custom JSP tag libraries
+
+5.   Manipulate JSP content using custom tags
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 10
+
+    Complete lab C-10
+
+
+
+
+
+UNIT 11
+
+Name of Unit:  Databases with JSP
+
+
+
+Unit Objective:  To learn how to integrate a database into your
+
+web application.
+
+
+
+Method of Evaluation:  Completion of labs C-11, A-2, and test 3.
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Learn basic database and DBMS concepts
+
+2.   Use SQL to manipulate databases via your JSP web applications
+
+3.   Use JDBC or JDBC-ODBC bridge to connect to databases from JSP
+
+pages
+
+4.   Create tables and insert date into tables via JSP pages
+
+5.   Get data from tables via JSP pages
+
+6.   Use forms to add data to a table
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read textbook chapter 11
+
+    Complete labs C-11 and A-2
+
+
+
+
+
+UNIT 12
+
+Name of Unit:  Competing Technologies
+
+
+
+Unit Objective:  To introduce and compare competing technologies.
+
+
+
+Method of Evaluation:  Completion of lab C-12 and test 3.
+
+
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+
+
+     1.   Compare ASP, ASP.NET, and PHP
+
+2.   View demo of one of these technologies
+
+3.   Participate in hands-on exercise illustrating other
+
+approaches
+
+4.   Complete assignment with alternate technology
+
+
+
+
+
+Recommended Learning Experiences:
+
+
+
+      Attend class meetings
+
+    Read handouts or web reading
+
+    Participate in lab demos
+
+    Complete lab C-12
+
+                                 
+
+                    COMP 168 - LAB ASSIGNMENTS
+
+        Unit    
+
+Lab   Assigned  Where to find
+
+C-1       1     See instructor home page
+
+C-2       2     Case Project: Temperature Conversion, p.55
+
+C-3       3     Case Project: Information Collection, p.92
+
+C-4       4     Case Project: Online Produce, p.127
+
+B-1       4     Case Project: Client Calendar, p.127
+
+C-5       5     Case Project: Creating a Guest Book, p.162
+
+C-6       6     Case Project: Music Library Search, p.200
+
+C-7       7     Case Project: Shopping Cart, p.246
+
+A-1       7     Case Project: Shopping Cart, p.246
+
+                (advanced)
+
+C-8       8     Case Project: Library Search Bean, p.291
+
+B-2       8     Case Project: Advanced Bulletin Board,
+
+                p.291
+
+C-9       9     Case Project: Shopping Cart, p.334
+
+C-10     10     Handout: Custom Tag Assignment
+
+C-11     11     Handout: Database Assignment
+
+A-2      11     Handout: Advanced Database Assignment
+
+C-12     12     Handout: Alternative Technologies
+
+                Assignment

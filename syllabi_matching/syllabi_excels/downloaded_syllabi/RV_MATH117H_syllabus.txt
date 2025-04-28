@@ -1,0 +1,407 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+ 
+
+MATH 117H STATISTICS HONORS 
+
+ 
+
+ 
+
+I. Basic Course Information 
+
+ 
+
+A. Course Number and Title: MATH 117H Statistics Honors 
+
+ 
+
+B. New or Modified Course: Modified Course 
+
+ 
+
+C. Date of Proposal: Fall 2012 
+
+ 
+
+D. Sponsoring Department: Mathematics 
+
+ 
+
+E. Semester Credit Hours: 4 
+
+ 
+
+F. Weekly Contact Hours: 5 Lecture: 3 
+
+ Laboratory: 2 
+
+ 
+
+G. Prerequisites: GPA of 3.5 or permission of the instructor. 
+
+MATH 030 Intermediate Algebra, or 
+
+appropriate score on math placement test 
+
+ 
+
+H. Laboratory Fees: No 
+
+ 
+
+I. Department Chair: Professor Rosemarie Gorini, rgorini@raritanval.edu 
+
+ 
+
+II. Catalog Description 
+
+ 
+
+Prerequisites: GPA of 3.5 or permission of the instructor and MATH 030 
+Intermediate Algebra, or appropriate score on math placement test. This is an 
+honors course combining the material in both Math 110 Statistics I and Math 111 
+Statistics II, as well as topics of Experimental Design. This course introduces the 
+student to the methods and uses of statistical research. Topics include descriptive 
+displays and analysis, classical probability, the normal distribution, the sampling 
+distribution of the mean, inferences concerning means, critical values, and p-values 
+(Statistics I). Other topics include description and analysis of bivariate data, 
+regression and correlation, inferences in regression, chi-square procedures, 
+inferences in two means and proportions, simple experimental design, analysis of 
+variance, and optional non-parametric tests (Statistics II). Experimental Design 
+topics include randomized block designs, two-way factorial experiments, repeated 
+measures, relationship between ANOVA and regression, two-stage nested designs, 
+and estimation based on nested sampling. 
+
+ 
+
+ 
+
+
+III. Statement of Course Need 
+
+ 
+
+A. This course is a general education mathematics course and serves as a math requirement 
+for various A.S. and A.A. programs. 
+
+ 
+
+B. Honors courses in mathematics have been developed to provide mathematically talented 
+students the opportunity to obtain a level of rigor not currently available in existing courses. 
+
+C. This course will generally transfer as a Mathematics or Statistics course. 
+
+ 
+
+D. A one hour lab component would benefit Statistics Honors because four hours a week is 
+tight for course content that is more than double that of Statistics I or II alone. The extra lab 
+hour would allow spiraling the content to be implemented as well as time to apply and 
+incorporate the content with its use for statistical analysis. 
+
+ 
+
+IV. Place of Course in College Curriculum 
+
+ 
+
+A. This course serves as a free elective. 
+B. This course serves as a General Education course in Mathematics. 
+C. This course meets a program requirement for Statistics for the following programs: AS 
+Biology, AS Biotechnology, AA Business Liberal Arts, AS Environmental Science, AS 
+General Science, AAS Health Information Technology, AS Health Science, AS Human 
+Services/Pre Social Work, AS Occupational Health Assistant, AAS Accounting, AAS 
+Accounting Information Systems, AAS Marketing 
+D. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, 
+www.njtransfer.org; for all other colleges and universities, go to the individual websites. 
+E. This course is an honors course. 
+
+
+ 
+
+V. Outline of Course Content 
+
+ 
+
+A. The Nature of Statistics 
+B. Organizing Data 
+
+
+1. Sampling Techniques 
+
+2. Grouping Data 
+
+3. Histograms and other graphs 
+
+4. Stem and Leaf Diagrams 
+
+C. Descriptive Measures for Univariate Data 
+1. Summation Notation 
+2. Measures of Central Tendency 
+3. Measure of Dispersion 
+4. Interpretation of Standard Deviation and Chebychev’s theorem 
+5. Grouped Data Formulas 
+6. Quartiles and Box-and-Whisker Diagrams 
+7. Parameters and Statistics 
+
+
+D. Probability 
+
+1. Classical Probability 
+2. Rules of Probability 
+
+
+
+3. Mutually Exclusive Events 
+4. Conditional Probability 
+5. Independent Events 
+E. Discrete Random Variables 
+1. Probability Distributions 
+2. The Mean and Standard Deviation of Discrete Random Variables 
+3. Bernoulli Trials and Binomial Coefficients 
+4. The Binomial Distribution 
+F. The Normal Distribution 
+1. From Discrete to Continuous Random Variables 
+2. The Standard Normal Curve 
+3. Finding Areas Under the Normal Curve 
+4. Normally Distributed Random Variables 
+G. The Sampling Distribution of the Mean 
+1. Random Sample and Sampling Error 
+2. The Mean and Standard Deviation of the Sample Mean 
+3. The Central Limit Theorem 
+H. Estimation 
+1. Point and Interval Estimation of a Parameter 
+2. Constructing Confidence intervals for Population Means 
+3. The t-Distribution 
+4. Sample Size Considerations 
+I. Hypothesis Testing – Statistical Inference 
+
+
+1. Nature and Design of Hypothesis Tests – classical and p-value 
+methods 
+
+2. Tests for Single Means and Single Proportions 
+3. Interpretation of Results 
+4. Type I and Type II Errors 
+5. Power analysis 
+J. Inferences About Two Population Means 
+1. Independent and Dependent Samples 
+2. Tests for Differences between Two Means 
+3. Tests for Differences between Two Proportions 
+4. Tests for standard deviations 
+5. Chi-square procedures 
+
+
+
+
+K. Inferences About More Than Two Population Means 
+1. The F-Distribution 
+2. The Logic behind Analysis of Variance 
+3. One-Way ANOVA 
+4. Two-Way ANOVA 
+5. Randomized blocks 
+6. Two-way factorial experiments 
+7. Repeated measures 
+
+
+
+
+L. Descriptive Measures for Bivariate Data 
+1. Scatter plots 
+2. Linear Equations with One Independent Variable 
+3. The Regression Equation 
+4. The Correlation Coefficient 
+
+
+
+
+
+
+
+5. The Coefficient of Determination 
+
+
+
+
+M. Inferences for Regression and Correlation 
+1. Standard Error of the Estimate 
+2. Inferences for Regression and Correlation Coefficients 
+3. The model for Multiple Regression 
+4. The relationship between ANOVA and regression 
+
+
+
+
+N. Nested Sampling 
+1. Two-stage nested designs 
+2. Estimating a population mean based on nested sampling 
+
+
+
+
+
+
+ 
+
+VI. Educational Goals and Learning Outcomes 
+
+A. General Education Learning Outcomes: 
+
+1. Synthesize descriptive methods of statistics for the purpose of organizing and 
+summarizing data. (GE-NJ 2) 
+
+2. Interpret the meaning of summary measures (mean, median, mode, standard 
+deviation, variance, quartile, percentile, range, minimum, maximum, outlier, etc.) 
+within the context of problem. (GE-NJ 2) 
+
+3. Calculate the probability of an event using both discrete and normal distribution 
+methods. (GE-NJ 2) 
+
+4. Interpret results from inferential statistics to interpret data for the purposes of 
+interval estimation in means and proportions. (GE-NJ 2) 
+
+5. Interpret results from inferential statistics to interpret data for the purposes of 
+decision-making in hypothesis tests, including independent or dependent means, and 
+one or two proportions. (GE-NJ 2) 
+
+6. Conduct an appropriate hypothesis test using both classical and modern (p-value) 
+procedures. (GE-NJ 2) 
+
+7. Interpret results from inferential statistics to interpret data for the purposes of 
+decision-making in Chi-Square tests for independence or goodness-of fit. (GE-NJ 2) 
+
+8. Interpret results from inferential statistics to interpret data for the purposes of 
+decision-making for a one-way ANOVA analysis. (GE-NJ 2) 
+
+9. Use linear regression techniques for purposes of analysis and prediction for slope 
+or correlation. (GE-NJ 2) 
+
+10. Conduct a simple statistical study (experimental or observational), including the 
+sampling design, interpretation of computer results from their collected data, and 
+inference from these results to a conclusion consistent with their design. (GE-NJ 2; 
+GE-NJ IL) 
+
+11. Explain and present (written and verbal) statistical results from own 
+experimental design study. (GE-NJ 1) 
+
+ 
+
+ 
+
+B. Course Learning Outcomes: 
+
+All course outcomes included in general education goals, listed above. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+VII. Modes of Teaching and Learning 
+
+ 
+
+ Instructors can use a variety of modes including, but not limited to the following: 
+
+A. lecture/discussion 
+B. small-group work 
+C. computer-assisted instruction 
+D. student oral presentations 
+E. student collaboration 
+F. independent study 
+G. homework 
+
+
+ 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+ 
+
+ Student learning outcomes are assessed using a combination of the following: 
+
+A. teacher written tests 
+B. computer/calculator assignments 
+C. semester projects 
+D. final examination 
+E. in-class or online quizzes & homework 
+
+
+ 
+
+IX. Grade Determinants 
+
+ 
+
+Final grades are determined by a combination of the following: 
+
+A. tests 
+B. quizzes 
+C. homework 
+D. projects 
+E. assignments 
+F. cumulative final exam 
+
+
+ 
+
+X. Texts and Materials 
+
+ 
+
+A. Suggested textbook: Introductory Statistics, (latest edition). Neil A. Weiss. 
+Pearson Addison-Wesley. 
+
+
+B. Computer-based sources: The instructor is free to choose the type of technology. 
+Choices include but are not limited to: 
+
+1. MINITAB 
+2. TI-84 graphing calculator 
+3. EXCEL 
+4. IBM SPSS 
+5. SAS 
+
+
+ 
+
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is 
+the sole resource for the most up-to-date information about textbooks. 
+
+ 
+
+ 
+
+
+ 
+
+XI. Resources 
+
+ 
+
+Because of the technology used in the course, classes should be held in a CATT 
+room where the instructor can access both MINITAB and the web. MINITAB 
+software needs to be available in S020, the open lab, and any other computer lab 
+where students may be working. 
+
+ 
+
+ 
+
+

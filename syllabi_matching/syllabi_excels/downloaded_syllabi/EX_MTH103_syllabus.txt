@@ -1,0 +1,943 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch37\stshfloch37\stshfhich37\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f36\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\f37\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f40\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f49\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
+{\f50\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f52\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f53\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f54\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f55\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f56\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f57\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f59\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}
+{\f60\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f62\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f63\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f64\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f65\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f66\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f67\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f379\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}
+{\f380\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}{\f382\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f383\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f386\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}
+{\f399\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\f400\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\f402\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\f403\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\f406\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\f409\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\f410\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\f412\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}
+{\f413\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\f416\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}
+{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;\red54\green95\blue145;\red0\green51\blue153;}{\*\defchp \loch\af37\hich\af37\dbch\af37 }{\*\defpap \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{
+\s1\ql \li0\ri0\sb480\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af36\afs28\alang1025 \ltrch\fcs0 \b\f36\fs28\cf17\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext0 \slink15 \sqformat heading 1;}{\s3\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs18\alang1025 \ltrch\fcs0 
+\b\fs18\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink16 \sqformat heading 3;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority0 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\f37\hich\af37\dbch\af37\cgrid\langnp1033\langfenp1033 
+\snext11 \ssemihidden \sunhideused \sqformat \spriority0 Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af36\afs28 \ltrch\fcs0 \b\f36\fs28\cf17 \sbasedon10 \slink1 \slocked Heading 1 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\af0\afs18 \ltrch\fcs0 
+\b\f0\fs18 \sbasedon10 \slink3 \slocked \spriority0 Heading 3 Char;}{\s17\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 \slink18 \spriority0 Body Text;}{\*\cs18 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24 \sbasedon10 \slink17 \slocked Body Text Char;}{
+\s19\ql \li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext19 \sqformat \spriority34 
+Colorful List Accent 1;}{\s20\ql \fi-720\li720\ri0\widctlpar\jclisttab\tx720\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec }\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon21 \snext20 Normal 11pt;}{\s21\ql \li0\ri0\sa120\sl480\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext21 \slink22 Body Text 2;}{\*\cs22 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f0\fs20 \sbasedon10 \slink21 \slocked Body Text 2 Char;}{
+\s23\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon17 \snext23 Byline;}{
+\s24\ql \li360\ri0\sa120\sl480\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext24 \slink25 
+Body Text Indent 2;}{\*\cs25 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f0\fs20 \sbasedon10 \slink24 \slocked Body Text Indent 2 Char;}{
+\s26\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext26 Normal (Web);}
+{\*\cs27 \additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \sqformat Strong;}{\s28\ql \li0\ri0\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext28 \slink29 header;}{\*\cs29 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f0\fs20 \sbasedon10 \slink28 \slocked Header Char;}{\s30\ql \li0\ri0\widctlpar
+\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext30 \slink31 footer;}{\*\cs31 \additive \rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \f0\fs20 \sbasedon10 \slink30 \slocked Footer Char;}{\s32\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af37\afs22\alang1025 \ltrch\fcs0 
+\f37\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext32 \slink33 \sqformat No Spacing;}{\*\cs33 \additive \rtlch\fcs1 \af37\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\dbch\af0\langnp1033\langfenp1033 \sbasedon10 \slink32 \slocked 
+No Spacing Char;}{\*\cs34 \additive \rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i \sbasedon10 \sqformat \spriority0 Emphasis;}{\*\cs35 \additive \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \strike0\f0\fs22\ulnone\animtext0\striked0 \sbasedon10 \spriority0 
+body_0020text_00202__char1;}{\s36\qj \fi-720\li2880\ri1440\widctlpar\tx720\tx7920\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin1440\lin2880\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext36 \spriority0 Block Text;}{\*\cs37 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f0 \sbasedon10 \spriority0 normal__char1;}{\s38\ql \li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext38 \spriority0 list_0020paragraph;}}{\*\listtable{\list\listtemplateid580807366\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-2101072144\'032.\'00;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\f37\fs22\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-2101072144\'032.\'01;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\f37\fs22\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2
+\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2
+\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2
+\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6480\lin6480 }{\listname ;}\listid158691088}
+{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }
+{\listname ;}\listid182480994}{\list\listtemplateid-1412372208\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1463260458\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fs20\cf0\fbias0\hres0\chhres0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0\hres0\chhres0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0\hres0\chhres0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li6480\jclisttab\tx6480\lin6480 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li7200\jclisttab\tx7200\lin7200 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 
+\fi-360\li7920\jclisttab\tx7920\lin7920 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 
+\fi-360\li8640\jclisttab\tx8640\lin8640 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 
+\fi-360\li9360\jclisttab\tx9360\lin9360 }{\listname ;}\listid195892053}{\list\listtemplateid531639682\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid792494240
+\'033.\'00;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\f37\fs22\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid-1484613716\'034.\'01;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\fs22\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6480\lin6480 }{\listname ;}\listid428695173}{\list\listtemplateid-693362342\listhybrid{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1834826488\'031.\'00;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\f37\fs22\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1834826488\'031.\'01;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\f37\fs22\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li2160\lin2160 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6480\lin6480 }{\listname 
+;}\listid491798327}{\list\listtemplateid1724566640{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'034.\'01;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\fbias0\hres0\chhres0 \fi-360\li720\lin720 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'05\'00.\'01.\'02;}{\levelnumbers\'01\'03\'05;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-720\li1080\lin1080 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'07\'00.\'01.\'02.\'03;}{\levelnumbers\'01\'03\'05\'07;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 
+\fi-720\li1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'09\'00.\'01.\'02.\'03.\'04;}{\levelnumbers\'01\'03\'05\'07\'09;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fbias0\hres0\chhres0 \fi-1080\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'0b\'00.\'01.\'02.\'03.\'04.\'05;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1080\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\'0d\'00.\'01.\'02.\'03.\'04.\'05.\'06;}{\levelnumbers
+\'01\'03\'05\'07\'09\'0b\'0d;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1440\li1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext
+\'0f\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1440\li1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levellegal\levelspace0\levelindent0{\leveltext\'11\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-1440\li1800\lin1800 }{\listname ;}\listid506096840}
+{\list\listtemplateid-316874024\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid856556050\'034.\'00;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b0\i0\fbias0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 \fi-180\li6480\lin6480 }{\listname ;}\listid624047447}{\list\listtemplateid1721410126\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \fi-360\li360\lin360 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li1080\lin1080 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2520\lin2520 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3240\lin3240 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li3960\lin3960 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li4680\lin4680 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5400\lin5400 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6120\lin6120 }{\listname ;}\listid1256597364}{\list\listtemplateid1403042388\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid1298798781}{\list\listtemplateid1952369730\listsimple{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0\hres0\chhres0 \s20\fi-720\li720\jclisttab\tx720\lin720 }{\listname ;}\listid1516461029}
+{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li360
+\jclisttab\tx360\lin360 }{\listname ;}\listid1648700821}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid1651204200}{\list\listtemplateid2086425724\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li360\lin360 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li1080\lin1080 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2520\lin2520 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3240\lin3240 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li3960\lin3960 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li4680\lin4680 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5400\lin5400 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6120\lin6120 }{\listname ;}\listid1760977877}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid1876188832}{\list\listtemplateid255252554\listhybrid{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1136839564\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \i0\hres0\chhres0 \fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1484613716\'034.\'01;}{\levelnumbers\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\i0\fs22\fbias0\hres0\chhres0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li2160\lin2160 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li4320\lin4320 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-180\li6480\lin6480 }{\listname 
+;}\listid1915822065}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid2087803846}}{\*\listoverridetable{\listoverride\listid2087803846\listoverridecount0\ls1}{\listoverride\listid1516461029\listoverridecount0\ls2}{\listoverride\listid1256597364
+\listoverridecount0\ls3}{\listoverride\listid182480994\listoverridecount0\ls4}{\listoverride\listid1876188832\listoverridecount0\ls5}{\listoverride\listid1651204200\listoverridecount0\ls6}{\listoverride\listid1298798781\listoverridecount0\ls7}
+{\listoverride\listid1648700821\listoverridecount0\ls8}{\listoverride\listid1760977877\listoverridecount0\ls9}{\listoverride\listid1915822065\listoverridecount0\ls10}{\listoverride\listid491798327\listoverridecount0\ls11}{\listoverride\listid158691088
+\listoverridecount0\ls12}{\listoverride\listid624047447\listoverridecount0\ls13}{\listoverride\listid428695173\listoverridecount0\ls14}{\listoverride\listid195892053\listoverridecount0\ls15}{\listoverride\listid506096840\listoverridecount0\ls16}}
+{\*\pgptbl {\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb300\sa150}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp1\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li720\ri720\sb100\sa100}{\pgp\ipgp6\itap0\li0\ri0\sb15\sa0}{\pgp\ipgp10\itap0\li180\ri180\sb180\sa0}}{\*\rsidtbl \rsid863946\rsid867407\rsid2822739\rsid3671509\rsid5126016\rsid5774742\rsid5779758
+\rsid6449875\rsid7167610\rsid7555878\rsid8600502\rsid9397036\rsid14552706}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\title ESSEX COUNTY COLLEGE}{\author romero}
+{\operator Groomes, Brenda}{\creatim\yr2011\mo4\dy5\hr11\min22}{\revtim\yr2011\mo4\dy5\hr11\min22}{\printim\yr2010\mo10\dy11\hr20\min2}{\version2}{\edmins1}{\nofpages8}{\nofwords1824}{\nofchars11558}{\*\company Hewlett-Packard Company}{\nofcharsws13356}
+{\vern32771}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata0\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace100\dgvspace180\dghorigin1440\dgvorigin1440\dghshow2\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot12283762\newtblstyruls\nogrowautofit\utinl \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup15\stylesortmethod0{\*\ftnsep \ltrpar \pard\plain \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5126016 
+\chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5126016 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5126016 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5126016 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\footery1152\endnhere\sectlinegrid360\sectdefaultcl\sectrsid2822739\sftnbj {\footerr \ltrpar \ltrrow\trowd \irow0\irowband0\lastrow \ltrrow\ts11\tsrowd\trgaph108\trbrdrt\brdrs\brdrw45\brdrcf15 \trbrdrv
+\brdrs\brdrw45\brdrcf15 \trftsWidth2\trwWidth5000\trftsWidthB3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllkhdrcols\tbllknocolband\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw45\brdrcf15 \clbrdrl
+\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw45\brdrcf15 \cltxlrtb\clftsWidth3\clwWidth918\clshdrawnil \cellx885\clvertalt\clbrdrt\brdrs\brdrw45\brdrcf15 \clbrdrl\brdrs\brdrw45\brdrcf15 \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth7938\clshdrawnil \cellx9468\pard\plain \ltrpar\s30\qr \li0\ri0\widctlpar\intbl\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\cf18\insrsid2822739\charrsid8348589 page }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\cf18\insrsid2822739\charrsid8348589  PAGE   \\* MERGEFORMAT }
+}{\fldrslt {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\f37\fs32\cf18\lang1024\langfe1024\noproof\insrsid8600502\charrsid8600502 1}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\b\f37\fs32\cf18\insrsid2822739\charrsid8348589 \cell }\pard \ltrpar\s30\qr \li0\ri0\widctlpar\intbl\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f37\insrsid2822739 p}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f37\insrsid2822739\charrsid8348589 repared by C Castillo & K Christie-Powell, Spring 2010\cell }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \rtlch\fcs1 
+\af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2822739 \trowd \irow0\irowband0\lastrow \ltrrow\ts11\tsrowd\trgaph108\trbrdrt\brdrs\brdrw45\brdrcf15 \trbrdrv
+\brdrs\brdrw45\brdrcf15 \trftsWidth2\trwWidth5000\trftsWidthB3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllkhdrcols\tbllknocolband\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw45\brdrcf15 \clbrdrl
+\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrs\brdrw45\brdrcf15 \cltxlrtb\clftsWidth3\clwWidth918\clshdrawnil \cellx885\clvertalt\clbrdrt\brdrs\brdrw45\brdrcf15 \clbrdrl\brdrs\brdrw45\brdrcf15 \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth7938\clshdrawnil \cellx9468\row }\pard\plain \ltrpar\s30\ql \li0\ri0\widctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2822739 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 
+\rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739\charrsid16536537 ESSEX COUNTY COLLEGE
+\par Mathematics and Physics Division}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f37\fs24\insrsid2822739\charrsid16536537 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739\charrsid16536537 MTH }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739 103 }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739\charrsid8348589 \endash 
+ Fundamental Concepts of Modern Mathematics I}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\cf6\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739\charrsid16536537 Course Outline}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \b\f37\fs24\insrsid2822739 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx5025\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f37\fs24\insrsid2822739 \tab 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid863946\charrsid16536537 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Course Number & Name:}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid16536537   MTH 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 03}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f37\fs22\cf6\insrsid2822739\charrsid16536537  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+Fundamental Concepts of Modern Mathematics I}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 
+\par 
+\par Credit Hours: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 4\tab .0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Contact Hours: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\cf6\insrsid2822739\charrsid16536537  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid7035809 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 .0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Lecture:}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid16536537   }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid16536537 Lab: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537  N/A\tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Other: }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid16536537  N/A
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 
+\par Prerequisites}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 :  Grade of \'93C\'94 or better in MTH}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\cf6\insrsid2822739\charrsid16536537  }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid16536537 0}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 92}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537  or placement\tab 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Co-requisites:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537   None\tab \tab \tab \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid16536537 Concurrent Courses:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537   None
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 Course Outline Revision}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537  Date:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537   }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 Fall}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537  20}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 10}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 
+
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\brdrb\brdrdb\brdrw15\brsp20 \wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\cf6\insrsid2822739 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid4944566 
+\par }\pard\plain \ltrpar\s19\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Course Description}{\rtlch\fcs1 \ai\af0\afs24 \ltrch\fcs0 \cs34\i\f37\fs24\insrsid2822739\charrsid4944566 : }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+This survey course covers fundamental concepts in Ma
+thematics.  An emphasis is placed on illustrating the impact of mathematics as a historical cultural force. Topics are chosen from logic, set theory, mathematical systems, number theory, algebra, geometry, and probability and statistics.  Diverse applicat
+ions are emphasized throughout the course.}{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \cs34\i\insrsid2822739\charrsid4944566 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid863946\charrsid16536537 
+\par }\pard\plain \ltrpar\s17\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6449875 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f37\fs22\insrsid6449875\charrsid16536537 General Education Goals}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875\charrsid16536537 : }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875 
+MTH 103 is affirmed in the following General Education Foundation Category: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid6449875\charrsid15477264 Quantitative Knowledge and Skills}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 .  }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875\charrsid1312311 The corresponding General Education Goal is as follows: Students}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875\charrsid16536537  will }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f37\fs22\insrsid6449875 use}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875\charrsid16536537  appropriate mathematical and statistical concepts and operations to interpr}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid6449875 
+et data and to solve problems.
+\par }\pard\plain \ltrpar\qj \li0\ri90\widctlpar\tx10080\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin90\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid863946 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 Course Goals:}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+ Upon successful completion of this course, students should be able to do the following:}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\cf6\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 demonstrate knowledge of the fundamental concepts and theories from logic, set theory,   mathematical systems, number theory, algebra, geometry, and probab}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 ility and statistics;
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 2.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls9\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+utilize various problem-solving and critical-thinking techniques to set up and solve application}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  problems taken from a variety of discipline}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 s; }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 
+\ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid7555878 \hich\af37\dbch\af0\loch\f37 3.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls16\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid7555878 communicate accurate mathematical terminology and notation in written and/or oral form in order to explain strategies to solve problems as well as to interpret found solutions; and
+\par }\pard \ltrpar\s19\qj \li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6032633 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid9125016 \hich\af37\dbch\af0\loch\f37 4.\tab}}\pard \ltrpar\s19\qj \fi-720\li720\ri0\widctlpar
+\tx360\wrapdefault\aspalpha\aspnum\faauto\ls16\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid9125016 use calculators effectively as a tool to solve such problems as th}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid863946 ose described above.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid9125016 
+\par }\pard \ltrpar\s19\qj \li360\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\tx540\tx2340\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8741487 Measurable Course}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8741487 
+Performance Objectives}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739  (MPOs)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8741487 :}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8741487 Upon successful completion of this }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 c}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8741487 
+ourse, students should }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 s}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8741487 pecifically be able to do the following:
+\par }\pard \ltrpar\qj \fi-360\li360\ri0\widctlpar\tx540\tx2340\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid863946 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls10\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Demonstrate knowledge of the fundamental concepts and theories from logic, set theory,  
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+mathematical systems, number theory, algebra, geometry, and probability and statistics:
+\par }\pard \ltrpar\s19\qj \fi720\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.1\tab}}\pard \ltrpar
+\s19\qj \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls11\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid8348589 
+use inductive and deductive reasoning to solve mathematical problems;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.2\tab}perform basic operations on sets including the union, intersection, diffe
+rence, and Cartesian product of sets;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.3\tab}
+implement primitive procedures such as the Egyptian algorithm, Russian peasant method, lattice method, and nines complement method;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.4\tab}convert between number bases;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.5\tab}find the greatest common factor and least common multiple of a set of numbers;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.6\tab}graph lines in the Rectangular Coordinate System;
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.7\tab}find areas and volumes of geometric figures}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 ; and}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.8\tab}apply counting methods
+\par }\pard\plain \ltrpar\s20\qj \fi-390\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f37\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 2.\tab}}\pard \ltrpar
+\s20\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls10\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\insrsid2822739\charrsid8348589 
+Utilize various problem-solving and critical-thinking techniques to  set up and solve application problems taken from a variety of disciplines:
+\par }\pard \ltrpar\s20\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s20 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 2.1\tab}}\pard \ltrpar
+\s20\qj \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls12\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f37\insrsid2822739\charrsid8348589 
+solve varied real-world applications using problem-solving strategies such as making a table or a chart, looking for a pattern, applying inductive reasoning, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f37\insrsid2822739 and using trial and error}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \i\f37\insrsid2822739\charrsid8348589 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ai\af0\afs22 
+\ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985 \hich\af37\dbch\af0\loch\f37 3.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls10\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985 Communicate accurate mathematical terminology and notation in written and/or oral form in order to explain strategies to solve problems as well as to interpret found solutions:  
+\par }\pard \ltrpar\s19\qj \fi285\li-360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin-360\itap0\pararsid2822739 {\rtlch\fcs1 \ai\af0\afs12 \ltrch\fcs0 \i\f37\fs12\insrsid2822739\charrsid13137985 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985 \hich\af37\dbch\af0\loch\f37 3.1\tab}}\pard \ltrpar
+\s19\qj \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls14\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid13137985 
+write and explain solutions to application problems related to the course material using appropriate mathematical terminology and notation}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\s19\qj \li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid13137985 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 4.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls10\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+Use calculators effectively as a tool to solve such problems as those described above: 
+\par }\pard\plain \ltrpar\qj \fi285\li-360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin-360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\ai\af0\afs12 \ltrch\fcs0 \i\f37\fs12\insrsid2822739\charrsid8348589 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 4.1\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls13\adjustright\rin0\lin720\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid8348589 use a calculator to perform basic arithmetic operations such}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739  as evaluating powers and roots}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\i\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard\plain \ltrpar\s21\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid863946 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid863946\charrsid8348589 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 Methods of Instruction:}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Instruction will con
+sist of a combination of lectures, class discussions, group work, board work, computer lab work, and individual study. }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s21\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \cs35\b\f37\fs22\insrsid6449875 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \cs35\b\f37\fs22\insrsid2822739\charrsid13137985 Outcomes Assessment: }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 T}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985 
+est and exam questions are blueprinted to course objectives.\~ Data is collected and analyzed to determine the level of student performance on these assessment instruments in regards to meeting course objectives.\~
+ The results of this data analysis are used to guide necessary pedagogical and/or curricular revisions.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs18 
+\ltrch\fcs0 \f37\fs18\insrsid2822739\charrsid13137985 
+\par }{\rtlch\fcs1 \af0\afs18 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5774742 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid6449875 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid5774742 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 Course Requirements:}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+All students are required to:}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid863946 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Maintain regular attendance.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs8 \ltrch\fcs0 \f37\fs8\insrsid2822739\charrsid11491310 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 2.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+Complete assigned homework or projects in a timely manner.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs8 \ltrch\fcs0 \f37\fs8\insrsid2822739\charrsid11491310 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 3.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+Take part in class discussions and do problems on the board when required.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs8 \ltrch\fcs0 \f37\fs8\insrsid2822739\charrsid11491310 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 4.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Take all tests and quizzes when scheduled}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 . }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 T}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 hese include a minimum of }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 three}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589  class tests as well as a final exam.}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 
+\ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid13137985  }{\rtlch\fcs1 \af0\afs8 \ltrch\fcs0 \f37\fs8\insrsid2822739\charrsid11491310 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid11491310 \hich\af37\dbch\af0\loch\f37 5.\tab}}\pard\plain \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid11491310 Complete at least one group project and at least one individual project.
+\par }\pard \ltrpar\s19\qj \li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs8 \ltrch\fcs0 \f37\fs8\insrsid2822739\charrsid11491310 
+\par {\listtext\pard\plain\ltrpar \s19 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 6.\tab}}\pard \ltrpar
+\s19\qj \fi-360\li360\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Conduct oral presentations}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 .  T}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 hese include a minimum of one group and/or one individual presentation on research projects.
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid863946 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid863946\charrsid863946 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Methods of Evaluation:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 Final }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 course }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 grades will be computed as follows:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 \tab \tab }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 
+\par \tab \tab \tab     }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739               \tab \tab \tab \tab \tab \tab         }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid5927490 % of 
+\par }\pard \ltrpar\qj \fi-5760\li6480\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin6480\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 Grading Components}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid5927490 \tab       }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739     }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid5927490 final course grade}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\lang1024\langfe1024\noproof\insrsid2822739\charrsid1001833 
+{\shp{\*\shpinst\shpleft60\shptop49\shpright8895\shpbottom49\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1026{\sp{\sn shapeType}{\sv 32}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 19050}}{\sp{\sn cxstyle}{\sv 0}}{\sp{\sn dhgt}{\sv 251657728}}{\sp{\sn fPseudoInline}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dppolyline\dppolycount2\dpptx0\dppty0\dpptx8835\dppty0
+\dpx60\dpy49\dpxsize8835\dpysize0\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinew30\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid5927490 
+
+\par {\pntext\pard\plain\ltrpar \s36 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f3\fs22\insrsid2822739\charrsid16536537 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \ltrpar\s36\qj \fi-360\li720\ri54\widctlpar
+\jclisttab\tx360\jclisttab\tx720\tx6480\tx7200\tx7380\tx7920\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls4\pnrnot0\pnf3\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls4\adjustright\rin54\lin720\itap0\pararsid2822739 \rtlch\fcs1 
+\af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 Homework}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+, quizzes, and class participation\tab \tab      0 \endash  15%}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 
+\par }\pard\plain \ltrpar\s23\qj \li720\ri3406\widctlpar\tx360\tx1440\tx2160\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin3406\lin720\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f37\fs20\insrsid2822739\charrsid2772397 A perusal of homework problems and quizzes and class discu
+ssion will indicate the extent to which students master course objectives. 
+\par }\pard \ltrpar\s23\qj \li720\ri0\widctlpar\tx360\tx1440\tx2160\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid13137985 
+\par {\pntext\pard\plain\ltrpar \s23 \rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f3\fs22\insrsid2822739 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\s23\qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\tx1440\tx2160\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls5\pnrnot0
+\pnf3\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls5\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 3 or more }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid13137985 Tests}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  (dates specified by the instructor)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739     }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 30 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 {\field{\*\fldinst SYMBOL 45 \\f "Symb
+ol" \\s 11}{\fldrslt\f3\fs22}}}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985  60%}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard\plain \ltrpar\s36\qj \li720\ri3406\widctlpar\tx720\tx7920\tx8640\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin3406\lin720\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b0\f37\insrsid2822739\charrsid2772397 Tests will show evidence of the extent to which students meet course objectives, including, but not limited to, 
+identifying and applying concepts, analyzing and solving problems, estimating and interpreting results, and stating appropriate conclusions using correct terminology.
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 
+\ltrch\fcs0 \b\f37\fs12\insrsid2822739\charrsid13137985 
+\par {\pntext\pard\plain\ltrpar \s23 \rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f3\fs22\insrsid2822739\charrsid13137985 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \ltrpar\s23\qj \fi-360\li720\ri0\widctlpar\jclisttab\tx709\wrapdefault{\*\pn 
+\pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls7\adjustright\rin0\lin720\itap0\pararsid5779758 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 Group project(s)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab \tab \tab 
+\tab \tab     }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 20 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 {\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 11}{\fldrslt\f3\fs22}}}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985  25%}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\s23\qj \li720\ri3406\widctlpar\tx360\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin3406\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\f37\fs20\insrsid2822739\charrsid2772397 The group project(s) demonstrate(s) students' ability to work collaboratively on conducting research and presenting math-related topics.  These projects will test preparation for operating in the work place.
+\par }\pard \ltrpar\s23\qj \li360\ri0\widctlpar\tx360\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid13137985 
+
+\par {\pntext\pard\plain\ltrpar \s23 \rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f3\fs22\insrsid2822739\charrsid13137985 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\s23\qj \fi-360\li720\ri0\widctlpar\jclisttab\tx709\wrapdefault{\*\pn 
+\pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls7\adjustright\rin0\lin720\itap0\pararsid5779758 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 
+Individual Project(s)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab \tab \tab \tab \tab     }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid13137985 20 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 {\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 11}{\fldrslt\f3\fs22}}}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid13137985  25%}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13137985 
+\par }\pard \ltrpar\s23\qj \li720\ri3406\widctlpar\tx360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin3406\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f37\fs20\insrsid2822739\charrsid2772397 
+The individual project(s) demonstrate(s) student\rquote s ability to work individually on conducting research and presenting math-related topics.
+\par }\pard \ltrpar\s23\qj \li720\ri0\widctlpar\tx360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid13137985 
+\par {\pntext\pard\plain\ltrpar \s23 \rtlch\fcs1 \af37\afs22 \ltrch\fcs0 \f3\fs22\insrsid2822739\charrsid13137985 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\s23\qj \fi-360\li720\ri0\widctlpar\jclisttab\tx720\tx1440\tx2160\wrapdefault{\*\pn 
+\pnlvlblt\ilvl0\ls6\pnrnot0\pnf3\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 Final Exam}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739     }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid13137985 10 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid13137985 {\field{\*\fldinst SYMBOL 45 \\f "Symbol" \\s 11}{\fldrslt\f3\fs22}}}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid13137985  15%}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\s23\qj \li720\ri3406\widctlpar\tx360\tx1440\tx2160\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin3406\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f37\fs20\insrsid2822739\charrsid2772397 The }{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \b\f37\fs20\insrsid2822739\charrsid2772397 comprehensive }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f37\fs20\insrsid2822739\charrsid2772397 
+final exam will examine the extent to which students have understood and synthesized all course content and achieved all course objectives.
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \scaps\f37\fs22\ul\insrsid2822739\charrsid5927490 Note}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 : T}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 
+he instructor will provide specific weights}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 , which lie in the above-given ranges,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 
+ for each of the grading components at the beginning of the semester}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739 .  Also, see page 7 for suggested topics for group and/or individual research projects.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx0\tx360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8666627 Academic Integrity:}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 
+Dishonesty disrupts the search for truth that is inherent in the learning process and so devalues the purpose and the mission of the College.  Academic dishonesty includes, but is not limited to, the following:
+\par }\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx0\tx576\tx864\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid863946 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f3\fs20\insrsid2822739\charrsid8666627 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar
+\tx0\tx360\jclisttab\tx709\wrapdefault\aspalpha\aspnum\faauto\ls15\adjustright\rin0\lin720\itap0\pararsid5779758 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 plagiarism \endash  the failure to acknowledge another writer
+\rquote s words or ideas or to give proper credit to sources of information;
+\par }\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx0\tx576\tx864\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8666627 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f3\fs20\insrsid2822739\charrsid8666627 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar
+\tx0\tx360\jclisttab\tx709\wrapdefault\aspalpha\aspnum\faauto\ls15\adjustright\rin0\lin720\itap0\pararsid5779758 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 cheating \endash 
+ knowingly obtaining or giving unauthorized information on any test/exam or any other academic assignment;
+\par }\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx0\tx576\tx864\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8666627 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f3\fs20\insrsid2822739\charrsid8666627 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar
+\tx0\tx360\jclisttab\tx709\wrapdefault\aspalpha\aspnum\faauto\ls15\adjustright\rin0\lin720\itap0\pararsid5779758 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 interference \endash  any interruption 
+of the academic process that prevents others from the proper engagement in learning or teaching; and
+\par }\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx0\tx576\tx864\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid8666627 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f3\fs20\insrsid2822739\charrsid8666627 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar
+\tx0\tx360\jclisttab\tx709\wrapdefault\aspalpha\aspnum\faauto\ls15\adjustright\rin0\lin720\itap0\pararsid5779758 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 fraud \endash  any act or instance of willful deceit or trickery.
+
+\par }\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx0\tx360\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 \tab \tab 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8666627 
+Violations of academic integrity will be dealt with by imposing appropriate sanctions.  Sanc
+tions for acts of academic dishonesty could include the resubmission of an assignment, failure of the test/exam, failure in the course, probation, suspension from the College, and even expulsion from the College.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\cf6\insrsid2822739\charrsid8348589 
+\par }\pard\plain \ltrpar\s17\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 
+\ltrch\fcs0 \cs37\fs24\insrsid2822739 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \cs37\insrsid2822739 
+\par }{\rtlch\fcs1 \ab\af1\afs22 \ltrch\fcs0 \cs37\b\f37\fs22\insrsid2822739 Student Code of Conduct: }{\rtlch\fcs1 \ab\af1\afs22 \ltrch\fcs0 \cs37\f37\fs22\insrsid2822739 All students a
+re expected to conduct themselves as responsible and considerate adults who respect the rights of others.  Disruptive behavior will not be tolerated.  All students are also expected to attend and be on time all class meetings.  No cell phones or similar e
+lectronic devices are permitted in class.  Please refer to the Essex County College student handbook, }{\rtlch\fcs1 \ab\af1\afs22 \ltrch\fcs0 \cs37\i\f37\fs22\insrsid2822739\charrsid5519730 Lifeline}{\rtlch\fcs1 \ab\af1\afs22 \ltrch\fcs0 
+\cs37\f37\fs22\insrsid2822739 , for more specific information about the College\rquote s Code of Conduct and attendance requirements.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \cs37\insrsid2822739\charrsid5519730 
+\par }\pard\plain \ltrpar\s17\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\s17\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid863946 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid16536537 Course Content Outline:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490  ba}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 sed on the text }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 Mathematical Ideas}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739\charrsid5927490 ,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid13765406 expanded 11}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\super\insrsid2822739\charrsid13765406 th}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13765406  edition, by }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Miller}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13765406 ,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  Heeren & Hornsby}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid5927490 ; published by }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Addison-Wesley, 2008}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 
+\par }\pard\plain \ltrpar\qj \fi720\li1440\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16536537 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\brdrb\brdrs\brdrw10\brsp20 \wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Class Meeting}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par (80 minutes)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f37\fs22\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\cf6\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 
+Chapter}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 /}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Section\tab 
+\par }\pard \ltrpar\ql \fi720\li1440\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \b\scaps\f37\fs12\insrsid2822739\charrsid14965900 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx720\tx1440\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid13765406 Chapter 1 Introduction and Overview
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx2160\tx2880\tx6840\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1.1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 Solving Problems by }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Inductive & Deductive Reasoning
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1.2\tab An Application of Ind}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 uctive Reasoning\'85Number Patterns
+
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 3}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1.3}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab Strategies for Problem Solving
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\tx2160\tx2880\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 4}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1.4\tab Calculating, Estimating and Reading Graphs}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\qj \fi-2160\li2160\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin2160\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 5}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Read about Journal Writing }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 & }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Discovering}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Patterns in Pascal\rquote 
+s Triangle}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1800\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid16257160 Chapter 2 Basic Concepts of Set Theory
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 6}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.1\tab Symbols and Terminology}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 7\tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.2\tab Venn Diagrams and Subsets}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 8}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.3\tab 
+Set Operations and Cartesian Products}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 9}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.3\tab 
+Set Operations and Cartesian Products (continued)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.4\tab Surveys and Cardinal Numbers}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 0\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.4\tab 
+Surveys and Cardinal Numbers (continued)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2.5\tab Infinite Sets and Their Cardinalities}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 12}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid16257160 Test #1}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160 \tab on Chapters 1 & 2}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab \tab \tab 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid16257160 
+Chapter 4 Mathematical Systems
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 4.1\tab Historical Mathematical Systems}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 4\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 4.2\tab 
+Mathematics in the Hindu Arabic System}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 5}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 4.3\tab Conversion }
+{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 B}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 etween the }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 B}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 ases}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 16}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid5779758  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \endash }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid5779758  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 17}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 \tab 4.4\tab Clock Arithmetic and the Modular Systems}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Read and explore 
+\'93A Perpetual Calendar\'94}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 8}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 4.5\tab 
+Extension:  Logic Problems and Sudoku    
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+Logic Problems and Sudoku Revisited}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx720\tx1620\tx6840\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid7082527 Chapter 5 Number Theory
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 9}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 \tab 5.1}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Prime and Composite Numbers}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 0}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 5.2\tab 
+Selected Topics from Number Theory
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 \tab 5.3\tab Greatest Common Factor and Least Common Multiple
+\par 22}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 5.4\tab The Fibonacci Sequence and the Golden Ratio
+\par 23}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Magic Squares
+
+\par 
+\par 24}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid7082527 Test # 2}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  on Chapters 4 & 5}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid7082527 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid7082527 
+Chapter 8 Graphs}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \scaps\f37\fs22\insrsid2822739\charrsid7082527 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 25}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 8.1\tab Rectangular 
+}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 oordinate }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 S}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 ystems and }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 ircles
+\par 26}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 8.1\tab Rectangular }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 oordinate }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 S}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 ystems and }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 ircles (continued)
+\par \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 8.2\tab Lines, }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 S}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 lopes and }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 A}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 verage }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 R}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 ate of }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 hange 
+\par 27\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 8.2\tab Lines, }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 S}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 lopes and }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 A}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 verage }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 R}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 ate of }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 C}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 hange (continued)
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\brdrb\brdrs\brdrw10\brsp20 \wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Class Meeting}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f37\fs22\insrsid2822739 
+\par (80 minutes)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f37\fs22\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\cf6\insrsid2822739\charrsid16536537 \tab }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 
+Chapter}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 /}{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid16536537 Section\tab 
+\par }\pard \ltrpar\qj \fi720\li1440\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \b\scaps\f37\fs12\insrsid2822739\charrsid14965900 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid208117 Chapter 9 Geometry\tab 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 28}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 9.2\tab 
+Curves, Polygons and Circles}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 29}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 9.3\tab 
+Perimeter, Area, and Circumference 
+\par 30}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 9.4\tab The Geometry of Triangles:  Congruence, Similarity and the Pythagorean }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Theorem
+\par }\pard \ltrpar\qj \fi-1980\li1980\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1980\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 31}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 9.4\tab The Geometry of Triangles:  Congruence, Similarity and the Pythagorean }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 
+\par \tab \tab \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Theorem (continued)
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 9.5\tab Space Figures, Volumes and Surface Areas
+\par 32}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 9.5\tab Space Figures, Volumes and Surface Areas (continued)
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab \tab 
+\par }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab \tab \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\scaps\f37\fs22\insrsid2822739\charrsid208117 Chapter 11 Counting Methods
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 33}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 11.1\tab 
+Counting by Systematic Listing
+\par 34}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 11.2\tab Using the Fundamental Counting Principle
+\par 35\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 11.3\tab Using Permutations and Combinations
+\par 36\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 11.4\tab Using Pascal\rquote s Triangle and the Binomial Theorem 
+\par \tab 
+\par 37\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid6048145 Test #3}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739  }{\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid6048145 on Chapters 8, 9 & 11}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589    
+\par 38}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid5779758  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \endash }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid5779758  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 39\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid6048145 Group Presentations}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab 
+\par 40\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid6048145 Individual Presentations}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589    
+\par 41}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 Review for Fi
+nal Exam}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 42}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 \tab }{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 Comprehensive }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\ulw\insrsid2822739\charrsid5927490 Final Exam }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 
+on all course material covered}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx720\tx1620\tx6120\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid863946 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\cf1\insrsid2822739 \page }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\ul\cf1\insrsid2822739\charrsid863946 MTH 103 \endash  Suggested Topics for Individual and Group Research Projects}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid863946 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2822739 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 1.\tab}}\pard \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls8\pnrnot0
+\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 The life and Work of \'93A Female Mathematician
+\'94 or \'93A Mathematician from Your Culture\'94}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 2.\tab}}\pard \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls8\pnrnot0
+\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Pascal\rquote s Triangle}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 3.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Using Modular Arithmetic to compute dates, times, etc.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 4.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 What Mathematics Means to Me}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 5.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics in Everyday Life}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 6.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics in the Workplace}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 7.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Problem Solving Techniques\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 8.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Euclidean Solids  (Theory and Applications)}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 9.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics in the Family}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 10.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Multicultural Mathematics}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 11.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Creation and Presentation of Mathematical Puzzles}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 12.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 The Golden Ratio}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 13.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 The Origin }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 of Zero
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 14.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Magic Squares}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 15.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 The Fibonacci Sequence}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 16.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 The Four Color Theorem}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 17.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics and Science}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 18.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics and Music}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 19.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Mathematics and Technology }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard\plain \ltrpar\s19\qj \li360\ri0\widctlpar\tx1620\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs12 \ltrch\fcs0 \f37\fs12\insrsid2822739\charrsid6048145 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \hich\af37\dbch\af0\loch\f37 20.\tab}}\pard\plain \ltrpar\qj \fi-360\li360\ri0\widctlpar\jclisttab\tx540\tx1620\wrapdefault{\*\pn 
+\pnlvlbody\ilvl0\ls8\pnrnot0\pndec\pnstart1\pnindent360\pnsp120\pnhang {\pntxta .}}\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin360\itap0\pararsid2822739 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 A Mathematical Topic of Your Choice
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx990\tx1440\tx2160\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \page 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\tx990\tx1440\tx2160\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid10310036 MTH 10}{\rtlch\fcs1 
+\ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739 3}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\ul\insrsid2822739\charrsid10310036  \endash  Suggested Homework Problems}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid10310036 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739\charrsid10310036 
+\par }\pard \ltrpar\qj \fi-630\li630\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin630\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \scaps\f37\fs22\insrsid2822739\charrsid8476039 Text}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid10310036 :}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \b\f37\fs22\insrsid2822739 Mathematical Ideas}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\i\f37\fs22\insrsid2822739\charrsid5927490 ,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \i\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13765406 expanded 11}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\super\insrsid2822739\charrsid13765406 th}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid13765406  edition, by }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Miller}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid13765406 ,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  Heeren & Hornsby}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid5927490 ; published by }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 Addison-Wesley, 2008}{\rtlch\fcs1 \ai\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid10310036 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\ul\insrsid2822739\charrsid10310036 Section\tab \tab Homework page and numbers}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\ul\insrsid2822739 ________________________________________}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\ul\insrsid2822739\charrsid10310036 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx2880\tx6840\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1.1\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 . 7 # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-13,15,17,20,22,27,31,33,41}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 ,43,45}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1.2\tab p}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 .}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 17}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-5,10,11,15,16,2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 0,21-28,29,33,34,35,36,43,45,47}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1.3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 27}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  #}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589  1,2,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+5,8,10,20,24,33,39,50,57,63,69}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\tx2160\tx2880\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 1.4\tab p}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 .}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 38}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 2,4,8,14,16,21,23,25,27,32,37,39}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 ,40,47,49,50,53,54,58,60,61,64}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx720\tx1440\tx6120\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Journal Writing\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 42}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 Activities 1,2,5,6}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx720\tx1620\tx6120\tx8460\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Pascal\rquote s Triangle p. 47 # 1-4
+\par }\pard \ltrpar\ql \fi-1980\li1980\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1980\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160 2.1}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160 
+p. 56 # 2,4,6,8,9,13,16,18,21,24,25,28,29,31,33,35,38,40,41,43,45,46,47,53,56,58,59,60,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160 64,66,69,73, }{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 76,80,83,88,91,94}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid16257160 2.2\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 63}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,3,4,7,9,12,15,18,20,23,26,3}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 0,33,35,37,40,43,46,50,51,53,72}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\ql \fi-1980\li1980\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1980\itap0\pararsid2822739 {\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 2.3\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 75}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-8,12,13,15,16,18,20,21,23,24,29,30,31,32,36,49,50,52,53,54,55,58,59,63,65,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+ 67,70,71-74,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 79,81,83,87,90,92,93,94,96,97,100,102,106,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 107,109,114,117,124, 128,129,132
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 2.4\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 82}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+ # 1,3,5,7,10,11,12,18,19,21,26,30
+\par 2.5\tab p. }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 92}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+1-6,7,8,11,12,16,18,21,24,25,28,29}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 ,31,33,34,37,39,41,43,45,47,49}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.1\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 166}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,3,5,7,9,10,12,15,17,20,2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 1,27,28,31,35,37,39,41,45,47,49}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.2\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 177}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,3,6,9,11,14,15,17,20,21,23,26,27,29,31}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 ,33,35,38,39,41,43,45,47,50,51}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 187}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-19 odd,24,29,31,36,42,43,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 45,47,49,51,53,55,59,61,63,66}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }\pard \ltrpar\ql \fi-1980\li1980\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1980\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.4\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 199}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-7 odd,8,9,10,13,14,15,16,17,18,19,22,25,27,29-35,3}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 9,42,46,47,48,49,53,56, 57,58,61
+
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 Calendar\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 219 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 # 1}{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 4.5\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 141}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,2,5,6,7,9,11}{\rtlch\fcs1 \ab\af0\afs22 \ltrch\fcs0 
+\b\f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 5.1\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 230}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,2,3,6,8,10,11,13,15,19,20,23,27,30,33,34,38,39,43,4}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 8,52,55,59,62,69,71,75, 
+\par \tab \tab \tab 80,81,84
+\par 5.2\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 238}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 ,5,7,9,22,27-30,33,34,36,40,59
+\par 5.3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 247}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # 1-47 odd,51,53
+\par 5.4\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 262}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,3}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 ,7,9,13,15,18,20,25,27,31,34,35
+\par Magic Squares\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 267 }{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 # 1,2,5,11,13,17,22,26,33,36
+\par 8.1\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 438}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,3,4,5,6,7,9,11,12,13,14,18,19,21,24,25,28,2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+9,31,33,35,39,41,43,45,47,50,52, 
+\par \tab \tab \tab 53,58,60,63,65,66,68,69}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 8.2\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 447}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,2,3,6,7,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 9,10,11,13-39 odd, 40,41,43,46,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 47,4}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 9,51,53,55,56,57,59,60,65,67,69}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 9.2\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 545}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # 1-16,19,21,22,23,26,27-53 odd
+\par 9.3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 559}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-8,11,13,15,16,17,19,20,21,23,25,2}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 
+7,31,41-49,52,54,55,59,62,63,68
+\par }\pard \ltrpar\qj \fi-1980\li1980\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin1980\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 9.4\tab }{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 572}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739  # 1-39 odd,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589  41-73 }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 odd, 77,78,81,83,84,86,88,89
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx180\tx1440\tx1980\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2822739 {\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 9.5\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 584}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{
+\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 2,4,5,8-19,21,25,27,37,39,41,42,45-54
+\par 11.1\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 678}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1,10,13,16,17,20,23,24,26,28,29,32,34,36,37,39,40,43,44,45,47,51,54,55,57,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739 59,
+\par \tab \tab \tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 61,62,}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 67}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739 11.2\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 
+\f37\fs22\insrsid2822739\charrsid8348589 689}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 1-7,9,11,13,16,17,22,26,27,29,31,3}{\rtlch\fcs1 \af0\afs22 
+\ltrch\fcs0 \f37\fs22\insrsid2822739 3,35,37-42,47,49,50,55,57,60,61
+\par 11.3\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 702}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # 1-59 odd
+\par 11.4\tab }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 p.}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 710}{\rtlch\fcs1 
+\af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739  # 1-35 odd}{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f37\fs22\insrsid2822739\charrsid8348589 
+\par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
+72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
+2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
+44d7a07a83c82f308ac7b0a0f0fbf90c2480980b58abc733615aa2d210c2e02cb04430076a7ee833dfb6ce62e3ed7e14693e8317d8cd0433bf5c60f53fea2fe7
+065bd80facb647e9e25c7fc421fd2ddb526b2e9373fed4bb902e182e97b7b461e6bfad3f010000ffff0300504b030414000600080000002100a5d6a7e7c00000
+00360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb08
+84a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc
+52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353
+bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468
+656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c
+070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f7
+29e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f7468656d65
+312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87615b8116d8
+a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad79482a9c04
+98f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b5d8a314d3c
+94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab999fb7b471
+7509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9699640f671
+9e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd5868b37a088d1
+e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d60cf03ac1a5
+193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f9e7ef3f2d1
+17d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be15c308d3f2
+8acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a99793849c26ae6
+6252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d32a423279a
+668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2af074481847
+bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86e877f0034e
+16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb44f95d843b
+5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a6409fb44d0
+8741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c3d9058edf2
+c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db02565e85f3b966
+0d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276b9f7dec44b
+7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8c33585b5fb
+9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e51440ca2e0
+088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95b21be5ceaf
+8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff6dce591a26
+ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec69ffb9e65d0
+28d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239b75a5bb1e6
+345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a44959d366ad93
+b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e82db8df9f30
+254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f74
+68656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f24
+51eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198
+720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528
+a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100828abc13fa0000001c0200001300000000000000000000000000
+000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000
+002b0100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000140200007468
+656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b000016000000000000000000
+00000000d10200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b010000270000000000
+00000000000000009b0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000960a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdunhideused0 \lsdlocked0 header;\lsdunhideused0 \lsdlocked0 footer;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdunhideused0 \lsdlocked0 Default Paragraph Font;\lsdunhideused0 \lsdpriority0 \lsdlocked0 Body Text;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdunhideused0 \lsdlocked0 Body Text 2;\lsdunhideused0 \lsdlocked0 Body Text Indent 2;\lsdpriority0 \lsdlocked0 Block Text;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Emphasis;\lsdunhideused0 \lsdlocked0 Normal (Web);\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 No Spacing;\lsdunhideused0 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 Medium Grid 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Light Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Revision;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority72 \lsdlocked0 List Paragraph;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority73 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority60 \lsdlocked0 Intense Quote;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Medium List 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Grid 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Grid 3 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Dark List Accent 1;\lsdunhideused0 \lsdlocked0 Colorful Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 Colorful List Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority65 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority66 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority67 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority68 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority69 \lsdlocked0 Book Title;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority71 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e352e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffffec69d9888b8b3d4c859eaf6cd158be0f0000000000000000000000006021
+c23ca5f3cb01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}

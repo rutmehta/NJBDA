@@ -1,0 +1,613 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP265
+
+
+
+
+
+COURSE NAME
+
+SPREADSHEETS USING EXCEL
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED: Change from 4 credits to 3 credits-
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The course will teach the students all the topics of Microsoft Excel, 
+including developing worksheets, creating charts, coding functions, 
+programming and running macros, creating data tables, integrating Excel with 
+other programs, publishing Excel data on the World Wide Web and writing 
+Visual Basic Code. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+The 12 chapters (units) comprising the course are:
+
+
+
+1: Using Excel to Manage Data
+
+2: Working with Formulas and Functions
+
+3: Developing a Professional-Looking Worksheet
+
+4: Working with Charts and Graphics
+
+5: Working with Excel Lists
+
+6: Working with Multiple Worksheets and Workbooks
+
+7: Working with Excels Editing and Web Tools
+
+8: Developing an Excel Application
+
+9: Data Tables and Scenario Management
+
+10: Using Solver for Complex Problems
+
+11: Importing Data into Excel
+
+12: Enhancing Excel with Visual Basic for Applications
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+New Perspectives on Microsoft Excel 2003, Comprehensive by Roy Ageloff, 
+Patrick Carey, Dan Oja and June Parsons  ISBN 0-619-20665-9 
+
+       
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+GRADE DETERMINANTS
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT 1
+
+NAME OF UNIT:Using Excel to Manage Data
+
+
+
+UNIT OBJECTIVE:The Student will review the basic components of Excel.
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Enter text, numbers, formulas and functions
+
+2. Editing a worksheet
+
+3. Working with worksheets
+
+4. Identify the components of the Excel Window
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 1.
+
+3. Complete assignment LAB-1.
+
+
+
+
+
+UNIT 2
+
+
+
+NAME OF UNIT:Formulas and Functions
+
+
+
+UNIT OBJECTIVE:The Student will create formulas and functions.
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Code formulas 
+
+2. Copy formula using relative and absolute references
+
+3. Use functions to calculate values
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 2.
+
+3. Complete assignment LAB-2.
+
+
+
+
+
+UNIT 3
+
+
+
+NAME OF UNIT:Developing a Professional-Looking Worksheet
+
+
+
+UNIT OBJECTIVE:The Student will learn how to make a worksheet easier to 
+understand by using various formatting techniques. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Format data using various formats
+
+2. Use autoformat
+
+3. Align, wrap, indent and center text within a cell
+
+4. Use styles
+
+5. Format worksheets
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 3.
+
+3. Complete assignment LAB-3.
+
+
+
+
+
+
+
+UNIT 4
+
+
+
+NAME OF UNIT:Creating Charts and Graphics
+
+
+
+UNIT OBJECTIVE:The Student will create a chart and improve a chart 
+appearance. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Identify the elements of the Excel chart
+
+2. Create an embedded chart
+
+3. Modify a chart
+
+4. Update a Chart
+
+5. Use pictures in a chart
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 4.
+
+3. Complete assignment LAB-4.
+
+
+
+
+
+
+
+UNIT 5
+
+
+
+NAME OF UNIT:Working with Excel Lists
+
+
+
+UNIT OBJECTIVE:The Student will learn how to use Excel to manage lists of 
+data. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Sort data in a list
+
+2. Use a data form to search, edit and delete records
+
+3. Filter data in a list by using AutoFilters
+
+4. Apply conditional formatting to a range
+
+5. Use pivot tables for summaries
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 5.
+
+3. Complete assignment LAB-5.
+
+
+
+
+
+UNIT 6
+
+
+
+NAME OF UNIT:Working with Multiple Worksheets and Workbooks
+
+
+
+UNIT OBJECTIVE:The Student will learn how to work with multiple worksheets 
+at the same time and use 3-D cell references to summarize several 
+worksheets. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create worksheet groups
+
+2. Edit multiple worksheets at the same time
+
+3. Consolidate information from multiple worksheets and workbooks
+
+4. Create a workbook template
+
+5. Create a lookup table and use Excels lookup function
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 6.
+
+3. Complete assignment LAB-6.
+
+
+
+
+
+UNIT 7
+
+
+
+NAME OF UNIT:Excel editing and Web Tools.
+
+
+
+UNIT OBJECTIVE:The Student will learn different methods of editing and using 
+Web Tools. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Use Spell check
+
+2. Use Audit Formulas
+
+3. Add Comments
+
+4. Create Shared Worksheets
+
+5. Work with the Web
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 7.
+
+3. Complete assignment LAB-7.
+
+
+
+
+
+
+
+UNIT 8
+
+
+
+NAME OF UNIT:Developing an Excel Application
+
+
+
+UNIT OBJECTIVE:The Student will create a complex worksheet with data 
+validation and use the IF Function. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Assign data validation rules to a cell
+
+2. Plan, record and run Excel macros
+
+3. Protect Worksheets
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 8.
+
+3. Complete assignment LAB-8.
+
+
+
+
+
+UNIT 9
+
+
+
+NAME OF UNIT:Data Tables and Scenario Management
+
+
+
+UNIT OBJECTIVE:The Student will learn about data tables and use one and 
+two-variable data tables. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Use one-variable data tables to perform what-if analysis
+
+2. Use two-variable data tables to perform what-if analysis
+
+3. Create scenarios to perform what-if analysis
+
+4. Create a scenario summary report
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+4. Attend class meetings.
+
+5. Read Chapter 9.
+
+6. Complete assignment LAB-9.
+
+
+
+
+
+UNIT 10
+
+
+
+NAME OF UNIT:Using Solver for Complex Problems
+
+
+
+UNIT OBJECTIVE:The Student will be able to use Excel to find answers to 
+questions by using various features. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Formulate a problem
+
+2. Use goal seek to automate the trial-and-error process
+
+3. Create an answer report
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 10.
+
+3. Complete assignment LAB-10.
+
+
+
+
+
+UNIT 11
+
+
+
+NAME OF UNIT:Importing Data into Excel
+
+
+
+UNIT OBJECTIVE:The Student will learn about database concepts and how to 
+retrieve information from a database. 
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Import data from a text file into an Excel workbook
+
+2. Retrieve data from a database using the Query Wizard
+
+3. Retrieve data into a pivot table
+
+4. Retrieve stock market data from the World Wide Web
+
+5. Use hyperlinks to view information on the World Wide Web
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 11.
+
+3. Complete assignment LAB-11.
+
+
+
+
+
+UNIT 12
+
+
+
+NAME OF UNIT:Coding in Visual Basic
+
+
+
+UNIT OBJECTIVE:The Student will learn how to code with Visual Basic.
+
+
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Write a macro with Visual Basic
+
+2. View macro code with the Visual Basic Editor
+
+3. Learn Visual Basic programming language concepts
+
+4. Customize Toolbars and Menus.
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 12.
+
+3. Complete assignment LAB-12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,653 @@
+5
+
+
+
+IT 104
+
+Computer Repair I
+
+Credits: 4
+
+Pre-Requisites: Completion of EN 098, EN 099 and MA 091, if
+
+required
+
+Revised Syllabi Fall 2002
+
+
+
+Donna Dobie
+
+Department Co-Chair: Business, Computer, and Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description: This course will parallel components covered
+
+on the A certification examined by CompTia. Students will learn
+
+the functions of various components of the PC and basic
+
+replacement of components that have failed. They will also learn
+
+how to configure components such as IDE and SCSI devices and
+
+adapter cards. They will learn the correct procedures for
+
+installing and configuring peripheral devices. They will learn to
+
+troubleshoot and isolate systems problems using standard
+
+troubleshooting techniques. Safety procedures in working with PCs
+
+and maintenance steps will also be stressed.
+
+
+
+Course Objectives:
+
+1.   Students will be able to use and understand computer words
+
+  and identify the structure of hardware.
+
+2.   Students will be able to identify the major hardware
+
+  components that make up a personal computer.
+
+3.   Students will be able to identify common problems and use
+
+  basic troubleshooting procedures to isolate system parts.
+
+4.   Students will be able to understand the structure of an
+
+  operating system and be able to load and configure the Windows
+
+  95/98/2000 operating system.
+
+5.   Students will be able to identify system board parts and
+
+  select appropriate board parts when installing a motherboard.
+
+6.   Students will be able to safely disassemble and correctly
+
+  reassemble the personal computer using procedures that promote
+
+  safety for the technician and computer parts.
+
+
+
+Enabling Objectives:
+
+All Sections: Students will explain and adhere to the safety
+
+procedures specified in every lab. This will always include using
+
+an ESD strap and unplugging the PC from external power whenever
+
+the cover is off the PC or the components are being installed on
+
+the motherboard. Students will always take these important steps
+
+in addition to other component specific steps before proceeding to
+
+work on the PC.
+
+
+
+All Sections: Students will search for products and company
+
+information via the web as needed in the lab assignments. They
+
+will find URLs needed for any given application/specification.
+
+They will use search strings in the product knowledge base to
+
+configure and troubleshoot products (software and hardware), and
+
+use listserv groups to enhance their knowledge of any given
+
+subject. They will be able to locate patches for products and
+
+download and apply the patches. Students will use on-line and
+
+paper manuals to set up and use products. Students will also
+
+search the web via browsers to locate URLs that provide additional
+
+information about products and specifications. Students,
+
+reinforcing and complimenting all assignments inside and outside
+
+the classroom, will regularly seek out the information on the web.
+
+(IL - satisfies the information literacy component for all
+
+courses)
+
+
+
+Part I Microprocessor Fundamentals
+
+1.   Students will define the computer term word and describe
+
+  the three types used.
+
+2.   Students will state common work size and relate the terms
+
+  bit, byte and nibble to the word sizes.
+
+3.   Students will define hardware, software, and firmware.
+
+4.   Students will describe the functions of the four fundamental
+
+  blocks that form a computer.
+
+5.   Students will identify primary and secondary memory.
+
+6.   Students will differentiate between static and dynamic RAM
+
+  and give examples of how each is used.
+
+7.   Students will list the three major buses and describe how
+
+  information is carried by each.
+
+8.   Students will identify the relationship between the size of
+
+  the address bus and individual memory and I/O locations that
+
+  access it.
+
+9.   Students will explain the function of the instruction set.
+
+10.  Students will define the functions of the I/O units.
+
+11.  Students will describe the four common methods of I/O data
+
+  transfer.
+
+12.  Students will explain the function to the ROM BIOS.
+
+13.  Students will explain the function and usage of DOS.
+
+14.  Students will identify the graphical user interface and its
+
+  uses.
+
+15.  Students will identify popular software applications in use
+
+  today.
+
+
+
+Part II PC Hardware
+
+1.   Students will identify the components (power supply, system
+
+  board, system speaker, disk drive unit, and expansion slots) by
+
+  sight.
+
+2.   Students will differentiate between PC case styles and list
+
+  advantages and limitations of each.
+
+3.   Students will state the unique features of a laptop computer.
+
+4.   Students will describe the functions of the power supply.
+
+5.   Students will identify system RAM banks visually and with
+
+  accompanying documentation identify the amount of RAM installed.
+
+6.   Students will identify the different types of RAM modules.
+
+7.   Students will calculate maximum RAM for each type of module.
+
+  (Maximum RAM  maximum RAM per module type x number of banks)
+
+8.   Students will identify common IC package types.
+
+9.   Students will identify PCMCIA devices and their uses.
+
+10.  Students will identify a VGA adapter card.
+
+11.  Students will identify a Multi-I/O card.
+
+12.  Students will identify hard drive types.
+
+13.  Students will identify common external devices.
+
+
+
+Part III Troubleshooting PC Hardware
+
+1.   Students will describe and use a safe and useful workspace.
+
+2.   Students will perform the following functions with a
+
+  multimeter: voltage, resistance, and current checks.
+
+3.   Students will identify common DMM tests that can be used in
+
+  troubleshooting a PC.
+
+4.   Students will perform visual inspections of PCs.
+
+5.   Students will describe the three general categories of
+
+  problems into which symptoms can be grouped and differences
+
+  between each group.
+
+6.   Students will use a disk-based diagnostic tool to isolate
+
+  system problems.
+
+7.   Students will describe the functions of a PSOT card and use
+
+  the card to isolate system problems.
+
+8.   Students will create and use DOS batch files to test selected
+
+  parts of the system.
+
+9.   Students will list the quick checks that can be used to
+
+  determine the nature of hardware problems.
+
+10.  Students will describe the process of FRU-level
+
+  troubleshooting.
+
+11.  Students will describe the steps for isolating power supply
+
+  problems.
+
+12.  Students will describe and use the checks for isolating
+
+  problems in a dead system.
+
+13.  Students will describe additional methods of troubleshooting
+
+  symptoms that are not well defined as well as escape component
+
+  based troubleshooting techniques.
+
+
+
+PART IV the Operating System
+
+1.   Students will describe the two basic types of operating
+
+  systems.
+
+2.   Students will define multi-user, multitasking, and
+
+  multiprocessor operations.
+
+3.   Students will describe the series of electrical events that
+
+  occur when the system power is turned on.
+
+4.   Students will configure system components through CMOS setup.
+
+5.   Students will list the boot-up events as they occur during
+
+  the boot-up process.
+
+6.   Students will describe the basic organization of a DOS disk.
+
+7.   Students will describe the function of the DOS command line
+
+  or prompt.
+
+8.   Students will list the rules for naming DOS files and
+
+  directories.
+
+9.   Students will describe and use methods of bypassing and
+
+  correcting DOS startup sequence problems.
+
+10.  Students will test I/O ports in DOS mode.
+
+11.  Students will describe the different types of DOS memory.
+
+12.  Students will create and use the autoexec.bat and config.sys
+
+   files to optimize performance.
+
+13.  Students will load drives for devices on the system.
+
+14.  Students will list the steps used for troubleshooting DOS
+
+   problems.
+
+15.  Students will install Windows using different setup modes.
+
+16.  Students will list the core files that make up the Windows
+
+  structures.
+
+17.  Students will configure typical Control Panel values.
+
+18.  Students will list the ini files and their functions.
+
+19.  Students will explain multitasking in Windows.
+
+20.  Students will describe security measures that are used in
+
+   multi-user and network systems.
+
+21.  Students will create a boot disk or startup disk for
+
+   troubleshooting Windows problems.
+
+22.  Students will state the major differences between Windows
+
+   versions.
+
+23.  Students will describe the Windows boot sequence.
+
+24.  Students will manipulate the registry in Windows.
+
+25.  Students will configure policies in Windows.
+
+26.  Students will troubleshoot Windows using safe mode.
+
+
+
+PART V Systems Boards
+
+1.   Students will define AT-compatible interrupt and DMA
+
+  addresses.
+
+2.   Students will list the advantages of chip-set-based circuit
+
+  design.
+
+3.   Students will identify various microprocessors by their
+
+  packaging type.
+
+4.   Students will define real, protected, and virtual addressing
+
+modes.
+
+5.   Students will describe the major attributes of todays PC.
+
+6.   Students will describe the internal structure of an IPC IC.
+
+7.   Students will describe the functions of the real-time clock.
+
+8.   Students will describe the functions of the Timer/Counters
+
+   output signals.
+
+9.   Students will list the events of a typical interrupt
+
+operation.
+
+
+
+
+
+10.  Students will identify the conditions under which a NMI will
+
+   occur.
+
+11.  Students will describe the functions of DMA operations and
+
+   the different modes of DMA transfers.
+
+12.  Students will describe static and dynamic RAM devices, and
+
+   state under which conditions each will be used by an application.
+
+13.  Students will describe first and second level cache memory.
+
+14.  Students will list the steps used to troubleshoot system
+
+   board problems.
+
+15.  Students will list the error messages associated with system
+
+   board problems.
+
+16.  Students will list the symptoms associated with system board
+
+   problems.
+
+
+
+PART VI Assembling and disassembling the PC
+
+1.   Students will list the safety features and procedures used
+
+  when opening a PC case.
+
+2.   Students will list the safety features used when removing a
+
+  defective component.
+
+3.   Students will list the safety features used when replacing a
+
+  defective component.
+
+4.   Students will troubleshoot and disassemble a PC.
+
+5.   Students will replace any defective parts and reassemble the
+
+PC.
+
+
+
+Required Text: Andrews, Jean, Ph.D., Enhanced A Guide to Managing
+
+and Maintaining Your PC, Enhanced, Course Technology, a division
+
+of Thomson Learning
+
+                                 
+
+Saxton, Clint, Enhanced A Lab Manual for Guide to Managing and
+
+Maintaining Your PC, Enhanced, Course Technolgy, a division of
+
+Thomson Learning
+
+                                 
+
+CBT and Pocket Guide
+
+
+
+Bundle ISBN 0619072393
+
+
+
+Course Requirements and Means of Evaluation: 50 of the grade is
+
+determined by test grades. Six tests will be given throughout the
+
+semester. 50 of the grade is determined by completed lab
+
+experiments and homework.
+
+
+
+Attendance: Students are expected to attend all scheduled classes.
+
+They are expected to make up all missed work. Students who miss a
+
+class are required to make up its contents (labs, homework, and
+
+tests) within two weeks of the absence. Failure to do so will
+
+result in a 0 for items missed.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others. Specific
+
+procedures are to be adhered to when working with the PC and
+
+equipment. These procedures will be demonstrated by the
+
+instructor, detailed in handouts and procedures, and are an
+
+intricate part of every lab. Should students have any doubts or
+
+questions regarding a procedure, they should ask the instructor
+
+before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the school PCs. It is an illegal act to copy
+
+this software. Students will run the risk of dismissal from the
+
+class and possibly the school if software is copied illegally.
+
+Viruses can be transmitted through various media. Students will
+
+take every precaution when working with the schools software and
+
+hardware, adhering to the procedures for protecting from viruses.
+
+Students will not bring their own software to class, nor will they
+
+install it on any school PC.
+
+
+
+Course Activities: Students will spend half the time in a
+
+lecture/demonstration series by the instructor. The instructor
+
+will use PowerPoint presentations, videos (taped and from the
+
+Internet) and overhead projections from the instructors PC during
+
+that time. The instructor will also use the PC to demonstrate
+
+hands-on processes the students are expected to learn. The other
+
+half of the time the students are expected to reinforce the things
+
+learned in the lecture/demonstration in a supervised instructor
+
+led lab. Student will use the PC to gather information needed to
+
+do the hands-on lab portion. This includes using the Internet to
+
+visit the sites of on-line companies and using all available on-
+
+line resources (knowledge bases, on-line videos, on-line technical
+
+support, and on-line product manuals) to complete labs as
+
+assigned. The PC is also the center of the lab experience, as
+
+students will apply what they have learned via installing and
+
+configuring software and hardware on the personal computer.
+
+
+
+Course Content outline:
+
+I.   Microprocessor Fundamentals
+
+     a.   Computer Words
+
+     b.   Basic Hardware Structures
+
+     c.   input/output
+
+     d.   Software
+
+
+
+II.  PC Hardware
+
+     a.   Power Supply
+
+     b.   System Boards
+
+     c.   Expansion Slots
+
+     d.   Adapter Cards
+
+     e.   Disk Drives
+
+     f.   System Speakers
+
+     g.   Peripherals
+
+     
+
+III. Troubleshooting PC Hardware
+
+     a.   Tools and Work Space
+
+     b.   Troubleshooting Steps
+
+     c.   Software Diagnostics
+
+     d.   Hardware Troubleshooting
+
+
+
+IV.  The Operating System
+
+     a.   Basic input/output
+
+     b.   DOS
+
+     c.   Microsoft Windows
+
+     
+
+V. System Boards
+
+     a.   Microprocessors and support systems
+
+     b.   Memory
+
+     c.   On-Board I/O
+
+     d.   Expansion Slots
+
+     e.   PCMIA Slots
+
+     f.   System Board upgrading
+
+     g.   System Board Troubleshooting
+
+
+
+VI. Assembling and disassembling the PC
+
+       

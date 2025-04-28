@@ -1,0 +1,133 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+SUSSEX COUNTY COMMUNITY COLLEGE
+
+
+
+Master College Syllabus
+
+
+
+COMS239
+
+FUNDAMENTALS OF COMPUTER ARCHITECTURE
+
+
+COURSE 
+
+COURSE TITLE
+
+CLASSIFICATION
+
+
+3
+
+
+
+2
+
+
+
+2
+CREDITS
+
+CLASS HOURS
+
+LAB HOURS
+
+
+RECOMMEND TEXT:
+
+       Title: Essentials of Computer Architecture
+
+       Author: Douglas Comer
+
+       Publisher: Prentice Hall
+
+       Publication Date: 1st  Edition - 2005
+
+       
+
+CATALOG DESCRIPTION
+
+Prerequisite: COMS 114 .  This course is an introduction to computer 
+organization and architecture. The topics covered are the overview of the 
+early Von Neumann model through modern architectural models.  Topics also 
+presented are data representation, digital logic, circuit diagrams, assembly 
+language organization, processors, memory addressing, memory storage, input 
+/ output processing and interfaces. 
+
+
+
+PREREQUISITE:None
+
+
+
+TOPICS TO BE INCLUDED
+
+1. Fundamentals of Digital Logic
+
+2. Data and Program Representation
+
+3. Processors and Computational Engines
+
+4. Processor Types and Instruction Sets
+
+5. Operand Addressing and Instruction Representation
+
+6. CPUs: Microcode, Protection and Processor Modes
+
+7. Assembly Language and Programming Paradigm
+
+8. Memory and Storage
+
+9. Physical Memory and Physical Addressing
+
+10. Virtual Memory Technologies and Addressing
+
+11. Caches and Caching
+
+12. Input / Output Concepts
+
+13. Buses and Bus Architecture
+
+14. Programmed and Interrupt-Driven I/O
+
+15. Parallelism and Pipelining
+
+
+
+COURSE COMPETENCIES/LEARNING OUTCOMES:
+
+In a manner deemed appropriate by the instructor, students should 
+demonstrate the ability: 
+
+Over the course of the semester, the students will develop the following:
+
+1. In-depth knowledge of hardware and software
+
+2. Peripheral devices and their principles of operation
+
+3. Operating system software will be discussed an utilized in the laboratory
+
+4. Organization of operating systems will be understood
+
+5. Flow of information in the operating system with relation to hardware and 
+software 
+
+6. Standards will be identified and discussed
+
+
+
+COMS123
+
+Rev. 6/07 (nc)
+
+COMS123 - Page 2
+
+
+
+
+
+

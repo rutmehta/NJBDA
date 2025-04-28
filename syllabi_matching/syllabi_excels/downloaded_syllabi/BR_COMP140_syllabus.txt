@@ -1,0 +1,497 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP140
+
+
+
+
+
+COURSE NAME
+
+Designing/Developing Web Site
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED--4 credits to 3 credits 
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course will teach students how to build Web sites. Topics to be studied 
+include lists, tables, frames, style sheets, image mapping and animation.  
+Students will learn how to perform customer interaction with forms and 
+special controls. Topics explored are examining Web publication and security 
+issues, and integrating Office documents into Web sites. Current Web-based 
+software tools are used in the course, i.e., Microsoft FrontPage 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+The student will be able to build a Web site using a current software tool 
+Microsoft FrontPage 2003. 
+
+I. Creating a Web site and working with graphics and hyperlinks
+
+II. Using lists, anchors and web site views
+
+III. Using shared borders and themes and creating tables and frames
+
+IV. Publishing a web site and using templates in a web site
+
+V. Integrating a database with a web site and sing layout table and styles
+
+
+
+
+
+GRADE DETERMINANTS
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+ 
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-11
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-11
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.  
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-11. 
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+New Perspectives on Microsoft FrontPage 2003 Comprehensive, by Jessica 
+Evans, Course Technology 
+
+ISBN 0619213787
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT : 1
+
+UNIT NAME:Creating a Web Sites and Working with Graphics and Hyperlinks
+
+
+
+UNIT OBJECTIVE:To be introduced to the interaction of many different 
+components involved in managing a web site and to the essential elements and 
+skills involved in developing and building web sites and web pages. 
+
+
+
+ESTIMATED TIME TO ACHIEVE:2 weeks
+
+
+
+LEARNING EXPERIENCES:
+
+
+
+1. Attend Lecture
+
+2. Read Text:
+
+Tutorial 1, Pages FP 3 - 67
+
+Tutorial 2, Pages FP 69  135
+
+3. Complete Lab Assignments:  The tasks to accomplish:
+
+
+
+Review the World Wide Web, what servers are, and the use of Internet 
+browsers.  Explore existing web pages and web sites on the Internet.  Learn 
+the processes of analyzing, designing and planning web sites. 
+
+Use FrontPage 2003 to lay out the structure of a web site.  Create a web 
+page with some basic components such as headings, backgrounds, images. 
+
+Understand what HTML is and what it is used for.
+
+Learn about HTML, and be able to evaluate new HTML tags like the META tag.  
+Test web page with the browser before closing down a web site. 
+
+
+
+LAB ASSIGNMENTS: 
+
+
+
+Lab Assignment  1 Case Problem  1, 2, 3, or 4  (Student choice)Page FP 58 - 
+65 
+
+Lab Assignment  2 Case Problem  1, 2, 3, or 4  (Student choice)Page FP 127 - 
+134 
+
+
+
+
+
+UNIT : 2
+
+UNIT NAME:Using Lists, Anchors, and Web Site Views
+
+
+
+UNIT OBJECTIVE:To examine internal and external hyper linking in web pages, 
+to begin to use lists, and learn about the inclusion and manipulation of 
+images in web sites. 
+
+
+
+ESTIMATED TIME TO ACHIEVE: 2 weeks
+
+
+
+LEARNING EXPERIENCES:
+
+1. Attend Lecture
+
+2. Read Text:
+
+Tutorial 3, Pages FP 139 - 192
+
+3. Complete Lab Assignment
+
+
+
+LEARNING OBJECTIVES: The tasks to accomplish:
+
+
+
+Learn how to bring web pages and existing files in different formats into a 
+web site.  Examine the types of lists available and include lists on web 
+pages. 
+
+Study external and internal hyperlinks, and how to insert links into web 
+pages.  Understand and test the use of bookmarks and email links, as well as 
+home page links.  Insert images in different formats on a web page and 
+create image hotspot links. 
+
+Manage a web site by using the built in FrontPage component, the tasks list. 
+ Evaluate, view and print new HTML tags. 
+
+
+
+LAB ASSIGNMENTS: 
+
+Lab Assignment  3 Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 186 
+ 192 
+
+ 
+
+
+
+
+
+UNIT :  3
+
+UNIT NAME:  Using Shared Borders and Themes and Creating Tables and Frames
+
+
+
+
+
+UNIT OBJECTIVE:To examine the process of incorporating sophisticated 
+organizational tools like multi-page frames and nested tables into web pages 
+and control navigation in a web site. 
+
+
+
+ESTIMATED TIME TO ACHIEVE:3 weeks
+
+
+
+LEARNING EXPERIENCES:
+
+1. Attend Lecture
+
+2. Read Text:
+
+Tutorial 4, Pages FP 193 - 262
+
+Tutorial 5, Pages FP 265  333
+
+3. Complete Lab Assignments
+
+
+
+LEARNING OBJECTIVES: The tasks to accomplish:
+
+
+
+Understand and manipulate tables as a means of organizing web pages.  Learn 
+how to change table properties, and evaluate HTML tags for tables. 
+
+Understand and manipulate frames and framesets as a way to organize web 
+pages.  Learn how to change frame properties, and change target frames for 
+framesets. 
+
+Evaluate the new HTML code generated for the use of frames.  Examine and 
+manipulate navigational structure and navigation bars in a web site. 
+
+Use shared borders, themes, applet hover buttons, and DHTML components.  
+Modify component and applet properties, and examine scripted HTML code. 
+
+
+
+
+
+LAB ASSIGNMENTS: 
+
+Lab Assignment  4   Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 
+257 - 262 
+
+
+
+Lab Assignment  5  Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 
+327 - 333 
+
+
+
+
+
+
+
+
+
+UNIT : 4
+
+UNIT NAME:Publishing a Web Site and using Templates in a Web Site
+
+
+
+UNIT OBJECTIVE:To examine ways of interacting with customers of web sites 
+using forms and other software component tools, and examine some other web 
+page features like site maps and discussion groups. 
+
+
+
+ESTIMATED TIME TO ACHIEVE:3 weeks
+
+
+
+LEARNING EXPERIENCES:
+
+1. Attend Lecture
+
+2. Read Text:
+
+Tutorial 6, Pages FP 335 - 414
+
+Tutorial 7, Pages FP 419  465
+
+3. Complete Lab Assignments
+
+
+
+LEARNING OBJECTIVES:  The tasks to accomplish:
+
+
+
+Understand the use of forms, and add form fields to a forms web page.  Learn 
+to control form properties, specify a forms handler, and confirm form 
+results. 
+
+Evaluate the extensive HTML code generated by the use of forms.  Understand 
+the use of a server, and publish webs to the personal web server. 
+
+Use components in web pages that only work when the site is published to a 
+server.  Create a site map by using categories and the categories component. 
+
+Learn to establish shared template and site maps.
+
+Create a dynamic Web template.
+
+
+
+
+
+
+
+LAB ASSIGNMENTS: 
+
+Lab Assignment  6  Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 
+402 - 414 
+
+
+
+Lab Assignment  7  Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 
+460 - 465 
+
+
+
+
+
+UNIT : 5
+
+UNIT NAME:Integrating a Database and Office components with a Web Site and 
+using Layout Table and Styles 
+
+
+
+UNIT OBJECTIVE:To examine ways of integrating databases with web sites, 
+manipulating office components in web pages, and making web sites more 
+uniform in appearance by using cascading style sheets. 
+
+
+
+ESTIMATED TIME TO ACHIEVE:4 weeks
+
+
+
+LEARNING EXPERIENCES:
+
+1. Attend Lecture
+
+2. Read Text:
+
+Tutorial 8, Pages FP 467 - 552
+
+Tutorial 9, Pages FP 523  583
+
+3. Complete Lab Assignments
+
+
+
+LEARNING OBJECTIVES: The tasks to accomplish:
+
+
+
+Understand the importance of linking web pages and databases together.  
+Learn to insert database regions in web pages, and to query databases on web 
+pages. 
+
+Use forms to input data into a database, and establish a data access web 
+page.  Examine HTML code that supports database access.  Learn to insert 
+office components, like spreadsheets and charts, into a web page.  Create a 
+cascading style sheet, and link it to other web pages that will use these 
+styles. 
+
+Evaluate HTML code for style sheets and learn to modify default HTML styles. 
+ Examine and manipulate web pages directly in HTML mode by using HTML page 
+view. 
+
+
+
+
+
+LAB ASSIGNMENTS: 
+
+Lab Assignment  8 Case Problem  1, 2, 3, or 4  (Student choice) Page FP 515 
+- 521 
+
+
+
+Lab Assignment  9 Case Problem  1, 2, 3, or 4  (Student choice)  Page FP 583 
+- 589 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

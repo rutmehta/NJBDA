@@ -1,0 +1,213 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE OUTLINE
+Course NumberCourse TitleCredits       IST 263                    Database Adminstration 1                 4Hours: lecture/Lab/Other 3/2
+Co- or Pre-requisite
+IST 262  Implementation 
+Fall /2010Catalog description (2006-2009 Catalog): [Note: All revisions to the course description in the catalog require the submission of a memo to the Curriculum Committee.]
+Database Administration 1teaches Oracle Database software installation, new database creation and administration. Students will configure the database to support an application; create users; define storage structures; set up security; design a backup and recovery strategy; and monitor the database to ensure that it operates smoothly. 
+Is course New, Revised, or Modified? [Modified courses are those which have a new prefix or course number]
+NewRequired texts/other materials:
+Textbook:  Database Adminstration 1 Packages from Oracle Corporation.
+
+
+Revision date:  
+September 30, 2009Course coordinator:   (Name, telephone number, email address
+Assistant Professor Queen E. Okike 
+(609) 570-3464 or Ext. 3464
+okikeq@mccc.edu
+Information resources: (Describe the primary information resources that support the course, including books, videos, journals, electronic databases, websites, etc. To request new materials for your course, use the library request form at: www.mccc.edu/student_library_course_form.shtml), 
+
+The request form was completed on September 30, 2009.
+
+
+
+
+Other learning resources:  (Describe any other student learning resources that are specific to this course, including any special tutoring or study group support, learning system software, etc.)
+
+None
+Course Competencies/Goals
+The student will be able to:
+1. Explain the Oracle Database Architecture and demonstrate normalization in an Oracle relational database.
+2. Prepare the Database Environment and  manipulate .data
+3. Create an Oracle Database and manage the Oracle Instance
+4. Configure the Oracle Network Environment and manage database storage structures.
+5. Manage Schema Objects, data and concurrency
+6. Manage undo data.
+7. Implement Oracle database security.
+8. Carry out database maintenance and Performance Management Intelligent Infrastructure Enhancements.
+
+9. Describe backup and recovery Concepts.
+10. Perform database backups, database recovery, and move Data.
+Course-specific General Education Knowledge Goals and Core Skills. [
+General Education Knowledge Goals
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals..
+
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal C. Ethical Decision-Making. Students will recognize, analyze and assess ethical issues and situations.
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+Goal F. Collaboration and Cooperation. Students will develop the interpersonal skills required for effective performance in group situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Content Details. 
+
+Unit I	Explore the Oracle Database Architecture and Environment.
+
+Learning Objectives 
+The student will be able to:
+* Explain the Memory Structures  (Course Competencies 1, 2; General Education Goals 1, 2, 4; 
+Core Skills A, B, D, E, F.)* Describe the Process Structures (Course Competencies 1, 2; General Education Goals 1, 2, 4;
+ Core Skills A, B, D, E, F.)* Describe Overview of Storage Structures (Course Competencies 1, 2; General Education Goals
+ 1, 2, 4; Core Skills A, B, D, E, F.)*   Prepare the Database Environment (Course Competencies 1, 2; General Education Goals  1, 2, 4;
+ Core Skills A, B, D, E, F.)                                                                                                                                     * Plan an Oracle Database installation (Course Competencies 1, 2; General Education Goals 1, 2, 4;
+ Core Skills A, B, D, E, F.)* Install the Oracle software by using Oracle Universal Installer (OUI) (Course Competencies 1, 2; 
+      General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)
+Unit 2	Create an Oracle Database and manage the Oracle Instance.
+Learning Objectives 
+The student will be able to:
+* Create a database by using the Database Configuration Assistant (DBCA) ;creating an Oracle Database (Course Competencies 1, 3, 4; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)*    Manage the Oracle Instance (Course Competencies 1, 3, 4; General Education   Goals 1, 2, 4; 
+  Core   Skills A, B, D, E, F.)                 *   Set database initialization parameters (Course Competencies 1, 3, 4; General Education Goals 1, 2, 4; 
+Core Skills A, B, D, E, F.)                                                                                                           * Describe the stages of database startup and shutdown (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)                                                                                          * Use alert log and trace files (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)                                                                                                                                                                  *  Use data dictionary and dynamic performance views (Course Competencies 1, 2; General Education 
+Goals 1, 2, 4; Core Skills A, B, D, E, F.)                                                                             
+Unit 3	Configure the Oracle Network Environment and Manage Database Storage Structures.
+Learning Objectives 
+The student will be able to:
+* Configure and Manage the Oracle Network (Course Competencies 1, 3, 4; General Education 
+  Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Using the Oracle Shared Server architecture (Course Competencies 1, 3, 4; General Education  
+ Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Manage  Database Storage Structures (Course Competencies 1, 3, 4; General Education 
+  Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Overview of tablespace and datafiles views (Course Competencies 1, 2; General Education Goals
+ 1, 2, 4; Core Skills A, B, D, E, F.)* Create and manage tablespaces (Course Competencies 1, 3, 4; General Education   Goals 1, 2, 4
+ Core Skills A, B, D, E, F.) 
+Unit 4	Administer Oracle Database Security.
+Learning Objectives 
+The student will be able to:                                                                                                      * Create and manage database user accounts  (Course Competencies 1, 3, 4; General Education   
+Goals 1, 2, 4  Core Skills A, B, D, E, F.)* Grant and revoke privileges (Course Competencies 1, 2; General Education Goals
+       1, 2, 4; Core Skills A, B, D, E, F.)  * Create and manage roles (Course Competencies 1, 3, 4; General Education   
+            Goals 1, 2, 4  Core Skills A, B, D, E, F.)  * Create and manage profiles (Course Competencies 1, 3, 4; General Education   
+      Goals 1, 2, 4  Core Skills A, B, D, E, F.)
+         Unit 5	Manage Schema Objects, Data and Concurrency.
+Learning Objectives 
+The student will be able to* Create and Modify tables (Course Competencies 1, 3, 4; General Education   
+Goals 1, 2, 4  Core Skills A, B, D, E, F.)* Manage Constraints (Course Competencies 1, 3, 4; General Education 
+ Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Create indexes (Course Competencies 1, 3, 4; General Education 
+           Goals 1, 2, 4; Core   Skills A, B, D, E, F.)*   Create and use temporary tables (Course Competencies 1, 3, 4; General Education 
+           Goals 1, 2, 4; Core   Skills A, B, D, E, F.)*    Manage Data and Concurrency (Course Competencies 1, 3, 4; General Education 
+               Goals 1, 2, 4; Core   Skills A, B, D, E, F.)*   Manage data using DML (Course Competencies 1, 3, 4; General Education 
+           Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Identify and administer PL/SQL objects (Course Competencies 1, 2; General Education Goals
+           1, 2, 4; Core Skills A, B, D, E, F.)* Monitor and resolve locking conflicts (Course Competencies 1, 2; General Education Goals
+         1, 2, 4; Core Skills A, B, D, E, F.)
+Unit 6	Manage Undo Data.
+Learning Objectives 
+The student will be able to
+* Explain overview of undo data (Course Competencies 1, 2; General Education Goals
+           1, 2, 4; Core Skills A, B, D, E, F.)* Manage undo data (Course Competencies 1, 3, 4; General Education 
+           Goals 1, 2, 4; Core   Skills A, B, D, E, F.)*   Implement Oracle Database Security (Course Competencies 1, 3, 4; General Education 
+              Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Describe Database Security and Principle of Least Privilege (Course Competencies 1, 3, 4; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)* Work with Standard Database Auditing  (Course Competencies 1, 3, 4; General Education 
+           Goals 1, 2, 4; Core  Skills A, B, D, E, F.)*    Database Maintenance (Course Competencies 1, 3, 4; General Education 
+               Goals 1, 2, 4; Core   Skills A, B, D, E, F.)* Use and manage optimizer statistics (Course Competencies 1, 2; General Education Goals
+           1, 2, 4; Core Skills A, B, D, E, F.)* Use and manage Automatic Workload Repository (AWR) (Course Competencies 1, 2; General Education Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Use advisory framework (Course Competencies 1, 2; General Education Goals
+         1, 2, 4; Core Skills A, B, D, E, F.)* Manage Alerts and Thresholds (Course Competencies 1, 2; General Education Goals
+         1, 2, 4; Core Skills A, B, D, E, F.)
+Unit  7	Maintain Database and Perform Management Intelligent Infrastructure  Enhancements.
+Learning Objectives 
+The student will be able to
+* Use Automatic Memory Management (Course Competencies 1, 2; General Education Goals 
+ 1, 2, 4; Core Skills A, B, D, E, F.)*  Use Memory Advisors (Course Competencies 1, 2; General Education Goals  1, 2, 4; 
+Core Skills A, B, D, E, F.)* Troubleshoot invalid and unusable objects (Course Competencies 1, 2; General Education 
+Goals  1, 2, 4; Core Skills A, B, D, E, F.)*     Describe Intelligent Infrastructure Enhancements (Course Competencies 1, 2; General Education 
+                Goals  1, 2, 4; Core Skills A, B, D, E, F.)*    Use the Enterprise Manager Support Workbench (Course Competencies 1, 2; General Education 
+           Goals  1, 2, 4; Core Skills A, B, D, E, F.) * Manage Patches (Course Competencies 1, 2; General Education Goals  1, 2, 4; Core Skills 
+A, B, D, E, F.)
+Unit  8	 Backup and Recovery Concepts.
+Learning Objectives 
+The student will be able to
+* Identify the types of failure that can occur in an Oracle database (Course Competencies 1, 2; General Education Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Describe ways to tune instance recovery (Course Competencies 1, 2; General Education 
+           Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Identify the importance of checkpoints, redo log files, and archived log files (Course Competencies 1, 2; General Education  Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Overview of flash recovery area (Course Competencies 1, 2; General Education 
+           Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Configure ARCHIVELOG mode (Course Competencies 1, 2; General Education 
+           Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Performing Database Backups (Course Competencies 1, 2; General Education 
+          Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Create consistent database backups (Course Competencies 1, 2; General Education 
+         Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Back up your database without shutting it down (Course Competencies 1, 2; General Education  Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Create incremental backups (Course Competencies 1, 2; General Education  Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Automate database backups (Course Competencies 1, 2; General Education  Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Manage backups, view backup reports and monitor the flash recovery area (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)
+Unit  9	Perform Backup,  Recovery and Data Movement.
+Learning Objectives 
+The student will be able to
+* Overview of Data Recovery Advisor (Course Competencies 1, 2; General Education  Goals  1, 2, 4; Core Skills A, B, D, E, F.)* Use Data Recovery Advisor to Perform recovery (Control file, Redo log file and Data file) (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)* Describe and use methods to move data (Directory objects, SQL*Loader, External Tables) (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)* Use Data Pump Export and Import to move data between Oracle databases (Course Competencies 1, 2; General Education Goals 1, 2, 4; Core Skills A, B, D, E, F.)	
+
+
+
+
+Evaluation of Student Learning
+Average of weekly homework assignments				 50%
+Four Units of Tests:
+	Unit 1	& 3								10%
+	Unit 4 & 5								10%
+	Unit 6 & 7								10%
+	Unit 8 & 9								10%
+Final Examination								10%
+
+Total	 	 						                   	   100% 
+
+Structure of Evaluation:
+
+1. Hands-on laboratory assignments.
+2. Multiple choice Unit tests.
+3. Hand-on unit tests.
+
+
+
+
+
+
+Grade Policy
+
+
+Grade
+Definition
+Nominal
+%
+QPA
+quality point valueASuperior Achievement93-1004A-90-923.7B+87-893.4BAbove Average Achievement83-863B-80-822.7C+77-792.4C Average Achievement70-762DMinimally Passing60-691FAcademic Failure0-590XAudit — no evaluationN/AWWithdrawal (Student-initiated)N/AWIWithdrawal (Instructor-initiated)N/AWAWithdrawal (Administration-initiated)N/ANNo grade reported by the instructorN/AIIncomplete — no credit earnedN/A
+
+Audit:
+If you audit the course, you will receive an “X” grade—this cannot be changed to
+a letter grade at a later date.
+
+Withdrawal Course Requirements:
+To receive a W grade for any course, a student must consult with the course
+instructor or an appropriate division representative and then withdraw officially
+before two-thirds of the course has been completed by submitting a withdrawal
+form to the Office of Student Records. Withdrawal after this point results in a
+grade other than W (usually F). At any time before two-thirds of the course has
+been completed, the instructor may also withdraw with a W grade any student
+who has been absent excessively. A student thus withdrawn will not be entitled
+to any refund of tuition or fees. The student may appeal this action.
+
+
+Academic Integrity Statement:  [Include a statement affirming the college’s Academic Integrity policy and any specific implications for the course.  See http://mlink.mccc.edu/omb/OMB210.pdf] 
+
+
+            LIBERAL ARTS DIVISION                               HY 101 - page    
+
+			
+
+
+		
+
+MCCC Course Outline; Approved by the Curriculum Committee 12/6/07
+

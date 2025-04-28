@@ -1,0 +1,305 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP271
+
+
+
+COURSE NAME
+
+Programming II
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP126, COMP171
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course continues the development of problem solving, logical thinking 
+and object oriented programming techniques using JAVA.  Topics and 
+techniques covered include design features from objects, classes and objects 
+as encapsulation tools, inheritance and hierarchies among classes, 
+polymorphism, exception handling and GUI/event driven programming. 
+Assignments give students hands-on experience to design, write, test, debug 
+and edit their program code using an integrated development environment. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Classes, Objects and Object Oriented Concepts
+
+a. Understand object oriented concepts, terminology and the object oriented 
+approach to program development. 
+
+b. Review UML notation to describe classes and objects.
+
+c. Learn how to specify classes, members and objects in JAVA.
+
+d. Understand the difference between instance and static variables/methods.
+
+
+
+II. Abstract Classes and Interfaces 
+
+a. Design and use subclass from a superclass.
+
+b. Understand the distinction between overriding and overloading.
+
+c. Understand polymorphism, dynamic binding, and generic programming.
+
+d. Use inheritance in GUI.
+
+e. Design and use abstract classes.
+
+
+
+III. GUI and Event Programming
+
+a. Create user interfaces using frames, panels and simple GUI components.
+
+b. Differentiate between various layout managers
+
+c. Use the drawing methods of the Graphics class.
+
+d. Explain the concept of event-driven programming.
+
+e. Understand how an event is handled.
+
+f. Declare and register listener classes to handle events.
+
+
+
+IV. User Interfaces 
+
+a. Create graphical user interfaces using various components-buttons, check 
+boxes, radio buttons, labels, text fields, list boxes and scrollbars. 
+
+b. Display multiple windows in and application
+
+c. Explain how the browser controls and executes applets.
+
+d. Develop swing applets
+
+e. Design and write programs that can run as applications and applets.
+
+f. Display images and use animation.
+
+
+
+V. Exception Handling and I/O
+
+a. Understand the concept of error handling and its implementation in object 
+oriented systems. 
+
+b. Learn about tools for exception handling, i.e. try, throw and catch.
+
+c. Understand the JAVA exception hierarchy.
+
+d. Discover file properties
+
+e. Distinguish between text, binary and object I/O.
+
+f. Read and write primitive values and strings using various classes.
+
+
+
+VI. Threads
+
+a. Understand the concept of multithreading and apply it to develop 
+concurrent programs. 
+
+b. Understand how to create, manage and destroy threads.
+
+c. Study several examples of thread synchronization.
+
+d. Control animation using threads.
+
+
+
+VII. Menus and Toolbars 
+
+a. Create and manipulate menus, popup menus and windows.
+
+b. Create standard dialog (JOptionPane) and custom dialog (JDialog).
+
+c. Use JFileChooser for opening and saving files.
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Introduction to JAVA Programming, Sixth Edition, Y. Daniel Liang, Pearson 
+Prentice Hall 2006, ISBN:  0-13-222158-6 
+
+Storage: A portable secondary storage media (i.e., floppy disk, memory 
+stick, zip disk) 
+
+Software: Java available as a free download from http://java.sun.com
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. The final grade requirements for the course will 
+be: 
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-10
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-10. 
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+Students will be allowed to take each test only one time.  Labs are to be 
+submitted on a timely basis. There will be at least two Program Assignments 
+after each unit. 
+
+
+
+
+
+SCHEDULE OF TOPICS(Labs) TO BE COVERED
+
+Lab 1-Chapter 7  Integer
+
+Lab 2-Chapter 7  Point
+
+Lab 3-Chapter 9-Triangle or Account
+
+Lab 4-Chapter 10-Circle or Compare
+
+Lab 5-Chapter 12-Layout Managers
+
+Lab 6-Chapter 14-Events
+
+Lab 7-Chapter 15-Miles/Kilometers Converter
+
+Lab 8-Chapter 15-Colors
+
+Lab 9-Chapter 16-Applets and Applications
+
+Lab 10-Chapter 17-Exception Handling
+
+Lab 11-Chapter 18-Binary I/O
+
+Lab 12-Chapter 24-Threads
+
+Lab 13-Chapter 29-Menus
+
+Lab 14-Chapter 15-Pizza
+
+Lab 15-Chapter 16-Displaying Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+

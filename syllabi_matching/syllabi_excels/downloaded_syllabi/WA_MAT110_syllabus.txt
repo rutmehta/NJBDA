@@ -1,0 +1,157 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MAT 110
+
+Topics of Mathematics
+
+Credits:  3
+
+Prerequisites:  MAT 051 or appropriate placement test score
+
+Fall 2008
+
+
+
+Lisa Troy
+
+Instructor of Mathematics
+
+troywarren.edu
+
+
+
+This is a survey course that satisfies the mathematics requirement for only 
+certain 
+
+programs.  Topics include:  problem solving, logic, numeration systems and 
+number theory, 
+
+geometry, combinatorics and probability, and apportionment and voting.
+
+
+
+Course Objectives:  Upon successful completion of the course, the student 
+will be able 
+
+to:
+
+
+
+Knowledge:
+
+1.Solve problems using inductive reasoning, deductive reasoning, patterns, 
+and 
+
+strategies.
+
+2.Analyze the validity of arguments using logic.
+
+3.Calculate conversions between various number systems, including different 
+bases. 
+
+4.Categorize basic Euclidean geometric figures.
+
+5.Integrate elementary probability concepts to real life.
+
+6.Examine the social importance/implications of citizenship at the 
+government and 
+
+individual levels.
+
+
+
+Performance:
+
+1.Demonstrate effective written and oral skills.
+
+2.Demonstrate comprehension of the topics covered in the course.
+
+
+
+Affective:
+
+1.Demonstrate professional behavior through completion of assignments by 
+written 
+
+deadline, by being punctual to class, and through consistent attendance in 
+class. 
+
+2.Demonstrate a professional attitude as expected in the workplace.
+
+
+
+Text:
+
+Clegg , Mathematical Excursions. Aufmann, Lockwood, Nation, 2nd Edition, 
+2007. 
+
+
+
+Grade Determinants:
+
+1.Tests Average-50
+
+2.Quiz Average-10
+
+3.Final Exam-20
+
+4.Class Attendance/Class Participation-20
+
+
+
+
+
+Course Topics:
+
+Course Introduction Inductive/Deductive Reasoning
+
+Patterns
+
+Strategies
+
+Logic Statements
+
+Truth Tables
+
+Conditional
+
+Conditional
+
+Arguments 
+
+Euler Diagrams
+
+Early Numeration Systems
+
+Place-Value
+
+Different Bases
+
+Prime Numbers
+
+Basic Concepts of Euclidean Geometry
+
+Perimeter and Area
+
+Triangles
+
+Volume and Surface Area
+
+Counting Principle
+
+Permutations/Combinations
+
+Probability/Odds
+
+Addition/Complement Rules
+
+Conditional Probability
+
+Expectation
+
+Apportionment
+
+Voting
+
+Weighted Voting Systems

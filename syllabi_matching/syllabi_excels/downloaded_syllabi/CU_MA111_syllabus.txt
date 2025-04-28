@@ -1,0 +1,130 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  MA 111  Discrete Mathematics
+
+
+
+Credits:  4 
+
+
+
+Prerequisites  
+
+MA 110 or permission from the instructor.
+
+
+
+Description  
+
+      Discrete Mathematics is designed to meet the needs not only of 
+students majoring in computer science but of wider audience, especially 
+students in mathematics and science. The course provides tools for formal 
+reasoning as well as providing an early look at the connections between 
+mathematics and computer science and the applications they generate. Topics 
+include counting rules, prepositional and first-order logic, set theory, 
+functions (with an emphasis on recursive functions), basic equivalence 
+relations, algorithms, proofs, graphs and trees. An introduction to Boolean 
+algebra and switching circuits is included. 
+
+
+
+Learning Outcomes
+
+At the completion of this course, students should be able to:
+
+ Develop logic and problem solving skills through exposure to and 
+constructing many different forms of proof and/or arguments 
+
+ Develop an understanding of sets, relations, and functions
+
+ Develop, perform and/or investigate an algorithm
+
+ Develop strong computational skills for typical counting problems
+
+ Evaluate and find the closed form for simple recurrence relations
+
+ Develop an understanding of graph theory
+
+ Develop an understanding of trees and their connection with search or 
+sorting algorithms 
+
+ Develop an understanding of Boolean Algebra and Combinatorial Circuits.
+
+
+
+Topical Outline
+
+ Prepositional  Predicate Logic
+
+ Mathematical systems, proof and induction
+
+ Sets, Sequences, Strings, Number Systems, Relations
+
+ Equivalence Relations, Functions, Intro to Algorithms
+
+ Notation for Algorithms and an example (Euclidean)
+
+ Recursive Algorithms and Intro to Complexity
+
+ Basic Counting methods and Mult / Add principles
+
+ Binomial Coefficients and the pigeonhole principle
+
+ Recurrence Relations
+
+ Solving Rec. Rel., Analy of Algor by Worse/Average Case
+
+ Basic Graph theory, cycles and paths
+
+ Intro to Tree terminology and spanning trees
+
+ Binary Trees, Decision trees Boolean Algebra, Combinatorial Circuits
+
+ Synthesis of circuits, minimization problem and apps
+
+
+
+Texts
+
+Discrete Mathematics by Johnsonbaugh 6th edition: Prentice Hall.
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

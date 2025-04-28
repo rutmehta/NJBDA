@@ -1,0 +1,107 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+SUSSEX COUNTY COMMUNITY COLLEGE
+
+
+
+Master College Syllabus
+
+
+
+MATH201
+
+DISCRETE MATHEMATICS
+
+
+COURSE 
+
+COURSE TITLE
+
+CLASSIFICATION
+
+
+4
+
+4
+
+0
+CREDITS
+
+CLASS HOURS
+
+LAB HOURS
+
+
+RECOMMENDED TEXTS:
+
+Title:Discrete Mathematics and Its Applications
+
+Author:Kenneth Rosen
+
+Publisher:McGrawHill.
+
+Publication Date:6th edition
+
+
+
+CATALOG DESCRIPTION
+
+This course provides an introduction to discrete mathematics. and its 
+applications.  Topics include elementary set theory, logic, combinatorics, 
+relations, graphs and trees, functions and number theory. 
+
+
+
+PREREQUISITE:MATH113
+
+
+
+TOPICS TO BE INCLUDED:
+
+1. Elementary Set Theory
+
+2. Logic
+
+3. Functions
+
+4. Number Theory
+
+5. Combinatorics
+
+6. Relations
+
+7. Graphs and Tress
+
+
+
+COURSE COMPETENCIES/LEARNING OUTCOMES
+
+In a manner deemed appropriate by the instructor, students should 
+demonstrate the ability: 
+
+1.To understand elementary set theory and its applications
+
+2.To develop a basic understanding of mathematical logic
+
+3.To understand mathematical induction as a method of proof
+
+4.To understand functions and their applications
+
+5.To develop a basic understanding of number theory and its applications
+
+6.To understand permutations and combinations and their applications
+
+7.To understand relations and their applications
+
+8. To understand graphs and trees and their applications
+
+ 
+
+
+
+MATH215
+
+Rev.  4/07  (nc)
+
+MATH215 -- Page 2

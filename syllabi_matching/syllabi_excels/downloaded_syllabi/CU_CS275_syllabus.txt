@@ -1,0 +1,169 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 275  Core Server Operating System
+
+
+
+Credits: 4
+
+
+
+Co-requisites 
+
+      CS 170
+
+      
+
+Description 
+
+      Prepares the student to install and configure Windows 2003 Server to 
+create file, print, Web, and Terminal servers. Through hands-on lab 
+instruction, students will learn about installation, access to resources, 
+managing and troubleshooting hardware devices and drivers, network 
+protocols, and security. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Manage basic disks and dynamic disks
+
+ Monitor server hardware.  Tools might include Device Manager, the Hardware 
+Troubleshooting Wizard, and appropriate Control Panel items 
+
+ Optimize server disk performance
+
+ Troubleshoot server hardware devices
+
+ Install and configure server hardware devices
+
+ Manage local, roaming, and mandatory user profiles
+
+ Create and manage computer accounts in an Active Directory environment
+
+ Create and manage groups
+
+ Create and manage user accounts
+
+ Troubleshoot computer accounts
+
+ Troubleshoot user accounts
+
+ Troubleshoot user authentication issues
+
+ Configure access to shared folders
+
+ Troubleshoot Terminal Services
+
+ Configure file system permissions
+
+ Troubleshoot access to files and shared folders
+
+ Monitor and analyze events.  Tools might include Event Viewer and System 
+Monitor 
+
+ Manage software update infrastructure
+
+ Manage software site licensing
+
+ Manage servers remotely
+
+ Troubleshoot print queues
+
+ Monitor system performance
+
+ Monitor file and print servers.  Tools might include Task Manager, Event 
+Viewer, and System Monitor 
+
+ Monitor and optimize a server environment for application performance
+
+ Manage a Web server
+
+ Perform system recovery for a server
+
+ Manage backup procedures
+
+ Recover from server hardware failure
+
+ Restore backup data
+
+ Schedule backup jobs.
+
+
+
+Topical Outline
+
+ Introduction to Windows Server 2003
+
+ Managing Hardware Devices
+
+ Creating and Managing User Accounts
+
+ Implementing and Managing Group and Computer Accounts
+
+ Managing File Access
+
+ Managing Disks and Data Storage
+
+ Advanced File System Management 
+
+ Implementing and Managing Printers
+
+ Implementing and Using Group Policy
+
+ Server Administration
+
+ Monitoring Server Performance
+
+ Managing and Implementing Backups and Disaster Recovery
+
+ Administering Web Resources
+
+ Windows Server 2003 Security Features
+
+
+
+Texts
+
+      MCSE Guide to Managing a Microsoft Windows Server 2003 byMcCann, 
+DiNicolo, Enhanced: Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

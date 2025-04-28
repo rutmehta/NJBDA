@@ -1,0 +1,117 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CIS270
+
+Programming for Scientific Applications
+
+3 Credits
+
+Prerequisite: MAT180
+
+New Course
+
+Fall 2004
+
+Prof. Sandra Silverberg, Department Head, 201.612-5334
+
+ssilverbergbergen.edu
+
+Programming for Scientific Applications is a computer programming language 
+course with emphasis on mathematical, scientific, and engineering 
+applications using structured programming principles. Topics include data 
+types      specifications, fixed and floating point arithmetic, input and 
+output techniques, multi-dimensional arrays, external functions and 
+subroutines. 
+
+
+
+OBJECTIVES:
+
+This course has been designed to introduce students to:
+
+1. The fundamental concepts of digit computer systems.
+
+2. Modern techniques for problem solving and algorithm designs.
+
+3. Applications of these techniques to mathematics, science, and 
+engineering. 
+
+
+
+STUDENT OUTCOMES:
+
+Upon completion of this course, the student will:
+
+1. Have knowledge of the following data types: integer, real numbers, 
+complex numbers, character strings and logical data 
+
+2. be familiar with the fundamental binary operations of the above data 
+categories 
+
+3. be able write statements to handle inputs of any form
+
+4. be able write statements to display output in any layout
+
+5. be able to write program segments using standard decision and loop 
+structures of the computer language 
+
+6. be able to use one and multi-dimensional arrays to handle mathematical 
+series and matrix operations 
+
+7. be able to write a function subprogram as well as a subroutine subprogram
+
+8. be able to write a complete computer program to solve a simple 
+mathematical scientific problem using the above mentioned techniques. 
+
+
+
+GRADE DETERMINANTS:
+
+Student will be evaluated using a variety of methods which may include, but 
+not be limited to, some or all of the following: 
+
+ quizzes, exams, programming assignments, and term projects
+
+
+
+TEXTBOOKS:
+
+Learn Visual Basic 6.0 Now (with CD-ROM), Michael Halvorson, Microsoft 
+Press. 
+
+      ISBN 0-7356-0729-x
+
+
+
+COURSE CONTENT:
+
+1. Language: Data types Constants and variables Binary operations of         
+    numerical data input methods and display of output data. Application: 
+Evaluation of algebraic expressions and formula. 
+
+2. Language: Conversions of data types Built-in functions of the computer 
+language trigonometric functions. Application: Resolution of vectors into 
+components addition and subtraction of vector quantities. 
+
+3. Language: Conditional and un-conditional branching structured programming 
+principles decision structures if-then-else and select-case syntax.         
+Application: Quadratic equations classification of solutions based on values 
+of the discriminant. 
+
+4. Language: One dimensional arrays addresses and pointers multi-dimensional 
+arrays. Application: Coordinate systems in mathematics Recording and 
+collecting of experimental data matrices and arrays. 
+
+5. Language: the iteration or loop structure Normal and exceptional exits 
+nested loops. Application: Maximum and minimum mean and averages evaluation 
+basic sorting techniques. 
+
+6. Language: Computer graphics straight lines and circles general 
+two-dimensional graphs. Application: Space-time graphical representation of 
+a simple particle in motion graphical representation of experimental data. 
+
+7. Language: Sub-Programs Functions and subroutine arguments and parameters 
+passing by value and by reference. Application: Method of least square 
+numerical methods for equations of one unknown numerical differentiation and 
+integration. 

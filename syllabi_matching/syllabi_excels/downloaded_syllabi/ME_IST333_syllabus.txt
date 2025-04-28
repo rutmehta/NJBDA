@@ -1,0 +1,702 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+COURSE OUTLINE
+
+
+
+
+
+ IST 333                   Data Mining                 4 
+
+Course Number                  Course Title                          Credits
+
+
+
+
+
+ 3      2        N/A          N/A       15
+
+Class or   Laboratory             Clinical or Studio Practicum,     Course 
+Length Lecture Work Hours  Hours Co-op, Internship      (15 week, Hours      
+               10 week, etc.) 
+
+     
+
+
+
+                 Not Applicable                                Not 
+Applicable 
+
+Performance on an Examination/Demonstration                            
+Alternate Delivery Methods 
+
+(Placement Score (if applicable) minimum CLEP score)                 
+(Online, Telecourse give title of videos) 
+
+
+
+Required Materials:
+
+Data Mining with SQL Server 2005 by ZhaoHui Tang and Jamie MacLennan by 
+Wiley Publishing. ISBN: 0-471-46261-6 
+
+
+
+Data Mining  A Tutorial Based Primer by Richard J. Roiger, Michael W. Geatz
+
+
+
+Additional Material
+
+The Data Warehouse Toolkit -- The Complete Guide to Dimensional Modeling, 
+2nd edition, Ralph Kimball and Margy Ross, published by Wiley Computer 
+Publishing, ISBN 0-471-20024-7. 
+
+Flash Drive
+
+Catalog Description: 
+
+The course focuses on the methods that are used to extract and organize data 
+in a data warehouse, including OLAP (on-line Analytical Processing).  
+Students investigate the advantages and disadvantages of various methods to 
+extracting, organizing, and presenting data that has been stored in a large 
+data repository. 
+
+
+
+Prerequisites:  BUS 205              Corequisites: BUS 206
+
+
+
+Last Revised:  03/12/06 
+
+
+
+Course Coordinator (name, email, phone extension):  
+
+Assistant Professor Queen E. Okike
+
+okikeqmccc,edu
+
+Extension   3464
+
+
+
+Available Resources: (Identify library resources relevant to the course, 
+including books, videos, journals, electronic databases, recommended 
+websites.) 
+
+
+
+Course Goals.  
+
+The student will be able to:
+
+
+
+ Understand what data mining is and how data mining can be employed to solve 
+real problem. 
+
+
+
+ Recognize whether a data mining solution is a feasible alternative for a 
+specific problem. 
+
+
+
+ Download SQL Server 2005 and install the Analysis Services component. 
+
+
+
+ Apply iDa Dataset software to solve real problems.
+
+
+
+ Step through the knowledge discovery process and write a report about the 
+results of a data mining session. 
+
+
+
+ Apply basic statistical and non-statistical techniques to evaluate the 
+results of a data session. 
+
+
+
+ Recognize several data mining strategies and know when each strategy is 
+appropriate. 
+
+
+
+ Develop a comprehensive understanding of how several data mining techniques 
+build models. 
+
+
+
+ Develop general awareness about the structure of a data warehouse and how a 
+data warehouse can be used to enhance business opportunities. 
+
+
+
+ Explain what on-line analytical processing (OLAP) is and how it can be 
+applied to analyze data. 
+
+
+
+ Recognize that expert systems represent general models that emulate human 
+actions. 
+
+
+
+ Apply the use of a goal tree to help design a rule-based system.
+
+
+
+ Recognize that intelligent agents are computer programs able to assist with 
+every day task. 
+
+
+
+ Identify the types of problems that can be solved by combining an expert 
+system problem-solving approach and data mining strategy. 
+
+
+
+
+
+
+
+
+
+COURSE CONTENT
+
+Unit IData Mining Fundamentals
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Identify business problems for Data Mining
+
+- Identify Data Mining tasks
+
+- Identify  Data Mining techniques, Data flow and Data Mining Project cycle
+
+- Identify Data Mining  and the current market current issues and challenges
+
+- Recognize mining standards
+
+- Describe OLE DB for DM and XML for analysis
+
+
+
+Unit IIOLE DB for Data Mining
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain why OLE DB is used in Data Mining 
+
+- Explore the basic concept of OLE DB for Data Mining
+
+- Identify step to Data Mining Extensions (DMX)
+
+- Explain Schema Row sets and extension for mining structures
+
+
+
+Unit IIISQL Data Mining
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Identity Business Intelligence Development Studio
+
+- Explain user interface, offline mode and immediate mode
+
+- Create Data Mining objects, set up data source 
+
+- Create and edit models
+
+- Process the data and create reports
+
+- Explore SQL Server Management Studio
+
+
+
+Unit IVMicrosoft Nave Bayes  and  Decision Trees
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Discuss Microsoft Nave Bayes Algorithm, Principles and Parameters
+
+- Explain Microsoft Nave Bayes content
+
+- Explore  Microsoft Nave Bayes model
+
+- Explain Decision tree and its principles
+
+- Identify Algorithm parameters
+
+- Create Decision trees and DMX Queries
+
+
+
+
+
+
+
+
+
+
+
+Unit VMicrosoft Time Series and Microsoft Clustering
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain Microsoft Time Series algorithm, principles and parameters
+
+- Create Microsoft Time series
+
+- Explain Microsoft Clustering algorithm and principles of Clustering
+
+- Explain Clustering parameters
+
+- Create Clustering models
+
+- Identify Clustering as analytical step
+
+- Explore cluster models
+
+
+
+Unit VIMicrosoft Sequence Clustering and Microsoft Association Rules
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain Microsoft Sequence Clustering algorithm
+
+- Explain Microsoft Sequence Clustering algorithm principles 
+
+- Explain Microsoft Sequence Clustering algorithm parameters
+
+- Create Microsoft Sequence Clustering algorithm
+
+- Explain Microsoft Association Rules
+
+- Explain Microsoft Association Rules algorithm principles 
+
+- Explain basic Microsoft Association Rules concepts
+
+- Create Microsoft Association Algorithm
+
+
+
+Unit VIIMicrosoft Neural Network and Mining OLAP Cubes
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain principles of Microsoft Neural Network algorithm
+
+- Explain Microsoft Neural Network algorithm parameters
+
+- Create DMX queries
+
+- Recognize model content
+
+- Interpret the model 
+
+- Explain OLAP
+
+- Identify relationship between OLAP and Data Mining
+
+- Build OLAP Mining models using Wizards and Editors 
+
+- Explain Data Mining  dimensions
+
+- Create MDX inside DMX Queries
+
+- Create Analysis Management Objects for OLAP mining model
+
+
+
+Unit VIIIData Mining with SQL Server Integration Services (SSIS)
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain Data Mining with SQL Server Integration Services 
+
+- Identify SSIS packages 
+
+- Explain SSIS task flow and data flow
+
+- Explain data mining in SSIS environment
+
+- Explain data mining tasks and data mining transforms
+
+- Explain SQL Server data mining architecture
+
+- Recognize processing architecture and data mining administration
+
+Unit IXProgramming SQL Server Data Mining 
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Explain Data Mining APIs (Application programming interfaces) 
+
+- Explain analysis services APIs
+
+- Create and manage models using Microsoft Analysis Services
+
+- Browse and query mining models
+
+- Implement Web Cross-Selling Application
+
+- Describe source data and build model
+
+- Make predictions and integrate predictions into Web application
+
+
+
+Unit XAdvanced Forecasting using Microsoft Excel 
+
+     Learning Objectives 
+
+   The student will be able to:
+
+- Configure Analysis Services for Session Models 
+
+- Identify the Advanced Forecasting Tool 
+
+- Explain ExcelTimeSeries Add-In Architecture 
+
+- Build the Input Data Set
+
+- Create XMLA (XML for Analysis)
+
+- Create and train the mining model 
+
+- Connect to the Data Mining Engine 
+
+- Create and train the mining mode ExcelTimeSeriesMining CreateModel 
+Implementation 
+
+- Forecast the series
+
+- Explain Plug-in algorithms
+
+- Identify Data Mining Viewers
+
+
+
+
+
+Evaluation of Student Learning
+
+Weekly class attendance and participation10
+
+Average of weekly homework and laboratory assignments50
+
+Four Units of Tests:
+
+Units I, II10
+
+Units III, IV10
+
+Units V, VI, VII 10
+
+Units VIII, IX, X10
+
+
+
+Total                                     100 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grade Policy
+
+
+
+
+
+Grade
+
+
+Definition
+
+
+Nominal
+
+
+
+
+QPA
+
+quality point value
+A
+Superior Achievement
+93-100
+4
+A-
+
+90-92
+3.7
+B
+
+87-89
+3.4
+B
+Above Average Achievement
+83-86
+3
+B-
+
+80-82
+2.7
+C
+
+77-79
+2.4
+C 
+Average Achievement
+70-76
+2
+D
+Minimally Passing
+60-69
+1
+F
+Academic Failure
+0-59
+0
+X
+Audit  no evaluation
+
+N/A
+W
+Withdrawal (Student-initiated)
+
+N/A
+WI
+Withdrawal (Instructor-initiated)
+
+N/A
+WA
+Withdrawal (Administration-initiated)
+
+N/A
+N
+No grade reported by the instructor
+
+N/A
+I
+Incomplete  no credit earned
+
+N/A
+
+
+Audit:
+
+If you audit the course, you will receive an X gradethis cannot be changed 
+to 
+
+a letter grade at a later date.
+
+
+
+Withdrawal Course Requirements:
+
+To receive a W grade for any course, a student must consult with the course
+
+instructor or an appropriate division representative and then withdraw 
+officially 
+
+before two-thirds of the course has been completed by submitting a 
+withdrawal 
+
+form to the Office of Student Records. Withdrawal after this point results 
+in a 
+
+grade other than W (usually F). At any time before two-thirds of the course 
+has 
+
+been completed, the instructor may also withdraw with a W grade any student
+
+who has been absent excessively. A student thus withdrawn will not be 
+entitled 
+
+to any refund of tuition or fees. The student may appeal this action.
+
+
+
+Attendance Policy
+
+Mercer County Community College does not have a cut system. Students are
+
+expected to attend all classes of every course on their schedules. Only 
+illness or 
+
+serious personal matters may be considered adequate reasons for absence.
+
+It is the prerogative of the instructor to excuse absences for valid 
+reasons, provided the 
+
+student will be able to fulfill all course requirements.
+
+
+
+
+
+
+
+Student performance in classes is formally verified at each class meeting. 
+If a students 
+
+attendance has been infrequent or performance unsatisfactory, he or she may 
+receive 
+
+MCCC Course Outline
+
+notification in the mail. At any time, the instructor may withdraw the 
+student from class 
+
+for insufficient attendance.
+
+
+
+Classroom Conduct Statement
+
+It is the students responsibility to attend all classes. If a student misses 
+a class meeting 
+
+for any reason, he/she is responsible for all content that is covered, for 
+announcements 
+
+made, and for acquiring any materials that may have been distributed in 
+class. It is 
+
+expected that students be on time for all classes. Students who walk into 
+class after it 
+
+has begun are expected to choose seats close to where they entered the room 
+so that 
+
+they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy during the class 
+sessions. 
+
+Engaging in private, side conversations during class time is distracting to 
+other students 
+
+and to the instructor. Leaving class early without having informed the 
+instructor prior to 
+
+class is not appropriate. Unless there is an emergency, leaving class and 
+returning 
+
+while the class is in session is not acceptable behavior. Disruptive 
+behavior of any type, 
+
+including sharpening pencils during class while someone is speaking, is not 
+appropriate. 
+
+
+
+The college welcomes all students into an environment that creates a sense 
+of 
+
+community of pride and respect we are here to work cooperatively and to 
+learn 
+
+together.
+
+
+
+Academic Integrity Statement
+
+A student who knowingly represents work of others as his/her own, uses or 
+obtains 
+
+unauthorized assistance in the execution of any academic work, or gives 
+fraudulent 
+
+assistance to another student is guilty of cheating. The penalty for 
+violating the honor 
+
+code is severe. (See Student Handbook.) Any student violating the honor code 
+is 
+
+subject to receive a failing grade for the course and will be reported to 
+the Office of 
+
+Student Affairs. If a student is unclear about whether a particular 
+situation may 
+
+constitute an honor code violation, the student should meet with the 
+instructor to discuss 
+
+the situation.
+
+
+
+It is permissible to assist classmates in general discussions of computing 
+techniques 
+
+general advice and interaction are encouraged. Each person, however, must 
+develop 
+
+his or her own solutions to the assigned homework and laboratory exercises. 
+Students 
+
+may not work together on graded assignments. Such collaboration constitutes
+
+cheating, unless it is a group assignment. A student may not use or copy (by 
+any 
+
+means) anothers work (or portions of it) and represent it as his/her own.
+
+
+
+            LIBERAL ARTS DIVISION                               HY 101 - 
+page 

@@ -1,0 +1,169 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College MAT 233 Course Syllabus
+
+
+
+MAT 233 Calculus: Course Credits: 4:0:4, Prerequisite:  MAT 232 or written 
+permission or instructor. Co-requisite:  None. 
+
+Contact Karen Mattison (856) 351-2672, kmattisonsalemcc.edu
+
+Course Description: This course is designed for students who need a calculus 
+background for their major area of study, 
+
+future career, or as preparation for higher levels of mathematics.  Topics 
+include: Vector treatment of three-dimensional 
+
+geometry, partial derivatives of functions of two or more variables, polar 
+coordinate, parametric equations, multiple 
+
+integrals, elementary differential equations and vector fields. Place in the 
+College Curriculum:  This course is required in 
+
+some of the transfer degree programs at Salem Community College.  The course 
+may be used as a mathematics elective. 
+
+Performance Objective 1: The student will recognize and use parametric 
+equations. Enabling Objectives: 1. The student 
+
+will sketch the graph of a curve given by a set of parametric equations. 2. 
+The student will eliminate the parameter in a set 
+
+of parametric equations. 3. The student will represent a curve as a set of 
+parametric equations. 4. The student will 
+
+calculate the slope of a tangent line to a curve given by a set of 
+parametric equations. 5. The student will calculate the arc 
+
+length of a curve given by a set of parametric equations. 6. The student 
+will calculate the area of a surface of revolution 
+
+(parametric form).
+
+Performance Objective 2: The student will graph and find areas enclosed by 
+Polar curves. Enabling Objectives: 1.The 
+
+student will rewrite rectangular equations in polar form and vice versa. 2. 
+The student will sketch the graph of an equation 
+
+given in polar form. 3. The student will calculate the slope of a tangent 
+line to a polar graph. 4. The student will calculate 
+
+the area of a region bounded by a polar graph. 5. The student will calculate 
+the points of intersection of two polar graphs. 
+
+6. The student will calculate the arc length of a polar graph. 7 The student 
+will calculate the area of a surface of revolution 
+
+(polar form).
+
+Performance Objective 3: The student will evaluate and demonstrate vectors 
+and analytic geometry methods in 3-space. 
+
+Enabling Objectives: 1. The student will write the component form of a 
+vector. 2. The student will perform vector 
+
+operations and interpret the result geometrically. 3. The student will write 
+a vector as a linear combination of standard unit 
+
+vectors. 4. The student will solve problem involving force or velocity using 
+vectors. 5. The student will describe the three- 
+
+dimensional rectangular coordinate system. 6. The student will analyze 
+vectors in space. 7. The student will solve real-life 
+
+problems using three-dimensional vectors.
+
+Performance Objective 4: The student will find partial derivatives of 
+multi-variable functions. Enabling Objectives:1.The 
+
+student will determine and use a partial derivative of a function of two 
+variables. 2. The student will determine and use a 
+
+partial derivative of a function of three variables. 3. The student will 
+determine higher order partial derivative of a function 
+
+of two or three variables. 
+
+Performance Objective 5: The student will integrate functions of one and of 
+several variables. Enabling Objectives: 
+
+1.The student will evaluate an iterated integral. 2. The student will 
+represent the volume of a solid region using a double 
+
+integral. 3. The student will demonstrate the properties of double 
+integrals. 4. The student will evaluate a double integral 
+
+as an iterated integral. 5. The student will write and evaluate double 
+integrals in polar coordinates. 6. The student will 
+
+calculate the area of a surface using a double integral. 7. The student will 
+calculate the volume of a solid region using a 
+
+triple integral.
+
+Performance Objective 6: The student will recognize and solve differential 
+equations and vector fields. Enabling 
+
+Objectives: 1.The student will solve a simple differential equation using 
+separation of variables. 2. The student will use 
+
+exponential functions to model growth and decay in applied problems. 3. The 
+student will solve a first-order linear 
+
+differential equation. 4. The student will explain the concept of a vector 
+field. 5. The student will decide whether a vector 
+
+field is conservative. 6. The student will determine the curl of a vector 
+field. 7. The student will determine the divergence of 
+
+a vector field. 8. The student will demonstrate the concept of a piecewise 
+smooth curve. 9. The student will write and 
+
+evaluate a line integral. 10. The student will write and evaluate a line 
+integral of a vector field. 11. The student will write 
+
+and evaluate a line integral in differential form.
+
+General Education Requirements: The general education goals covered in 
+Calculus 3 are critical thinking  problem 
+
+solving, quantitative skills, and science  technology.  See student handbook 
+for additional details. 
+
+Required Text: Hostetler, Larson.  Calculus:  Early Transcendental 
+Functions.  New York:  Houghton Mifflin Publishing, 
+
+                          3rd ed. 2003
+
+Required Materials: TI-83 Plus Graphing Calculator.   Additional Costs: None
+
+Course Activities:  Students will learn from lectures during which new 
+material will be delivered, small group discussions, 
+
+individual explorations, practice work, and discussion of assigned homework 
+problems.  Students will have the opportunity 
+
+to investigate calculus using some computer software.
+
+Course Requirements and Means of Evaluation: Students will be evaluated by 
+several math activities, several tests, 
+
+several quizzes, and a final exam. Proper assessment tools will be used to 
+assess the students learning.  See addendum 
+
+for specific details
+
+Course Content Outline:  I. Review of differentiation and Integration  II. 
+Parametric Equations and Polar Coordinates: A. 
+
+Parametric Equations, B. Arc Length, C. Polar Coordinates D. Area  III. 
+Vectors: A. Vectors in 2- and 3-space, B. Analytic 
+
+Geometry in 3-space  IV. Functions of Several Variables: A. Functions of Two 
+or more variables, B. Partial Derivatives, C. 
+
+Extremes for Functions of two variables  V. Multiple Integrals  VI. 
+Differential Equations and Vector Fields. 

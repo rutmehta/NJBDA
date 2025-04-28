@@ -1,0 +1,776 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College
+
+Course Syllabus
+
+
+
+PC Assembly Course Code:  IT 106
+
+Credits:  2
+
+Pre-Requisites:  Completion of EN 098, EN 099 and MA 091, if
+
+required.
+
+Co-Requisite:  MA 093, if required IT102, if required or
+
+written permission of the Instructor.
+
+Modified - Fall 02
+
+
+
+Donna Dobie
+
+Department Co-Chair
+
+Business, Computer  Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description:  This course is designed to teach the
+
+students how to assembly the personal computer and load the
+
+operating system software.  As the students assembly their
+
+computers, they will learn about the various components and
+
+accessories that make up the personal computer.  They will
+
+also learn about the various tools needed as they build
+
+their personal computers.  In addition, student will load
+
+the operating system and software that make up the desktop
+
+of the personal computer.  In doing so, they will be
+
+introduced to finding updates and patches for software via
+
+the Internet and loading these updates and patches on the
+
+PC.
+
+
+
+Course Content Outline:
+
+I  Personal Computer Background
+
+     A.   History of the Personal Computer
+
+B.   Major hardware and software companies
+
+
+
+II.  Components That Make up the Basic PC
+
+     A.   Case (Chassis)
+
+B.   Power Supply
+
+C.   Hard Disk Drive
+
+D.   Floppy Disk Drive
+
+E.   CD-ROM Drive
+
+F.   Jazz and Zip Drives
+
+G.   Motherboard
+
+H.   Processor
+
+I.   Memory (RAM)
+
+J.   Video Card
+
+K.   Sound Card
+
+L.   Network Card
+
+M.   Modem Card
+
+N.   Monitor
+
+O.   Keyboard
+
+P.   Mouse
+
+III.  Motherboards
+
+     A.   Types
+
+B.   Chipsets
+
+C.   BIOS
+
+D.   System bus
+
+E.   Processor bus
+
+F.   Memory bus
+
+G.   I/O Buses
+
+          1.   ISA
+
+2.   EISA
+
+3.   Local Bus
+
+4.   VESA Local Bus
+
+5.   PCI
+
+6.   ASP Port
+
+7.   System Resources and Conflicts
+
+
+
+IV.   Memory
+
+     A.   ROM
+
+B.   RAM
+
+          1.   Memory speeds
+
+2.   DRAM
+
+3.   SIMMs
+
+4.   DIMMs
+
+5.   RIMMs
+
+
+
+V.  Power Supply
+
+
+
+VI. Input Devices
+
+     A.  Keyboards
+
+     B.  Mice
+
+     C.  Game Adapters
+
+
+
+VII.  Video Hardware
+
+     A.  Monitors
+
+     B.  Video Display Adapters
+
+
+
+VII.  Audio Hardware
+
+     A.  Audio Adapter Applications
+
+     B.  Audio Adapter Features
+
+
+
+IX.  I/O Interfaces
+
+     A. Parallel Ports
+
+     B.  Serial Ports
+
+     C.   IDE Interface
+
+D.   EIDE Interface
+
+     E.  SCSI Interface
+
+     F.  USB Ports
+
+     G.  Firewire Ports
+
+
+
+X.  Communications
+
+     A.  Modems
+
+     B.   Network Interface Cards
+
+
+
+XI.  Operating Systems
+
+     A.  Windows operating systems
+
+          1.   Loading the operating system
+
+2.   Basic commands
+
+3.   Basic system configuration
+
+4.   Device Manager page and properties
+
+
+
+Course Performance Objectives:
+
+1.    Students will learn when and where the personal
+
+information revolution began and the
+
+       software and hardware companies that continually make
+
+major contributions to the industry.
+
+
+
+2.   Students will identify and safely install all the
+
+  components that make up the basic personal
+
+        computer.
+
+
+
+3.   Students will name the parts of the motherboard,
+
+  describe characteristics that can make the parts more
+
+  efficient, and configure components via the CMOS setup as
+
+  well as configuration software provided with the components.
+
+
+
+4.   Students will identify and contrast ROM and RAM memory,
+
+  state what enhancements can be included into the RAM memory,
+
+  and choose the right RAM type based on motherboard slots to
+
+  install in a system.
+
+
+
+5.   Students, upon recognizing the need for a power supply,
+
+  will hook up components needing
+
+       the power supply.
+
+
+
+6.    Students will be able to install and configure input
+
+devices.
+
+
+
+7.   Students will be able to select, install and configure
+
+  video components.
+
+
+
+8.   Students will be able to select, install and configure
+
+  audio components.
+
+
+
+9.   Students will be able to utilize system i/o interfaces
+
+  as well as install and configure additional devices as the
+
+  system grows.
+
+
+
+10.  Students will be able to configure communication
+
+  devices for Internet environments.
+
+
+
+11.  Students will be able to install and configure the
+
+  Windows operating systems, and virus protection software.
+
+
+
+Enabling Objectives:
+
+All Sections: Students will understand and be able to adhere
+
+to the safety procedures specified in every lab. This will
+
+always include using an ESD strap and unplugging the PC from
+
+external power whenever the cover is off the PC or the
+
+components are being installed on the motherboard. Students
+
+will always take these important steps in addition to other
+
+component specific steps before proceeding to work on the
+
+PC.
+
+
+
+All Sections: Students will search for products and company
+
+information via the web as needed in the lab assignments.
+
+They will find URLs needed for any given
+
+application/specification. They will use search strings in
+
+the product knowledge base to configure and troubleshoot
+
+products (software and hardware), and use listserv groups to
+
+enhance their knowledge of any given subject. They will be
+
+able to locate patches for products and download and apply
+
+the patches. Students will use on-line and paper manuals to
+
+set up and use products. Students will also search the web
+
+via browsers to locate URLs that provide additional
+
+information about products and specifications. Students,
+
+reinforcing and complimenting all assignments inside and
+
+outside the classroom, will regularly seek out the
+
+information on the web. (IL)
+
+PART I Personal Computer Background
+
+1.   Students will identify the process/materials that make
+
+  personal computers possible.
+
+2.   Students will visit the web sites of the major
+
+  contributors of software and hardware and explore the site
+
+  as well as read the online company history. (IL)
+
+PART II Components that make Up the Basic PC
+
+1.   Students will visually identify the following
+
+  components that can be used to make a typical personal
+
+  computer: motherboard, processor, memory, case, power
+
+  supply, storage devices, keyboard, mouse, multimedia
+
+  hardware and monitor.
+
+2.   Students will state the safety procedures specific to
+
+  each component and use those procedures to safely work with
+
+  and install those components into a personal computer.
+
+PART III Motherboard
+
+1.   Students will state what features to look for in a
+
+  motherboard, based on
+
+      specifications given.
+
+2.   Students will identify parts of the motherboard and
+
+  features relating to each part.
+
+3.   Students will identify which devices use particular
+
+  system resources and how to
+
+      resolve conflicts.
+
+4.   Based on the motherboard available, students will
+
+  install the motherboard into a
+
+      case.
+
+PART IV Memory
+
+1.   Students will visually identify the different types of
+
+  RAM (SIMM and DIMM) and features (DRAM, SDRAM, and EDO)
+
+  specific to each type.
+
+2.   Students will identify memory speed feature unique to
+
+  each type.
+
+3.   Students will describe which components run off the
+
+  power supply and how and where to interface each component.
+
+4.   Students will calculate the maximum amount of memory
+
+  that can be installed based on slot size. (number of slots x
+
+  maximum memory size per module  total memory that can be
+
+  installed)
+
+5.   Students will install memory modules.
+
+6.   Students will calculate the memory installed. (number
+
+  of memory modules x memory size per module  memory
+
+  installed)
+
+PART V Power Supply
+
+1.   Students will identify which components are connected
+
+  to which power supply lead.
+
+2.   Students will safely install each component as the
+
+  component is introduced to the system being built.
+
+PART VI Input Devices
+
+1.   Students will install a keyboard and a mouse (PS/2 and
+
+serial).
+
+PART VII Video Hardware
+
+1.  Students will identify the features desired in a video
+
+display adapter.
+
+2.   Students will identify the features to look for in a
+
+monitor.
+
+3.   Students will install and configure a video display
+
+adapter and monitor.
+
+
+
+PART VIII Audio Hardware
+
+
+
+1.  Students will install and configure an audio adapter and
+
+speakers.
+
+  
+
+PART IX I/O Interfaces
+
+
+
+1.   Students will describe the functions and usage for each
+
+  of the following I/O
+
+      interfaces: parallel, serial, IDE, EIDE, SCSI, USB.
+
+2.   Students will install and configure the interfaces
+
+(serial and parallel) for a modem.
+
+3.   Students will identify/contrast IDE, EIDE, and SCSI
+
+interfaces.
+
+6.   Students will install and configure an EIDE hard drive
+
+  and CD-ROM drive.
+
+
+
+PART X Communications
+
+
+
+1. Students will install and configure a modem for Internet
+
+access.
+
+          
+
+PART XI Operating Systems
+
+
+
+1.   Students will determine if the as-built PC can
+
+  accommodate Windows95/98/2000.
+
+2.   Students will troubleshoot the complete personal
+
+  computer and format the hard drive to FAT32 specifications
+
+  to accept an operating system.
+
+3.   Students will load the Windows operating systems and
+
+  configure it to work with all the installed components.
+
+4.   Students will apply all patches required via the web
+
+  for the operating system.
+
+5.   Students will use the Windows system tools to
+
+troubleshoot and examine the system setup.
+
+
+
+Course Activities: Students will spend one hour in a
+
+lecture/demonstration series by the instructor. The
+
+instructor will use PowerPoint presentations, videos or
+
+overhead projections from the instructors computer during
+
+that time. During the other hour, the students are expected
+
+to reinforce the things learned in the lecture/demonstration
+
+in a supervised instructor led lab. Student will use the
+
+PC to do hands-on lab portions. This includes using the
+
+Internet to visit the sites of on-line companies and using
+
+all available on-line resources (knowledge bases, on-line
+
+technical support, and on-line product manuals). The PC is
+
+also the center of the lab experience, as students will
+
+apply what they have learned.
+
+
+
+Course Requirements and Means of Evaluation:  Fifty percent
+
+of the grade is determined by test grades. Six tests will be
+
+given throughout the semester. Fifty percent of the grade is
+
+determined by lab experiments and homework.
+
+
+
+Grading:  Letter       Numerical Value       Grade Points
+
+Grade
+
+         A                  93-100                4.0
+
+         A-                 90-92                 3.7
+
+         B                 88-89                 3.3
+
+         B                  83-87                 3.0
+
+         B-                 80-82                 2.7
+
+         C                 78-79                 2.3
+
+         C                  73-77                 2.0
+
+         C-                 70-72                 1.7
+
+         D                 68-69                 1.3
+
+         D                  63-67                 1.0
+
+         F                 Below 60                0
+
+         FA                Below 60                0
+
+P - Pass:  This grade is given to students who
+
+satisfactorily meet the course requirements in the following
+
+types of courses: credit by exam, educational development
+
+courses with code numbers below 100, health practicum
+
+courses and co-op courses.  P grades are not calculated
+
+into a students GPA.
+
+
+
+I - Incomplete Work: This is a conditional grade given at
+
+the discretion of the faculty member when student
+
+emergencies prevent the completion of all course
+
+requirements. The student must complete all requirements
+
+within 30 days after the start of classes in the following
+
+semester or term. If this condition is not met, the I
+
+automatically becomes an F grade.
+
+
+
+W-Withdrawal:  This grade signifies official withdrawal from
+
+a course. See details under College Withdrawal.
+
+R-Audit: This is not a grade but indicates a student took
+
+the course for no credit and, therefore, no grade.
+
+
+
+Attendance: Students are expected to attend all scheduled
+
+classes. Any student who is absent for Thirty percent of the
+
+classes (9 classes) will receive an FA for the course, no
+
+exceptions.
+
+
+
+Tests: No makeup tests allowed. Students must complete a
+
+test on the test date or arrange to take a test in advance.
+
+All tests are closed book. Anyone cheating will receive a 0
+
+for that test and be subject to failing the class via
+
+submittal to a disciplinary board of review.
+
+
+
+Lab Assignments: Each lab will have the results written in
+
+paragraph format and submitted via email on or before the
+
+due date. All homework/assignments due before class starts
+
+on the due date. Homework and assignments cannot be made up.
+
+
+
+Academic Honesty Policy: Students found to have committed an
+
+act of academic dishonesty may be subject to failure in this
+
+course, academic probation, and/or suspension from the
+
+college. See the student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to
+
+follow procedures for their own safety and the safety of
+
+others. Specific procedures are to be adhered to when
+
+working with the equipment. These procedures will be
+
+demonstrated by the instructor, detailed in handouts and
+
+procedures, and are an intricate part of every lab. Should
+
+students have any doubts or questions regarding a procedure,
+
+they should ask the instructor before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to
+
+use all software required in class and lab. Students will
+
+not be allowed to copy software from the colleges  PCs. It
+
+is an illegal act to copy this software. Viruses can be
+
+transmitted through various media. Students will take every
+
+precaution when working with the schools software and
+
+hardware, adhering to the procedures for protecting from
+
+viruses. Students will not bring their own software to
+
+class, nor will they install it on any college PC. Students
+
+are not permitted to play games or download/participate in
+
+instant messaging or chat room in the labs. Students are
+
+permitted to sign out the MSDNAA software related to the IT
+
+class they are enrolled in. See the instructor to find out
+
+what software is available for that class. MSDNAA software
+
+can only be signed out during the first four weeks of
+
+classes no software will be signed out after that. Students
+
+will run the risk of dismissal from the class and the
+
+college if found in violation of the software and hardware
+
+policies.
+
+
+
+Material or Supplies: Students will be required to purchase
+
+a set of PC headphones and a computer repair toolkit with
+
+grounding wrist strap. Students will be supplied with
+
+additional tools, software, hardware, and safety equipment
+
+required for each lab. Items necessary to complete each lab
+
+will be given out at the beginning of each lab and returned
+
+at the end of each lab.
+
+
+
+Required Text: Glister, PC Hardwre: beginner Guide, 2001,
+
+McGraw-Hill,  ISBN 0-07-212990-5

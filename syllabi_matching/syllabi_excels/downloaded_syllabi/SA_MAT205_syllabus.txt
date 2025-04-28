@@ -1,0 +1,492 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College Course Syllabus
+
+
+
+Mathematics 205
+
+Industrial Statistics
+
+Credits:  3.0 Lecture 0 Laboratory,  Total 3.0
+
+Pre-Requisites:  MAT105
+
+New Course:  Fall 2003
+
+
+
+Howard Valentine
+
+Department Chair, Mathematics
+
+valentinesalemcc.edu
+
+                                   
+
+
+
+                                   
+
+Course Description:    This course teaches basic statistical methods
+
+                  with an emphasis on industrial applications.  The
+
+                  principles of both descriptive of both descriptive
+
+                  and inferential statistics are taught, with topics
+
+                  including the normal distribution, hypothesis
+
+                  testing, correlation and regression, analysis of
+
+                  variance, and statistical process control.  Basic
+
+                  mathematics is required and Excel software
+
+                  familiarity is highly recommended.
+
+
+
+
+
+Place in College Curriculum:     A three-credit course required for
+
+                  Process Technology and an
+
+                         elective for other areas.
+
+Course Content:
+
+
+
+I.   Introduction
+
+     A.   Overview of Statistics
+
+B.   Nature of Data
+
+C.   Use of Excel in Statistics
+
+
+
+II.  Data Analysis
+
+     A.   Summarizing Data
+
+B.   Measures of Central Tendency
+
+C.   Measures of Variation
+
+D.   Measures of Position
+
+
+
+III. Probability Fundamentals
+
+
+
+IV.  Probability distributions
+
+     A.   Random Variables
+
+B.   Binomial Experiments
+
+C.   Central Tendency, Variance
+
+D.   Poisson Distribution
+
+
+
+V.   Normal Probability Distributions
+
+     A.   Standard Normal Distribution
+
+B.   Nonstandard Normal Distribution
+
+C.   Central Limit Theorem
+
+
+
+VI.  Estimates and Sample Sizes
+
+     A.   Estimating Population Mean
+
+         1.   Large Samples
+
+2.   Small Samples
+
+     B.   Estimating Population Proportion
+
+C.   Estimating Population Variance
+
+
+
+VII. Hypothesis Testing
+
+     A.   Fundamentals
+
+B.   Testing a Claim about a Mean
+
+         1.   Large Samples
+
+2.   Small Samples
+
+     C.   Testing a claim about a Proportion
+
+D.   Testing a Claim about a Standard Deviation or Variance
+
+
+
+VIII.     Dependent Samples:  Inferences about Two Means
+
+
+
+IX.  Correlation and Regression
+
+     A.   Correlation
+
+B.   Regression
+
+                                                                       
+
+X.   Cntingency Tables
+
+
+
+XI.  Analysis of Variance
+
+     A.   One-Way
+
+B.   Two-Way
+
+
+
+XII. Statistical Process Control
+
+     A.   Overview
+
+B.   Control Charts for Variation and Mean
+
+C.   Control Charts for Attributes
+
+                                                                       
+
+Course Performance Objective 1:  The student will be able to define and
+
+comprehend the nature of statistical data.
+
+
+
+Enabling Objectives:  The student will
+
+1.   Recognize key terms used in the field.
+
+2.   Identify different types of data, measurement levels, and sampling
+
+methodology.
+
+3.   Recognize common uses and misuses of statistical data.
+
+
+
+
+
+Course Performance Objective 2:  The student will be able to convey
+
+statistics in a descriptive sense.
+
+
+
+Enabling Objectives:  The student will
+
+1.   Construct various visual data displays.
+
+2.   Calculate and interpret measures of central tendency and
+
+dispersion.
+
+
+
+
+
+Course Performance Objective 3:  The student will understand the basics
+
+of probability theory and its relationship to inference.
+
+
+
+
+
+Course Performance Objective 4:  The student will be able to recognize
+
+and define discrete and continuous random variables and probability
+
+distributions.
+
+
+
+Enabling Objectives:  The student will use the above concepts to
+
+1.   Calculate probabilities for binomial experiments.
+
+2.   Calculate the mean, variance, and standard deviation for a
+
+binomial distribution.
+
+3.   Define and comprehend calculations using the Poisson distribution.
+
+
+
+
+
+Course Performance Objective 5:  The student will be able to
+
+incorporate the concept of a normal probability distribution.
+
+
+
+Enabling Objectives:  The student will
+
+1.   Compute standard values to determine probabilities.
+
+2.   Compute scores that correspond to given probabilities.
+
+3.   Apply the Central Limit Theorem to statistical problems.
+
+4.   Use the normal distribution to estimate probabilities in a
+
+binomial experiment.
+
+                                                                       
+
+Course Performance Objective 6:  The will apply the basics of
+
+statistical inference
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Estimate population parameters from sample statistics.
+
+2.   Define and compute confidence intervals and margins of error for
+
+both large and small samples.
+
+3.   Select the appropriate distribution for various samples.
+
+4.   Estimate a population proportion from sample statistics.
+
+5.   Recognize the uses for and compute probabilities from the chi-
+
+square distribution.
+
+
+
+
+
+Course Performance Objective 7:  The student will recognize the
+
+relevance of hypothesis testing in statistical processes.
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Construct basic hypothesis tests.
+
+2.   Recognize the two types of errors which can occur during
+
+hypothesis testing.
+
+3.   Conduct hypothesis testing for large samples, small samples,
+
+proportions, and standard deviations (or variances).
+
+
+
+
+
+Course Performance Objective 8:  The student will test hypotheses.
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Test hypotheses by means of paired or dependent samples.
+
+2.   Test hypotheses made about two population variances or standard
+
+deviations.
+
+
+
+
+
+Course Performance Objective 9:  The student will recognize
+
+relationships between two variables (correlation).
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Compute the strength of the relationships.
+
+2.   Recognize common errors involving correlation.
+
+3.   Construct hypothesis tests for linear correlation.
+
+
+
+
+
+Course Performance Objective 10:  The student will recognize linear
+
+relationships through the computerized construction of a regression
+
+equation and scatter diagram.
+
+
+
+
+
+Course Performance Objective 11:  The student will recognize multiple
+
+regression equations through the computerized construction of a
+
+multiple regression equation.
+
+
+
+                                                                       
+
+Course Performance Objective 12:  The student will recognize and
+
+construct contingency tables.
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Use the chi-square test to determine independence of variables.
+
+2.   Use the chi-square test to determine a test of homogeneity of data
+
+samples from different populations.
+
+
+
+
+
+Course Performance Objective 13:  The student will be able to recognize
+
+uses for one- and two-way analysis of variance (ANOVA).
+
+
+
+
+
+Course Performance Objective 14:  The student will substantiate the
+
+importance of quality control and monitoring processes in the area of
+
+statistical process control.
+
+
+
+Enabling Objectives:  The student will be able to
+
+1.   Construct and interpret run charts and control charts for both
+
+     process variation and process mean.
+
+2.   Construct and interpret control charts for attributes.
+
+                                                                       
+
+                                                                       
+
+Course Activities:
+
+
+
+MAT205 is primarily a lecture/discussion class.
+
+
+
+
+
+Course Requirements and Means of Evaluation:
+
+
+
+There is a homework assignment following each chapter which is due the
+
+following week.
+
+Homework assignments count for 20 of the final grade.
+
+There are four (4) in-class exams.  These count for 50 of the final
+
+grade.
+
+There is an in-class final exam which counts for 30 of the final
+
+grade.
+
+
+
+The final grade is determined by adding up the total points achieved by
+
+each student and dividing by the total number of possible points.  The
+
+Salem Community College grading system is then used:
+
+
+
+Final Grade Calculation   Grade Points
+
+    93 - 100  A            4
+
+    90 -  92  A-         3.7
+
+    88 - 89  B         3.3
+
+    83 - 87  B             3
+
+    80 - 82  B-         2.7
+
+    78 - 79  C         2.3
+
+    73 -  77  C            2
+
+    70 -  72  C-         1.7
+
+    68 - 69  D         1.3
+
+    60 - 67  D             1
+
+    59 - below  F           0
+
+          59 - below  FA                0
+
+          (and greater than 30 absences)
+
+
+
+
+
+
+
+Text:     Triola, M.,  Elementary Statistics, 8th ed., 2001, Addison
+
+Wesley Longman, Inc.
+
+
+
+
+
+                                   

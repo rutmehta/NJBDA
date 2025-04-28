@@ -1,0 +1,58 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+
+Course:  	IT 112 Engineering Technology Laboratory
+
+Credits: 	2
+
+Prerequisites
+MA 105
+
+Description
+A  laboratory course designed to provide students the exposure to a diverse range of applied topics. Robotics, manufacturing, solar power, nuclear decay and shielding, strength of materials, and environmental project are the specific modules constituting the foundation of this course.
+
+Learning Outcomes
+Upon successful completion of this course, students should be able to:
+* Describe components and application of a robotic system
+* Explain the process of prototyping
+* Cite the atomic structure
+* Distinguish different types of nuclear radiation
+* Determine the half life of a radioactive substance
+* Identify components of a solar power system
+* Assemble a simple solar power generating system
+* Identify an environmental need and propose a solution
+
+Topical Outline
+* Principles of robotics and automation
+* Design and manufacturing
+* Structure of matter 
+* Atomic model
+* Nuclear radiation and half-life
+* Radiation shielding
+* Strength of materials
+* Solar energy
+
+Text
+Engineering Technology Laboratory manual
+
+Student Assessment
+(Assessment may be accomplished through projects, portfolios, exams, presentations and/or papers)
+      Laboratory reports			50%
+			Term Project				25%
+			Final exam				25%
+Academic Integrity
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense.
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Note
+No cell phone usage or text messaging is permitted during class time. Use of the internet other than for class related activities is not permitted. If you are having difficulty with work in this class tutoring is available through the Success Center.  If think that you might have a learning disability, contact Project Assist at 856.691.8600, x282 for information on assistance that can be provided to eligible students.
+
+
+IT 112 Eng Tech Lab
+
+

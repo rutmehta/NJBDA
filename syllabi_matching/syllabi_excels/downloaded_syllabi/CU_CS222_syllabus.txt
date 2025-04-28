@@ -1,0 +1,78 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+CUMBERLAND COUNTY COLLEGE
+
+
+Course:  	CS 222 Intro to Programming Mobile Devices 
+		(Intro to Programming Android devices in Java)
+
+Credits: 	4
+
+Prerequisites
+CS 112 or instructor permission
+
+Description
+This course will introduce beginner and intermediate Java programming students to the development of applications for Android devices such as cell phones and tablet computers. Students will use an Integrated Development environment such as Eclipse to develop simple java applications.  The class will explore a variety of development strategies, then explore concepts in hands-on laboratory sessions.  Each student will complete an application development project independently using a mix of Android services and features.  
+
+Learning Outcomes
+Upon successful completion of this course, students should be able to:
+* Differentiate between different versions of Android and identify key features and tradeoffs
+* Use an Integrated Development environment such as Eclipse to develop simple java applications for Android devices
+* Deploy completed Android application programs on a target device such as a cell phone or a tablet computer
+* Complete an application development project independently using a mix of Android services and features
+
+Topical Outline
+* Installing the Android Eclipse SDK
+* Meet the Android
+* The Android User Interface
+* Android User Input, Variables, and Operations
+* Icons and Decision-Making Controls
+* Android Lists, Arrays, and Web Browsers
+* Implementing Audio in Android Apps
+* (tentative) Picture Gallery
+* (tentative) Designing Tablet Apps
+*  (tentative) using the Calendar class
+
+
+
+
+Text/Materials
+Android Boot Camp for Developers Using Java, Introductory by Corinne Hoisington: Cengage Learning.    ISBN-13:  978-1-133-59439-0
+(Note: “Comprehensive” edition of above text may be substituted; and/or additional text materials may be introduced during the summer 2012 course as they become available.  Additional expenditure may be required for these materials. )
+
+Other Materials Required:
+* USB drive 2 GB or larger
+* Use of a computer (computing lab computers and/or home computer) equipped with  Java 6.1 or higher and Eclipse IDE and Android SDK.   (Note: Java, Eclipse and Android SDK are available at no cost.)
+* A Cumberland County College student email account is provided to all students.  During the initial class meeting(s), instructor will review email set-up to add instructor’s email address to the Address Book, maintain a “sent” folder, and (if desired) set the student account to forward received email to a third-party account.  
+o All assigned work submitted via email MUST originate from a student CCC email account.
+o Students with non-functioning email accounts (e.g., password doesn’t work) will need to drop by the Information Technology department to resolve access issues.
+
+Student Assessment
+Three scheduled closed-book “paper and pencil” tests will measure mastery of key concepts through short-answer questions, essay questions, and programming/design problems on paper.
+
+Approximately five or six  short, closed-book quizzes will be used to verify preparation and grasp of recently-covered topics.  No make-up quizzes are given for missed sessions, but lowest quiz score is dropped from the grade calculation.  
+
+A hands-on Skills Test will provide an opportunity to demonstrate lab skills and problem-solving ability from design through implementation of working software.  Students will independently solve an assigned case problem(s) and submit a solution for grading based on a rubric.  
+
+Take-home project(s) will provide students a more in-depth opportunity to demonstrate problem-solving ability from design through implementation of working software.  Students will independently solve an assigned case problem and submit a solution for grading based on a rubric.  
+
+A portfolio consisting of homework, lab work and projects establishes progress and mastery of techniques and concepts examined throughout the course.  
+
+Academic Integrity
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+
+
+Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense.
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Note
+If you are having difficulty with work in this class tutoring is available through the Success Center.  If think that you might have a learning disability, contact Project Assist at 856.691.8600, x282 for information on assistance that can be provided to eligible students.
+
+
+CS 222 Programming Mobile Devices
+
+

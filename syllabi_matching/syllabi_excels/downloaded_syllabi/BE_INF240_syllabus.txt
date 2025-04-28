@@ -1,0 +1,100 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF240 
+
+Client-side Scripting using JavaScript
+
+Credits: 3
+
+Prererquisites: INF161 or INF162 or INF163 and INF143 or INF146 or INF147
+
+New Course - Fall 2003
+
+
+
+Professor Lucy Caruso-Deane
+
+Department Head, Business
+
+lcarusodeanebergen.edu
+
+
+
+This course provides experience in building interactive and dynamic web 
+pages. Topics include variables, data types, objects, operators, control 
+structures, functions, cookies, and browser issues. Examples will include 
+interactive forms and visual effects such as animation. This course assists 
+in preparation for the CIW Web Languages Series exam. 
+
+
+
+Course Objectives:
+
+01. Provide the ability to create and publish interactive and dynamic web 
+pages. 
+
+02. Effectively use client-side coding in web pages.
+
+03. Understand the differences between client and server side scripting and 
+how to best employ each. 
+
+04. Understand incompatibility issues between browsers and write scripts 
+that handle some of these issues. 
+
+05. Appreciate the importance of testing web pages in different 
+environments. 
+
+06. Serve as the catalyst for future course work in web development.
+
+
+
+Course Content:
+
+01. What is JavaScript: Capabilities Applications Browser issues 
+
+02. Using JavaScript: <script> Embedded and external statements Comments 
+Hiding JavaScript code from incompatible browsers 
+
+03. Fundamentals: Formatting and coding conventions Output Declaring 
+variables Math and relational operators 
+
+04. Structured Statements: Decisions Loops
+
+05. Exam 1 Functions: Defining Using
+
+06. Arrays
+
+07. Objects: Built-in User-defined
+
+08. JavaScript using Windows and Frames: Opening, closing, and writing to 
+new browser windows manipulating the contents of frames 
+
+09. Intelligent forms: Client-side form validation adding interactivity to 
+forms trapping form events 
+
+10. Exam 2 Introduce project
+
+11. Graphics: Adding animation to webpages rollover effects
+
+12. DHTML: What is DHTML DOM: JavaScript as a DHTML technology
+
+13. Cookies: What is a cookie Why use cookies Saving information in cookies
+
+14. Problem solving and debugging other client-side scripting languages
+
+15. Exam 3 Project Presentations
+
+
+
+Text:  Don Gosselin, JavaScriot, Course Technology, 2000, ISBN 0-619-01555-1
+
+
+
+Grade Determinants:
+
+55 - Exams
+
+20 - Lab Assignments
+
+25 - Final Project

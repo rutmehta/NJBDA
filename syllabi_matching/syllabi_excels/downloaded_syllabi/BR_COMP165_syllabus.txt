@@ -1,0 +1,584 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE ID
+
+COMP165
+
+
+
+COURSE NAME
+
+Introduction to Oracle
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+Four (4) credits
+
+
+
+PREREQUISITE OR COREQUISITE COURSES OR ACADEMIC STANDING
+
+Comp116 or equivalent
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+COMP165
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Doll
+
+732-224-2849
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course will introduce the student to various concepts of
+
+relational databases and structured query language (SQL) through
+
+the use of a current version of Oracle software. It may also be
+
+used as an aid to prepare for the first exam of the Oracle
+
+Certified Professional program.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+LECTURE OUTLINE: The 6 units comprising this course are:
+
+UNIT                TITLE
+
+  1    Introduction to Client/Server Databases
+
+      and Oracle8i
+
+2     Creating and Modifying Database Objects
+
+3     Adding, Viewing, and Updating Data
+
+4     Introduction to PL/SQL
+
+5     Advanced PL/SQL Programming
+
+6     Creating Forms
+
+UNIT ORGANIZATION: Each unit is described by a set of objectives
+
+containing:
+
+Unit Objective:  Tells you what you will be able to do after
+
+successfully completing the lecture. Method of Evaluation:  Tells
+
+you how to demonstrate mastery of the lecture material to your
+
+instructor.
+
+Estimated Time to Achieve:  Gives you the approximate length of
+
+class time allocated for completion of the material.
+
+Learning Objectives:  Give you the details of each lecture
+
+session.
+
+Recommended Learning Experiences:  Tell you by what means you can
+
+complete the learning objectives.
+
+
+
+TEXTS, JOURNALS, AND OTHERMATERIALS USED IN COURSE
+
+
+
+Enhanced Guide to ORACLE8i with developer kit by Morrison and
+
+Morrison.
+
+ISBN 0-619-06324-6.  A 250 MB or 100 MB Zip Disk.
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+The levels of achievement in this course are based on the average
+
+test grade in conjunction with the level achieved on the
+
+programming assignments.  The final grade requirements for the
+
+course will be:
+
+
+
+
+
+
+
+        GRADE         REQUIREMENTS
+
+       A       Complete 11 C level case studies
+
+               Complete 4 A/B level case studies Receive average grade
+
+of 90 thru    100 on  all tests.
+
+
+
+       B               Complete 11 C level case studies
+
+               Complete 2 A/B level case studies Receive average
+
+               grade of 80 thru 89 on all tests.
+
+               
+
+       C       Complete 11 C level case studies
+
+                  Receive average grade of 70 thru 79.
+
+
+
+       D                Complete 11 C level 6 case studies
+
+
+
+Receive an average grade of 60 thru 69 on all the
+
+tests.
+
+If you receive a D grade and you are a Computer
+
+Science Major,
+
+It is highly recommended that you retake this
+
+course for a Higher grade
+
+
+
+       F          Non-completion of the C-Lab Assignments or
+
+receive
+
+and average Test grade below 60
+
+
+
+       INC     -The instructor may give an
+
+incomplete (INC)grade if the student has completed 75 of the
+
+course requirements (Tests and Lab Assignments).
+
+If the student does not complete the requirements by end of the
+
+second week of the new term, the grade of INC is changed to an F.
+
+Incomplete grades are at the sole discretion of the Instructor.
+
+TESTING:  A Minimum of a 60 grade must be received on each of the
+
+tests.  If you do not receive this you must meet with the
+
+instructor to review your progress.  When the instructor thinks
+
+you are ready, you may take a retest.  Retesting is for a grade
+
+of 60 only.
+
+One retest may be taken with permission of the instructor for
+
+each in-class test. The individual Instructor will determine the
+
+number of tests.
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT : 1
+
+NAME OF UNIT:  Introduction to Client/Server Databases and
+
+Oracle8i
+
+UNIT OBJECTIVE:  To become familiar with the basic concepts and
+
+terms of client/server databases and the structure of a
+
+relational database.
+
+METHOD OF EVALUATION:  Satisfactory completion of Test 1
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+LEARNING OBJECTIVES: The student will be able to:
+
+  1.   State the need for relational databases and their benefits.
+
+ 2. Explain terms and concepts of a client/server database.
+
+3. Describe the various components of the Oracle8i database
+
+system.
+
+4. Understand the uses of keys in a database.
+
+5. Understand the structure of the three databases used in the
+
+case studies.
+
+6.Understand third normal form.
+
+
+
+
+
+
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 1 in text.
+
+3.   Complete Review Questions on page 27
+
+
+
+Lab Exercises: None for this Chapter.
+
+
+
+
+
+
+
+UNIT : 2
+
+
+
+NAME OF UNIT:  Creating and Modifying Database Objects.
+
+
+
+UNIT OBJECTIVE:  The student will be able to create a relational
+
+database.
+
+METHOD OF EVALUATION:  Satisfactory completion of lab assignments
+
+for this unit and Test 1. ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+LEARNING OBJECTIVES: The student will be able to: 1. Use DDL and
+
+DML commands
+
+2. Create user accounts
+
+3. Administer privileges.
+
+4. Differentiate between Data Types. 5. Invoke Constraints.
+
+Unit 2
+
+6. Create a Table using SQL Plus.
+
+7. Edit and debug SQL Plus commands. 8. Use Oracle Help
+
+resources.
+
+9. View Database properties.
+
+10.  Modify existing Tables. RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 2 in text.
+
+3.   Complete Review Questions on page 61.
+
+Lab Exercises:
+
+     Lab C1 -  Case studies 1 and 2 on pages 62 63.
+
+
+
+
+
+     UNIT : 3
+
+NAME OF UNIT:  Adding, Viewing, and Updating Data UNIT OBJECTIVE:
+
+The student will understand how to update an existing database
+
+using SQL commands.
+
+METHOD OF EVALUATION:  Satisfactory completion of lab assignments
+
+for this unit and Test 1. ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+LEARNING OBJECTIVES: The student will be able to: 1. Use Scripts
+
+to automate SQL commands
+
+2. Create and use Format Masks.
+
+3. Insert data into a DATE column.
+
+4. Commit or Rollback transactions. 5. Implement the UPDATE
+
+command.
+
+6. Use Sequences and Pseudocolumns. 7. Administer object
+
+privileges.
+
+8. Retrieve data using SELECT.
+
+9. Join multiple tables.
+
+10.  Create Indexes.
+
+  11.  Create and manipulate views.
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 3 (Lessons A, B and C) in text.
+
+  3.   Complete Review Questions on pages 93, 138,and 185.
+
+
+
+
+
+Lab Exercises:
+
+     Lab C2 - Case studies 1, 2, and 3 on pages 94 and 95. Lab C3
+
+     - Case studies 1, 2, and 3 on pages 139 and 140.
+
+Unit 3
+
+             Lab C4 - Case study 1 on pages 185 (steps a, b, c).
+
+     Lab A/B 1 - Case study 5 on page 186.
+
+             Lab A/B 2 - Case studies 7, 8, and 9 on
+
+pages 187-188 (steps a only).
+
+
+
+     UNIT : 4
+
+NAME OF UNIT:  Introduction to PL/SQL
+
+UNIT OBJECTIVE:  The student will use the PL/SQL procedural
+
+programming language to create programs which manipulate data
+
+within a database. METHOD OF EVALUATION:  Satisfactory completion
+
+of lab assignments for this unit and Test 2. ESTIMATED TIME TO
+
+ACHIEVE:  3 weeks
+
+LEARNING OBJECTIVES: The student will be able to: 1. Understand
+
+the basics of PL/SQL programming. 2. Incorporate variables with
+
+data types into a program.
+
+3. Perform arithmetic operations within a program.
+
+4. Write, execute, and debug a PL/SQL program.
+
+5. Perform character and string data manipulation.
+
+6. Use PL/SQL selection control structures of IF/THEN and
+
+IF/ELSIF.
+
+7. Incorporate Loops into a program.
+
+8. Use Implicit and Explicit Cursors.
+
+9. Create and Populate Tables in PL/SQL. 10. Handle errors and
+
+exceptions. RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 4 (Lessons A and B) in text.
+
+3.   Complete Review Questions on pages 223 and
+
+271.
+
+Lab Exercises:
+
+     Lab C5 - Case study 7 on page 226.
+
+               Lab C6 - Case study 2 on page 272.
+
+     Lab A/B 3 - Case study 9 on page 276. UNIT : 5
+
+NAME OF UNIT:  Advanced PL/SQL Programming
+
+UNIT OBJECTIVE:  The student will learn advanced programming
+
+concepts of the PL/SQL procedural programming language.
+
+
+
+Unit 5
+
+METHOD OF EVALUATION:  Satisfactory completion of lab assignments
+
+for this unit and Test 2. ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+LEARNING OBJECTIVES: The student will be able to: 1. Create
+
+modular programs using procedures and functions.
+
+2. Correctly pass parameters.
+
+3. Create and debug stored program units.
+
+4. Use Procedure Builder to create client-side procedures.
+
+5. Create Packages.
+
+6. Create database triggers.
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 5 (Lessons A and B) in text.
+
+3.   Complete Review Questions on pages 319 and
+
+356.
+
+Lab Exercises:
+
+     Lab C7 - Case study 1 on page 319.
+
+              Lab C8 - Case studies 4 on page 358.
+
+            Lab A/B 4 - Case study 3 on page 320. Lab
+
+     A/B 5 - Case study 7 on page 360.
+
+     UNIT : 6
+
+NAME OF UNIT:  Creating Oracle Data Block Forms
+
+
+
+UNIT OBJECTIVE:  The student will learn how to use Form Builder
+
+to create Windows based forms to interface with databases.
+
+METHOD OF EVALUATION:  Satisfactory completion of lab assignments
+
+for this unit and Test 1. ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+LEARNING OBJECTIVES: The student will be able to: 1. Use and
+
+understand a prewritten form.
+
+2. Create a block form using From Builder.
+
+3. Understand form components and manage them
+
+through the Object Navigator.
+
+
+
+4. Modify a form and form properties.
+
+5. Create multiple table form.
+
+6. Work with format masks and triggers.
+
+7. Create list of values (LOVs) to produce
+
+foreign key values.
+
+8. Incorporate various form elements such as
+
+buttons, lists, check boxes and Text Item
+
+Editors.
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+1.   Attend lecture and computer laboratory
+
+class.
+
+2.   Read Chapter 6 in text.
+
+3.   Complete Review Questions on pages 416, 450,
+
+and 503.
+
+Lab Exercises: (Each must be demonstrated to the instructor in
+
+the lab)
+
+     Lab C9 - Case study 1 on page 417.
+
+                   Lab C10- Case study 6 on page 453. Lab C11 -
+
+                   Case study 4 on page 505
+
+          Lab A/B 6 - Case studies 10 on page 455. Lab
+
+                                
+
+                                
+
+     A/B 7 - Case study 9 on page 507.

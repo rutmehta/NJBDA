@@ -1,0 +1,202 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Ocean County College
+
+Course syllabus
+
+
+
+1.Course Number and Title:M261 - Precalculus Techniques and Applications
+
+
+
+2.Semester Hours:4Contact Hours:(4       0)
+
+LecLab
+
+3.Catalog Description:
+
+
+
+This course is specifically designed as an accelerated review of algebraic, 
+geometric, and trigonometric topics that will enable the highly motivated 
+student to begin calculus immediately upon completion.  Critical thinking 
+skills will be developed through the study of polynomial, rational, 
+trigonometric, logarithmic, and exponential functions and their graphs from 
+an algebraic, analytic, and geometric perspectives.  Other topics to be 
+studied are systems of equations and inequalities, matrices and 
+determinants, sequences and series, and mathematical induction.  Technology 
+and mathematical modeling will be utilized throughout the course.  Note:  
+Students who complete M164 or M167 with a grade of B or higher should not 
+need M261 prior to enrolling in M265. 
+
+
+
+4.Prerequisites:Algebra Placement level of no remediation and a minimum of 
+three (3) years of high school algebra (including trigonometry) with a grade 
+of B or higher. 
+
+
+
+5.Maximum Class Size:35
+
+Lab Fee:0
+
+Differential Funding Category:1
+
+
+
+6.Justification:
+
+a.This course strengthens the necessary foundation for courses required in 
+the study of Computer Science, Engineering, Science, and Mathematics.  It 
+provides the student with the critical thinking ability needed for future 
+success as well as an understanding of the concepts. 
+
+
+
+b.Some of the topics covered in this course are already covered in the 
+prerequisite course at a skill manipulations level.  However, in this course 
+these topics will be explored in greater depth and application, enabling the 
+students to expand their knowledge and understanding of the material. 
+
+
+
+c.With the advent of technology, students need to be aware of the power of, 
+and gain experience in the use of, computer software and graphing 
+calculators.  Using these technologies enhances the topics presented and 
+fosters a better understanding of the material. 
+
+
+
+d.This course supports the mission of the college by providing students an 
+accelerated method of attaining the mastery of the mathematical skills and 
+concepts which will enable the student to reach their goal of transfer to 
+the baccalaureate institution. 
+
+
+
+e.This Precalculus course compares to courses worth 4 credits with the same 
+title offered by at least ten (10) New Jersey colleges or universities (for 
+example Rutgers, NJIT, Monmouth, Rider, and Richard Stockton).  Currently, 
+these institutions do not accept our 3 credit Precalculus course since their 
+Precalculus course is 4 credits. 
+
+
+
+7.Course Objectives:
+
+a.To study functions, their graphs, transformations, and inverses.  
+
+b.To model functions from applications.
+
+c.To analyze polynomial and rational functions and their graphs.
+
+d.To study the complex number system.
+
+e.To study exponential and logarithmic functions, their graphs and 
+applications. 
+
+f.To analyze the unit circle and apply trigonometric functions.
+
+g.To study trigonometric functions and their graphs.
+
+h.To analyze right triangle trigonometry through applications.
+
+i.To study analytic trigonometry through trigonometric identities, formulas, 
+and equations. 
+
+j.To study systems of equations and inequalities through matrices and 
+applications. 
+
+k.To develop analytic geometry through the study of conic sections.
+
+l.To develop an understanding of sequences and series.
+
+
+
+8.Methods of Instruction:
+
+a.Lecture
+
+b.Class discussion
+
+c.Group discussion
+
+d.Computer applications
+
+e.Graphing calculator applications
+
+
+
+9. Assessment
+
+There will be four tests during the semester.  The first test covers 
+material 
+
+from chapters 2 and 3, the second test covers chapter 4, the third test
+
+Covers chapters 5 and 6 and the fourth test covers chapters 7, 8 and part of 
+9.  There are no make-up tests students who miss a test will be assigned a 
+grade of zero.  The use of graphing calculators or computers 
+
+will be at the discretion of the instructor.
+
+
+
+
+
+
+
+
+
+10.Instructional Materials:
+
+
+
+a.Text:  Precalculus by Stewart, Redlin, Watson, 3rd Editition
+
+b.Software Package:Computerized Tutorial (ancillary to text) by GWO, 
+Brooks/Cole 
+
+c.Computer software: Converge
+
+d.Graphing calculator
+
+
+
+e.Student Solutions Manual and Student Study Guide
+
+
+
+11.Course Topics:
+
+a.Functions:  characteristics, graphs and inverses
+
+b.Polynomial and rational functions
+
+c.Complex number system
+
+d.Exponential and logarithmic functions, graphs, and applications
+
+e.Trigonometric functions, graphs and applications
+
+f.Inverse trigonometric functions and their graphs
+
+g.Analytic trigonometry including trigonometric identities and trigonometric 
+equations 
+
+h.Conic sections
+
+i.Systems of equations and inequalities including matrices
+
+j.Sequences and series
+
+k.Mathematical induction
+
+
+
+
+
+Date(s) reviewed/revised:  May 2001 by B. Feneis

@@ -1,0 +1,488 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+1
+
+Health Information Technology 200
+
+Statistics for Health Information Technology
+
+Credits:  3
+
+Prerequisites: Elements of Statistics (MTH-111), Health
+
+               Informatics (HIT-110), Medical Reimbursement
+
+               (MDC115), Computer Literacy (CSC-101) or
+
+               Personal Computer Applications (CIS-101)
+
+Date of Last Revision:  September 2004
+
+
+
+Lynette Williamson
+
+Coordinator, Health Information Technology
+
+(856) 968-1331
+
+lwilliamsoncamdencc.edu
+
+
+
+Course Description/Goals:     This course will build on the
+
+information presented in Elements of Statistics (MTH 111).
+
+The objective of this course is to target the student to the
+
+application of statistical methods in the field of Health
+
+Information Technology. Specific ratios and rates directly
+
+related to the acute care medical environment will be a part
+
+of classroom discussion. Practical application of class
+
+lectures will be completed.  The concepts of data
+
+presentation, computerization of statistics, and the
+
+application of this information to non-acute care medical
+
+environments will also be addressed.  It is important that
+
+students have strong familiarity with this information since
+
+it can be a vital part of job duties for Health Information
+
+Technology Technicians.
+
+
+
+Course Objectives/Student Learning Outcomes:(Cognitive,
+
+Psychomotor, Affective Domains)
+
+
+
+     Upon completion of this course, the student will be
+
+     able to: 1.    Differentiate between descriptive and
+
+     inferential
+
+statistic
+
+   2..  Define, differentiate, and apply the terms census,
+
+daily census, inpatient service
+
+          day, and total inpatient service days.
+
+     3.   Compute daily census and inpatient service days
+
+using
+
+admission and discharge
+
+          data provided.
+
+     4.   Define and differentiate among the terms bed
+
+count,
+
+newborn bed count, bed
+
+          count days, and newborn bed count days.
+
+     5.   Compute the bed occupancy ratio for any period
+
+given
+
+the data representing bed
+
+          count and inpatient service days
+
+     6.   Compute average length of stay using formulas
+
+     7.   Define and differentiate among
+
+neonatal deaths,
+
+postneonatal deaths, and infant
+
+          deaths
+
+
+
+     8.   Compute infant mortality rates and fetal
+
+death rates
+
+     9.   Discuss infection rate
+
+  10.  Define and calculate postoperative infection
+
+                        rate
+
+     11.  Define and calculate death rate
+
+     12.  Discuss net death rate, postoperative death
+
+rate, and anesthesia death
+
+     13.  Define cancer mortality rate
+
+     14.  Define the terms hospital inpatient
+
+autopsy, hospital autopsy and autopsy rate
+
+ 15.  Compute gross autopsy rate, net autopsy rate,
+
+                         and
+
+adjusted hospital autopsy rate
+
+     16.  Describe the uses of statistics computed
+
+within the HIM department
+
+     17.  Determine HIM labor costs for budgeting
+
+     purposes 18.  Calculate cost breakdowns of
+
+     HIM functions for
+
+budgeting purposes
+
+19.  Recognize how statistics are used within the
+
+                       HIM
+
+department to plan workspace
+
+          and health record storage
+
+  20.  Calculate resource allocation in managed
+
+                      care
+
+organizations
+
+     21.  Discuss the types of statistics kept
+
+for ambulatory care facilities
+
+     22.  Recognize how long-term care statistics may differ
+
+from traditional acute care
+
+          statistics
+
+     23.  Describe two instruments used to calculate statistics
+
+in behavioral health settings
+
+     24.  Discuss categorical data: nominal, ordinal, interval,
+
+and ratio
+
+     25.  Differentiate between numerical data, discrete data,
+
+and continuous data
+
+     26.  Describe and differentiate between tables and graphs
+
+     27.  Create tables and graphs to depict statistical
+
+information
+
+     28.  Verify computerized statistical reports for accuracy
+
+     29.  Recalculate statistics for greater specificity
+
+     30.  Generate computerized statistical reports
+
+     31.  Demonstrate an understanding of basic research
+
+principles
+
+     32.  Define, differentiate and apply the terms hypothesis,
+
+reliability and validity
+
+     33.  Describe the difference between quantitative and
+
+qualitative research
+
+     34.  Differentiate among research designs
+
+     35.  Explain exploratory and conclusive research design
+
+methods
+
+     36.  Differentiate between primary and secondary research
+
+
+
+Course Outline:
+
+     1.   Mathematics Review
+
+          A.   Basic Review of Ratio, Proportion, Percentage,
+
+and Rates
+
+          B.   Measures of Central Tendency
+
+     2.   Measures of Variation
+
+          A.   Variability, Range, Variance, Standard Deviation
+
+     3.   Patient Census Data
+
+          A.   Census
+
+B.   Daily Census
+
+C.   Inpatient Services Days
+
+                1.   Definitions
+
+2.   Calculation of Inpatient Service Days
+
+          D.   Average Daily Census
+
+      4.   Bed Occupancy Ratio
+
+          A.   Bed Count, Bed Count Days
+
+B.   Bed Occupancy Ration
+
+     5.   Length of Stay Data
+
+          A.   Length of Stay, Total Length of Stay, Average
+
+Length of Stay
+
+B.   Average Newborn Length of Stay
+
+     6.   Obstetrical and Perinatal Rates
+
+          A.   Infant
+
+Mortality Rate
+
+B.   Fetal Death Rate
+
+C.   Maternal Death Rate
+
+D.   Cesarean Section
+
+Rate
+
+     7.   Morbidity and
+
+Other Rates
+
+          A.
+
+Infection Rate
+
+B.   Postoperative
+
+Infection Rate
+
+C.   Other Rates
+
+     8.   Death Rates
+
+          A.   Death
+
+Rate
+
+B.   Cancer Mortality Rate
+
+     9.   Hospital Autopsies and Autopsy Rates
+
+          A.   Gross Autopsy Rate
+
+B.   Net Autopsy Rate
+
+          C.   Hospital Autopsies
+
+D.   Adjusted Hospital Autopsy Rate
+
+     10.  Statistics Computed within the Health
+
+     Information Management Department
+
+          A.   Staff Workload and Productivity
+
+B.   Work Space
+
+     12.  Statistics Computed for Alternative
+
+          Care Settings A.    Managed Care
+
+          Organizations
+
+B.   Ambulatory Care Facilities
+
+C.   Long-Term Care
+
+Facilities
+
+D.   Behavioral
+
+Health Settings
+
+     13.  Data
+
+Presentation
+
+          A.   Types of Data
+
+B.   Data Display
+
+     14.  Computerization of Statistics
+
+          A.   Verification of Reports
+
+B.   Use of Spreadsheets
+
+     15.  Basic Research Principles
+
+          A.   Quantitative and Qualitative Research
+
+          B.   Research Designs
+
+          C.   Steps in Research Process
+
+          D.   Exploratory and Conclusive Research
+
+Design Methods
+
+          E.   Sample Types
+
+               1.   probability and nonprobability
+
+               2.   simple random
+
+               3.   stratified
+
+               4.   cluster
+
+               5.   judgment
+
+               6.   quota
+
+               7.   convenience
+
+          F.   Primary and Secondary Research
+
+
+
+Course Activities:  This is a lecture-based course,
+
+which will emphasize real-world cases and additional
+
+current resources from outside sources (Internet,
+
+Journal of AHIMA).  Practical application of lecture
+
+information will be reinforced through class
+
+exercises in statistical application.
+
+
+
+Student Evaluation:
+
+               Tests               40
+
+                    Homework Exercises  20
+
+               Quizzes             30
+
+               Case Studies        10
+
+Course Materials:
+
+     Textbook(s):   Calculating  Reporting
+
+Healthcare Statistics
+
+                    Loretta A. Horton, Med, RHIA,
+
+                    Current Edition, Publisher: AHIMA
+
+                    
+
+     Supplemental Materials:  Health Information
+
+                     Management
+
+Technology: An
+
+                         Applied Approach, Current
+
+Edition, Publisher: AHIMA
+
+                         Microsoft Excel Software
+
+Program
+
+
+
+
+
+
+
+
+
+Domains and Subdomains from the American Health
+
+Information Management Association for the Registered
+
+Health Information Technician
+
+
+
+II.  Domain: Health Information Analysis
+
+  4. Calculate and interpret descriptive
+
+healthcare statistics
+
+  5. Present data in verbal and written forms
+
+IV.  Domain: Information Technology
+
+and Systems
+
+    A.  Subdomain: Information
+
+Technology
+
+  1.      Use common software packages
+
+  3.  Query facility-wide databases to retrieve
+
+information
+
+  4. Generate reports from various databases
+
+
+
+V. Domain: Organization and Supervision
+
+  1.  Monitor staffing levels, turnaround time,
+
+productivity and
+
+workflow for supervisory
+
+       purposes

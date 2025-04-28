@@ -1,0 +1,439 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+                                                     HIT-105
+
+Health Information Technology 105
+
+Healthcare Data, Content, and Structure
+
+Credits:  3
+
+Prerequisites:  None
+
+Co-requisites:  Computer Literacy (CSC 101),
+
+     or Personal Computer Applications (CIS 101)
+
+New Course:  Fall 2003
+
+
+
+Lynette Williamson
+
+Coordinator, Health Information Technology
+
+(856) 227-7200  x3131
+
+lwilliamsoncamdencc.edu
+
+
+
+Course Description/Goals:
+
+This course will examine the aspect of taking health data and
+
+presenting it as information.  Focus will be on verification of
+
+data, data timeliness, data accuracy, and data appropriateness.
+
+Various data sets and data sources will be discussed.
+
+Governmental requirements for data reporting will be reviewed.
+
+Data analysis that results in application of information will be
+
+emphasized.  Basics of medical records, format, and documentation
+
+will also be discussed
+
+
+
+Course Objectives/Student Learning Outcomes:
+
+Upon completion of this course, the student will be able to:
+
+     1.   Define, data, data set, and information
+
+2.   Identify and discuss healthcare delivery systems
+
+3.   List and explain elements of the Uniform Hospital Discharge
+
+Data Set (UHDDS)
+
+4.   List and explain elements of the Uniform Ambulatory Care
+
+Data Set
+
+5.   Define and distinguish between data elements including
+
+characters, fields, records, and files
+
+6.   Identify, discuss, and explain healthcare documentation
+
+types
+
+7.   Understand the elements of health record processing,
+
+including record analysis, record processing, storage, retrieval
+
+and retention
+
+8.   Identify and discuss various users of health information
+
+9.   Identify and discuss various healthcare providers
+
+10.  Interpret and apply laws of regulatory agencies and
+
+accreditation bodies
+
+
+
+
+
+Course Outline:
+
+          I.   Healthcare Delivery Systems
+
+                a.   Healthcare professions
+
+b.   Healthcare facilities
+
+c.   Continuum of care
+
+d.   Legal and regulatory environment
+
+e.   Accreditation
+
+f.   Professional standards
+
+
+
+          II.  Data Elements
+
+               a.   Concepts
+
+b.   Data descriptions
+
+                    1.   characters
+
+2.   fields
+
+3.   records
+
+4.   files
+
+               c.   Data elements
+
+                    1.   integrated record
+
+2.   source-oriented record
+
+3.   problem-oriented record
+
+4.   computer-based
+
+5.   problem list
+
+               d.   Data categories
+
+e.   Data accuracy
+
+f.   Data validity
+
+g.   Data sets
+
+h.   Data security
+
+i.   Data collection
+
+j.   Data quality
+
+k.   Data needs for computer and paper environment
+
+l.   Data organization
+
+m.   Documentation Types
+
+                    1.   SOAP method
+
+2.   Narrative method
+
+          III. Data Processing and Collection
+
+               a.   Timeliness
+
+b.   Devices
+
+c.   Completeness
+
+d.   Controls
+
+e.   Assembly
+
+f.   Analysis
+
+                    1.   Qualitative Analysis
+
+                    2.   Quantitative Analysis
+
+                    3.   Compliance
+
+               g.   Coding
+
+h.   Databases
+
+i.   Retrieval
+
+j.   Abstracting
+
+          IV.  Registries
+
+               a.   history
+
+b.   Types
+
+                    1.   cancer
+
+2.   birth defects
+
+3.   diabetes
+
+4.   organ transplant
+
+5.   trauma
+
+          V.Access, Retention, Storage, and Retrieval
+
+               a.   Paper-based
+
+b.   Computer-based
+
+c.   Master Patient Index (MPI)
+
+d.   Filing
+
+                    1.   methods
+
+2.   computer vs. paper
+
+               e.   Alternative storage methods
+
+f.   Chart Locator Systems
+
+g.   Security
+
+h.   Retrieval of Aggregate Data
+
+          IV.  Uses of Health Information
+
+            a.   users
+
+b.   formats
+
+c.   presentation of data
+
+d.   indices
+
+     
+
+Course Activities:
+
+Lecture, analysis and abstraction of data through simulation,
+
+utilization of software to simulate data collection and analysis,
+
+presentation of information via verbal and written format
+
+
+
+Student Evaluation:  The student will be evaluated on the degree
+
+to which student learning outcomes are achieved.  A variety of
+
+methods may be used such as tests, class participation, projects,
+
+homework assignments, etc.  (There must be some evidence that the
+
+learning outcomes have been achieved.)
+
+
+
+          Exams                         40
+
+          Assignments (written  verbal)     30
+
+          Quizzes                  20
+
+          Attendance/Participation      10
+
+                                   100
+
+Course Materials:
+
+
+
+     Textbook(s):        Davis, N., LaCour, M., 2003,
+
+Introduction to Health
+
+                    Information Technology, Philadelphia: W.B.
+
+Saunders
+
+
+
+     Supplemental Materials:
+
+                    Abdelhak, M., Editor, 2001, Health
+
+Information:
+
+                    Management of a Strategic Resource (2nd
+
+edition),
+
+                    Philadelphia: W.B. Saunders
+
+
+
+                    Journal of AHIMA
+
+
+
+
+
+
+
+
+
+
+
+Domains and Subdomains of the American Health Information
+
+Management Association
+
+
+
+Registered Health Information Technician
+
+I.   Domain: Healthcare Data
+
+  A. Subdomain: Data Structure, Content and Use
+
+     1. Verify timeliness, completeness, accuracy, and
+
+appropriateness of data and
+
+           data sources.
+
+     2.  Conduct qualitative analysis to assure that
+
+documentation in the health record
+
+          supports the diagnosis and reflects the progress,
+
+     clinical findings, and discharge status
+
+II.  Domain: Health Information Analysis
+
+           1.  Abstract records for department
+
+indices/databases/registries
+
+           5.  Present data in verbal and written forms
+
+III.  Domain: Healthcare Environment
+
+    A. Subdomain: Healthcare Delivery Systems
+
+             2.  Understand the role of various providers and
+
+disciplines throughout the continuum of
+
+healthcare services
+
+     C.  Subdomain: Healthcare Information Requirements and
+
+Standards
+
+               2. Perform quantitative analysis of health records
+
+to evaluate compliance with
+
+         regulations and standards
+
+              3. Perform qualitative analysis of health records
+
+to evaluate compliance
+
+IV.   Domain: Information Technology and Systems
+
+           1.  Use common software packages
+
+              5.  Protect data integrity and validity
+
+           6.   Identify common software problems
+
+
+
+Certified Coding Associate
+
+I.   Health Data Content, Requirements, and Standards
+
+     1.  Conduct qualitative analysis to assure that
+
+     documentation in the health record supports
+
+     the diagnosis and reflects the progress, clinical findings
+
+     and discharge status of the
+
+     patient
+
+     2.  Assist in developing health record documentation
+
+     guidelines
+
+     3.  Verify timeliness, completeness, accuracy, and
+
+     appropriateness of data and data
+
+     sources
+
+     4.  Abstract records for department
+
+indices/databases/registries
+
+     5.  Request patient-specific information from other sources
+
+     6.  Perform quantitative analysis of health records to
+
+     evaluate compliance with       regulations and standards
+
+     7.  Perform qualitative analysis of health records to
+
+evaluate compliance with      regulations and standards
+
+     8.   Ensure facility-wide adherence to health information
+
+services regulatory          requirements
+
+III. Information Technology and Healthcare Delivery
+
+     1.   Protect data integrity and validity using software or
+
+hardware technology
+
+     2.   Query facility-wide databases to retrieve information
+
+     3.   Use common software packages
+
+     4.   Understand the role of various providers and
+
+disciplines throughout the
+
+          continuum of healthcare services

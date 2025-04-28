@@ -1,0 +1,492 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP 269
+
+
+
+COURSE NAME
+
+Database Concepts
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+COMP126 or equivalent knowledge
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+NEW
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course is intended to teach the student how to analyze data and 
+effectively design databases to store such data. Relational database design, 
+implementation, and administration are covered. Design concepts include 
+entity relationship modeling and normalization. Implementation and 
+administration are covered through basic and advanced SQL. A relational 
+database management system and drawing software are used in a laboratory 
+environment to teach the practical application of the theories covered. 
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+The student will be able to create databases by applying theoretical 
+principles of database design.  Implementation and administration of 
+databases is demonstrated through a working knowledge of SQL. 
+
+I. Database Systems and Data Models
+
+II. The Relational Database Model
+
+III. Entity Relationship Modeling
+
+IV. Normalization of Database Tables
+
+V. Advanced Data Modeling
+
+VI. Introduction to SQL
+
+VII. Advanced SQL
+
+VIII. Database Design
+
+IX. Transaction Management
+
+X. Performance Tuning
+
+XI. Web Development
+
+XII. Programming
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Database systems: Design, Implementation, and Management, 7th ed., Peter Rob 
+and Carlos Coronel,  Course Technology, ISBN: 1-4188-3596-x 
+
+Supplemental Text: Database Systems Using Oracle
+
+Nilesh Shah, Prentice Hall, ISBN 0-13-101857-4
+
+
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+GRADE DETERMINANTS
+
+    GRADEREQUIREMENTS
+
+
+
+AEarn points between 90 thru 100 
+
+BEarn points between 85 thru 89
+
+BEarn points between 80 thru 84
+
+CEarn points between 75 thru 79
+
+CEarn points between 70 thru 74
+
+DEarn points between 60 thru 69
+
+      F      Earn points between below 60 or 3 
+
+        unexcused absences
+
+
+
+Midterm exam: 25
+
+Final exam: 25
+
+Lab Assignments: 50Assignments are graded for completeness and accuracy. 
+Assignments are to be submitted in a timely manner and scores will be 
+reduced for each week they are late. 
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT 1: Database Systems and Data Models
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Describe the difference between data and information
+
+State flaws in a file system of data management
+
+List the database systems main components
+
+List the functions of a DBMS
+
+Use the basic data-modeling building blocks
+
+Classify data models by level of abstraction
+
+
+
+Assignments:
+
+Read chapters 1 and 2 in text.
+
+Assignment 1: Questions 1-10, pages 25-27
+
+Assignment 2: Questions 1-12, pages 53-54
+
+
+
+UNIT 2: The Relational Database Model
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Explain why indexing is important
+
+Show how data redundancy is handled in a relational database
+
+Understand how the relational database model logically views data
+
+Use the relational database operators, the data dictionary, and the system 
+catalog 
+
+
+
+Assignments:
+
+Read chapter 3 in text.
+
+Assignment 3: Question 4, pages 137-138
+
+
+
+UNIT 3: Entity Relationship Modeling
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Explain the main characteristics of entity relationship components
+
+Describe how relationships between entities are defined and redefined
+
+Describe how relationships are incorporated into the design process
+
+Create an ER model
+
+
+
+Assignments:
+
+Read chapter 4 in text.
+
+Read Appendixes A, B and E of online content
+
+Assignment 4: Question 4, pages 137-138
+
+
+
+UNIT 4: Normalization of Database Tables
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Understand 1NF, 2NF, 3NF, BCNF, and 4NF
+
+Understand benefits of normalizing data
+
+Apply the Normalization process to create tables
+
+
+
+Assignments:
+
+Read chapter 5 in text.
+
+Assignment 5: Questions 1-4, page 176
+
+
+
+UNIT 5: Advanced Data Modeling
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Understand the extended entity relationship models main constructs
+
+Understand how entity clusters are used
+
+Identify good primary keys
+
+Apply flexible solutions
+
+Evaluate issues when developing EER diagrams
+
+
+
+Assignments:
+
+Read chapter 6 in text.
+
+Assignment 6: Question 1, page 204
+
+
+
+UNIT 6: Introduction to SQL
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Use SQL commands to create tables, indexes and views
+
+Use SQL commands to add, modify and delete data
+
+Use SQL to extract information from tables
+
+
+
+Assignments:
+
+Read chapter 7 in text.
+
+Assignment 7: Questions 1-16, pages 271-273
+
+
+
+
+
+UNIT 7: Advanced SQL
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Apply SQL operator UNION, INTERSECT, MINUS
+
+Create sub queries and correlated queries
+
+Use string and date functions to manipulate data
+
+Create views
+
+Create triggers and stored procedures
+
+
+
+Assignments:
+
+Read chapter 8 in text.
+
+Assignment 8: Questions 1-13, pages 354-355
+
+
+
+UNIT 8: Database Design
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Understand the systems development life cycle (SDLC)
+
+Understand the database life cycle (BDLC)
+
+Evaluate and revise databases within the SDLC and DBLC frameworks
+
+Evaluate for use: top-down, bottom-down, centralized and decentralized 
+designs 
+
+
+
+Assignments:
+
+Read chapter 9 in text.
+
+Read Appendix H of online content
+
+Assignment 9: Question 1, pages 392
+
+
+
+UNIT 9: Transaction Management
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Understand database transactions
+
+Comprehend various locking methods
+
+Realize stamping methods used for concurrency control
+
+Apply recovery management
+
+
+
+Assignments:
+
+Read chapter 10 in text.
+
+Assignment 10: Question 6, pages 423-424
+
+
+
+
+
+UNIT 10: Performance Tuning
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Understand how a DBMS processes SQL queries
+
+Realize the importance of indexes
+
+Apply common practices to write efficient SQL code
+
+Tune the DBMS for optimal performance
+
+
+
+Assignments:
+
+Read chapter 11 in text.
+
+Read Appendix F of online content
+
+Assignment 11: Questions 1-6, page 452
+
+
+
+UNIT 11: Web Development
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Differentiate between various connectivity technologies
+
+Use Web-to-database middleware
+
+Use Cold Fusion to build a web-based database front end
+
+Understand the basics of XML
+
+
+
+Assignments:
+
+Read chapter 14 in text.
+
+Read Appendix J of online content
+
+Assignment 12: Questions 1,6,9, page 587
+
+
+
+UNIT 12: Programming
+
+
+
+LEARNING OBJECTIVES: The student will be able to:
+
+
+
+Create anonymous blocks to access data
+
+Create stored procedures
+
+Create stored functions
+
+
+
+Assignments:
+
+To be supplied by instructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

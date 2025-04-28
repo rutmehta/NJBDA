@@ -1,0 +1,672 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ARTS,  COMMUNICATION AND TECHNOLOGY
+
+Page
+
+
+
+
+
+Prepared by Queen E. Odinkemere
+
+Rev 01/2003
+
+
+
+Prepared by Queen E. Odinkemere
+
+Rev 1/2003
+
+
+
+                                 
+
+                                 
+
+                  Mercer County Community College
+
+                                 
+
+            Arts, Communication and Technology Division
+
+                                 
+
+                              IST223
+
+                                 
+
+               ADVANCED PROGRAMMING VISUAL BASIC.NET
+
+                                 
+
+
+
+COURSE DESCRIPTION
+
+
+
+Students  learn how to use ADO.NET DataSets and how to build a Data-
+
+Bound  application.  Students  also  build  Windows  services,  MDI
+
+applications and build reports using Crystal Reports.  Also  covers
+
+security  issues in the .NET environment and how to  deploy  VB.NET
+
+applications. Visual Basic .NET programmers will be developing more
+
+advanced applications.
+
+
+
+
+
+Text (s):
+
+
+
+Recommended Supplementary Texts From The Library:
+
+
+
+          
+
+Prerequisite:  IST123   Intermediate  Programming in Visual
+
+Basic.NET
+
+
+
+Co-requisites:  None
+
+
+
+Credits:  3                   Lecture Hours:  2
+
+Laboratory Hours:  2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Food  and drink are strictly prohibited in classrooms as per health
+
+and  safety laws.  Students may not bring in chemicals or  cleaning
+
+fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox             Latest Review:
+
+Fall 2003
+
+COURSE OBJECTIVES
+
+
+
+In  this course students will learn how to use ADO.NET DataSets and
+
+how  to  build a Data-Bound application. Students will  also  build
+
+Windows  services, MDI applications and build reports using Crystal
+
+Reports.  This  course  also covers security  issues  in  the  .NET
+
+environment  and  how to deploy VB.NET applications.  Visual  Basic
+
+.NET programmers who will be developing more advanced applications.
+
+
+
+TESTS
+
+
+
+There will be given a minimum of six tests/mini programs. Each test
+
+may  contain  sentences completion, interpretation of  a  flowchart
+
+and/or program, and may require the writing of a program or program
+
+element.
+
+
+
+QUIZZES
+
+
+
+Students  should  expect  a brief quiz each  week  based  upon  the
+
+previous lecture and reading assignment.
+
+
+
+LABORATORY
+
+
+
+Students  will be given a minimum of six projects to introduce  the
+
+programming  environment  to  provide  reinforcement  of   material
+
+presented in lecture.  All assignments will have deadlines.
+
+
+
+LABORATORY EVALUTION
+
+
+
+Laboratory/Projects Report Scoring Guide
+
+
+
+Scoring Standard
+
+
+
+You  must  achieved  a  rating of at least 2  or  yes  on  each
+
+criterion  to demonstrate competence.  Work receiving a  no  will
+
+not  be  evaluated  further  until corrected,  and  points  may  be
+
+deducted on a resubmission.
+
+
+
+Rating Scale
+
+
+
+3:    Exceeds  criterion by showing creativity, insight, precision,
+
+or thoroughness
+
+2:   Meets criterion at a minimum level of competence
+
+1:   Does not meet criterion
+
+0:   Item is missing, inappropriate, or incorrect
+
+
+
+SCORING GUIDE FOR LABORATORY ASSIGNMENTS
+
+
+
+                                                 
+
+Criteria                                         Ratings
+
+                                                 
+
+Lab  report includes a title page with the title Yes
+
+of  the  project/assignment,  the  date  it  was no
+
+performed,  and  the names  of  the  people  who 
+
+conducted the experiment                         
+
+Lab report includes an overview of the procedure 3                2
+
+used for the lab                                 1      0
+
+
+
+Lab  report  includes Design of user  interface, 3                2
+
+Plan the properties, Plan the Basic code         1      0
+
+
+
+Lab  report includes a summary of results chart, 3                2
+
+graph, or drawing                                1      0
+
+
+
+Lab   report  includes  a  description  of   the 3                2
+
+conclusions you drew and why                     1      0
+
+
+
+Lab  report  includes an appendix of  supporting 3                2
+
+documentation                                    1      0
+
+
+
+
+
+Lab report is word processed                     Yes
+
+                                                 no
+
+                                                 
+
+Lab  report  is  well  organized:  sections  are 3                2
+
+clearly marked with appropriate headings         1      0
+
+
+
+Lab    report    uses   appropriate   scientific 3                2
+
+vocabulary                                       1      0
+
+
+
+
+
+
+
+
+
+Electronic Presentation Scoring Guide
+
+
+
+Scoring Standard
+
+
+
+Student must receive a rating of at least 1 on each criterion  to
+
+demonstrate competence.
+
+
+
+Rating Scale
+
+
+
+2  Exceeds criterion
+
+1 Meets criterion
+
+0 Does not meet criterion
+
+Scoring Guide for Presentations
+
+
+
+Criteria                      Ratings
+
+                              
+
+  O    Presentation includes a
+
+     minimum  of SPECIFIC NUMBER2         1           0
+
+     Slides
+
+  
+
+  O    Presentation includes a
+
+     variety of text, graphics,2          1           0
+
+     clip art, and sounds     
+
+                              
+
+  O      Presentation  has  a 
+
+     professional look with an2           1            0
+
+     overall graphic theme
+
+  
+
+  O    Presentation slides are
+
+     visually neat and incorporate2            1            0
+
+     a variety of layouts
+
+  
+
+  O      Slides  uses   text, 
+
+     graphics,  sounds,   and 2            1            0
+
+     transitions that compliment
+
+     the information being shared
+
+  
+
+  O    Presentation fonts and 
+
+     transitions are consistent2            1             0
+
+     from slide to slide
+
+  
+
+  O    Presentation sounds add
+
+     to the overall show not 2            1             0
+
+     detract from it          
+
+                              
+
+  O     Graphics and clip art 
+
+     are visually appealing not2             1             0
+
+     overdone
+
+  
+
+Content                       
+
+
+
+  O    Presentation includes a
+
+     clear introduction, body, and2                            1
+
+     conclusion               0
+
+  
+
+  O       The    amount    of 
+
+     information presented is 2                            1
+
+     sufficient for the topic 0
+
+  
+
+  O     Information is  well- 
+
+     researched, well-written, and2                            1
+
+     well-organized           0
+
+  
+
+  O    Information is directly
+
+     related to the topic     2                            1
+
+                              0
+
+  O    Information is relevant
+
+     and interesting          2                            1
+
+                              0
+
+Communication                 
+
+
+
+  O    You maintain eye contact                             2
+
+     with the group           1              0
+
+  
+
+  
+
+  O    You deliver information
+
+     clearly                  2                            1
+
+                              0
+
+  O     You use the slides as 
+
+     presentation guides and add2                            1
+
+     to them verbally as necessary0
+
+  O      You   provide  slide 
+
+     handouts                 2                            1
+
+                              0
+
+
+
+
+
+
+
+FINAL GRADE
+
+
+
+     The final grade is a composite based upon:
+
+
+
+          Tests (Theory/projects/both)       40
+
+          Laboratory Major Projects(class)        30
+
+          Midterm Examination                15
+
+          Final Examination                    15
+
+
+
+
+
+
+
+
+
+
+
+Advanced Visual Basic .NET
+
+
+
+In  this course students will learn how to use ADO.NET DataSets and
+
+how  to  build a Data-Bound application. Students will  also  build
+
+Windows  services, MDI applications and build reports using Crystal
+
+Reports.  This  course  also covers security  issues  in  the  .NET
+
+environment  and  how  to deploy your VB.NET applications.   Visual
+
+Basic   .NET   programmers   will  be  developing   more   advanced
+
+applications.
+
+Prerequisites: Visual  Basic  .NET 
+
+or uivalent                        
+
+                                   
+
+                                   
+
+Programming  experience.  Creating Data Binding Techniques
+
+Data-Bound Applications                    Synchronizing  Multiple
+
+       Data Binding Basics             DataGrid Controls
+
+       Using the Data Form Wizard         Formatting  a  DataGrid
+
+Introduction to ASP.NET                 Control
+
+       A Review of Classic ASP             Limit  Editing  in   a
+
+       ASP.NET Web Applications        DataGrid
+
+       Rendering HTML with Server        Working with the ListBox
+
+     Controls                           Control
+
+        Using  ASP.NET to Deliver        Working with Binary Data
+
+     XML Web Services              Security
+
+Managing    Data   with    ADO.NET         Overview of Security in
+
+DataSets                                .NET
+
+        The  Role of DataSets  in        Permission Requests
+
+     ADO.NET                                  Using     Role-Based
+
+       Using DataSets in ASP.NET       Security
+
+       Saving DataSets in Session Multiple   Document   Interfaces
+
+     State                         (MDI) and Graphics (GDI)
+
+             Using      DataTable              Creating       MDI
+
+     Constraints    and    DataSet      Applications
+
+     DataRelations                        The Scribble Application
+
+          Using   DataSets   with        Drawing on Forms
+
+     DataAdapters to Modify Data            Creating   Transparent
+
+       The Transactional Model in      Areas in Forms
+
+     DataSets                             Creating Shaped Forms
+
+       DataSets and XML           Deployment
+
+       Typed DataSets                    Deployment Concepts
+
+Creating Windows Services                 Simple Deployment
+
+           Introducing    Windows            Windows    Installer
+
+     Services                           Deployment
+
+          Building   Your   First        HTTP Deployment
+
+     Windows Service
+
+       The FileWatcher Service
+
+Creating  and  Consuming  XML  Web
+
+Services
+
+       The Motivation for XML Web
+
+     Services
+
+         Creating  an   XML   Web
+
+     Service  with  Visual  Studio
+
+     .NET
+
+       Designing XML Web Services
+
+       Creating .NET Consumers
+
+        Web  Services and  Legacy
+
+     Clients
+
+        Discovering Web  Services
+
+     Using UDDI
+
+
+
+ACADEMIC INTEGRITY STATEMENT
+
+
+
+A  student who a.) knowingly represents work of others as  his/her
+
+own  b.)  uses or obtains unauthorized assistance in the execution
+
+of  any work or c.) gives fraudulent assistance to another student
+
+is  guilty  of  cheating.  Violators will be  penalized.  (Student
+
+Handbook)
+
+
+
+CLASSROOM CONDUCT STATEMENT
+
+
+
+It  is the students responsibility to attend all of their classes.
+
+If  they  miss  a  class  meeting  for  any  reason,  students  are
+
+responsible for all content that is covered, for announcements made
+
+in  their  absence, and for acquiring any materials that  may  have
+
+been  distributed in class. It is expected that students be on time
+
+for  all their classes. If students walk into a class after it  had
+
+begun,  it is expected that they choose a seat close to where  they
+
+entered the room so they do not disrupt the class meeting.
+
+
+
+Students  are expected to follow ordinary rules of courtesy  during
+
+class session. Engaging in private, side conversations during class
+
+time  is  distracting  to  other students and  to  the  instructor.
+
+Leaving class early without having informed the instructor prior to
+
+class  is  not  appropriate. Unless there is an emergency,  leaving
+
+class  and  returning while class is in session is  not  acceptable
+
+behavior.  Disruptive  behavior of any type,  including  sharpening
+
+pencils during class while someone is speaking, is not appropriate.
+
+
+
+The  college welcomes all students into an environment that creates
+
+a sense of community and pride and respect we are all here to work
+
+cooperatively and to learn together.

@@ -1,0 +1,164 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                            COURSE SYLLABUS
+
+                         Camden County College
+
+                          Blackwood, NJ 08012
+
+
+
+Course ID:          Computer Integrated Manufacturing Engineering
+
+Technology - CIM-211
+
+Course Name:   PLC Programming
+
+
+
+Credits:       4
+
+
+
+Prerequisites:      Electrical and Electronic Principles (EET-101)
+
+
+
+Co-requisites:      None
+
+
+
+New or Modified:    Modified, Same
+
+(List old course ID, if modified)
+
+
+
+Semester  Year Course will First Be Offered or, if modified, semester
+
+ year when revised course will first be offered: January 2005
+
+
+
+Contact Person:     Prof. Melvin Roberts
+
+
+
+Email Address:      mrobertscamdencc.edu
+
+
+
+Course Description:
+
+No investigation of the modern industrial environment would be
+
+complete without the study of the Programmable Logic Controller (PLC)
+
+and its associated programming language, Relay Ladder Logic (RLL).
+
+This course is designed to achieve these ends. This course will
+
+explore the history, theory and operation of the PLC. It will include
+
+wiring the PLC to real-world devices. It will cover those features
+
+common to all PLCs and briefly discuss those features offered on high-
+
+end machines. Both the capabilities and the limitations of the PLC
+
+will be discussed.
+
+
+
+The PLC used will be the Allen-Bradley SLC-500/02 processors. The
+
+programming environment will be Windows using the RSLogix Programming
+
+Package.
+
+
+
+Outline of Course Objectives:
+
+Upon completion of this course, the student will be able to:
+
+Design, read, write, edit and troubleshoot PLC programs for the Allen-
+
+Bradley SLC 500 PLC
+
+RSLogix software. The student will be able to install and troubleshoot
+
+field wiring to PLCs. The student will be able to converse in the PLC
+
+language, Relay Ladder Logic, by using mnemonics. The student will
+
+also be able to select the proper PLC to use on the job based on the
+
+number of I/O, the scan time, and the number of auxiliary devices such
+
+as Timers and Counters. The student will have also become familiar
+
+with what is the programming interface used by probably 95 of PLCs
+
+today, the IBM PC and its work-a-likes. The student will have gained
+
+familiarity with both DOS and the Windows programming environments.
+
+
+
+Course Materials:
+
+     Textbook:  Petruzella, Frank D. W, Programmable Logic
+
+Controllers, latest edition,
+
+                               New York: Glencoe/McGraw-Hill, NY
+
+
+
+                       Supplemental Materials: A couple of 3  high-
+
+                       density floppy disks should be purchased by
+
+                       the student for program storage and tutorial
+
+                       distribution.
+
+
+
+Grade Determinants:
+
+The student will be evaluated using a variety of methods such as
+
+tests, laboratory assignments and final exam.
+
+
+
+Schedule of Topics to be covered:
+
+Numbering Systems                       PLC Scan Time and Scan Logic
+
+Pattern
+
+Gates                                   Number Conversion
+
+Boolean Algebra                         PLC Devices Including:
+
+Computer/PLC Architecture                         Timers
+
+Ladder Diagrams                              Counters
+
+Common I/O Devices                           Internal Relays
+
+I/O Device Interfacing                       Relational Operators
+
+Complex Logic Circuits                       Latch/Unlatch Coils
+
+PLC Memory Mapping
+
+Subroutines (time permitting)
+
+
+
+Course Activities: Lecture and lab activities with hands-on emphasis.

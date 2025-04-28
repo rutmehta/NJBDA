@@ -1,0 +1,249 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+COURSE ID (DEPARTMENT AND COURSE NUMBER)
+
+Accounting and Legal Studies Department - ACC-222
+
+
+
+COURSE NAME
+
+Fraud Data Analysis
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+Credits: 3.0
+
+
+
+PREREQUISITE OR COREQUISITE COURSES OR ACADEMIC STANDING
+
+Prerequisite(s): ACC-221 (Fraud Examination)
+
+
+
+Co-requisite(s): ACC-223 (Fraud and the Law)
+
+
+
+NEW OR MODIFIED COURSE
+
+New Course
+
+
+
+SEMESTER AND YEAR COURSE WILL FIRST BE OFFERED
+
+Fall 2007
+
+
+
+NAME AND TELEPHONE NUMBER OR EMAIL ADDRESS OF DEPARTMENT CHAIR
+
+Richard A. Ellison
+
+Dept. Chairperson
+
+Accounting and Legal Studies Department
+
+732.906.2576
+
+E-mail: Rellisonmiddlesexcc.edu
+
+
+
+DETAILED COURSE DESCRIPTION:
+
+The study of computer-aided data analysis techniques for detecting and 
+
+investigating fraud cases, issues related to the collection and use of 
+
+digital evidence and collection of data from electronic devices.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+
+
+1.Perform a risk assessment given a specific scenario, fact pattern or 
+
+dataset with particular attention to IT controls, threats and 
+
+exposures.
+
+2.Apply the rules for the appropriate handling and custody of evidence in 
+
+an investigative scenario.
+
+3.Demonstrate how to use the internet and other resources to investigate 
+
+and collect evidence.
+
+4.Identify and utilize digital evidence in a case scenario.
+
+5.Recognize situations that require information security or computer 
+
+forensic specialists.
+
+6.List and describe the rules of e-discovery and be able to explain the 
+
+impact of e-discovery on policies related to records retention, 
+
+appropriate use of e-mail, etc.
+
+7.Demonstrate how forensic accountants interact with other specialists in 
+
+coordinating vulnerability testing, ethical hacking or intrusion 
+
+detection.
+
+
+
+
+
+8. Articulate how various types of fraud would manifest themselves in 
+
+company records and identify the issues related to computerized audit 
+
+tools and techniques (CAATTS) engagements, and identify necessary 
+
+expertise.
+
+9. Generate and test hypotheses to distinguish between errors and actual 
+
+fraud and to resolve ambiguous and conflicting evidence.
+
+10. Utilize at least one generalized audit software package (such as ACL) 
+
+for data extraction.
+
+11. Analyze and discuss the techniques of regressions and simulations, 
+
+data-mining, pattern recognition, horizontal and vertical analysis, 
+
+analysis of journal entries in a digital environment and other digital 
+
+analysis.
+
+12. Link analysis packages, such as Analysts Notebook, in order to 
+
+present 
+
+data using timelines and themes.
+
+13. Identify situations where a forensic computer specialist must be 
+
+retained so that legal proceedings against a perpetrator will not be 
+
+jeopardized if evidence is gathered by an investigator who lacks 
+
+appropriate skills.
+
+14. Demonstrate the method of documenting and presenting the results 
+
+of the 
+
+work performed.
+
+15. Differentiate situations that violate criminal laws, rights to 
+
+privacy 
+
+and other related issues by learning and understanding the basic knowledge 
+
+of types of cyber-crime, intellectual property and privacy laws related to 
+
+cyber-crime (e.g., relevant sections of USC Title 18).
+
+16. Develop prevention programs to prevent, deter and detect the use of IT 
+
+systems to commit fraud and other criminal acts.
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Core Concepts of Information Technology Auditing, Hunton, James E., Bryant 
+
+and Bagranoff Wiley (Book and CD Rom), (2003) ISBN  0471222933
+
+Fraud Examination, Albrect, W. Steve, et al Thomson South-Western, (2005) 
+
+ISBN  032430160X
+
+Forensic and Investigative Accounting, Crumbley, D. Larry, Lester Heitger 
+and 
+
+G. Stevenson Smith, CCH, Incorporated, (2005), ISNB 0808013653
+
+
+
+SUGGESTED GRADING CRITERIA
+
+Test 125
+
+Test 225
+
+Case Presentation20
+
+Final Exam30
+
+Total          100
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED 
+
+ 1:IT Audit Overview
+
+ 2:IT Risks and Controls
+
+ 3:IT Deployment Risks
+
+ 4:Networks and Telecommunication Risks
+
+ 5:Managing the IT Audit Function
+
+ 6:Conducting the IT Audit
+
+ 7:Using Computer Assisted Audit Tools and Techniques (CAATTS)
+
+ 8:Fraud and Forensic Accounting Audit Software (ACL)
+
+ 9:E-Business Risks
+
+11:Reporting the Results of the Investigation 
+
+12:Project: Payroll Audit using CAATTS and ACL
+
+13:Presentations and Guest Speaker
+
+  
+
+
+
+
+
+
+
+
+
+Course Code: ACC-222Page 3/6
+
+
+
+
+
+
+
+Course Approval Form Effective: September 2006

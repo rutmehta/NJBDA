@@ -1,0 +1,638 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE OUTLINE
+
+
+
+
+
+
+
+   MAT138                                                  Finite 
+Mathematics 
+
+Course Number                         Course Title
+
+
+
+
+
+          3  3 lecture hours
+
+CreditsHours
+
+
+
+
+
+Catalog description: An overview of topics in finite mathematics with 
+applications. Topics include systems of equations, matrices, linear 
+programming, probability and statistics. 
+
+Intended primarily for students in non-scientific / non-technical majors. 
+Rutgers University accepts this course as equivalent to its course for 
+liberal arts majors.3 lecture hours 
+
+
+
+
+
+Prerequisite: MAT135 higher
+
+
+
+Corequisite:  None
+
+
+
+
+
+Required texts/other materials: 
+
+1.  Tan, S.T., Finite Mathematics for the Managerial, Life, and Social 
+Sciences, 8th ed., Pacific Grove, CA: Brooks/Cole, 2006. 
+
+2. Scientific calculator
+
+
+
+
+
+
+
+Last revised:  N/A 
+
+
+
+
+
+Course coordinator:   Prof. Paul Toppo
+
+
+
+
+
+
+
+Information resources: 
+
+
+
+1. Instructors Solution Manual: This publication gives detailed solutions to
+
+even-numbered exercises from the text.
+
+
+
+2. Students Solution Manual: This publication gives detailed solutions to
+
+odd-numbered exercises from the text.
+
+Students are also highly encouraged to go to the Learning Center for 
+additional information and/or tutoring. 
+
+
+
+3.  The Mercer County Community College Library provides reference books 
+that students may use. 
+
+
+
+4.  Information contained in the web pages cited below may be of use:
+
+
+
+a). http://www.zweigmedia.com/ThirdEdSite/tcfinitep.html
+
+Stefan Waner and Steven R. Costenoble  On-Line Resources.
+
+
+
+b). 
+http://www.langara.bc.ca/mathstats/resource/onWeb/rawlist.htmFiniteDiscrete 
+
+General resource link. Includes tutorials and practice exams.
+
+
+
+c). http://mathforum.org/discrete/discrete.html
+
+A Math forum sponsored by Drexel University. Includes exercises, internet 
+projects and a discussion forum. 
+
+
+
+d). http://myweb.cwpost.liu.edu/arockett/TextBook/FM-2nd.htm
+
+This site provides access to the latest versions of the six Texas 
+Instruments Graphing Calculator Programs and the nine Microsoft Excel 
+worksheets for Finite Mathematics (2nd edition) by Geoffrey C. Berresford 
+and Andrew M. Rockett 
+
+
+
+e). http://infotrac.thomsonlearning.com/pdf/HSMathematics.pdf
+
+Free database, resource center and mathematical writing tutorial offered by 
+Thomson. 
+
+
+
+Course Goals:
+
+
+
+Upon completion of this course, the student will be able to:
+
+
+
+1. Understand and use to good effect the interplay between geometry and 
+algebra in mathematics. 
+
+2. Recognize and utilize the logical underpinnings in mathematics.
+
+3. Acquire and develop a mathematical sense, or intuition.
+
+4. Analyze, model and interpret real-world problems in mathematical terms.
+
+5. Solve systems of linear equations, using algebraic and matrix methods.
+
+6. Maximize and minimize functions subject to constraints, using geometrical 
+and analytical methods. 
+
+7. Understand and apply the theory of sets.
+
+8. Use counting methods (permutations and combinations) to solve 
+combinatorial problems. 
+
+9. Use probabilistic and statistical methods to solve mathematical and 
+real-world problems. 
+
+
+
+Course-specific General Education goals and objectives 
+
+ Critical thinking, problem solving and information literacy: 
+
+Students will use critical thinking and problem solving skills in analyzing 
+information gathered through different media and from a variety of sources. 
+
+Through the study of equations, graphs and matrices of relations in data, 
+the student will practice organizing and analyzing data in a way that can 
+lead to valid conclusions. 
+
+Internet Exercises are provided on the companion website to the text and 
+require searching for data or other information on the web.  The authors of 
+the text have provided a comprehensive list of web links and associated 
+exercises to accompany each topic. 
+
+ Communication: Students will communicate effectively in writing:
+
+Explore and Discuss questions in the text take the concepts in each unit 
+further and ask students to communicate with each other about how to answer 
+the questions. 
+
+Group participation fosters evaluation, revision and editing of solutions.
+
+Written assignments in the course: 
+
+- a project that includes an essay of at least 1100 words, 
+
+- homework assignments which include short essay questions in addition to 
+some application and exploration problems, 
+
+- exam questions that require explanation and/or justification, in full 
+sentences, of solutions. 
+
+
+
+
+
+ Quantitative skills: Students will apply appropriate mathematical concepts 
+and operations to interpret data and to solve problems. 
+
+
+
+Students will demonstrate competence in the use of numerical, graphical, and 
+algebraic representations. 
+
+
+
+Students will demonstrate the ability to interpret data, analyze graphical 
+information, and communicate solutions in written and oral form. 
+
+
+
+Students will demonstrate proficiency in the use of mathematics and algebra 
+to formulate and solve problems. 
+
+
+
+ Science and technology: 
+
+The main thrust of this and other mathematics courses is to take what is 
+given and, by the use of the scientific method, to arrive at a valid 
+conclusion. 
+
+Students will demonstrate proficiency in using handheld calculators to 
+support their use of mathematics. 
+
+
+
+
+
+General Course Structure: 
+
+
+
+The method of instruction is primarily lecture, but may include some 
+collaborative in and out of class work, at the discretion of the instructor. 
+The basic evaluation instrument will consist of four tests and a 
+comprehensive final but may well include group assignments, short projects, 
+and a final project, again, at the discretion of the instructor.  A 
+suggested grading scheme appears at the end of the course outline.  A 
+suggested day-to-day schedule based on a 45 hour semester course are 
+available from the course coordinator. This includes a test bank and 
+suggested exercises from the text as well as a set of short projects. 
+
+
+
+The general course outline consists of five units:
+
+
+
+Unit I:
+
+
+
+ (12 hours) System of Equations and Matrices (2.1-2.7) 
+
+A. Solving Systems of Linear Equations
+
+B. Underdetermined and overdetermined systems
+
+C. Solving Systems of Linear Equations using technology
+
+D. Arithmetic of matrices 
+
+E. Determinants 
+
+F. Inverse matrices 
+
+G. Row and column vectors 
+
+F. The Leontief Input-Output Model
+
+
+
+The student will be able to:
+
+
+
+1. Solve systems of linear equations using algebraic techniques.
+
+2. Learn and apply the arithmetic of matrices.
+
+3. Use matrix mechanics to solve systems.
+
+4. Predict the nature, and analyze and interpret the solutions of systems of 
+linear equations. 
+
+5. Decide whether a system is overdetermined or underdetermined.
+
+6. Apply systems of equations to real-world problems.
+
+7. Use determinants to find inverses of matrices. 
+
+8. Apply the Leontief method of inputs and outputs to solve problems in 
+economic. 
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to, topics in the natural and social sciences. 
+
+
+
+A project exploring the Leontief economic model of inputs and outputs is 
+provided in the day to day syllabus. 
+
+
+
+Specific applications which facilitate student goals include:
+
+ revenue from gasoline sales
+
+ mixtures
+
+ investments
+
+ diet planning
+
+ Inputs and outputs (Leontief Model)
+
+
+
+
+
+
+
+
+
+Unit II:
+
+
+
+ (10 hours) Linear Programming (3.1-3.3 and 4.1-4.2)
+
+A. Graphing Systems of Linear Inequalities in Two Variables
+
+B. The feasible region
+
+C. Linear Programming Problems
+
+D. The Simplex Method
+
+
+
+The student will be able to:
+
+
+
+      1.  Define and determine corner points and feasible regions.
+
+2.  Graph feasible regions.
+
+3.  Optimize functions over feasible regions.
+
+4. Define and determine the simplex tableau.
+
+5. Use the simplex method to maximize functions.
+
+6. Use the simplex method to minimize functions.
+
+7. Solve real-world applications.
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to, finance, agriculture, mining and advertising. 
+
+
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+ shipping schedules and costs
+
+ crop planning 
+
+ allocation of funds
+
+ mining production
+
+
+
+
+
+
+
+Unit III:
+
+
+
+ (11 hours) Counting Techniques (Chapter 6)
+
+A. Basic Set theory
+
+B. Set operations
+
+C. Venn Diagrams
+
+D. Fundamental theorem of counting 
+
+E. Permutations 
+
+F. Combinations 
+
+G. Applications 
+
+
+
+
+
+The student will be able to:
+
+
+
+1. Define sets, set operations, and the cardinality of a set.
+
+2. Use set theory to solve mathematical and real-world problems.
+
+3. Define and apply counting arguments.
+
+4. Define and apply the multiplication principle.
+
+5. Define permutation.
+
+6. Define combination and distinguish it from a permutation.
+
+7. Apply permutations and combinations to solve counting problems.
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to topics such as games of chance, management, voting and 
+sports. 
+
+
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+ surveys
+
+ combination locks
+
+ investment options
+
+ committee selection
+
+ blood typing
+
+ quality control
+
+
+
+Unit IV:
+
+
+
+ (12 hours) Probability and Statistics (Chapters 7 and 8)
+
+A. Basic concepts 
+
+B. Addition rule 
+
+C. Multiplication rule 
+
+D. Independent events 
+
+E. Conditional probability 
+
+F. Bayes theorem
+
+G. Binomial probability 
+
+H. Applications 
+
+I. Samples and populations 
+
+J. Organizing data 
+
+K. Measures of central tendency 
+
+L. Measures of dispersion 
+
+M. Continuous random variables and the Normal Distribution 
+
+N. The Normal approximation to the Binomial Distribution 
+
+
+
+
+
+The student will be able to:
+
+
+
+1. Define and analyze sample spaces and events in the context of set theory.
+
+2. Define probability and enunciate the rules of probability.
+
+3. Use counting techniques to solve problems in probability.
+
+4. Define conditional probabilities.
+
+5. Define independence of events.
+
+6. Interpret conditional probabilities using probability trees.
+
+7. Apply the ideas of events, independence and conditional probabilities     
+to solve mathematical problems. 
+
+8.  Learn and use Bayes Theorem.
+
+9. Apply probabilistic techniques to real-world situations.
+
+10.  Define and interpret distributions and random variables.
+
+11.  Interpret data geometrically using a histogram.
+
+12.  Determine and interpret the significance of the expected value of a 
+random variable. 
+
+13.  Define and interpret expected value.
+
+14.  Discuss in more detail the significance of distributions.
+
+15.  Define, interpret and analyze the binomial and normal distributions.
+
+16.  Apply statistical methods to real-world situations.
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to topics in the natural and social sciences. 
+
+ A project on the birthday problem is included in the day to day syllabus.
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+ investment analysis
+
+ odds in games of chance
+
+ sales, premiums and profits
+
+ wage, age, grade and weight distributions
+
+
+
+Evaluation Of Student Progress:
+
+
+
+The following suggested grading scheme may be modified, at the discretion of 
+the instructor. 
+
+
+
+Tests:
+
+
+
+Unit I 10
+
+Units II and III 10
+
+Unit IV10
+
+Collected Projects (3)25
+
+
+
+In-class Quizzes, group work, etc.15
+
+Final Exam30 
+
+
+
+
+
+
+
+Academic Integrity Statement:
+
+
+
+Under no circumstance should students knowingly represent the work of 
+another as ones own. Students may not use any unauthorized assistance to 
+complete assignments or exams, including but not limited to cheat-sheets, 
+cell phones, text messaging and copying from another student. Violations 
+should be reported to the Academic Integrity Committee and will be 
+penalized. Please refer to pages 53-54 of the 2005-2006 Student Handbook. 
+
+
+
+
+
+
+
+
+
+
+
+            LIBERAL ARTS DIVISION                               HY 101 - 
+page 

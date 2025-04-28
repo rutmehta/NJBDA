@@ -1,0 +1,993 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+1
+
+
+
+
+
+
+
+                   Mercer County Community
+
+College                                              Liberal
+
+                        Arts Division
+
+                              
+
+                              
+
+                       Course Outline
+
+
+
+
+
+    MAT 145                   Precalculus  for Business or
+
+Social Sciences                  4
+
+Course Number                                  Course
+
+Title                                     Credits
+
+
+
+
+
+
+
+4
+
+                                         15 weeks
+
+Class or lecture
+
+hours
+
+                    Semester length
+
+
+
+
+
+
+
+Required Materials
+
+
+
+Book:  Precalculus, 6th edition
+
+            by Larson and Hostetler
+
+            Houghton Mifflin Publishers
+
+
+
+Calculator:  Graphing calculator required (TI-83 or 86
+
+recommended, no calculator with algebraic manipulation
+
+permitted).
+
+
+
+
+
+Catalog Description:  A second course in the mathematics
+
+sequence leading to business or social sciences calculus.
+
+Topics include polynomial, rational, and piecewise defined
+
+functions, equations and inequalities: exponential and
+
+logarithmic functions and their graphs multivariable
+
+systems of equations and matrices extensive use of modeling
+
+and graphing calculators.
+
+
+
+
+
+Latest Review:  Fall 2003
+
+
+
+Prerequisites:  MAT 141 with a minimum C grade or
+
+equivalent.  Credit will be given for only one of MAT 145 or
+
+MAT 146.  Co-requisites:  None
+
+
+
+
+
+Course Coordinator:  Edith Silver
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Course Objectives
+
+
+
+  1.   To develop the understanding that functions are
+
+     statements of how a change in one quantity brings about a
+
+     change in another quantity.
+
+2.   To develop the skill and understanding of reading and
+
+making graphs of functions.
+
+3.   To develop the understanding that technology has
+
+brought about changes in mathematics by the storing of data
+
+from which models of events in our daily life can be
+
+developed and from which predictions can be made.
+
+4.   To develop the understanding that, given certain
+
+conditions under which two or more quantities are related,
+
+optimum solutions to problems can be obtained graphically
+
+and algebraically.
+
+5.   To develop the understanding that mathematics plays an
+
+important role in various fields and the ability to transfer
+
+mathematical algorithims and techniques from problems in one
+
+field to that of another.
+
+6.   To develop the skill of analyzing problems and
+
+synthesizing information in another situation.
+
+7.   To develop the skill of making quantitative estimations
+
+that are appropriate for a given situation.
+
+8.   To develop the ability to work with others on projects
+
+and to contribute to the outcome of the project.
+
+9.   To develop the mathematical and logical skills
+
+necessary for a course in calculus.
+
+10.  To develop quantitative and logical skills for everyday
+
+living.
+
+  
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+                              
+
+
+
+                   Course Outline  MAT 145
+
+
+
+Unit I  Functions and Their Graphs (1.1 - 1.9)   3.5  weeks
+
+
+
+            A.  You should be able to define, state, or
+
+identify
+
+
+
+          1.   graph of an equation
+
+2.   intercepts
+
+3.   symmetry
+
+4.   linear equations in 2 variables
+
+5.   slope
+
+6.   slope intercept form of a linear equation
+
+7.   point slope form of a linear equation
+
+8.   general form of a linear equation
+
+9.   parallel lines
+
+10.  perpendicular lines
+
+11.  relation
+
+12.  function
+
+13.  domain
+
+14.  range
+
+15.  independent variable
+
+16.  dependent variable
+
+17.  function notation
+
+18.  implied domain
+
+19.  vertical line test
+
+20.  zeros, roots and solutions of a function
+
+21.  relative minimum
+
+22.  relative maximum
+
+23.  symmetry in even functions
+
+24.  symmetry in odd functions
+
+25.  vertical and horizontal shifts of a graph
+
+26.  stretches and compressions of a graph
+
+27.  reflections of a graph about the x or y axes
+
+28.  inverse functions, notation and symmetry
+
+29.  horizontal line test
+
+30.  one to one function
+
+31.  direct proportion or variation
+
+32.  inverse variation
+
+33.  joint variation
+
+
+
+     B.   You should be able to
+
+     
+
+       1.   sketch the graph of an equation and confirm the sketch
+
+          by choosing an
+
+          appropriate   viewing  window  on   the   graphing
+
+          calculator
+
+       2.   find the intercepts, symmetry, domain, and range,
+
+          identify types of symmetry and confirm each on the graphing
+
+          calculator
+
+       3.   make a table of values on the graphing calculator for a
+
+          given equation
+
+4.   write the equation of a circle in standard form given
+
+its center and a point on the circle and sketch the graph
+
+5.   find the slope of a line and use it to graph the line
+
+6.   use slope to identify parallel or perpendicular lines
+
+7.   write the equation of a line when given a point on the
+
+line and its slope or two points on the line
+
+8.   write a linear equation in slope intercept or standard
+
+form
+
+       9.   determine whether a relation is a function when given a
+
+          set of ordered pairs, an equation, or a graph
+
+       10.  use function notation to evaluate functions
+
+       11.  determine the domain and range of a function and the
+
+          implied domain, if applicable
+
+       12.  evaluate a difference quotient given in function
+
+          notation when given the function
+
+13.   find the zeros, roots and solutions of a function
+
+14.  determine the intervals where the function is
+
+increasing, decreasing, or constant
+
+15.  identify even or odd functions
+
+       16.  find relative extrema for a given function and confirm
+
+          by using the maximum or minimum functions on the graphing
+
+          calculator
+
+       17.  recognize the equations and graphs of basic types of
+
+          functions such as
+
+          linear,  constant, identity, square or  quadratic,
+
+          cubic,  square  root, reciprocal,  absolute  value
+
+          and greatest integer function
+
+            18.  sketch  the  graph of a  piecewise  defined
+
+function and confirm on the
+
+                        graphing calculator
+
+                   19.  analyze the effect of and  determine
+
+vertical and horizontal shifts,
+
+                           stretches   and   shrinks,    and
+
+reflections about the axes of a basic graph
+
+       20.  find the equation for the sum, difference, product, or
+
+          quotient of two  given functions and determine the domain of
+
+          each
+
+21.  find the composite of two given functions and determine
+
+the domain of the composite
+
+       22.  find two functions, f and g, such that  for a given
+
+          function h
+
+23.  find the inverse and its domain and range of a given
+
+one to one function and verify that two functions f(x) and
+
+g(x) are inverses of each other by showing f(g(x))  x  and
+
+g(f(x))  x
+
+24.  determine whether a given set of ordered pairs, given
+
+graph, or given
+
+                         equation is a one to one function
+
+       25.  graph a function and its inverse on the same axes and
+
+          graph the line
+
+                         of symmetry y  x
+
+       26.  use mathematical models to analyze sets of data
+
+27.  write mathematical models for direct variation, inverse
+
+variation,
+
+                         and joint variation
+
+       28.  use the regression function of a graphing calculator to
+
+          find the equation of a least squares regression line
+
+29.  solve applications/word problems which assess all of
+
+the above topics
+
+30.  pass a unit test
+
+
+
+
+
+Unit  II Polynomial and Rational Functions (2.1 - 2.6) (omit
+
+2.7)                3 weeks
+
+
+
+             A.   You  should be able to define,  state,  or
+
+identify
+
+
+
+          1.   polynomial function and its degree
+
+2.   parabola
+
+3.   vertex (h,k) of a parabola
+
+4.   standard form of a quadratic function
+
+5.   continuity of a polynomial function
+
+6.   zeros, roots or solutions of a polynomial and their
+
+multiplicity k
+
+7.   Intermediate Value Theorem
+
+8.   Remainder Theorem
+
+9.   Factor Theorem
+
+          10.  complex numbers
+
+          11.  Fundamental Theorem of Algebra
+
+12.  Linear Factorization Theorem
+
+13.  Rational Zeros Test
+
+14.  Descartes Rule of Signs
+
+15.  upper and lower bounds on real zeros
+
+16.  rational functions
+
+17.  discontinuity of a rational function
+
+18.  vertical asymptotes
+
+19.  horizontal asymptotes
+
+20.  slant or oblique asymptotes
+
+21.  synthetic division
+
+
+
+
+
+            B.  You should be able to
+
+
+
+       1.   sketch the graph of a polynomial or rational function
+
+          and confirm the sketch by choosing an appropriate viewing
+
+          window on the graphing calculator
+
+       2.   put a quadratic function in standard form to identify
+
+          the vertex, and  intercepts to aid in graphing it
+
+3.   identify the vertex of a parabola from its graph and
+
+write its equation in standard form
+
+4.   use transformations to assist in sketching the graph of
+
+a given polynomial function
+
+5.   determine the left and right end behavior of a
+
+polynomial using the degree and leading coefficient
+
+       6.    find all real zeros of a polynomial or rational
+
+          function and their multiplicity and confirm the zeros by
+
+          using the root or zero function on the graphing
+
+          calculator
+
+7.   describe the behavior of the graph of a polynomial at a
+
+zero with an odd or even multiplicity
+
+8.   write an equation of a polynomial having given zeros
+
+and a given degree
+
+9.   perform algebraic long division and synthetic division
+
+of polynomials
+
+10.  evaluate a polynomial by using the remainder theorem
+
+and synthetic division
+
+       11.  find, if possible, all the zeros and their multiplicity
+
+          of a polynomial function with real coefficients and write
+
+          the polynomial as a product of linear and irreducible
+
+          quadratic factors over the real numbers using the Rational
+
+          Zeros Theorem and upper and lower bounds on the zeros
+
+       12.  determine if two complex numbers are equal
+
+13.  add, subtract, and multiply complex numbers
+
+14.  use complex conjugates to write the quotient of two
+
+complex numbers in standard form
+
+15.  find complex solutions of quadratic equations
+
+       16.  use Descartes Rule of Signs to determine the possible
+
+          number of positive and negative zeros a polynomial has
+
+17.  find the upper and lower bounds on the real zeros for a
+
+given polynomial
+
+       18.  find the domain, range, vertical, horizontal, and/or
+
+          oblique asymptotes, if any, for a given rational function
+
+19.  solve applications that result in equations which are
+
+polynomial or rational functions
+
+20.  pass a unit test
+
+
+
+
+
+Unit  III  - Exponential and Logarithmic Functions   (3.1  -
+
+3.5)               3.5weeks
+
+
+
+             A.   You  should be able to define,  state,  or
+
+identify
+
+
+
+          1.   algebraic functions
+
+2.   transcendental functions
+
+3.   exponential function with base b or e
+
+4.   continuously compounded interest and interest
+
+compounded n times annually
+
+5.   logarithmic functions with base a, base 10, or base e
+
+6.   common logarithms
+
+7.   natural logarithms
+
+8.   change of base formula
+
+9.   properties of logarithms
+
+
+
+            B.  You should be able to
+
+
+
+          1    graph a given exponential function or logarithmic
+
+            function, indicate its domain and range, x or y intercept,
+
+            describe it as increasing or decreasing and identify any
+
+            asymptotes the graph has
+
+          2.   perform vertical and horizontal shifts, stretches and
+
+            shrinks and     reflections when given an exponential or
+
+            logarithmic function together with its graph
+
+3.   convert a given equation from exponential to equivalent
+
+log form or from log to equivalent exponential form
+
+4.   simplify and evaluate log expressions
+
+5.   write a given expression as a single log using the
+
+properties of logarithms
+
+6.   use the change of base formula to find the log of any
+
+number in any base > 0 using base 10 or base e
+
+7.   solve applications that result in exponential or log
+
+equations such as radioactive decay, bacterial growth,
+
+compound interest, decibel level, earthquake intensity, etc.
+
+8.   solve exponential equations by converting to log form
+
+or by converting to the same base and equating  exponents
+
+9.   solve log equations by converting to exponential form
+
+or by using
+
+                               the properties of logs
+
+          10.  use a graphing calculator to solve exponential and log
+
+            equations
+
+11.  recognize exponential growth, exponential decay,
+
+Gaussian, logistic
+
+            growth,  and  logarithmic models and  use  these
+
+            models          to          solve          given
+
+            problems
+
+            
+
+            
+
+          13.    pass a unit test
+
+
+
+
+
+Unit IV - Systems of Equations and Inequalities (7.1 - 7.5)
+
+(Note:    omit   partial   fraction   problems    in    7.3)
+
+3 weeks
+
+
+
+     A.   You should be able to define, state, or identify
+
+     
+
+       1.   system of 2 linear equations in 2 variables
+
+2.   solution of a system of equations
+
+3.   points of intersection and graphing method of solution
+
+4.   substitution method of solution
+
+5.   break-even point
+
+6.   elimination by addition or subtraction method
+
+7.   equivalent systems
+
+8.   consistent systems
+
+9.   inconsistent systems
+
+10.  independent systems
+
+11.  dependent systems
+
+12.  row-echelon form
+
+13.  ordered triple
+
+14.  Gaussian elimination method
+
+15.  nonsquare systems of equations
+
+16.  linear inequalities
+
+17.  solution of an inequality
+
+18.  graph of an inequality
+
+19.  solution of a system of inequalities
+
+20.  linear programming
+
+21.  optimization
+
+22.  objective function
+
+23.  constraints
+
+24.  feasible solutions
+
+25.  optimal feasible solution
+
+
+
+     B.     You should be able to
+
+       
+
+          1.   solve a system of 2 equations in 2 variables by
+
+            graphing and finding the points of intersection, if any.  If
+
+            a special case results (same line or parallel lines or no
+
+            intersection) you should be able to identify the system as
+
+            dependent or inconsistent or having no  solution
+
+            respectively.
+
+2.   solve a system by substitution which works best if at
+
+least one equation has one variable with a coefficient of  
+
+1
+
+3.   solve a system by addition or subtraction to eliminate
+
+one of the variables
+
+4.   use back substitution to solve linear systems in row-
+
+echelon form
+
+5.   use Gaussian elimination to solve systems of linear
+
+equations
+
+6.   solve nonsquare systems of linear equations and write
+
+the solution as an ordered triple in terms of  an
+
+independent variable
+
+7.   sketch the graphs of inequalities in 2 variables and
+
+shade the solution region
+
+8.   solve systems of inequalities and shade the solution
+
+region for the system and describe the solution as bounded
+
+or unbounded
+
+9.   solve a linear programming problem by identifying the
+
+objective function or the quantity to be optimized, setting
+
+up a system of linear
+
+            constraints  or  inequalities,  graphing   their
+
+            intersection  to determine the vertices  of  the
+
+            set   of  feasible  solutions  and  substituting
+
+            these  vertex  points in the objective  function
+
+            to see which gives the optimal value
+
+          10.  solve applications that result in systems of equations
+
+            or inequalities or linear programming  problems and use a
+
+            graphing calculator where possible to aid in each of these
+
+            topics
+
+11.  pass a unit test
+
+
+
+
+
+
+
+Unit  V  -  Matrices and Determinants (8.1, 8.4, 8.5)(  omit
+
+8.2,8.3)      2 weeks
+
+
+
+     A.     You should be able to define, state, or identify
+
+     
+
+          1.      matrix
+
+          2.      order of a matrix (m x n)
+
+          3.      square matrix
+
+          4.      column matrix
+
+          5.      row matrix
+
+          6.      entry of a matrix notation (aij)
+
+          7.      augmented matrix
+
+          8.      coefficient matrix
+
+          9.      row equivalent matrices
+
+          10.  principal or main diagonal of a matrix
+
+          11.  elementary row operations
+
+          12.  row-echelon form
+
+          13.  reduced row echelon form
+
+          14.  Gauss-Jordan elimination method
+
+          15.  determinant of a square matrix
+
+          16.  minors
+
+          17.  cofactors
+
+          18.  Cramers Rule
+
+          
+
+
+
+B.  You should be able to
+
+
+
+          1.   write a matrix and identify its order
+
+2.   perform elementary row operations on matrices
+
+3.   use the augmented matrix for a system and the Gaussian
+
+elimination
+
+            or  the Gauss Jordan elimination method to solve
+
+            a system of linear            equations
+
+          4.     describe   an  entry  in  a  matrix   using
+
+     aij notation
+
+          5.   find the determinant of a 2x2 matrix
+
+          6.   find minors and cofactors of square matrices
+
+7.   find determinants of an n x n square matrix
+
+8.   use Cramers Rule to solve a system of linear equations
+
+9.   solve applications that result in systems of equations
+
+
+
+Assignments
+
+
+
+The student is expected to do the following:
+
+     1.   Take class notes which should be kept in a notebook or
+
+       binder.
+
+2.   Read and study sections in the text which are discussed
+
+in class.
+
+3.   Solve all odd numbered problems (or those assigned by
+
+the instructor) at the end of sections of the text that are
+
+covered in class.
+
+4.   Participate in group work and projects given by the
+
+instructor.
+
+5.   Seek help from the instructor, the math learning
+
+center, or a tutor if necessary.
+
+
+
+
+
+
+
+Evaluation and Grading
+
+
+
+The  tests, projects and exams will vary somewhat  to  allow
+
+for   individual  creativity  and  professionalism  of   the
+
+instructor.   A  typical  plan is  five  unit  tests  and  a
+
+comprehensive final exam.

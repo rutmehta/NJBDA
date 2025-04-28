@@ -1,0 +1,488 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MERCER COUNTY COMMUNITY COLLEGE
+
+
+
+                       COURSE OUTLINE
+
+
+
+Course Number:           CIS 112
+
+
+
+Course Title:                 Introduction to PC Business
+
+Applications
+
+
+
+Division:                Business
+
+
+
+Length of Semester:           15 weeks
+
+
+
+Credits:                 3
+
+
+
+Lecture/Laboratory:           2/2
+
+
+
+Text:                         Microsoft Windows 98
+
+
+
+                         Authors:  T. OLeary  L. OLeary
+
+
+
+                         Microsoft Office 2000 (The OLeary
+
+Series)
+
+
+
+                         Authors:  T. OLeary  L. OLeary
+
+
+
+                         Students will need two high-density
+
+diskettes
+
+
+
+Catalog Description
+
+
+
+Application of spreadsheets, databases, graphing, word
+
+processing, and presentation software in business.
+
+Following a review of concepts, students will work on PCs to
+
+product business projects.
+
+
+
+Prerequisites:  OST 111, CIS 107 or equivalent
+
+
+
+                                   Judy Ehresman
+
+                                      Course Coordinator
+
+Fall 2000 (Revised 8/2000)
+
+
+
+Instructors Name 
+
+Time/Location 
+
+Office/Phone Nos. 
+
+Office Hours 
+
+E-Mail 
+
+CIS 112Introduction to PC Business Applications
+
+2
+
+
+
+Course/Content Schedule
+
+
+
+Week 1
+
+
+
+     Introducing Common Office 2000 Features
+
+     Overview of Office 2000
+
+
+
+     Homework Assignment
+
+     Read:          OFO-1 through OFO-8
+
+
+
+Week 2
+
+
+
+     Windows 98Basic Skills
+
+     Windows 98Organizing Your Work
+
+
+
+     Homework Assignment
+
+     Read:          Windows 98 Text (WN4 through WN60)
+
+     Read:          Windows 98 Text (WN62 through WN98)
+
+
+
+Week 3
+
+
+
+     Word Overview
+
+     Tutorial 1:  Creating and Editing a Document
+
+
+
+     Homework Assignment
+
+     Read:          WDO-1 through WDO-5
+
+               WDO1-1 through WD1-52
+
+     Complete: Questions (WD1-58 through WD1-60)
+
+
+
+Week 4
+
+
+
+     Tutorial 2:  Revising and Refining a Document
+
+
+
+     Homework Assignment
+
+     Read:          WD2-1 through WD2-46
+
+     Complete: Questions (WD2-52 through WD2-53)
+
+
+
+     Test:  Windows 98 (Lab 1 and Lab 2)
+
+CIS 112Introduction to PC Business Applications
+
+3
+
+
+
+Week 5
+
+
+
+     Tutorial 3:  Creating Reports and Tables
+
+
+
+     Homework Assignment
+
+     Read:          WD 3-1 through WD 3-56
+
+     Complete: Questions (WD3-60 through WD3-62)
+
+
+
+Week 6
+
+
+
+     Working Together:  Word and Your Web Browser
+
+
+
+     Word 2000 Theory and Application Tests (Projects 1
+
+through 3)
+
+
+
+Week 7
+
+
+
+     OverviewExcel
+
+     Tutorial 1:  Creating and Editing a Worksheet
+
+
+
+     Homework Assignment
+
+     Read:          EXO-1 through EXO-4
+
+     Read:          EX1-1 through EX1-72
+
+     Complete: Questions (EX1-69 through EX1-71)
+
+
+
+Week 8
+
+
+
+     Tutorial 2:  Charting Worksheet Data
+
+
+
+     Homework Assignment
+
+     Read:          EX2-1 through EX2-48
+
+     Complete: Questions (EX2-52 through EX2-54)
+
+
+
+Week 9
+
+
+
+     Tutorial 3:  Managing and Analyzing a Workbook
+
+
+
+     Homework Assignment
+
+     Read:          EX3-1 through EX3-46
+
+     Complete: Questions (EX3-49 through EX3-52)
+
+CIS 112Introduction to PC Business Applications
+
+4
+
+
+
+Week 10
+
+
+
+     Working Together:  Linking Excel and Word
+
+
+
+     Excel 2000 Theory and Application Tests (Projects 1
+
+through 3)
+
+
+
+Week 11
+
+
+
+     OverviewAccess
+
+     Tutorial 1:  Creating a Database
+
+
+
+     Homework Assignment
+
+     Read:          ACO-1 through ACO-5
+
+     Read:          AC1-1 through AC1-64
+
+     Complete: Questions AC1-51 through AC1-54
+
+
+
+Week 12
+
+
+
+     Tutorial 2:  Modifying a Table and Creating a Form
+
+
+
+     Homework Assignment
+
+     Read:          AC2-1 through AC2-64
+
+     Complete: Questions AC2-37 through AC2-40
+
+
+
+Week 13
+
+
+
+     Working Together:  Linking Access and Word
+
+
+
+     Access 2000 Theory and Applications Tests (Projects 1
+
+and 2)
+
+
+
+Week 14
+
+
+
+     OverviewPowerPoint
+
+
+
+     Tutorial 1:  Creating a Presentation
+
+
+
+     Homework Assignment
+
+     Read:          PPO-1 through PPO-6
+
+     Read:          PP1-1 through PP1-50
+
+     Complete: Questions PP1-54 through PP1-56
+
+CIS 112Introduction to PC Business Applications
+
+5
+
+
+
+Week 15
+
+
+
+     Tutorial 2:  Modifying and Refining a Presentation
+
+
+
+     Submission of Summative Final Project
+
+
+
+Evaluation
+
+
+
+     35--Objective Tests
+
+     35--Application Tests
+
+     10--In-class Computer Lab Assignments
+
+     20--Summative Final Project
+
+
+
+NOTE THE FOLLOWING GUIDELINES:
+
+
+
+All Computer Lab Assignments are to be completed in class.
+
+However, if you need additional time, you will be expected
+
+to attend a scheduled open lab or use a computer at home or
+
+work.
+
+
+
+All assignments must be complete no credit will be given
+
+for incomplete work.
+
+
+
+Assignments are to be submitted on time reduced credit will
+
+be given for projects submitted late.
+
+
+
+Academic Integrity Statement:
+
+
+
+A student who a.) knowingly represents work of others as
+
+his/her own b.) uses or obtains unauthorized assistance in
+
+the execution of any academic work or c.) gives fraudulent
+
+assistance to another student is guilty of cheating.
+
+Violators will be penalized.  (Student Handbook)
+
+
+
+Classroom Conduct Statement:
+
+
+
+It is the students responsibility to attend all of their
+
+classes.  If they miss a class meeting for any reason,
+
+students are responsible for all content that is covered,
+
+for announcements made in their absence, and for acquiring
+
+any materials that may have been distributed in class.  It
+
+is expected that students be on time for all their classes.
+
+If students walk into a class after it has begun, it is
+
+expected that they choose a seat close to where they entered
+
+the room so that they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy
+
+during class sessions.  Engaging in private, side
+
+conversations during class time is distracting to other
+
+students and to the instructor.  Leaving class early without
+
+having informed the instructor prior to class is not
+
+appropriate.  Unless there is an emergency, leaving class
+
+and returning while
+
+CIS 112Introduction to PC Business Applications
+
+6
+
+
+
+the class is in session is not acceptable behavior.
+
+Disruptive behavior of any type, including sharpening
+
+pencils during class while someone is speaking, is not
+
+appropriate.
+
+
+
+The college welcomes all students into an environment that
+
+creates a sense of community of pride and respect we are
+
+all here to work cooperatively and to learn together.

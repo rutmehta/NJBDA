@@ -1,0 +1,160 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+Course Number
+GAM 145Course Title
+Game Programming ICredits
+3Lecture/Lab/Hours
+2/2
+Load equivalent: 4
+
+Co- or Pre-requisite
+Pre-requisite:  COS 101
+Co-requisite: GAM 120 Game Design Theory and CultureImplementation\Semester/Year
+Spring/2012Catalog Description
+GAM 145  Game Programming I                                                                          3 credits
+Pre-requisite:  COS 101; Co-requisite:  GAM 120
+Analysis of an existing professional game engine teaches the architecture of a game and how it is developed.  Working within the limits of the game engine, students design their own programming projects, modifying the logic and engine to create custom game experiences.                                                                  2 lecture/2 laboratory hours
+ 
+Is course New, Revised, or Modified?
+Suggested texts/other materials:
+Core Techniques and Algorithms in Game Programming by Daniel Sanchez-Crespo Dalmoua
+Quake III Arena source codeRevision date:  
+Spring 2014Course coordinator:   Ric Giantisco x3458
+
+Information resources: 
+As this course is designed as a hands-on programming course, the primary learning resource will be a Game Engine used as the basis for the game programming projects.  It is suggested to use the Unity Game Engine or an open source engine such as Id Software's Quake 2 (preferred) or Quake 3, that provide assets that students can use in their projects, and are well documented.
+Additionally Text Core Technique and Algorithms in Game Programming will provide context and explanation for many of the advanced topics that students will encounter.  Getting Started with Mod Programming Quake III also provides a very clear step-by-step format to introduce the engine to students.
+Other learning resources:  
+As stated above, this course is based on modifying an existing game engine,  so one of the following is required as the source code for the game (or equivalent):
+* Quake 2 by Id Software – Source available on the company website.
+* Quake 3 Arena by Id Software – Source available on the company website
+* Source Engine by Valve Software – SDK is available through STEAM
+* Unity 3D
+Course Competencies/Goals: 
+
+The student will be able to:
+1. Understand the architecture of a game engine
+2. Program meaningful modifications in a Game Engine
+3. Be prepared to program a game engine in subsequent courses
+4. Create professional sales pitches for a game concept
+Course-specific General Education Knowledge Goals and Core Skills. 
+
+General Education Knowledge Goals
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 3. Science. Students will use the scientific method of inquiry, through the acquisition of scientific knowledge.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+Goal. 6. Humanities. Students will analyze works in the fields of art, music, or theater; literature; philosophy and/or religious studies; and/or will gain competence in the use of a foreign language.
+
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+Goal F. Collaboration and Cooperation. Students will develop the interpersonal skills required for effective performance in group situations.
+
+Units of study 
+
+Unit I - Getting Started & Proposals
+	This unit of study focuses on the basic design, features, and operational procedures inherent to a 	professional game engine.  Students will learn foundational principles and employ basic 	diagnostic techniques to verify engine efficiency and capability.  In addition, students will learn to
+	organize and pitch a professional project proposal.
+
+Learning Objectives 
+The student will be able to…
+i. Install and set up  game projects
+ii. Compile the default project
+iii. Make minor tweaks to show that modifications are running
+iv. Become familiar with the organization of the engine
+v. Understand the differences between a game's logic and engine
+vi. Write proposals for a midterm project.
+
+Unit II - Introduction to Entity Based Systems & Player Client
+	Students are introduced to the fundamental properties of Game Entities.  The focus is on 	developing appropriate behavior control over in-game entities.  Individual student project goals 	continue to be defined and established.  Additional topics such as networking, player stats 	and input controls are also covered.  
+
+Learning Objectives 
+The student will be able to...
+i. Outline individual project goals with the instructor..
+ii. Understand how Game Entities spawn, behave and interact.
+iii. Make more meaningful changes to the behavior of in game entities.
+iv. Understand the networking nature of most games
+v. Modify the player's stats to suit their own designs
+vi. Understand how input is handled and dispatched within a game engine.
+
+
+Unit III - Item Definitions & In-Game Menus
+	This unit of study will focus on spawn point placement, the construction of in-game menus, 	graphical manipulation and the item creation. Students will explore the relationship between 	spawn points and the environment, learn how to develop and customize graphic menu 	components and edit various item classes.	
+
+Learning Objectives 
+The student will be able to…
+i. Edit the item definition structures and definitions
+ii. Learn how spawn points tie into the environments
+iii. Create new items in the game.
+iv. Tailor the game menus
+v. Tie the interactions with menus to the player data
+vi. Adjust menu graphics for a custom look
+
+
+Unit IV - Midterm Milestone
+	Students will submit their midterm project to their instructor for evaluation and take a midterm 	exam.  Each student will present their project to the class and also critique fellow students’ 	work.  A final project plan will be established upon completion of the midterm exam.
+
+Learning Objectives 
+The student will be able to…
+i. Discuss project concepts with instructor
+ii. Showcase their projects to fellow students for feedback
+
+
+Unit V - Introduction to Engine Code & Particle Systems
+	This unit of study focuses on the nuts and bolts of the internal workings of the game engine.  	Various component architectures, entity behaviors, and particle effects will be explored.  Topics 	include network architecture, logic and behavior modifiers.
+
+Learning Objectives 
+The student will be able to…
+i. Demonstrate how the logic hooks into the engine and how the engine is organized.
+ii. Understand the networking architecture of the engine
+iii. Understand how the engine handles temporary entities and particle effects
+iv. Modify the behavior of the temporary entities
+v. Tie behaviors  back to the game logic
+ 
+
+
+
+Unit VI - Collision, Math, & Artificial Intelligence
+	Explores collision detection, vector base math, physics simulation, and basic artificial intelligence 	functions.  Particular emphasis is focused on the analysis of AI navigation, path evaluation, and 	evolved behavior.
+
+Learning Objectives 
+The student will be able to...
+i. Understand  the behavior of vector base math used in collision detection and physics simulation
+ii. Understand  how the Monster AI functions as a Finite State Machine
+iii. Give AI new behavior in the context of their game
+iv. Use AI  path finding to navigate through the game world
+
+
+Evaluation of student learning:   
+
+	Exams: 30%
+	Project Proposals: 20%
+	Mid Term Project: 25%
+	Final Project: 25%
+
+
+Academic Integrity Statement: 
+Students are expected to comply with the college-wide requirements for academic integrity. Mercer County Community College is committed to Academic Integrity—the honest, fair, and continuing pursuit of knowledge, free from fraud or deception. This implies that students are expected to be responsible for their own work. Presenting another individual’s work as one’s own and receiving excessive help from another individual will qualify as a violation of Academic Integrity. The entire policy on Academic Integrity is located in the Student handbook and is found on the college website: 
+www.mccc.edu/admissions_policies_integrity.shtml 
+
+
+Special Needs Accommodations  
+Any student in this class who has special needs because of a disability is entitled to receive accommodations. Eligible students at Mercer County Community College are assured services under the Americans with Disabilities Act and Section 504 of the Rehabilitation Act of 1973.  If you believe you are eligible for services, please contact Arlene Stinson, Director of Academic Support Services.  She can be reached at 609-570-3525. 
+
+
+
+
+
+			
+
+
+		
+
+MCCC Course Outline; Approved by the Curriculum Committee 12/6/07
+

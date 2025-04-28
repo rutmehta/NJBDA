@@ -1,0 +1,721 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP116
+
+
+
+COURSE NAME
+
+Introduction to Digital Programming
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+MATH 021-Introductory Algebra or PASSING score on Algebra Basic Skills test
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED--4 credits to 3 credits 
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION  
+
+This course is for students who have not had any prior computer programming 
+courses.  Students will obtain first-hand experience in computer programming 
+by analyzing problems, designing solutions and writing programs using the 
+Visual Basic programming language on a microcomputer.  They will acquire a 
+working knowledge of the fundamental tools of computer programming needed 
+for further progress: problem organization and analysis, coding diagnosis 
+and testing.  They will be able to use a fairly extensive set of Visual 
+Basic instructions and commands, and apply them to create solutions to 
+problems in the fields of business or mathematics/science. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Unit 1  An introduction to Programming and Visual Basic
+
+II. Using Visual Basic to Create a First Project
+
+III. Variables, Assignment Statements, and Arithmetic
+
+IV. The Selection Process in Visual Basic
+
+V. The Repetition Process in Visual Basic
+
+VI. Working with Arrays in Visual Basic
+
+VII. Using Functions, Stubs, and Modules
+
+The student will be able to:
+
+1. Understand the importance of information systems in organizations. 
+
+2. Discuss the role of computer programs and programming in information 
+systems. 
+
+3. List and discuss the six computer operations. 
+
+4. Describe the difference between modern Windows-based computer languages 
+and older procedural languages. 
+
+5. Discuss the difference between compiled and interpreted languages. 
+
+List and discuss the steps in the object-oriented, event-driven programming
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Learning to Program With Visual Basic, Packaged with Visual Basic 6.0, 
+Patrick G. McKeown and Craig A. Piercy, John Wiley  Sons, Inc, ISBN:  
+0-471-41862-5 
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. The final grade requirements for the course will 
+be: 
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-12
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-10
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-10
+
+Earn an average test grade of 80 thru 84
+
+ 
+
+CComplete Lab Assignments 1-7
+
+Earn an average test grade of 75 thru 79
+
+
+
+      CComplete Lab Assignments 1-7
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-7
+
+Earn an average test grade of 60 thru 69
+
+
+
+A C grade is required to advance to the next course.  
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-7. 
+
+
+
+INCOMPLETE:  The course instructor may grant a grade of incomplete in cases 
+of documented hardship or extenuating circumstances. The student must have 
+completed at least 80 of the total course work to qualify. The student must 
+obtain a signed Incomplete Application form from the instructor on or before 
+the last class meeting date. If the required work is not completed by the 
+end of the second week of the new term, the grade of INC is changed to an F. 
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+The student must print out and submit the following for each programming 
+problem: 
+
+
+
+1. A listing of the program code
+
+Note:  The first three lines in the General Declaration section must have 
+the following comments at a minimum: 
+
+Student name 
+
+COMP 116 and section no.
+
+Program problem no. (Lab 1, etc.)
+
+
+
+2. A print out of the form with program results using a Print Form button. 
+The form must also include a label with the students name and the lab number 
+at the bottom. 
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT 1 (CHAPTER:  1)
+
+NAME OF UNIT:  An Introduction to Programming and Visual Basic
+
+
+
+UNIT OBJECTIVE:  To introduce the student to problem solving and computer 
+programming using Visual Basic, Input/Processing/Output tables, and 
+pseudocode. 
+
+
+
+METHOD OF EVALUATION:  Participate in computer lab workshop
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will be able to:
+
+Understand the importance of information systems in organizations. 
+
+Discuss the role of computer programs and programming in information 
+systems. 
+
+List and discuss the six computer operations. 
+
+Describe the difference between modern Windows-based computer languages and 
+older procedural languages. 
+
+Discuss the difference between compiled and interpreted languages. 
+
+List and discuss the steps in the object-oriented, event-driven programming 
+process. 
+
+
+
+RECOMMEND LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Introduction and Chapter 1 in text.
+
+Do recommended exercises in Chapter 1.
+
+Participate in computer lab workshop.
+
+
+
+Required Lab Assignment:
+
+None for this chapter
+
+
+
+Optional Lab Assignment:
+
+None for this chapter
+
+
+
+
+
+UNIT 2 (CHAPTER:  2)
+
+
+
+NAME OF UNIT:  Using Visual Basic to Create a First Project
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the Visual Basic development 
+environment and to have them create and save a first Visual Basic project. 
+
+
+
+MTHOD OF EVALUATION:  Successful completion of lab 1
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will be able to:
+
+Point out the elements of the Visual Basic development environment, 
+including the title bar, menu bar, toolbar, initial form window, Toolbox, 
+Project Explorer window, Properties window, and Form Layout window. 
+
+Discuss the use of the form in creating a Visual Basic project.  
+
+Understand controls and their properties. 
+
+Use the label, command button, and image controls from the Toolbox to create 
+an interface on the form. 
+
+Use a message box for output from the project.  
+
+Use the Code window to write the event procedure for a command button.  
+
+List the different types of files that make up a Visual Basic project and be 
+able to save a project to disk. 
+
+Use the various Visual Basic help facilities to answer questions or solve 
+problems encountered when creating a project. 
+
+
+
+RECOMMEND LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Chapter 2 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 2.
+
+Required Lab Assignment:
+
+Lab 1  Page 54, Project 1
+
+Optional Lab Assignment: None for this chapter
+
+
+
+
+
+
+
+UNIT 3 (CHAPTER:  3)
+
+
+
+NAME OF UNIT: Variables, Assignment Statements, and Arithmetic
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the uses of variables, 
+assignment statements, and arithmetic to solve fairly simple problems using 
+Visual Basic. 
+
+
+
+METHOD OF EVALUATION:  Successful completion of labs 2 and 3.
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will be able to:
+
+Declare and use different types of variables in their projects.  
+
+Use text boxes for event-driven input and output.  
+
+Use a four-step process to write code for event procedures  
+
+Write Visual Basic instructions to carry out arithmetic operations.  
+
+Describe the hierarchy of operations for arithmetic.  
+
+Understand how to store the result of arithmetic operations in variables 
+using assignment statements. 
+
+Use comments to explain the purpose of program statements.  
+
+Discuss using Visual Basic functions to carry out commonly used operations. 
+
+Use command buttons to clear text boxes, print a form with the PrintForm 
+method, and exit the project. 
+
+Describe the types of errors that commonly occur in a Visual Basic project 
+and their causes. 
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Chapter 3 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 3.
+
+Required Lab Assignments:
+
+Lab 2  Page 98, Project 1
+
+Lab 3  Page 100, Project 9
+
+Optional Lab Assignment: None
+
+
+
+
+
+
+
+UNIT 4 (CHAPTER:  4)
+
+
+
+NAME OF UNIT:  The Selection Process 
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the decision making process in 
+Visual Basic including two-alternative decisions and multiple-alternative 
+decisions. 
+
+
+
+METHOD OF EVALUATION:  Successful completion of lab 4 and 8.
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will be able to:
+
+Understand the importance of the selection process in programming.  
+
+Describe the various types of decisions that can be made in a computer 
+program. 
+
+Discuss the statement forms used in Visual Basic to make decisions.  
+
+Understand the various comparison operators used in implementing decisions 
+in Visual Basic. 
+
+Use the If-Then-Else, If-Then-ElseIf, and Case decision structures.  
+
+Use the list box control to select from a list of alternatives.  
+
+Work with complex comparison structures and nested decisions to handle more 
+sophisticated selection processes. 
+
+Use the scroll bar to input integer values.  
+
+Use the FormLoad event to execute a procedure when a form is loaded.  
+
+Work with the debugging toolbar to find program errors.  
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Chapter 4 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 4.
+
+Required Lab Assignments:
+
+Lab 4  Page 144, Project 1
+
+Optional Lab Assignment: Lab 8  Page 147, Project 11
+
+
+
+
+
+UNIT 5 (CHAPTER:  5)
+
+
+
+NAME OF UNIT:  The Repetition Process 
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the repetition process in 
+Visual Basic including event-driven, determinate, and indeterminate 
+(data-driven) loops. 
+
+
+
+METHOD OF EVALUATION:  Successful completion of labs 5 and 6.
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will be able to:
+
+Understand the importance of the repetition process in programming.  
+
+Describe the various types of loops that can be carried out in an OOED 
+computer language. 
+
+Discuss the statement forms used in Visual Basic to handle repetition, and 
+understand the use of pre- and post-test loops. 
+
+Use the event-driven, For-Next, While-loop, and Until-loop repetition 
+structures in creating projects. 
+
+Understand the concepts of variable scope and static variables.  
+
+Use the combo box control to select from a list of alternatives.  
+
+Understand the use of files to permanently store data and information.  
+
+Work with nested loops.  
+
+Create an executable version of a Visual Basic project.  
+
+Use debugging tools in Visual Basic to find and correct errors. 
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Chapter 5 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 5.
+
+
+
+Required Lab Assignment:
+
+Lab 5  Page 199, Project 1
+
+Lab 6  Page 201, Project 10
+
+Optional Lab Assignment:
+
+ None
+
+
+
+UNIT 6 (CHAPTER:  6)
+
+
+
+NAME OF UNIT:  Working with Arrays
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the use of arrays in Visual 
+Basic for working with lists of data and multiple controls with the same 
+name. 
+
+
+
+METHOD OF EVALUATION:  Successful completion of labs 7, 9 and 10.
+
+
+
+ESTIMATED TIME TO ACHIEVE:   3 weeks
+
+
+
+LEARNING EXPERIENCES:  The student will be able to:
+
+Understand the use of control, list, and table arrays in Visual Basic 
+projects. 
+
+Use control arrays to work with groups of controls using a single name.  
+
+Work with check boxes and option buttons.  
+
+Describe the difference between arrays and combo boxes, list boxes, and 
+similar controls. 
+
+Declare the maximum index value for a list array and understand the errors 
+that occur when declared upper limits on index values are exceeded. 
+
+Input data into an array from the keyboard or a file using loops.  
+
+Manipulate array data to find the sum and average of array values, the 
+largest or smallest value in an array, or a particular value. 
+
+Work with multiple arrays to match values in one array to those in another. 
+
+Output the result of array processing to a control, the printer, or the 
+immediate window. 
+
+Declare, input, process, and output two-dimensional arrays.  
+
+Use Step operations to step though an array operation to find and correct an 
+error. 
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+Attend class meetings.
+
+Read Chapter 6 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 6.
+
+Required Lab Assignment:
+
+Lab 7  Page 256, Project 1
+
+Optional Lab Assignment:
+
+Lab 9  Page 258, Project 4 
+
+Lab 10  Page 259, Project 9
+
+
+
+
+
+
+
+UNIT 7 (CHAPTER:  7)
+
+
+
+NAME OF UNIT:  Using Functions, Subs, and Modules
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the use of procedures, 
+functions, and modules in Visual Basic. 
+
+
+
+METHOD OF EVALUATION:  Successful completion of labs 11 and 12.
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will understand:
+
+Understand the importance of general procedures and modules in programming 
+in Visual Basic. 
+
+Describe the difference between event procedures and general procedures. 
+
+Create general procedures by using the menu system and by entering them 
+directly. 
+
+Understand the difference between the two types of general procedures: sub 
+procedures (subs) and functions. 
+
+Describe the relationship between arguments and parameters in general 
+procedures. 
+
+Write functions to return single values and sub procedures to process 
+multiple values. 
+
+Create sub procedures to search, sort, and print arrays. 
+
+Use the Code module to declare variables globally or create global general 
+procedures 
+
+Understand the difference between passing by value and passing by reference 
+in sub procedures. 
+
+
+
+RECOMMENDED LEARNING EXPERIENCES:
+
+
+
+Attend class meetings.
+
+Read Chapter 7 in text.
+
+Do recommended Its Your Turn exercises throughout Chapter 7.
+
+Required Lab  Assignment:
+
+Lab 11   Page 312, Project 1
+
+Optional Lab Assignment:
+
+Lab 12   Page 316, Project 12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

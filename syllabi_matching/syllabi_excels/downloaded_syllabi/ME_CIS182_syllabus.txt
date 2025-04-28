@@ -1,0 +1,820 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Mercer County Community College
+
+
+
+                       COURSE OUTLINE
+
+
+
+
+
+CIS 182                      PC Applications:
+
+Presentations
+
+Course Number                           Course Title
+
+
+
+
+
+Business                           15 Weeks
+
+Division                           Length of Semester
+
+
+
+
+
+3                            2/2
+
+ Credits                           Lecture/Laboratory
+
+
+
+
+
+Text:     Title:         PowerPoint 2000:  A Professional
+
+Approach
+
+     Author:   Fisher-Larson, Marple
+
+     Publisher:     Glencoe/McGraw-Hill
+
+     Edition:  2000
+
+
+
+
+
+Catalog Description:
+
+
+
+Presentation graphics software is used to create and
+
+customize presentations working with objects, lines, fills
+
+and colors.  Students will work with text manipulation,
+
+drawing techniques, animation and slide show effects and
+
+will create tables, flowcharts and organization charts.
+
+
+
+Prerequisite:  None
+
+Corequisite:  None
+
+
+
+                              Judy Ehresman
+
+                              Course Coordinator
+
+
+
+
+
+Instructor Name 
+
+Time/Location 
+
+Office /Phone  
+
+Office Hours 
+
+E-mail 
+
+
+
+
+
+Rev. Fall 2000
+
+buscodisk4
+
+CIS 182PC Applications:  Presentations
+
+Page 2
+
+
+
+Objectives/Course Schedule
+
+
+
+Week 1
+
+
+
+Introduction to course
+
+Discussion of MOUS certification (See Appendix F)
+
+Review of textbook appendices
+
+
+
+UNIT 1  BASIC SKILLS
+
+
+
+Lesson 1  What Is PowerPoint
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Start PowerPoint.
+
+     2.   Navigate in PowerPoint.
+
+     3.   Key text on a slide.
+
+     4.   Use PowerPoint views.
+
+     5.   Run a presentation as a slide show.
+
+     6.   Name and save a presentation.
+
+     7.   Print slides and handouts.
+
+     8.   Close a presentation and exit PowerPoint.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Lesson 2  Basic Presentation Tools
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Use the AutoContent Wizard.
+
+     2.   Change sample text.
+
+     3.   Use the spelling checker and style checker.
+
+     4.   Use the Find and Replace features.
+
+     5.   Rearrange slides use Cut, Copy, and Paste and delete
+
+          slides.
+
+     6.   Add headers and footers.
+
+     7.   Choose printing options.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+UNIT 1 APPLICATIONS  ASSIGNMENTSAS INSTRUCTED
+
+
+
+CIS 182PC Applications:  Presentations
+
+Page 3
+
+
+
+Week 3
+
+
+
+     PROJECT 1
+
+     UNIT 1 EXAM
+
+
+
+UNIT 2  DEVELOPING A PRESENTATION
+
+
+
+Lesson 3  Creating a Presentation from Scratch
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Create a new presentation.
+
+     2.   Add new slides.
+
+     3.   Promote and demote text.
+
+     4.   Use and Undo and Redo commands.
+
+     5.   Change slide layouts.
+
+     6.   Change design templates and color schemes.
+
+     7.   Work with speakers notes.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 4
+
+
+
+Lesson 4  Using the Outline Pane
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Create a presentation using the outline pane.
+
+     2.   Add a new slide in the outline pane.
+
+     3.   Promote and demote outline entries.
+
+     4.   Move bulleted items in the outline pane.
+
+     5.   Move slides in the outline pane.
+
+     6.   Create a summary slide.
+
+     7.   Insert slides and import and export outlines.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+CIS 182PC Applications:  Presentations
+
+Page 4
+
+
+
+Week 5
+
+
+
+Lesson 5  Working with Text
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Apply fonts and text attributes to text.
+
+     2.   Apply text attributes to a placeholder.
+
+     3.   Control presentation fonts.
+
+     4.   Work with bullets.
+
+     5.   Change text alignment.
+
+     6.   Change the size and position of a text placeholders.
+
+     7.   Use master slides to format text.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+UNIT 2 APPLICATIONS ASSIGNMENTS AS INSTRUCTED
+
+
+
+Week 6
+
+
+
+     PROJECT 2
+
+     UNIT 2 EXAM
+
+
+
+UNIT 3  CUSTOMIZING A PRESENTATION
+
+
+
+Lesson 6  Working with PowerPoint Objects
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Use clip art.
+
+     2.   Use WordArt for special effects.
+
+     3.   Add floating text boxes.
+
+     4.   Rotate text.
+
+     5.   Work with basic drawing tools.
+
+     6.   Use basic AutoShapes.
+
+     7.   Place text in an AutoShape.
+
+     8.   Work with scanned images.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+CIS 182PC Applications:  Presentations
+
+Page 5
+
+
+
+Week 7
+
+
+
+Lesson 7  Working with Lines, Fills, and Colors
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Change the line color and style of objects.
+
+     2.   Change the fill color of objects.
+
+     3.   Work with fill patterns, shading, and textures.
+
+     4.   Use the Format Painter tool to copy formatting.
+
+     5.   Apply design elements to master slides and backgrounds
+
+          to create a custom template.
+
+     6.   Change the colors of clip art.
+
+     7.   Change a presentation color scheme.
+
+     8.   Change black and white settings for better printing.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 8
+
+
+
+Lesson 8  Manipulating PowerPoint Objects
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Select multiple objects.
+
+     2.   Align, flip, and distribute objects.
+
+     3.   Group and ungroup objects.
+
+     4.   Work with layers of objects.
+
+     5.   Apply object shadows and 3-D effects.
+
+     6.   Use the Duplicate command.
+
+     7.   Work with advanced clip art editing.
+
+     8.   Customize and create toolbars.
+
+
+
+UNIT 3 APPLICATIONS ASSIGNMENTS AS INSTRUCTED
+
+
+
+Week 9
+
+
+
+     PROJECT 3
+
+     UNIT 3 EXAM/MIDTERM EXAM
+
+
+
+CIS 182PC Applications:  Presentations
+
+Page 6
+
+
+
+UNIT 4  ADVANCED TECHNIQUES
+
+
+
+Lesson 9  Advanced Text Manipulation
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Control paragraph indents by using the ruler.
+
+     2.   Set tab stops and create a tabbed table.
+
+     3.   Change line spacing and paragraph spacing.
+
+     4.   Change text box margins and word wrap options.
+
+     5.   Work with page setup options.
+
+     6.   Customize handout masters and note masters.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 10
+
+
+
+Lesson 10  Advanced Drawing Techniques
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Use guides to position and measure objects.
+
+     2.   Use zoom for precise object placement.
+
+     3.   Explore the Snap and Nudge features.
+
+     4.   Draw using the Freeform tool.
+
+     5.   Edit points on a freeform drawing.
+
+     6.   Draw using the Curve tool.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 11
+
+
+
+Lesson 11  Animation and Slide Show Effects
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Add slide transitions.
+
+     2.   Use text animations.
+
+     3.   Create object animations.
+
+     4.   Add sound and motion clips.
+
+     5.   Add animation effects to a template design.
+
+     6.   Add hyperlinks and action buttons.
+
+     7.   Set automatic slide timings.
+
+CIS 182PC Applications:  Presentations
+
+Page 7
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+UNIT 4 APPLICATIONS ASSIGNMENTS AS INSTRUCTED
+
+
+
+Week 12
+
+
+
+     PROJECT 4
+
+     UNIT 4 EXAM
+
+
+
+UNIT 5  CHARTS AND TABLES
+
+
+
+Lesson 12  Creating a Chart
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Insert a column chart.
+
+     2.   Change sample data.
+
+     3.   View a new chart.
+
+     4.   Edit a chart.
+
+     5.   Format a chart.
+
+     6.   Add shapes and text objects to a chart.
+
+     7.   Insert other types of charts.
+
+     8.   Animate chart elements.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 13
+
+
+
+Lesson 13  Creating a Table
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Create a table.
+
+     2.   Key text in a table.
+
+     3.   Select a table, table cells, and table text.
+
+     4.   Format a table.
+
+     5.   Align text and numbers in a table.
+
+     6.   Change the height and width of rows, columns, and
+
+          tables.
+
+     7.   Insert and delete rows, columns, and individual cells.
+
+     8.   Insert a Microsoft Word table.
+
+CIS 182PC Applications:  Presentations
+
+Page 8
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+Week 14
+
+
+
+Lesson 14  Flowcharts and Organization Charts
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Draw flowchart AutoShapes.
+
+     2.   Connect objects by using connector lines.
+
+     3.   Create an organization chart.
+
+     4.   Add boxes to organization charts.
+
+     5.   Rearrange organization chart boxes.
+
+     6.   Format organization chart elements.
+
+
+
+Complete the following:  Concepts Review, Critical Thinking,
+
+Skills Review, Lesson Applications
+
+
+
+UNIT 5 APPLICATIONS ASSIGNMENTS AS INSTRUCTED
+
+
+
+Week 15
+
+
+
+     PROJECT 5
+
+     UNIT 5 EXAM
+
+
+
+UNIT 6  DELIVERING PRESENTATIONS
+
+
+
+Lesson 15  Distributing and Presenting Your Work
+
+
+
+After completing this lesson, you will be able to:
+
+
+
+     1.   Use Meeting Minder to record notes during a
+
+          presentation.
+
+     2.   Distribute presentations in a variety of formats.
+
+     3.   Use PowerPoints Pack and Go feature.
+
+     4.   Prepare a presentation for viewing on the Web.
+
+
+
+UNIT 6 APPLICATIONS ASSIGNMENTS AS INSTRUCTED
+
+
+
+     PROJECT 6
+
+     FINAL EXAM
+
+CIS 182PC Applications:  Presentations
+
+Page 9
+
+
+
+EVALUATION/FINAL GRADE:
+
+
+
+     FIVE UNIT EXAMS               60 of grade
+
+     SIX LABORATORY PROJECTS       20 of grade
+
+     FINAL EXAM                    20 of grade
+
+
+
+Academic Integrity Statement:
+
+
+
+A student who a.) knowingly represents work of other as
+
+his/her own b.) uses or obtains unauthorized assistance in
+
+the execution of any academic work or c.) gives fraudulent
+
+assistance to another student is guilty of cheating.
+
+Violators will be penalized.  (Student Handbook)
+
+
+
+Classroom Conduct Statement:
+
+
+
+It is the students responsibility to attend all of their
+
+classes.  If they miss a class meeting for any reason,
+
+students are responsible for all content that is covered,
+
+for announcements made in their absence, and for acquiring
+
+any materials that may have been distributed in class.  It
+
+is expected that students be on time for all their classes.
+
+If students walk into a class after it has begun, it is
+
+expected that they choose a seat close to where they entered
+
+the room so that they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy
+
+during class sessions.  Engaging in private, side
+
+conversations during class time is distracting to other
+
+students and to the instructor.  Leaving class early without
+
+having informed the instructor prior to class is not
+
+appropriate.  Unless there is an emergency, leaving class
+
+and returning while class is in session is not acceptable
+
+behavior.  Disruptive behavior of any type, including
+
+sharpening pencils during class while someone is speaking,
+
+is not appropriate.
+
+
+
+The college welcomes all students into an environment that
+
+creates a sense of community of pride and respect we are
+
+all here to work cooperatively and to learn together.

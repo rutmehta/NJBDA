@@ -1,0 +1,340 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+Course Title:  Analytic Geometry  Calculus I
+
+Course No.  MAT 131
+
+
+
+Class Hours:  4Laboratory Hours:  0Credit Hours:  4
+
+
+
+Department Head: Maria DeLucia, Ph.D.
+
+Phone:732-906-2585
+
+Email:MDeluciamiddlesexcc.edu
+
+
+
+Prerequisite:
+
+MAT-129 or MAT-129A/129B or appropriate score on the college placement test.
+
+
+
+
+
+Textbook of Course:
+
+Author: Larson/Hostetler
+
+Title: Calculus Single Variable
+
+Publisher: Houghton Mifflin 8th Edition
+
+
+
+Catalog Course Description:
+
+
+
+Presents fundamental ideas of calculus including the derivative, integral, 
+and 
+
+their applications.  Topics include fundamentals of analytic geometry and 
+
+transcendental functions.  The first course in a sequence of calculus 
+courses 
+
+intended for the student interested in mathematics, engineering, and the 
+
+natural, physical and social sciences.  TI 83 plus calculator required.
+
+
+
+
+
+Objectives of Course:
+
+1.Deal with abstract symbols, comprehend their use, and manipulate them in a 
+
+variety of situations.
+
+2.Develop strong conceptual foundations.
+
+3.Analyze mathematical situations with ideas and problem solving techniques.
+
+4.Develop ability to make decisions about complex problems.
+
+5.Establish underlying mathematical models for conceptual understanding.
+
+
+
+
+
+
+
+Course Outline
+
+
+
+ChaptersTopics         Approximate Number of Classes
+
+
+
+PPreparations for Calculus1
+
+
+
+1Limits and Their Properties2
+
+
+
+2Differentiation4
+
+
+
+3Applications of Differentiation9
+
+
+
+4Integration5
+
+
+
+5Logarithmic, Exponential and Other 
+
+Transcendental Functions3
+
+7Applications of Integration1
+
+
+
+
+
+Day-by-Day Outline
+
+
+
+1.
+
+Review  Chapter P
+
+Graphs and Models, Linear Models and Rates of Change, Functions and 
+
+Their Graphs, Fitting Models to Data 
+
+
+
+2.
+
+1.1A Preview of Calculus (Quickly)
+
+1.2Finding Limits Graphically and Numerically
+
+1.3Evaluating Limits Analytically
+
+
+
+3.
+
+1.4Continuity and One-Sided Limits
+
+1.5Infinite Limits
+
+
+
+4.
+
+2.1 The Derivative and the Tangent Line Problem
+
+
+
+5.
+
+2.2 Basic Differentiation Rules and Rates of Change
+
+2.3 The Product and Quotient rules and Higher-Order Derivatives
+
+
+
+6.
+
+2.4 The Chain Rule
+
+
+
+  7.
+
+2.5 Implicit Differentiation
+
+2.6 Related Rates
+
+
+
+8.
+
+Catch up  review
+
+
+
+9.
+
+Test 1
+
+
+
+10.
+
+3.1 Extrema on an Interval
+
+3.2 Rolles Theorem and the Mean Value Theorem
+
+
+
+11.
+
+3.3 Increasing and Decreasing functions and the First Derivative Test
+
+3.4 Concavity and the Second Derivative Test
+
+
+
+12.
+
+3.5 Limits at Infinity
+
+3.6 A Summary of curve Sketching
+
+
+
+13.
+
+3.7 Optimization Problems
+
+
+
+14.
+
+3.9 Differentials
+
+
+
+15.
+
+Catch up  review
+
+
+
+16.
+
+Test 2
+
+
+
+17.
+
+4.1 Antiderivatives and Indefinite 
+
+Integration
+
+
+
+18.
+
+4.2 Area
+
+
+
+19.
+
+4.3 Reimann Sums and Definite Integrals
+
+4.4 The Fundamental Theorem of Calculus
+
+
+
+20.
+
+4.5 Integration by Substitution
+
+
+
+21.
+
+5.1The Natural Logarithmic Function: Differentiation
+
+5.2The Natural Logarithmic Function: Integration
+
+
+
+
+
+22.
+
+5.3Inverse Functions
+
+5.4Exponential Functions: Differentiation and Integration
+
+5.5Bases Other Than e and Applications
+
+
+
+23.
+
+5.6Differential Equations:  Growth and Decay
+
+6.3Differential Equations:  Separation of Variables
+
+
+
+24.
+
+4.6 Numerical Integration Review
+
+
+
+25.
+
+Test 3
+
+
+
+26.
+
+7.1 Area of a Region Between Two 
+
+Curves
+
+
+
+27.
+
+Catch up  review
+
+
+
+28.
+
+Review for Final Exam
+
+
+
+
+
+BASED ON TWO WEEK CLASS MEETINGS PER WEEK
+
+
+
+

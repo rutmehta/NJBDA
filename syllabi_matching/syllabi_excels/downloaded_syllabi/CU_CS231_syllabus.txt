@@ -1,0 +1,141 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 231  Network Infrastructure Design
+
+
+
+Credits: 3 
+
+
+
+Prerequisites 
+
+      CS 175, CS 275, and take the last semester of the program of study.
+
+      
+
+Description 
+
+      This capstone course prepares the students to create a networking 
+services infrastructure design that supports the required network 
+applications based on the needs of the organization using advanced 
+technologies to provide Internet Protocol (IP) address configuration or to 
+design an IP routing scheme. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Analyze business requirements for designing security. Considerations 
+include existing policies and procedures, sensitivity of data, cost, legal 
+requirements, end-user impact, interoperability, maintainability, 
+scalability, and risk 
+
+ Design a framework for designing and implementing security.  The framework 
+should include prevention, detection, isolation, and recovery. 
+
+ Analyze technical constraints when designing security
+
+ Design a public key infrastructure (PKI) that uses Certificate Services
+
+ Design a logical authentication strategy
+
+ Design security for network management
+
+ Design a security update infrastructure
+
+ Design network infrastructure security
+
+ Design security for wireless networks
+
+ Design user authentication for Internet Information Services (IIS)
+
+ Design security for Internet Information Services (IIS)
+
+ Design security for communication between networks
+
+ Design security for communication with external organizations
+
+ Design security for servers that have specific roles. Roles include domain 
+controller, network infrastructure server, file server, IIS server, terminal 
+server, and POP3 mail server 
+
+ Design an access control strategy for directory services
+
+ Design an access control strategy for files and folders
+
+ Design an access control strategy for the registry
+
+ Design a client authentication strategy
+
+ Design a security strategy for client remote access
+
+ Design a strategy for securing client computers.  Considerations include 
+desktop and portable computers. 
+
+
+
+Topical Outline
+
+ The Assessment Stage
+
+ Developing the Active Directory Infrastructure Design
+
+ Developing the Network Services Design
+
+ Designing the Logical Components
+
+ Name Resolution
+
+ Remote Access and Address Management
+
+ Service Sizing and Placement
+
+ The Physical Design
+
+
+
+Texts
+
+      MCSE Guide to Designing Microsoft Windows 2003 Active Directory 
+Network Infrastructure (w/CD) by Holcome: Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

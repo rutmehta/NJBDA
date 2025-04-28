@@ -1,0 +1,171 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+email:                           jsharpeccm.edu
+
+realname:                        Online Applicant
+
+recipient:                       jsharpeccm.edu
+
+subject:                         Course Transfer Submission
+
+DepartmentName:                 MAT 060
+
+CourseName:                     Fundamentals of Algebra
+
+LectureHours:                    90
+
+LabHours:                        0
+
+CreditHours:                    6N
+
+CourseFee:                       None
+
+DepartmentChairpersonApproval: J.R. Monaghan
+
+ChairpersonsApprovalDate:        
+
+DivisionDeanApproval:          P.J. Enright
+
+DeansApprovalDate:               
+
+General Education Designator:    MLS
+
+status:                          new
+
+OldCourseID:                     
+
+WhenFirstOffered:                Spring 2009
+
+ChairpersonName:                Joan R. Monaghan
+
+ChairpersonTelephoneNumber:    073-328-5705
+
+ChairpersonEmail:               jmonaghanccm.edu
+
+Submittedby:                    Beverly Levitt
+
+DateSubmitted:                   4/29/08
+
+Submit:                          Submit
+
+
+
+Prerequisite:
+
+
+
+Appropriate score on a placement test.
+
+
+
+Corequisite:
+
+
+
+None
+
+
+
+RelationofCoursetoCurriculum:
+
+
+
+Students who do not show proficiency in computation and/or algebra upon 
+admission to 
+
+C.C.M., but score between 54 and 120 inclusive on the computation test, are 
+eligible for this 
+
+course in lieu of MAT011, MAT014 and MAT016.
+
+
+
+CatalogDescription:
+
+
+
+An intensive one-semester course to prepare students for credit mathematics 
+courses. 
+
+Topics include computation, polynomials, exponents, linear equations, 
+factoring, raitonal 
+
+expressions, radicals and solving quadratic equatins.  This course is 
+offered fall and spring, 
+
+day, and on-line.
+
+
+
+CourseObjectives:
+
+
+
+Upon completion of this course, the students will satisfy the colleges 
+proficiency 
+
+requirement in computaiton, basic algebra and intermediate algebra.
+
+
+
+Textbooks:
+
+
+
+Jordan and Palow, Integrated Arithemetic and Basic Algebra, 4th ed., (2009, 
+Pearson 
+
+Addison-Wesley)
+
+
+
+StudentProvidedMaterials:
+
+
+
+None
+
+
+
+GradingPolicy:
+
+
+
+Final Exam is New Jersey College Basic Skills Test in Algebra.  Passing 
+grade:  70 
+
+
+
+TopicsCoveredinCourse:
+
+
+
+Review of fractions and decimals, ratios, percents, applications, variables, 
+exponents, order 
+
+of operations, Geometric figures, areas, perimeters, addition, subtraction, 
+combining like 
+
+terms, introduction to polynomials, laws of exponents, Quotient Rule, Power 
+Rule, division of 
+
+polynomials, scientific notation, properties of equality, solving formulas, 
+linear inequalities, 
+
+word problems graphing linear equations, slope, intercepts, prime 
+factorization, factoring 
+
+solving quadratic equations by factoring, rational expressions, 
+multiplication, division, 
+
+addition and subtraction of rational expressions, complex fractions, solving 
+equations and 
+
+applications with rational expressions, solving systems of linear equations, 
+simplifying 
+
+radicals, properties of radicals, operations with radicals, rationalizing 
+denominators, solving 
+
+equaitons, quadratic equations.

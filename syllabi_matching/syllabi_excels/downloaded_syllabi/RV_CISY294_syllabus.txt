@@ -1,0 +1,394 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+1
+
+
+
+                              
+
+                              
+
+                              
+
+                              
+
+I.    Basic Course Information
+
+
+
+  A.   Course Number and Title:
+
+
+
+     CISY-294, ORACLE: Database Administration Fundamentals Part
+
+
+
+     I
+
+
+
+  B.   Date of Proposal: November 2001
+
+
+
+  C.   Sponsoring Department: Computer Information Systems
+
+
+
+     (CIS)
+
+
+
+  D.   Semester Credit Hours: 3
+
+
+
+  E.   Weekly Contact Hours:    Lecture   2
+
+                         Lab       2
+
+  F.   Prerequisite: INTRO TO ORACLE: SQL  PL/SQL or
+
+     permission of instructor
+
+     
+
+  G.   Laboratory Fees: Yes
+
+
+
+  H:   Dept. Chair:  Dr Thomas Edmunds,
+
+  tedmundsraritanval.edu
+
+II.  Catalog Description
+
+
+
+This course is designed to give future Oracle database
+
+administrators (DBAs) a firm foundation in basic database
+
+administrative tasks. Students will gain a conceptual
+
+understanding of the Oracle database architecture and how
+
+the architectural structures work and interact with one
+
+another. Students will also learn how to create an
+
+operational database and properly manage the various
+
+structures in an effective and efficient manner in order to
+
+have a well-designed and operational database.
+
+
+
+  
+
+III.
+
+
+
+     Statement of Course Need
+
+
+
+This  course prepares students for entry-level positions  in
+
+Oracle   Database  administration.   A  vast   majority   of
+
+professional  Relational Database Developers use  Oracle  as
+
+the  tool  of  choice  for  database  deployment.   Database
+
+Administrators  need to design and implement Databases  that
+
+can   be   effective   repositories  of   critical   company
+
+information.
+
+
+
+Oracle University offers five courses that are required  for
+
+individuals that want Oracle DBA certification.   The  first
+
+course,  Introduction to Oracle: SQL and PL/SQL, is  already
+
+offered  by  RVCC under the same name.  This is through  the
+
+Oracle  Academic Initiative.  The second course that  Oracle
+
+offers is called Oracle 9i DBA Fundamentals I.  This course,
+
+ORACLE:  Database Administration Fundamentals Part I,  would
+
+mirror Oracle Universitys course.
+
+
+
+IV.   Place of Course in College Curriculum
+
+
+
+     C. CIS Programming Elective
+
+     
+
+     
+
+
+
+V.   General Education Goals
+
+
+
+     1.   The student will develop the ability to think
+
+       critically
+
+2.   The student will develop the ability to reason
+
+quantitatively
+
+
+
+
+
+VI.  Student Learning Outcomes
+
+
+
+At the conclusion of the course, students will be able to:
+
+          
+
+    Create an operational database
+
+    Manage Oracle database files
+
+    Manage tablespaces, segments, extents, and blocks
+
+    Manage users, privileges, and resources
+
+    Start up and shut down an Oracle instance and database
+
+     
+
+
+
+VII. Outline of Course Content
+
+
+
+     The theory of database administration is applied
+
+through numerous Lab Exercises.  At the end of the semester,
+
+a final project is assigned to successfully create a
+
+database.  The three major content providers are (1) The
+
+textbook, (2) Instructors lectures, and (3) experiences
+
+gained in lab work.  The Outline for the Course is below.
+
+This outline can be adapted by individual instructors
+
+according to the steps in which they cover content.  The
+
+outline provided is from Oracles Academic Initiative
+
+website for Oracle 9i DBA Fundamentals I
+
+
+
+     ORACLE: DATABASE ADMINISTRATION FUNDAMENTALS PART I
+
+                              
+
+                       COURSE OUTLINE
+
+     
+
+           Oracle Architectural Components
+
+            o    Understanding the physical structure
+
+o    Understanding the memory structure
+
+o    Understanding the process structure
+
+o    Understanding the logical structure
+
+o    Outlining the stages of an SQL statement
+
+o    Defining an Oracle Database, the Oracle server, and the
+
+Oracle Instance
+
+           Getting Started with the Oracle Server
+
+            o    Identifying database administrative tools
+
+o    Identifying the features of the Universal Installer
+
+           Managing an Oracle Instance
+
+            o    Creating, managing, and using initialization files:
+
+               PFILE and SPFILE
+
+o    Identifying the various states of starting an instance
+
+o    Identifying the various options available to shutdown
+
+an instance
+
+o    Monitoring Alert and Trace files
+
+           Creating a Database
+
+            o    Using the Database Configuration Assistant to create a
+
+               database
+
+o    Creating a database manually
+
+           Using the Data Dictionary
+
+            o    Identifying the uses and contents of the data
+
+               dictionary
+
+o    Using the data dictionary to obtain information about
+
+the database
+
+           Maintaining the Control File
+
+            o    Explaining the uses of the control file
+
+o    Listing the contents of the control file
+
+           Maintaining Redo Log Files
+
+            o    Explaining the use of online redo log files
+
+o    Explaining the structure of online redo log files
+
+           Managing Tablespaces and Data Files
+
+            o    Outlining the database storage hierarchy
+
+o    Identifying the types of tablespaces
+
+           Storage Structure and Relationships
+
+            o    Outlining the various segment types and their uses
+
+o    Outlining the storage clause precedence
+
+           Managing Undo Data
+
+            o    Understanding the purpose of undo data
+
+o    Managing undo data
+
+           Managing Tables
+
+            o    Outlining the various Oracle data types
+
+o    Explaining the two types of ROWID formats
+
+           Managing Indexes
+
+            o    Classification of types and uses indexes
+
+o    Creating b-tree and bitmap indexes
+
+           Maintaining Data Integrity
+
+            o    Identifying the various types and states of constraints
+
+o    Implementing data integrity constraints
+
+           Managing Password Security and Resources
+
+            o    Managing passwords using profiles
+
+o    Administering profiles
+
+           Managing Users
+
+            o    Defining database schema and objects
+
+o    Creating new database users
+
+           Managing Privileges and Roles
+
+            o    Identifying system and object privileges
+
+o    Granting and revoking privileges
+
+           Using Globalization Support
+
+            o    Choosing character set and national character set for a
+
+               database
+
+o    Specifying the language-dependent behavior
+
+
+
+VIII.     Suggested Materials
+
+
+
+     A. Books
+
+     
+
+     Suggested Textbook:   Oracle 9i: DBA Handbook, Kevin
+
+            Loney, Marlene L. Theriault, Osborne/McGraw-
+
+            Hill, 2001
+
+     
+
+     Oracle 8i: The Compete Reference, George Koch, Kevin
+
+     Loney, Osborne/McGraw-Hill, 2000
+
+     
+
+     Oracle 8i Advanced PL/SQL Programming, Scott Urman,
+
+     Osborne/McGraw-Hill, 2000
+
+     
+
+     Oracle Performance Tuning Tips  Techniques, Richard
+
+     Niemiec, Osborne/McGraw-Hill, 1997
+
+     
+
+     B. Equipment
+
+     
+
+     This course can be taught effectively on Oracle 9i
+
+     running on a UNIX platform preferably on an HP 9000 but
+
+     adequately on a SUN SPARC workstation.  This will allow
+
+     the students to connect via telnet which would require
+
+     minimal PCs.

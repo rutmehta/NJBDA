@@ -1,0 +1,270 @@
+COURSE  SYLLABUS
+
+1. Course Number and Title: CSIT120   Internet Essentials/HTML
+
+2. Semester Hours:3 s.h.  Contact Hours: ( 3         0 )
+
+                                         Lecture     Lab
+
+
+
+3. Catalog Description:
+
+This course will provide an introduction to the Internet and World Wide Web 
+(WWW) for the novice. The course will 
+
+cover getting on the Internet and using the Internet as a research tool 
+including search engines, databases and 
+
+correct citations. The course also introduces HTML and the creation of web 
+sites.  Open lab time required. 
+
+
+
+4. Prerequisites: Working knowledge of Microsoft Windows
+
+   Co-requisites: None
+
+
+
+5. Maximum Class Size:22  Course Fee Code: 2 Differential Funding Category:B
+
+
+
+6. Justification:
+
+A. List the general education goal (s) this course addresses.
+
+1. To develop the ability to communicate effectively through reading, 
+listening, speaking and writing. (2) 
+
+2. To develop the ability to solve problems by collecting, organizing and 
+evaluating information. (3) 
+
+3. To develop an understanding of technology and its impact on society and 
+the environment. (12) 
+
+4. To foster the curiosity, creativity and desire to become autonomous 
+learners for life. (13) 
+
+
+
+B. List the diversity requirements met by this course.
+
+Not Applicable.
+
+
+
+7. Course Objectives:
+
+The student will be able to
+
+A. Evaluate Internet Service Providers (ISP) in terms of cost and features.
+
+B. Compare and contrast the characteristics of dial-up connections, DSL and 
+cable modems. 
+
+C. Send and manage e-mail.
+
+D. Attach a file to an email message.
+
+E. Locate and join appropriate listservs.
+
+F. Locate and participate in relevant newsgroups.
+
+G. Appreciate the features and limitations of the major web browsers.
+
+H. Describe the impact of multimedia on web site performance and loading 
+time. 
+
+I. Interpret Uniform Resource Locator (URL) addresses.
+
+J. Understand the relationship between URLs, hyperlinks and bookmarks.
+
+K. Choose an appropriate search engine based on the nature of the query.
+
+L. Describe the difference between a search engine and a database accessed 
+from the Internet. 
+
+M. Download files through a web browser using the File Transfer Protocol 
+(FTP) protocol. 
+
+N. Be aware of the potential hazard from computer viruses and the tools 
+available to reduce this threat. 
+
+O. Understand the security risks inherent in accessing the Internet.
+
+P. Be aware of the privacy issues associated with the Internet.
+
+Q. Design and construct a web page using Hypertext Markup Language (HTML) 
+and an HTML editor. 
+
+R. Place a table in a web page.
+
+S. Place a list in a web page using appropriate HTML list tags.
+
+T. Describe the uses and placement of Meta tags.
+
+U. Appreciate the importance of designing web sites for the user.
+
+V. Appreciate the importance of planning for site maintenance and expansion.
+
+W. Be aware of the requirements for establishing a web page on the Internet.
+
+
+
+8. Methods of Instruction:
+
+Class lecture, discussion, demonstrations, lab assignments, online 
+presentations and final website project. 
+
+
+
+9. Instructional Materials:
+
+Class notes, textbooks, presentations, software and online materials.
+
+
+
+10.Tentative Topical Outline:
+
+A) Introduction:  What is the Internet
+
+B) Connecting to the Internet
+
+1) What you need
+
+a) Dial-up
+
+b) Cable modem
+
+c) DSL
+
+2) Choosing an Internet Provider
+
+C) Email
+
+1) Addressing email
+
+2) Locating addresses
+
+3) Replying to individuals and groups
+
+4) Sending attachments
+
+5) Email viruses
+
+D) Listservs and Newsgroups
+
+1) Subscribing to a list
+
+a) Managing list messages
+
+b) Sending messages to the list
+
+c) Ending a list subscription
+
+2) Locating newsgroups
+
+3) Joining newsgroups
+
+a) Managing messages from newsgroups
+
+b) Posting messages to the group
+
+c) Ending participation in the group
+
+E) The World Wide Web
+
+1) Browsers
+
+2) URL addressing conventions
+
+3) Hyperlinks
+
+4) Bookmarks
+
+5) Multimedia and saving time
+
+6) Saving pages
+
+7) Exploring Web Pages
+
+F) Finding Information:  Search Engines
+
+1) Search strategies
+
+2) Google
+
+3) Alta Vista
+
+4) Subject and language specific search engines
+
+5) Internet databases
+
+G) FTP
+
+1) Downloading/uploading files and programs
+
+2) Virus issues
+
+H) Security and privacy
+
+1) Protecting yourself and your computer
+
+2) Responsibilities of an Internet user
+
+I) Designing a Web site
+
+1) HTML basics
+
+a) Basic page.
+
+b) Tags
+
+c) Tables
+
+d) Lists
+
+e) Meta tags
+
+2) Using an HTML editor (HomeSite)
+
+3) Design considerations for usability
+
+4) Planning
+
+5) Getting your site on the Internet
+
+6) Announcing your site
+
+ 
+
+11. Grade Determinants:
+
+The final grade in the course will be the cumulative grade based on the 
+following letter grades for the course assignments and examinations: 
+
+
+
+AExcellentDBelow Average
+
+BVery GoodFFailure
+
+BGoodPPassing
+
+CAbove AverageI Incomplete
+
+CAverageRAudit
+
+
+
+12.Number of Papers and Exams:
+
+A minimum of 8 minor projects, labs, and/or self assessment (homework) 
+assignments, a web site project, a minimum of 3 exams and/or skills 
+assessment. 
+
+
+
+Revised   Barry KolbSummer 2005

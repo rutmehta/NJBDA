@@ -1,0 +1,301 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College 
+
+Official Course Outline 
+
+
+
+
+
+MATH 213H: INTRODUCTION TO LIMITS  HONORS 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 213H: Introduction to Limits  Honors 
+
+B. Date: November 1996 updated Summer 2001, updated Fall 2002 
+
+C. Sponsoring Department: Mathematics 
+
+D. Semester Credit Hours: 1 
+
+E. Weekly Contact Hours: 1 Lecture: 1 
+
+Laboratory: 0 
+
+F. Corequisite: MATH 112: Precalculus I, or 
+
+MATH 113: Precalculus II, or 
+
+MATH 211H: Foundations for Calculus 
+
+G. Laboratory Fees: None
+
+H. Dept. Chair: Dr. Nora Thornber (nthornberaritanval.edu) 
+
+II. Catalog Description 
+
+Corequisite: MATH 112: Precalculus I, or MATH 113: Precalculus II, or 
+
+MATH 211H: Foundations for Calculus. This course is designed as an honors 
+
+component to supplement existing courses at the precalculus level. The 
+course is 
+
+intended to provide students with exposure to relevant ideas for future 
+courses in 
+
+Calculus. Topics include intuitive concept of the limit of a function, 
+introduction 
+
+to the delta epsilon definition, limits at infinity, continuity, and the 
+Intermediate 
+
+Value Theorem. 
+
+
+
+III. Statement of Course Need 
+
+Honors courses in mathematics were developed to provide mathematically 
+
+talented students the opportunity to obtain a level of rigor not currently 
+available 
+
+in existing courses. Topics in this course were selected to supplement and 
+enrich 
+
+the curriculum of precalculus courses by providing additional theory and 
+
+applications of the fundamental concept of limit as it was used by Newton 
+and 
+
+Leibniz in the development of calculus. This course has been designed as an 
+
+additional one credit component to the existing precalculus courses. 
+
+
+
+02/19/03 Page 1 of 4 
+
+
+
+
+
+MATH 213: Introduction to Limits 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. Introduction to Limits satisfies general education requirements in 
+
+mathematics. It serves as one-credit of free elective in mathematics for all 
+
+program. 
+
+B. Introduction to Limits transfers as a mathematics course in most liberal 
+
+arts programs. 
+
+C. Introduction to Limits serves as one-credit of an honors elective in 
+
+mathematics. 
+
+V. Outline of Course Content 
+
+A. Intuitive and Formal Definition of Limit 
+
+B. Limits of Functions: Polynomials, Rational, Radical and Trigonometric. 
+
+C. Multi-representation of Limits: Numerical, Graphical, and Algebraic 
+
+D. One Sided Limits and Limits at Infinity 
+
+E. Properties of Limits and their Proofs. 
+
+F. Application of Limits: Continuity. 
+
+VI. General Education Goals and Learning Outcomes 
+
+1. Education Goal: 
+
+The student will develop strategies to work with limits (relates to Gen. Ed. 
+
+Goals 1.a., 1.b., 1.c., 1.d., 1.e., 1.f., and 1.g.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ State and prove one or more properties of limits of functions. 
+
+2. Education Goal: 
+
+The student will develop the ability to apply analytic and geometric skills 
+
+quantitatively to limit problems (relates to Gen. Ed. Goals 5.a. and 5.d.). 
+
+
+
+Learning Outcomes: 
+
+
+
+The student will be able to: 
+
+
+
+2 11/25/02 
+
+
+
+
+
+
+
+MATH 213: Introduction to Limits 
+
+
+
+ Define the limit of a function at a point both intuitively and formally 
+
+ Evaluate the limit of a polynomial, rational, radical and trigonometric 
+
+function 
+
+ Find the limit of a function numerically, graphically, and algebraically 
+
+ Identify and evaluate one-sided limits, two sided limits, and limits at 
+
+infinity 
+
+ State the relationship between continuity and the limit of a function at 
+
+a point. 
+
+3. Education Goal: 
+
+The student will develop strategies apply limit concepts to problems in 
+
+selected areas of the sciences (relates to Gen. Ed. Goal 6.c.) 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Solve application problems that require the concept of a limit. 
+
+VII. Modes of Teaching and Learning 
+
+The following are appropriate to the course and may be included 
+
+
+
+ Lecture/discussion 
+
+ Small-group work 
+
+ Graphing Calculator assisted instruction 
+
+ Students in class oral presentations 
+
+ Student Collaboration 
+
+ Independent study. 
+
+VIII. Papers, Examinations and other Assessment Instruments 
+
+Student Learning outcomes are assessed using a combination of the following: 
+
+
+
+ Teacher written exams 
+
+ In-Class quizzes 
+
+ Labs and/or Projects 
+
+ Student Oral Presentation 
+
+ Final examination 
+
+IX. Grade Determinants 
+
+3 11/25/02 
+
+
+
+
+
+
+
+MATH 213: Introduction to Limits 
+
+
+
+Final grades are determined by a combination of tests, quizzes, projects, 
+labs, 
+
+homework, and a final exam. Individual instructors are free to use the above 
+in 
+
+any combination. 
+
+
+
+X. Text and Materials 
+
+Textbook: Precalculus with Limits, a Graphing Approach 3nd ed. Larson, 
+
+R.E., Hostetler, R. P.,  Edwards, B. H. Houghton Mifflin, 2001 
+
+Required technology: A scientific calculator is necessary. A graphing 
+
+calculator is recommended. 
+
+XI.. Resources 
+
+No additional resources are needed. 
+
+
+
+XII. Honors Course 
+
+1. This is a one-credit honors course designed to supplement topics in 
+
+Precalculus I, Precalculus II or Foundations of Calculus. 
+
+2. See detailed Educational Goals and Student Learning Outcome in section 
+
+VI 
+
+3. This is an existing and approved honors course. Its content is at the 
+
+precalculus level. 
+
+4 11/25/02 
+
+
+
+
+
+

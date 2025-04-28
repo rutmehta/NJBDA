@@ -1,0 +1,380 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+COURSE OUTLINE
+
+
+
+
+
+
+
+Course Number
+
+MAT037A
+
+Course Title
+
+Beginning Algebra Part A
+
+Credits
+
+3
+
+
+
+
+
+
+
+
+
+
+Hours: lecture/Lab/Other
+
+3 lecture 
+
+
+
+Co- or Pre-requisite
+
+Passed MAT033 with a C
+
+Or an appropriate score on Accuplacer test
+
+Implementation sem/year
+
+Fall 2008
+Catalog description (2006-2009 Catalog): 
+
+The first half of a two-semester sequence for students with minimal 
+experience in algebra.  Topics include integers, algebraic expressions, 
+solving and graphing linear equations and inequalities, systems of equations 
+and polynomials.  Students must also complete MAT037B to take college-level 
+math.   Foundation course does not fulfill mathematics elective requirement. 
+
+
+
+
+
+Is course New, Revised, or Modified New
+
+
+
+Required texts/other materials:
+
+
+
+Textbook: Blitzer, Robert. Beginning Algebra. 5th Edition. Pearson 
+Publishing, 2008. ISBN-10: 0-13-235679-1 
+
+Or 
+
+MyMathLab available in bookstore or at www.mymathlab.com.  An access code is 
+required from an instructor and will be provided first day of class. 
+
+Scientific calculator 
+
+Notebook
+
+
+
+
+
+Revision date:
+
+Spring 2008  
+
+Course coordinator:   
+
+Betty Peterson, ext 3421, petersobmccc.edu
+
+
+
+
+
+Information resources:
+
+The library has an extensive collection of books that students may use for 
+reinforcement of the skills being taught in this course. Supplemental 
+materials are available from the publisher which includes students solution 
+manual, a DVD series and MyMathLab.  MyMathLab is an online learning 
+resource which includes an interactive textbook with guided solutions and a 
+series of video lectures. 
+
+Other learning resources:  
+
+Tutors available at both campuses. 
+
+
+Course Competencies/Goals:  
+
+As this is a foundation level mathematics course, the course should first 
+and foremost prepare the students for future college level work in 
+mathematics.  The students should develop confidence in their abilities to 
+perform successfully. They should also gain experiences that connect their 
+classroom learning with real world applications of mathematics and should be 
+able to build techniques of reasoning for effective problem solving. 
+
+
+
+The student will be able to:
+
+I. Apply knowledge of integers and their arithmetic operations.
+
+II. Apply rules of arithmetic to algebraic expressions.
+
+III. Solve equations and inequalities with one variable algebraically.
+
+IV. Generate and interpret graphs of linear equations with two unknowns.
+
+V. Demonstrate an understanding of mathematical vocabulary.
+
+VI. Apply skills learned to solve application problems.
+
+VII. Apply rules of exponents.
+
+Course-specific General Education Knowledge Goals and Core Skills. 
+
+General Education Knowledge Goal
+
+Goal 2. Mathematics. Students will use appropriate mathematical and 
+statistical concepts and operations to interpret data and to solve problems. 
+
+
+
+MCCC Core Skills
+
+Goal B. Critical Thinking and Problem-solving. Students will use critical 
+thinking and problem solving skills in analyzing information. 
+
+Goal F. Collaboration and Cooperation. Students will develop the 
+interpersonal skills required for effective performance in group situations. 
+
+
+
+Units of study in detail. 
+
+Unit IIntegers and Expressions 
+
+Learning Objectives 
+
+The student will be able to
+
+ Solve applied problems involving the comparison of integers. (Course 
+Competency I, MCCC Core Skills 2 and B) 
+
+ Perform the mathematical operations of addition, subtraction, 
+multiplication and division on integers. (Course Competency I, MCCC Core 
+Skill 2) 
+
+ Solve application problems involving integers. (Course Competencies I, V  
+VI, MCCC Core Skills 2 and B) 
+
+ Translate word phrases to algebraic expressions. (Course Competencies I  
+VI, MCCC Core Skills 2 and B) 
+
+ Evaluate algebraic expressions and formulas. (Course Competency II, MCCC 
+Core Skills 2 and B) 
+
+ Solve application problems involving formulas. (Course Competencies I, V  
+VI, MCCC Core Skills 2 and B) 
+
+ Combine like terms and simplify algebraic expressions that contain 
+parentheses. (Course Competency II, MCCC Core Skills 2 and B) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit IIEquations and Inequalities 
+
+Learning Objectives
+
+The student will be able to
+
+ Use the properties of equality to solve equations. (Course Competencies I  
+III, MCCC Core Skills 2 and B) 
+
+ Solve a literal equation for one of the unknowns. (Course Competencies I  
+III, MCCC Core Skills 2 and B) 
+
+ Translate written statements into algebraic equations. (Course Competencies 
+I, V  VI, MCCC Core Skills 2 and B) 
+
+ Solve application problems involving equalities. (Course Competencies III, 
+V  VI, MCCC Core Skills 2, B and F) 
+
+ Solve and graph linear inequalities. (Course Competencies I  III, MCCC Core 
+Skills 2 and B) 
+
+ Graph linear compound inequalities. (Course Competencies I  III, MCCC Core 
+Skills 2 and B) 
+
+ Solve application problems involving inequalities. (Course Competencies I, 
+III, V  VI, MCCC Core Skills 2, B and F) 
+
+
+
+
+
+Unit III Graphs of Linear Equations and Systems 
+
+Learning Objectives 
+
+The student will be able to
+
+ Find ordered pairs that are solutions to linear equations and determine if 
+they are correct. (Course Competency IV, MCCC Core Skill 2) 
+
+ Graph linear equations of the form  and  by using a table of values. 
+(Course Competency IV, MCCC Core Skill 2) 
+
+ Find the slope of a line that passes through two given points. (Course 
+Competency IV, MCCC Core Skill 2) 
+
+ Graph a line that passes through a given point and has a given slope. 
+(Course Competency IV, MCCC Core Skill 2) 
+
+ Determine whether two given lines are parallel or perpendicular. (Course 
+Competency IV, MCCC Core Skill 2) 
+
+ Determine the x and y intercepts of linear equations. (Course Competency 
+IV, MCCC Core Skill 2) 
+
+ Solve application problems involving linear equations. (Course Competencies 
+IV, V  VI, MCCC Core Skills 2, B and F) 
+
+ Solve a system of two linear equations with two unknowns by graphing. 
+(Course Competency IV, MCCC Core Skills 2 and B) 
+
+
+
+
+
+Unit IVExponents and Polynomials 
+
+Learning Objectives 
+
+The student will be able to
+
+ Understand the vocabulary used to describe polynomials. (Course Competency 
+V, MCCC Core Skill 2) 
+
+ Apply knowledge of integers to add and subtract polynomials. (Course 
+Competency II, MCCC Core Skill 2) 
+
+ Use rules of exponents to multiply monomials. (Course Competency VII, MCCC 
+Core Skill 2) 
+
+ Apply rules to multiply polynomials when neither is a monomial. (Course 
+Competencies II  VII, MCCC Core Skill 2) 
+
+Evaluation of student learning:   
+
+
+
+
+
+Grade will be based on the following percentages:
+
+Four unit tests 60
+
+Group Projects 10
+
+Homework and Quizzes 10
+
+Final 20
+
+
+
+Multiple choice questions on the departmental unit tests will reflect each 
+of the unit objectives listed above and administered in the testing center.  
+No extra credit should be given on these tests.  Partial credit should not 
+be given for work.  As an alternative to this policy, instructors may write 
+their own free answer tests, but these tests need to be reviewed by the 
+course coordinator before administration to ensure that both the learning 
+objectives are being met and that the tests are clearly written to be fair 
+for the students. 
+
+
+
+The textbook chosen for this course has group projects at the end of each 
+chapter.  During the review period for the unit, the students should 
+complete a group project which will reinforce the material in the unit as 
+well as connect it with a real world application.  A minimum of two projects 
+should be collected for a grade. 
+
+
+
+For the homework and quizzes portion of the grade instructors are free to do 
+any or all of the following suggestions.  Homework could be checked for 
+completion or collected and graded.  Quizzes should be given on a weekly 
+basis when there are no tests assigned for completion. Most students need to 
+practice the skills presented in class in order to perform well on a test.  
+Attendance in class is important but is not enough and weekly graded 
+opportunities should be used to ensure that the students are practicing on a 
+regular basis.  Two other possibilities for a grade in this area would be to 
+check notebooks to ensure that the students are taking notes during class or 
+assigning minute papers to check for understanding of the days material. 
+
+ 
+
+The final is comprehensive and passing the final is required to pass the 
+class. 
+
+
+
+
+
+Academic Integrity Statement:  
+
+
+
+Mercer County Community College is committed to academic integrity  the 
+honest, fair and continuing pursuit of knowledge, free from fraud or 
+deception. 
+
+
+
+Students should never:
+
+o Knowingly represent the work of others as their own
+
+o Knowingly represent previously completed academic work as current
+
+o Fabricate data to support academic work
+
+o Use or obtain unauthorized assistance in the execution of any academic 
+work 
+
+o Give fraudulent assistance to other students
+
+o Unethically use technological means to gain academic advantages
+
+
+
+Violators of the above actions will be penalized.  For a single violation 
+the faculty member will determine the course of action.  This may include 
+assigning a lower grade on the assignment, lowering the course grade, 
+failing the student, or another penalty that is appropriate to the 
+violation.  The student will be reported to the Academic Integrity 
+Committee, who may impose other penalties for a second (or later) violation. 
+ The student has right to a hearing and also to appeal any decisions.  These 
+rights are outlined in the student handbook. 
+
+            LIBERAL ARTS DIVISION                               HY 101 - 
+page 

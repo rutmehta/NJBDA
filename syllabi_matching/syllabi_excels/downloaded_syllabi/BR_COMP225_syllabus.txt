@@ -1,0 +1,715 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP225
+
+
+
+COURSE NAME
+
+Operating Systems Technology
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP135 (Computer Architecture Using Assembly Language)
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+Students will acquire an understanding of the role that an operating system 
+has in the computing environment. The student will have hands-on experience 
+and assignments on major operating systems. Topics will include process 
+management, device management, file structures, utilities, performance 
+evaluation and networking. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Introduction to Operating System Technology
+
+II. Process Concepts
+
+III. Thread Concepts and Concurrency
+
+IV. Deadlock and Indefinite Postponement
+
+V. Real Memory Organization and Management
+
+VI. Virtual Storage Organization
+
+VII. Virtual Storage Management
+
+VIII. Disk Performance
+
+IX. Files and Database Systems
+
+X. Networking and Distributed Computing
+
+XI. Web Services
+
+XII. Security
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Operating Systems, Third Edition, Deitel, Deitel, Choffnes, Prentice Hall, 
+ISBN 0-13-182827-4 
+
+
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+
+
+GRADE DETERMINANTS  NUMBER OF PAPERS AND EXAMINATIONS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. 
+
+Testing:  A minimum of a 60 grade must be received on each of the tests. If 
+that grade is not achieved you must meet with the instructor to review your 
+progress. There may be one retest, with a grade of 70 being the highest 
+attainable. A test will be given at the end of Units 3, 7 and 11 
+
+The final grade requirements for the course will be:
+
+
+
+GradeRequirements
+
+AComplete 5 Unix Lab Projects
+
+Complete Term Paper
+
+Translator  Program
+
+Receive test average of 90 thru 100 on all tests
+
+
+
+BComplete 4 Unix Lab Projects
+
+Complete Term Paper
+
+Translator  Program
+
+Receive test average of 85 thru 89 on all tests
+
+
+
+BComplete 4 Unix Lab Projects
+
+Complete Term Paper
+
+Translator  Program
+
+Receive test average of 80 thru 84 on all tests
+
+
+
+CComplete 3 Unix Lab Assignments
+
+Complete Term Paper
+
+ Translator  Program
+
+Receive test average of 75 thru 79 on all tests
+
+
+
+CComplete 3 Unix Lab Assignments
+
+Complete Term Paper
+
+ Translator  Program
+
+Receive test average of 70 thru 74 on all tests
+
+
+
+DComplete 3 Unix Lab Assignments
+
+Complete Term Paper
+
+Translator  Program
+
+Receive test average of 60 thru 69 on all tests
+
+If a grade of D is received and you are a Computer Science Major, it is 
+highly recommended that the course be retaken. 
+
+
+
+FNon-completion of Lab Assignments, or Test average below 60.
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT 1
+
+Name of Unit: Introduction to Operating Systems
+
+
+
+Unit Objective: To provide an historical perspective of how current OS 
+environments have evolved. 
+
+
+
+Method of Evaluation: Completion of Translator Project and Test 1
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Operating Systems: Early History
+
+Emergence of Software Engineering
+
+Hardware  Software  Firmware
+
+
+
+UNIT 2
+
+Name of Unit: Process Concepts
+
+
+
+Unit Objective: To introduce to the student the concept of process, which is 
+central to todays multi-tasking Operating Systems 
+
+
+
+Method of Evaluation: Completion of Project 1 and Test 1
+
+
+
+Estimated Time to Achieve: 2 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+What is a Process
+
+Process States
+
+Process State Transitions
+
+Process Control Block (PCB)
+
+Interrupts
+
+Context Switching
+
+
+
+
+
+
+
+
+
+
+
+UNIT 3
+
+Name of Unit: Thread Concepts and Concurrency
+
+
+
+
+
+Unit Objective: To introduce to the student the organization and management 
+of systems that support asynchronous concurrent processes though the use of 
+threads. 
+
+
+
+Method of Evaluation: Completion of Project 1 and Test 1
+
+
+
+Estimated Time to Achieve: 2 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Definition of Threads
+
+Mutual Exclusion
+
+Critical Sections
+
+Mutual Exclusion Primitives
+
+Dekkers Algorithm
+
+Semaphores
+
+
+
+
+
+UNIT 4
+
+Name of Unit: Deadlock and Indefinite Postponement
+
+
+
+Unit Objective: To introduce to the student the areas of deadlock. Included 
+will be prevention, avoidance, detection and system recovery from deadlock. 
+
+
+
+Method of Evaluation: Completion of Project 1 (Translator) and Test 1
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+What is Deadlock
+
+Indefinite Postponement
+
+Deadlock Prevention
+
+Deadlock Prevention and the Bankers Algorithm
+
+Deadlock Detection
+
+Deadlock Recovery
+
+
+
+
+
+
+
+
+
+
+
+UNIT 5
+
+Name of Unit:  Real Storage
+
+
+
+Unit Objective: To introduce the student to the hierarchy of memory, and the 
+schemes to organize and manage the different categories of storage. 
+
+
+
+Method of Evaluation: Completion of Project 2, Test 2.
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+The different classifications of Storage organizations
+
+Storage management
+
+Storage Hierarchies
+
+Contiguous and Noncontiguous Storage Allocation
+
+Single User Environments
+
+Multi User environments
+
+
+
+
+
+UNIT 6
+
+Name of Unit: Virtual Storage Organization
+
+
+
+Unit Objective: To introduce the student to the concept and principles of 
+Virtual Storage. 
+
+
+
+Method of Evaluation:  Completion of Project 2, Test 2
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Basic Concepts of Virtual Storage
+
+Block Mapping
+
+Paging Concepts
+
+Segmentation
+
+
+
+
+
+UNIT 7
+
+Name of Unit: Virtual Storage Management
+
+
+
+Unit Objective: The student will be introduced to the various strategies for 
+managing Virtual Storage environments. 
+
+
+
+Method of Evaluation:  Completion of Project 2 and Test 2
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Virtual Storage management Strategies
+
+Page Replacement Strategies
+
+Locality
+
+Working Sets
+
+Page Size
+
+Page Release
+
+
+
+
+
+UNIT 8
+
+Name of Unit: Disk Performance Optimization
+
+
+
+Unit Objective: The student will be introduces to the variety of disk and 
+disk-like devices that can be utilized in a multi-user environment. 
+
+
+
+Method of Evaluation: Completion of Project 3 and Test 3.
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Concept of the Moving-Head Disk 
+
+Disk Scheduling
+
+Scheduling Policies
+
+Rotational Optimization
+
+Performance Enhancement Techniques
+
+
+
+
+
+UNIT 9
+
+Name of Unit: File and Database Systems
+
+
+
+Unit Objective: The student will be introduced to the various file and 
+database formats. 
+
+
+
+Method of Evaluation: Completion of Project 4, Test 3
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+The File System
+
+File Systems Functions
+
+Fata Hierarchy
+
+Blocking and Buffering
+
+File Servers
+
+Database Systems
+
+Database Models
+
+
+
+
+
+
+
+UNIT 10
+
+Name of Unit: Networking and Distributed Computing 
+
+
+
+Unit Objective: The student will understand the central role of networking 
+in current computer systems. 
+
+
+
+Method of Evaluation: Completion of Project 4, Test 3
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Network Topology
+
+TCP/IP Protocol
+
+OSI Layers
+
+
+
+
+
+UNIT 11
+
+Name of Unit: Web Services
+
+
+
+Unit Objective: The student will understand characteristics of distributed 
+file systems, peer to peer computing, grid models, Java technologies. 
+
+
+
+Method of Evaluation:  Completion of Project 5, Test 3
+
+
+
+Estimated Time to Achieve: 1 week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Distributed File Systems
+
+Clustering
+
+Peer to peer technology
+
+Grid Computing
+
+Java Servlets
+
+
+
+
+
+UNIT 12
+
+Name of Unit: Security
+
+
+
+Unit Objective: The student wills the need for secure systems though 
+authentication, access control and digital signatures. 
+
+
+
+Method of Evaluation:   Completion of Project 5 and Test 3
+
+
+
+Estimated Time to Achieve: 2 week
+
+
+
+
+
+Learning Objectives:
+
+
+
+The student will be introduced to:
+
+Authentication
+
+Access control
+
+Security Attacks
+
+Attack Prevention
+
+Secure Communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

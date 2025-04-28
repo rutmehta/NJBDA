@@ -1,0 +1,229 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Course Syllabus for Mathematical Structures and Algorithms
+
+
+
+MA 115M - Mathematical Structures and Algorithms (3:3:0)
+
+
+
+Brief Description: 
+
+A problem solving approach will be used to explore fundamental concepts of 
+various numeration systems operations on natural numbers, whole numbers, and 
+integers number theory fraction models and operations the real number system 
+patterns and functions.  The student will be required to monitor and reflect 
+on the process of problem solving, develop and evaluate arguments and 
+proofs, communicate mathematical ideas coherently and clearly, understand 
+how mathematical ideas connect and build on one another, and be able to 
+translate among representations to solve problems.  This course is 
+appropriate for those students preparing to be early childhood, elementary, 
+and special education teachers. 
+
+
+
+Prerequisite: 
+
+Successful completion of MA092, MA094, MA98, MA99, or MA100 or placement by 
+CBSPT score or by SAT score. 
+
+
+
+General Objectives:
+
+A. To build new mathematical knowledge through problem solving.
+
+B. To develop an understanding of various numeration systems.
+
+C. To develop an understanding of the operations on natural numbers, whole 
+numbers, and integers. 
+
+D. To develop an understanding of number theory.
+
+E. To develop an understanding of fraction models and operations.
+
+F. To develop an understanding of the real number system.
+
+G. To develop an understanding of patterns and functions.
+
+
+
+Competency-Based Objectives with Exit Criteria:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Know how to solve problems working systematically using various strategies, 
+set theory, and logical reasoning. 
+
+ Represent a number in various numeration systems represent a number in 
+various bases convert a numeral to and from base ten and perform arithmetic 
+operations with numerals in bases other than ten. 
+
+ Determine what properties hold for a set of numbers classify word problems 
+by operation type perform arithmetic operations with integers and determine 
+why particular algorithms work. 
+
+ Find all the factors of a number write the prime factorization of a number 
+classify a number by the number of its factors test whether one number is 
+divisible by another number find the greatest common factor and least common 
+multiple of two or more numbers perform modular arithmetic and prove an idea 
+geometrically. 
+
+ Recognize equivalent fractions model fractions with region, linear, and set 
+models model operations with fractions simplify fractions and find a number 
+between two other numbers. 
+
+ Represent quantities as a ratio solve proportions represent numbers in 
+decimal notation convert fractions to and from decimals represent quantities 
+as percents and perform operations with decimals and percents. 
+
+ Identify functional relationships from tables, graphs, and symbols generate 
+output values when given input values identify a rule for a function from a 
+table or a graph determine the domain and range for a function use 
+properties to solve equations for a variable and find rate of change for a 
+function from a table, a graph, or an equation. 
+
+
+
+Outline of Course Content and Suggested Time Schedule:
+
+I. Problem solving  (2.5 weeks)
+
+II. Numeration  (1.5 weeks)
+
+Numeration systems
+
+Understanding place value through different bases
+
+III. Operations on natural numbers, whole numbers, and integers  (2 weeks)
+
+Natural numbers, whole numbers, integers, and their properties
+
+Operations with whole numbers
+
+Operations with integers
+
+Algorithms
+
+IV. Number theory  (2 weeks)
+
+Primes, composites, and prime factorization
+
+Divisibility
+
+Modular arithmetic
+
+Representation of number-theory ideas
+
+V. Fraction models and operations  (2 weeks)
+
+Three fractions to represent fractions
+
+Using the region model of fractions
+
+Using the linear model of fractions
+
+Using the set model of fractions
+
+Operations with fractions
+
+VI. Real numbers: Rational and irrationals  (2 weeks)
+
+Ratio and proportion
+
+A fourth way to represent fractions
+
+A fifth way to represent fractions
+
+Exploring irrational numbers
+
+VII. Patterns and functions  (2 weeks)
+
+Variables
+
+Patterns
+
+Iteration
+
+Functions and equation
+
+
+
+Instructional Methodologies:
+
+1. Classroom activities:  This course uses a problems-based approach to 
+develop essential understanding of mathematical concepts and procedures. 
+
+2. Assignments: Problems, journal entries, projects, and readings will be 
+assigned to reinforce topics covered in the classroom and provide a means 
+for reflection. 
+
+3. Class participation and attendance:  All students must be prepared and 
+participate in class every day.  Students are expected to participate in 
+problem solving activities and discussions.  Students will be expected to 
+work individually and in groups. 
+
+4. Test: Tests will be given. The tests will be closed book/notes and will 
+test assigned readings, problems, and material discussed in class. 
+
+
+
+Basic Materials for Students:
+
+Textbooks
+
+One inch (1) binder to hold and organize papers.
+
+TI-30X IIS calculator
+
+
+
+Evaluation - Methods:
+
+The total amount of points earned in the course will be compared to the 
+total maximum possible points.  Letter grades will be determined using a 
+standard percentage point evaluation as outlined below. 
+
+A: 90-100
+
+B: 80-89
+
+C 70-79
+
+D: 60-69
+
+         F: Below 60
+
+
+
+Attendance:  
+
+Regular class attendance is of primary importance for success in 
+Mathematics.  You will be permitted six hours absence.  Any absences after 
+six hours may cause the student to be dropped from the course. 
+
+
+
+Bibliography:
+
+Masingila, J. O., Lester, F. K.,  Raymond, A. M. (2002).  Mathematics for 
+elementary teachers via problem solving: Student activity manual. New 
+Jersey: Prentice-Hall. 
+
+Masingila, J. O., Lester, F. K.,  Raymond, A. M. (2002).  Mathematics for 
+elementary teachers via problem solving: Student resource book. New Jersey: 
+Prentice-Hall. 
+
+
+
+Fall 2003
+
+Page 1 of 3

@@ -1,0 +1,103 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF164
+
+Networking Fundamentals I
+
+Credits: 4
+
+Prerequisites: None Helpful:A certification Microsoft Office Skills 
+Introductory programming or multimedia courses introductory electronics 
+
+New Course - Fall 2003
+
+
+
+Professor Lucy Caruso-Deane
+
+Department Head, Business
+
+lcarusodeanebergen.edu
+
+
+
+Networking Fundamentals I exposes students to the skills needed to design, 
+build, and maintain small to medium-sized networks. Students are provided 
+with classroom and laboratory experience in current and emerging networking 
+technology. Focus is on the theory behind LANs. Topics include safety, 
+networking, network terminology and protocols, network standards, LANs, 
+WANs, OSI models, cabling, cabling tools, routers, router programming, 
+Ethernet, Internet Protocol addressing, network standards, safety and 
+environment issues. This course assists in preparation towards the CISCO CNA 
+certification. 
+
+
+
+Course Objectives:
+
+01. Master Basic Content: OSI Model, Internetworking Devices, IP Addressing, 
+LAN Media  Topologies, Structured Cabling, Electronics 
+
+02. Master Lab Skills: PC hardware  software, patch cables, installation of 
+structured cabling use of test equipment 
+
+03. Master Documentation Skills: maintaining engineering journal cable 
+management techniques 
+
+04. Master People Skills: working in engineering teams, self and project 
+management, oral exams, presentations 
+
+05. Achieve Awareness and Access: basic technological literacy awareness of 
+IT careers preparation for 2 and 4 yr. EE, CS, and IT programs access to 
+well-paying, learning-oriented jobs ability to design, install, and maintain 
+internetworks 
+
+
+
+Course Content:
+
+01. Identify and describe the functions of each of the seven layers of the 
+OSI reference model 
+
+02. Describe data link and network addresses and identify key differences 
+between them 
+
+03. Define and describe the function of a MAC address
+
+04. List the key internetworking functions of the OSI Network layer
+
+05. Identify at least three reasons why the industry uses a layered model
+
+06. Describe the two parts of network addressing, then identify the parts in 
+specific protocol address examples 
+
+07. Identify the functions of each layer of the ISO/OSI reference model
+
+08. Define and explain the five conversion steps of data encapsulation
+
+09. Describe the different classes of IP addresses and subnetting
+
+10. ldentify the functions of the TCP/IP network-layer protocols.
+
+
+
+Text: Online Multimedia
+
+
+
+Grade Determinants:
+
+Skill Exams: pass/fail
+
+10 - Homework
+
+10 - Journal
+
+20 - Oral Exams
+
+20 - Exams
+
+30 - Final Exam
+
+10 - Portfolio

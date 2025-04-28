@@ -1,0 +1,346 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                         Gloucester County College
+
+                             Business Studies
+
+                                     
+
+                CIS-107:    Concepts of Information Systems
+
+                                SPRING 2004
+
+      
+
+Instructor:          Barbara D. Turner                           email:
+
+BTurnergccnj.edu
+
+Office:   College Center - c159                                  phone:
+
+856.415.2297
+
+     office hours posted on office door or by appointment
+
+COURSE DESCRIPTION
+
+     This  first  course  for  CIS, CIT, and other  computer  majors,  will
+
+     present the fundamental concepts of Information Systems (IS). Students
+
+     will gain an understanding of todays IS concepts and techniques in  a
+
+     business context with a managerial emphasis.
+
+
+
+PREREQUISITES:
+
+     None
+
+
+
+TEXTBOOK(s):
+
+
+
+     There are 3 textbooks for this course:
+
+          
+
+          Fundamentals of Information Systems - SECOND EDITION
+
+          Ralph M. Stair, George W. Reynolds
+
+          Course Technology - 2003 - ISBN 0-619-06491-9
+
+          
+
+          Problem-Solving Cases in Microsoft Access and Excel
+
+          Joseph A. Brady, Ellen F. Monk
+
+          Course Technology - 2003 - ISBN 0-619-15904-9
+
+          
+
+          Microsoft Windows XP - Introductory Concepts  Techniques
+
+          Shelly, Cashman, Forsyth
+
+          Course Technology - 2002 - ISBN 0-7895-6418-1
+
+          
+
+               NOTE: The GCC Bookstore has these textbooks available.
+
+               They are bundled together into a single package.
+
+
+
+COURSE OBJECTIVES
+
+  The objective of this course address the major role of information t
+
+  technology in providing organizations with strategic advantage by
+
+  facilitating problem solving, increasing productivity and quality,
+
+  improving customer service, and enabling business process reengineering.
+
+  While recognizing the importance of technology, systems development, and
+
+  functional transaction processing systems, emphasis in the innovative
+
+  uses of information technology are discussed.
+
+  
+
+SKILLS TO BE LEARNED
+
+  K    Communications - Each student is expected to play an active role in
+
+     classroom discussions.  Attendance, use of eMail, WebCT and homework 
+will 
+
+     be important parts of this course. .
+
+K    Critical Thinking - Students will develop critical thinking skills by
+
+problem solving and solution implementation.
+
+  K    Information Technology - Expanding the overall understanding of
+
+     Information Systems is the primary focus of this course.  Business 
+examples 
+
+     are used through the semester. .
+
+  
+
+COURSE OUTCOMES
+
+  After completion of this course the student will be able to:
+
+     1.   Demonstrate an understanding of Information Systems principles
+
+2.   Demonstrate an understanding of the changing role of an IS
+
+professional
+
+3.   Understand the business usage of databases along with utilizing an
+
+Access database and creating queries and reports.
+
+4.   Understand the business usage of decision support systems along with
+
+utilizing an Excel decision support systems and creating various scenarios.
+
+5.   Demonstrate proficient use of the Windows XP Operating System.
+
+
+
+COURSE INSTRUCTOR
+
+                         Barbara D. Turner
+
+                         Office:   College Center - Business Studies Area -
+
+                    Office 159
+
+                           Phone:    856.415.2297
+
+                           eMail:    BTurnergccnj.edu
+
+  
+
+  Office Hours posted on office door - other times available upon request.
+
+ If you have a learning disability and need special accommodations, please
+
+                          inform the instructor.
+
+  
+
+POLICIES OF THE COURSE:
+
+
+
+     Attendance
+
+     Students are expected to attend and participate in class. The class
+
+     participation grade is predicated upon active contribution in the
+
+     class and labs.  Exams and quizzes missed may not be made up, except
+
+     in cases of prolonged illness or other conditions approved by the
+
+     instructor PRIOR to the class missed.  Students absent from class are
+
+     responsible for material missed.  If you have a learning disability
+
+     and need special accommodations, please inform  the instructor.
+
+
+
+     Grading
+
+     Credit for each component of the course follows:
+
+         Assignments                                        20
+
+         Three Exams (10 points each)                       30
+
+         Four Projects (10 points each)                     40
+
+         Participation                                      10
+
+         TOTAL                                                 100
+
+
+
+     Final grades will be assigned based upon your total points earned and
+
+     the letter grades will be determined from the following table.
+
+
+
+                   B    87-        C    77-        D    67-
+
+ A     94-        89.9             79.9             69.9
+
+ 100              B     83-        C     73-        D     63-
+
+ A-    90-        86.9             76.9             66.9
+
+ 93.9             B-    80-        C-    70-        D-    60-
+
+                   82.9             72.9             62.9
+
+                                                       F    
+
+                                                       BELOW 60
+
+     
+
+     Tests  Assignments
+
+
+
+          Assignments:
+
+          Assignments are listed under the ASSIGNMENTS icon in WebCT.
+
+          Assignments are also submitted via WebCT.
+
+
+
+          Examinations:
+
+          The exams will require you to think critically to complete. The
+
+          exams consist of two parts:  a multiple-choice section and an
+
+          essay section.
+
+
+
+          Make-up Exams:
+
+          There are no make-up tests available for this course. There are
+
+          no exceptions to this policy. All tests are timed.  It is
+
+          essential that you plan your personal schedule to ensure that you
+
+          can take the tests.  Test dates are published under the COURSE
+
+          SCHEDULE icon on the class home page in WebCT.
+
+          
+
+          
+
+     Withdrawal
+
+          Students should familiarize themselves with the colleges
+
+          withdrawal dates, policy and procedures that are explained in the
+
+          catalog.  Please advise the instructor if you wish to withdraw
+
+          before the withdrawal deadline as specified in the college
+
+          calendar.  Student and instructor must fill out appropriate
+
+          paperwork.  If the paperwork is not filled out, a grade of W
+
+          will not be assigned.  Your grade will be determined by the
+
+          amount of points accumulated at the time of the last class you
+
+          attended.  College policy dictates that a student cannot withdraw
+
+          from a class after the add/drop date.  See publication posted on
+
+          the bulletin board outside of my office for details.
+
+     
+
+     Class Participation
+
+          Class participation is expected and encouraged.  Participation is
+
+          defined as reading and preparing for class, participating in
+
+          discussions, completing and submitting assignments on time, and
+
+          taking part in all activities.
+
+     
+
+     Classroom Courtesy
+
+          Students are expected to exhibit a professional manner.  Commonly
+
+          recognized courtesy is expected.  CELL PHONES and Beepers should
+
+          not be heard or used during class.
+
+     
+
+     Academic Honesty
+
+          All assignments and test answers must originate from the
+
+          individual student.  Noncompliance will result in a grade of F
+
+          being assigned.  Please consult your student handbook and the
+
+          college catalog for further information concerning academic
+
+          honesty.
+
+     
+
+     Students with Disabilities:
+
+          If you wish to receive special accommodations as a student with a
+
+          documented disability, please make an appointment with the
+
+          Learning Specialist on this campus.  If you will need assistance
+
+          during an emergency classroom evacuation, it is imperative that
+
+          you speak with your campus Learning Specialist immediately.
+
+          Please provide documentation during the first class meeting if
+
+          you require special assistance due to a disability.  All
+
+          reasonable efforts are made to accommodate all students.
+
+     

@@ -1,0 +1,458 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                            COURSE SYLLABUS
+
+                         Camden County College
+
+                          Blackwood, NJ 08012
+
+
+
+Course ID:     Computer Studies/Computer Information Systems - CIS-101
+
+
+
+Course Name:   Personal Computer Applications
+
+
+
+Credits:       3
+
+
+
+Prerequisites:      None
+
+
+
+Co-requisites:      None
+
+
+
+New or Modified:    Modified - Same
+
+(List old course ID, if modified)
+
+
+
+Semester  Year Course will First Be Offered or, if modified, semester
+
+ year when revised course will first be offered:   June 2004
+
+
+
+Contact Person:  Sr. Bernadette Carlin
+
+
+
+Email Address:     bcarlincamdencc.edu
+
+
+
+Course Description:
+
+This course is a hands-on introduction to microcomputers in which the
+
+student will become familiar with an operating system, word
+
+processing, spreadsheets, database applications, presentation software
+
+and the Internet.  The course will focus on helping the student
+
+logically plan the processes that are necessary to communicate with
+
+the computer to produce a desired result.  During the semester, the
+
+student will get hands-on experience with the WindowsXP Operating
+
+System, the Microsoft Office2002 Suite (Word, Excel, Access and
+
+PowerPoint), and a web browser to access the Internet/WWW.    It is
+
+recommended that students who lack keyboarding skills acquire them by
+
+taking the one-credit course OST110: Microcomputer Keyboarding.
+
+
+
+Outline of Course Objectives:
+
+Upon completion of this course, the student will be able to:
+
+1. Define the four basic computer operations: input, processing,
+
+output, and storage
+
+2. Distinguish between data and information.
+
+3. Explain the principal parts of the computer and their use.
+
+4. Identify input devices used with microcomputers
+
+5. Identify output devices, such as display devices, and printers.
+
+6. Identify the various storage media used to save information: hard
+
+ drive, floppy disk, zip disks, optical disks, tape, and miniature
+
+ storage devices.
+
+7. Describe the difference between numeric and character data as it is
+
+sorted in computer
+
+    memory.
+
+8. Explain and discuss the how to purchase, install, and maintain a
+
+ personal computer.
+
+9. Differentiate between system software and application software.
+
+10. Identify popular system software and popular application software.
+
+11.Identify and use the basic features of the Operating System: mouse,
+
+scrolling, test boxes, dialog
+
+     boxes, customize and display tool bars, maximize and minimize
+
+windows, use MyComputer, explore
+
+     help, arrange, change and create icons.
+
+12.  To understand the hierarchy structure of system software through
+
+  windows explorer.
+
+13.  To manage files and folders: create, rename, copy, move, find
+
+properties, save, and delete.
+
+14.  To find and use the accessories: calendar, notepad, WordPad,
+
+paint, imaging, calculator and system tools.
+
+15.  Discuss computer communication channels and equipment, the
+
+Internet, and the World Wide Web
+
+16. Differentiate between a local area network and a wide area
+
+network.
+
+17. Define e-commerce.
+
+18. Describe the history of the Internet.
+
+19. Explain the uses and popularity of the Internet/WWW.
+
+20. Use a web browser to access the Internet/WWW.
+
+21. Select and use Internet search engines to access information.
+
+22. Communicate via the Internet using e-mail.
+
+23. Use Web Advisor to access College and student information online.
+
+24. Identify and use the common features of a word processor
+
+application and demonstrate the
+
+      ability to apply the concepts learned in creating and editing
+
+documents.
+
+25. Identify and use the common features of a spreadsheet application
+
+and demonstrate the
+
+      ability to apply the concepts learned in creating and updating
+
+electronic worksheets.
+
+26. Identify and use the common features of a relational database
+
+management system
+
+      application and demonstrate the ability to apply the concepts
+
+learned in creating tables,
+
+      forms, reports and queries for database.
+
+27. Describe how data is organized in relational databases in terms of
+
+characters, fields,
+
+      records, and tables.
+
+28. Identify and use the common features of presentation software and
+
+demonstrate the ability
+
+      to apply the concepts learned in creating and updating
+
+presentations.
+
+
+
+
+
+Course Materials:
+
+     Textbook(s):  If textbook is required, the titles will be
+
+assigned first day of class.
+
+
+
+Grade Determinants:
+
+The student will be evaluated on the degree to which student learning
+
+outcomes are achieved.  A variety of methods may be used such as
+
+tests, class participation, projects, homework assignments, etc.
+
+A   90-100
+
+B   80-89
+
+C   70-79
+
+D     60-69
+
+F   below 60
+
+I   Incomplete (only given under extreme emergencies)
+
+NA    Not Attending
+
+XA    Never Attended
+
+W   Withdrawal
+
+
+
+Schedule of Topics to be covered:
+
+Course Outline:
+
+  I  Introduction to Computers
+
+     A. Define the term computer
+
+  B. Define four basic computer operations
+
+  C. Differentiate between data and information
+
+  D. Identify the primary components of a computer
+
+      1. Input devices: keyboard, mouse, digital camera, scanner,
+
+  microphone, etc
+
+      2. Processor (control unit and Arithmetic logic unit)
+
+      3. Memory (ROM and RAM)
+
+      4. Output devices: display devices (CRT and LCD) and printers
+
+  (impact and
+
+          nonimpact)
+
+      5. Storage devices: hard drive, floppy disks, zip disks,
+
+  optical disks, tape, miniature
+
+          storage devices
+
+      6. Communication devices: modem and transmission media
+
+  II. Systems software - Windows
+
+    A. Exploring the basics:
+
+       1. Start Windows
+
+       2. Explore the Desktop
+
+       3. Use toolbars
+
+       4. Manipulate Windows
+
+       5. Use Dialog boxes
+
+      B. File management
+
+            1. Use Windows Explorer
+
+             2. Organize files and folders
+
+             3. Create, move, copy, name, rename delete files and
+
+  folders
+
+  
+
+  III. Internet
+
+     A.  Internet and World Wide Web
+
+       1.   Examine Home Pages and Web Browers
+
+2.   Use Universal Resource Locators
+
+3.   Navigate through links
+
+4.   Discuss the History list and the favorite feature
+
+5.   Present Email using hotmail or yahoo
+
+6.   Develop skill in using Search engines
+
+     B.   Web Advisor
+
+       1.   Search for classes
+
+2.   View grades
+
+3.   Check schedules
+
+4.   Register for classes
+
+5.   Access other important information about their records at Camden
+
+County College.
+
+6.   Make payment with a credit card
+
+7.   Check account balances
+
+8.   Review financial aid file and award
+
+  IV. Application Software: Basic Tools
+
+    A. Using Commercial Off the Shelf Software
+
+     B. Common GUIs for application packages
+
+       C. Word Processing
+
+       D. Spreadsheets
+
+       E. Database
+
+       F. Presentation Graphics
+
+       G. Communications
+
+       H. Integrated Software
+
+  V. Word Processing
+
+      A. Creating a Document
+
+      B. Text formatting
+
+      C. Word wrap
+
+      D. Cut, copy, and paste features
+
+      E. Tools
+
+           1. Search and replace
+
+           2. Spell Checking
+
+           3. Thesaurus
+
+      F. Table of Contents
+
+      G. Headers and Footers
+
+      H. Word Art
+
+      I.  Graphics
+
+      J.   Making an outline
+
+      K.   Embedding a Table
+
+  VI. Spreadsheets
+
+        A. Features of Spreadsheet Applications
+
+        B. Creating, Saving, Retrieving worksheets
+
+        C. Using Functions
+
+        D. Creating Formulas
+
+     E. Using the What-If Analysis
+
+        E. Copying, auto copying
+
+        F. Using Frames
+
+        G. Using Charts and Graphics
+
+        H. Creating Reports
+
+  VII. Files and Database
+
+         A. Files
+
+             1. Organization
+
+             2. Relational Files-- Tables
+
+             3. Key Fields
+
+        B Features of Database
+
+        C Relational Database Management Systems Software
+
+  VIII. Using Relational Database Software
+
+          A. Features of software
+
+          B. Creating, Updating Database
+
+          C. Creating Forms
+
+          D. Creating Table Structures
+
+          E. Queries
+
+          F. Reports
+
+  IX. Presentation Software
+
+   A.   Navigating through an existing presentation
+
+B.   Creating a Presentation
+
+C.   Modifying a Presentation
+
+   D.  Applying Graphics
+
+
+
+Course Activities:
+
+Classroom activities will include formal and informal lectures and
+
+labs.  During the lectures new material will be presented and
+
+explained.  Demonstrations will also be provided.  Students are
+
+expected to contribute to the discussion and to ask questions about
+
+the material.  There will be hands-on lab sessions that will flow
+
+from the lecture material.  Students will be assigned computer
+
+projects and readings to be completed in-class and outside of class.

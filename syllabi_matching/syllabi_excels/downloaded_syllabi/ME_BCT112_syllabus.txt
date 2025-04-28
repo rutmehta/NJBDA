@@ -1,0 +1,134 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE OUTLINECourse NumberCourse TitleCreditsBCT112Building Construction Materials and Methods   II3Hours: lecture/Lab/Other 
+3 / 0Pre-requisite
+BCT110, BCT 120 Implementation sem/year 
+Spring 2011Catalog description (2011-2013 Catalog): 
+BCT 112  BUILDING Construction Materials and Methods II                               3 credits
+Prerequisites:  BCT 110 and BCT 120
+Continued study of materials and methods of building construction with emphasis on concrete and steel frame structures and masonry load bearing walls.  Exterior wall cladding systems and curtain wall systems are examined relative to concepts of sustainable design.                                                                                         3 lecture hours
+Text:  Building Construction: Principles, Materials, and Systems, 2nd Ed. 
+           Madan Mehta, Walter Scarborough, Diane ArmpriestRevision date:  2011Course coordinator:   Garry Perryman, 609-586-4800 x 3357 perryg@mccc.eduInformation resources:
+* Architectural Graphic Standards (On reserve in library.)
+• Architecture and Architecture Record Magazines  (Available in library.)
+
+
+
+Course Competencies/Goals:  
+The student will be able to:
+A. Understand the basic principles and appropriate application and performance of construction materials, products, components, and assemblies, including their environmental impact and reuse
+B. Demonstrate knowledge of the science of materials and methods of construction as they apply to the Construction Specifications Institute (CSI) Divisions.
+C. Raise clear and precise questions, consider diverse points of view, reach well-reasoned conclusions, and test them against relevant criteria and standards in the selection of building construction materials and systems
+D. Illustrate through drawing the relationship of various materials that makeup a building construction assembly 
+E. Understand the principles of sustainability in making building construction decisions that conserve natural and built resources, including materials, products, components, and assemblies 
+
+Course-specific General Education Knowledge Goals and Core Skills. 
+General Education Knowledge Goals
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 3. Science. Students will use the scientific method of inquiry, through the acquisition of scientific knowledge.
+Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+Goal 9. Ethical Reasoning and Action. Students will understand ethical issues and situations.
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal C. Ethical Decision-Making. Students will recognize, analyze and assess ethical issues and situations.
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+Goal F. Collaboration and Cooperation. Students will develop the interpersonal skills required for effective performance in group situations.
+
+Units of study: 
+Unit I	A Review of the Building Delivery Process, Governmental Constraints, BUILDING 	LOADS AND LOAD RESISTANCE and Soils; Foundation Construction
+	Course Competencies/Goals:  Goal 2./3. 
+The student will be able to…
+* Demonstrate an understanding of traditional project phases including pre-design, design, design development, construction documents, preconstruction, construction, contract administration and post construction. 
+* Interpret the CSI Master Format System.
+* Demonstrate an understanding of the governmental constraints on building design and construction, including building codes, zoning ordinances and accessibility.
+* Calculate preliminary maximum allowable area and height for selected building types.
+* Understand building construction types.
+* Demonstrate an understanding of  the types of building loads and how they influence the design requirements for a building.
+* Develop a preliminary estimate of building live and dead loads
+* Demonstrate an understanding of basic structural properties and behaviors of materials.
+* Develop an understanding of the physical characteristics of soil as it relates to building design and the requirements for soil testing and a geotechnical report. 
+* Understand the planning and design considerations related to site excavation and the structural principles and methods for constructing deep and shallow foundations
+
+Unit II  and  Portland Cement and Concrete and Concrete Construction
+The student will be able to…
+* Develop a basic understanding of the physical and chemical properties of concrete, including the role of the key ingredients of lime, Portland cement and aggregate.
+* List processes involved in manufacturing,  mixing and placing concrete.
+* Understand of the role of admixtures in the production of concrete.
+* Develop an understanding of the role of reinforcement in concrete structures and construction.
+* Sketch the design, construction and removal of formwork, and the role of reshoring in concrete construction.
+* List slab-on-ground construction methods.
+* Develop an understanding of the fundamentals of elevated concrete floor systems and typical applications for each system.
+* List types of structural precast concrete members and methods of assembly.
+* Discuss the advantages and disadvantages of structural site-cast and precast concrete construction methods.
+* Understand the proportioning, mixing and testing of concrete.
+* Find and discuss the use of the 'Building Code Requirements for Reinforced
+Concrete, ACI 318-89.”
+* Understand 'Working Stress' (Alternate Design Method) and/or
+'Ultimate Strength' (Strength Design Method) methods of analysis and design of
+Reinforced concrete beams and columns.
+* Understand the principles of analysis and design of footings.
+* Understand the use of reinforcing steel in various reinforced concrete building
+members.
+* Understand reinforced concrete drafting, construction and inspection
+techniques.
+Unit III  The Material Steel and Structural Steel Construction and Light-Gauge Steel 	 	  Construction
+The student will be able to…
+* List the physical and performance characteristics of structural steel.
+* Understand the steel fabrication and erection process.
+* Demonstrate the basic strategies for designing steel frame structures and methods for connecting steel members.
+* Develop an understanding of light gauge steel construction (LGSC) methods.
+* Understand the requirements, methods, and knowledge necessary to design basic structural steel elements. 
+* Apply knowledge gained in the study of mechanics and mechanics of materials to design structural steel members. 
+* Locate and use standard tables found in texts and literature for the design of structural steel members. 
+* Expand drawing skills to include structural steel design and detail drawing of floor plans, beam and column details, and framed connections. 
+* Acquaint the student with structural failures. 
+
+Unit IV.   Masonry Materials 
+The student will be able to…
+* Understand  the principles of masonry construction.
+* List types and applications of different types of mortar and clay brick.
+* Discuss the concept of modularity and bond patterns as applied to masonry construction.
+* Describe the physical and performance characteristics of mortar and clay brick.
+* Understand concrete masonry materials and construction methods, and the differences between brick and CMU as construction materials.
+* List the physical characteristics of stone as a construction material, and its applications to masonry construction.
+* Understand glass masonry materials and assemblies.
+
+Unit V.   Roofing
+The student will be able to…
+* Discuss the range of low slope roofing materials and assemblies currently available.
+* Understand  design considerations related to low slope roofs.
+* List commonly used materials and methods for installation of low slope roofing systems.
+* Understand design principles for low slope roofing.
+
+
+
+Unit VI.   Principles of Sustainable Construction
+The student will be able to. . .
+* Develop an awareness fundamental considerations of sustainable architecture.
+* Develop an awareness of methods for eco-labeling buildings and building materials.
+* Develop an understanding of characteristics of “green” building products and assemblies.
+Evaluation of Student Learning / Course Grading 
+Assignments: All assignments will be graded on an A to F basis. Late assignments will be subject to grade reductions of one letter grade per class session. Assignments not turned in will be recorded as a zero grade. (30% of final grade) 
+
+Quizzes: Quizzes may be given at any time during the class. They may be written or performance based, and students may or may not be given prior notice. Quizzes missed because of student absence may not be made up and will be recorded as a zero. (30% of final grade) 
+
+ Projects: 2-4 Sketch / drawing projects will be assigned at the beginning or end of various topic units (30% of final grade) 
+
+Final Grade Calculation: Your final grade will be calculated by averaging all of your grades and weighing them as indicated above. 
+
+Final Examination: Because this course requires the cumulative mastery of previously taught skills for the completion of each successive assignment, a comprehensive final examination is required to measure the attainment of course objectives. (10% of final grade)
+
+
+The student is responsible for his/her regular attendance and participation in class discussions. 
+
+
+
+Academic Integrity Statement: 
+Students are expected to comply with the college-wide requirements for academic integrity. Mercer County Community College is committed to Academic Integrity—the honest, fair, and continuing pursuit of knowledge, free from fraud or deception. This implies that students are expected to be responsible for their own work. Presenting another individual’s work as one’s own and receiving excessive help from another individual will qualify as a violation of Academic Integrity. The entire policy on Academic Integrity is located in the Student handbook and is found on the college website (http://www.mccc.edu/admissions_policies_integrity.shtml). 
+Special Needs Students Statement 
+Any student in this class who has special needs because of a disability is entitled to receive accommodations. Eligible students at Mercer County Community College are assured services under the Americans with Disabilities Act and Section 504 of the Rehabilitation Act of 1973. If you believe you are eligible for services, please contact Arlene Stinson, the Director of Academic Support Services. Ms. Stinson’s office is LB217, and she can be reached at (609) 570-3525. 
+

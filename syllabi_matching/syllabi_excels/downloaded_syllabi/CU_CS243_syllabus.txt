@@ -1,0 +1,124 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 243  Web Security
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+None
+
+
+
+Description 
+
+      Designed to educate users in the technologies, terms, and process 
+related to Internet security. Students are exposed to concepts and 
+techniques related to general security, network security, operating system 
+security, and methods for testing security. Both UNIX and Microsoft Windows 
+operating systems are covered, providing a broad range of information 
+essential for security. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand the major issues in network and computer system security, 
+focusing mainly on threats from malicious software 
+
+ Have and understanding of common attacks on computer networks and methods 
+to detect and remediate such attacks 
+
+ Be able to identify threats and vulnerabilities to information systems
+
+ Be able to identify and detect data, computers, and networks exploits
+
+ Be able to secure computer networks
+
+ Be able to use network security tools.
+
+
+
+Topical Outline
+
+ Course Overview, Security Framework and Examples
+
+ Access Control and Site Security
+
+ TCP/IP Internetworking
+
+ Attacks and Exploits: Lifecycle and Impact Assessment
+
+ Advanced Network Architectures and Firewalls
+
+ Operating Systems Security: Principles and Implementation
+
+ Public and Private Key Cryptography
+
+ Applications of Cryptographic Systems
+
+ Database Systems Security: Principles and Implementation
+
+ Network Security: Principles and Implementation
+
+ Web Services Security: Principles and Implementation
+
+ Intrusion Detection, Reporting, and Forensics
+
+ Security Strategy: Policies, Planning, Implementation and Evaluation, 
+Managerial and Ethical Issues: Monitoring, Reporting, and Information Use 
+
+ Project Presentations and Security Competition Results
+
+
+
+
+
+Texts
+
+      Web Security for Network and System Administrators by Mackey: Thomson 
+Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

@@ -1,0 +1,377 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                     PASSAIC COUNTY COMMUNITY COLLEGE
+
+                     COMPUTER AND INFORMATION SCIENCES
+
+                              COURSE SYLLABUS
+
+
+
+                                  CIS 127
+
+                        Microcomputer Software III
+
+
+
+PART I: GENERAL INFORMATION
+
+
+
+     Course Title:       Microcomputer Software III
+
+     Course Designation: CIS 127
+
+     Semester:      Fall 2005
+
+     Course Instructor:  CIS Faculty
+
+     Credit Hours:  3.0 Credits
+
+     Number of Hours:    3 hours lecture, open lab
+
+     Prerequisite:       CIS 125
+
+
+
+     Course Description: Provides students with hands on experience with
+
+     two of the more popular productivity tools used in the business world,
+
+     Microsoft Word and Microsoft PowerPoint.  Students will learn advanced
+
+     word processing features available in Microsoft Word, and will learn
+
+     many of the presentation features in Microsoft PowerPoint.  Through
+
+     demonstration and hands on projects, students will develop the skills
+
+     needed to pass the Microsoft Office Specialist examination for
+
+     Microsoft PowerPoint and the Microsoft Office Expert examination for
+
+     Microsoft Word.
+
+     
+
+     Course Goals:
+
+     Upon completion of this course, students will be able to:
+
+         Create and format content in Microsoft PowerPoint
+
+         Manage and deliver presentations in Microsoft PowerPoint
+
+    Format and organize content in Microsoft Word
+
+    Customize Microsoft Word toolbars, menus, and settings
+
+    Create and use macros within Microsoft Word
+
+    Collaborate using Microsoft Word and Microsoft PowerPoint
+
+
+
+PART II: REQUIRED TEXT, MEDIA, AND RECOMMENDED MATERIALS
+
+
+
+     Required texts:
+
+     Microsoft Office PowerPoint 2003 Comprehensive, New Perspectives
+
+Series, 2nd edition
+
+     Microsoft Office Word 2003 Comprehensive, New Perspectives Series, 2nd
+
+edition
+
+
+
+PART III: COURSE OUTLINE
+
+
+
+WEEK      TOPICS
+
+1         Microsoft PowerPoint
+
+               Tutorial 1: Creating a Presentation
+
+2         Microsoft PowerPoint
+
+               Tutorial 2: Applying and Modifying Text and Graphic Objects
+
+3         Microsoft PowerPoint
+
+               Tutorial 3: Presenting a Slide Show
+
+4         Microsoft PowerPoint
+
+               Tutorial 4: Integrating PowerPoint with Other Programs and
+
+               Collaborating with Workgroups
+
+5         Microsoft PowerPoint
+
+               Tutorial 5: Applying Advanced Special Effects in
+
+Presentations
+
+6         Microsoft PowerPoint
+
+               Tutorial 6: Creating Special Types of Presentations
+
+7         Microsoft PowerPoint Exam
+
+8         Microsoft Word
+
+               Chapter 5: Creating Styles, Outlines, Tables, and Tables of
+
+Contents
+
+9         Microsoft Word
+
+               Chapter 6: Creating Form Letters and Mailing Labels
+
+10        Microsoft Word
+
+               Chapter 7: Collaborating with Others and Creating Web Pages
+
+11        Microsoft Word
+
+               Chapter 8: Customizing Word and Automating Your Work
+
+12        Microsoft Word
+
+               Chapter 9: Creating On-Screen Forms Using Advanced Table
+
+Techniques
+
+13        Microsoft Word
+
+               Chapter 10: Managing Long Documents
+
+14        Microsoft Word
+
+               Appendix A: Structuring Documents Using XML
+
+          Microsoft Word Exam
+
+15        Microsoft PowerPoint class presentations
+
+
+
+PART IV: METHODS OF EVALUATION
+
+     Estimated  of multiple choice  written tests         2
+
+     Estimated  of written in-class exams             0
+
+     Final Project                                1
+
+     Estimated  of lab projects                       8
+
+
+
+     Classroom Performance    YES
+
+     Laboratory work          YES
+
+     Midterm             NO
+
+     Final                    NO
+
+
+
+PART V: GRADING FACTORS
+
+
+
+     Grading Criteria:
+
+                  Criteria          Grade Percentage
+
+     1.    2 Exams  20                   40
+
+     2.    Lab Projects                    40
+
+     3.    Attendance/Groupwork            10
+
+     4.    Class Presentation              10
+
+           (Final Project)
+
+                TOTAL                     100
+
+
+
+PART VI: ADDITIONAL INFORMATION FOR A NEW COURSE
+
+
+
+     Rationale:
+
+          There is an increasing demand for the Microsoft Office Specialist
+
+     (MOS) exams within the industry.  The current courses offered by the
+
+     CIS Department cover advanced topics within Microsoft Excel and
+
+     Access, but not Microsoft Word.  In addition, the only current course
+
+     that covers Microsoft PowerPoint is the CIS 101 course, and the topics
+
+     covered there are only intended to serve as an introduction to the
+
+     basic features of the tool.  Even in their academic careers at PCCC,
+
+     students are being expected to put together presentations for their
+
+     classes, and this course is an elective that could help these students
+
+     as well.  The books we have selected for this course are Microsoft
+
+     Office Specialist approved courseware, and map directly to the
+
+     objectives that make up the MOS examinations that this course would
+
+     prepare students for.
+
+
+
+     Programs required in: This course will be required in the AAS.CIS
+
+(Business Technology) option
+
+
+
+     Courses replaced, if any: none
+
+
+
+     Number of courses now required in discipline: This course is part of a
+
+     new option that contains 66 credits.
+
+     
+
+     Suggested offering cycle: Fall/Spring or Fall/Summer
+
+
+
+     Special equipment needed: Microsoft Office 2003
+
+
+
+     Additional faculty: None
+
+
+
+     Projected enrollment: 15-20
+
+
+
+     Overload: Possible
+
+
+
+     Projected additional operational costs: None
+
+
+
+
+
+                      INFORMATION TECHNOLOGY A.A.S. DEGREE
+
+                      CIS 127 - Microcomputer Software III
+
+               5 COLUMN MODEL (Course Assessment CIS.127.FA2005)
+
+EXPANDED STATEMENT OF    COURSE INTEDED    MEANS OF COURSE ASSESSMENT AND   
+Summary    Use of 
+
+INSTITUTIONAL PURPOSE  LEARNING OUTCOMES        CRITERIA FOR SUCCESS        
+of data    results 
+
+                                                                           
+Collected 
+
+                                           Assessment is by: 
+
+Mission Statement:     Upon Completion of      (3-6) Embedded questions
+
+The Mission of         this course,          in quiz for Microsoft Word.
+
+Passaic County         students will be      These tests are broken down by
+
+Community College is   able to:              topics that are directly
+
+to provide academic,                         related to the learning
+
+cultural and           1.   Create and       outcomes. The tests and the
+
+technological            format content in   exam are tailored using the MOS
+
+resources and            Microsoft           standardized format.  Students
+
+experiences to the       PowerPoint          will score 70 or better.
+
+residents of Passaic   2.   Manage and         (3-6) Microsoft Word case
+
+County.   High         deliver               projects, in which students are
+
+quality college        presentations in      asked to implement what they
+
+programs are at the    Microsoft             have learned.  80 of the
+
+heart our mission.     PowerPoint            students will successfully
+
+                       3.   Format and       complete the hands-on projects.
+
+Goal Statement:        organize content        (1-2, 5-6) Embedded
+
+Educate Students in    in Microsoft Word     questions in quiz for
+
+high quality programs  4.   Customize        PowerPoint.  These tests are
+
+that respond to        Microsoft Word        broken down by topics that are
+
+changing community     toolbars, menus,      directly related to the
+
+needs.                 and settings          learning outcomes. The tests
+
+                       5.   Create and       and the exam are tailored using
+
+Unit Mission           use macros within     the MOS standardized format.
+
+Statement:             Microsoft Word        Students will score 70 or
+
+CIS majors with this   6.   Engage in        better.
+
+option are qualified   group                   (1-2, 5-6) Microsoft
+
+for positions with     collaboration       PowerPoint case projects, in
+
+titles such as Help    using Microsoft     which students are asked to
+
+Desk Support           Word and Microsoft  implement what they have
+
+Specialist, Microsoft  PowerPoint          learned.  80 of the students
+
+Office Specialist,                         will successfully complete the
+
+Microcomputer Support                      hands-on projects.
+
+Specialist, Office
+
+Systems Support
+
+Specialist, User
+
+Support Specialist,
+
+and Technical
+
+Assistant.

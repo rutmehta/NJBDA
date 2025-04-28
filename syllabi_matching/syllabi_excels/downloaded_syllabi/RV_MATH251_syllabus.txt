@@ -1,0 +1,250 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+
+
+
+
+MATH 251 CALCULUS III 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 251 Calculus III 
+
+B. New or Modified Course: Modified Course 
+
+C. Date of Proposal: Spring 2008 
+
+D. Sponsoring Department: Mathematics 
+
+E. Semester Credit Hours: 4 
+
+F. Weekly Contact Hours: 5 Lecture: 3 
+
+Laboratory: 2 
+
+G. Prerequisite: MATH 152 Calculus II 
+
+H. Laboratory Fees: None 
+
+I. Department Chair: Dr. Siham Alfred, salfredraritanval.edu 
+
+II. Catalog Description 
+
+Prerequisite: MATH 152 Calculus II. Third semester of calculus with a 
+
+technology-based computer laboratory. Topics include vectors, vector-valued 
+
+functions, curves in space, functions of two or more variables, partial 
+
+differentiation, multiple integrals, line integrals, Greens Theorem, 
+Divergence 
+
+Theorem, and Stokes Theorem. 
+
+
+
+III. Statement of Course Need 
+
+This course is required for programs in Engineering Science and Mathematics. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. This course is a free elective and a Mathematics elective for all 
+programs. 
+
+B. This course serves as a General Education requirement in Mathematics. 
+
+C. This course is required for programs Engineering Science and Mathematics. 
+
+D. This course transfers as a third semester calculus course. 
+
+1 
+
+
+
+
+
+V. Outline of Course Content 
+
+A. Vectors and the geometry of space 
+
+1. Vectors, in the plane and in space 
+
+2. Dot product and cross product of two vectors in space 
+
+3. Line, planes, and surfaces in space 
+
+4. Cylindrical and spherical coordinates 
+
+B. Vector-Valued Functions 
+
+1. Vector-valued functions, differentiation and integration 
+
+2. Velocity and acceleration 
+
+3. Tangent vectors and normal vectors 
+
+4. Arc length and curvature 
+
+C. Functions of Several Variables 
+
+1. Limits, continuity, and partial derivatives 
+
+2. Differentials chain rules 
+
+3. Directional derivatives, gradients, tangent planes, and normal lines 
+
+4. Extrema applications of extrema 
+
+5. Lagrange multipliers 
+
+D. Multiple integration 
+
+1. Iterated integrals and area in the plane double integrals and 
+
+volume 
+
+2. Change of variables  polar coordinates 
+
+3. Center of mass, moments of inertia, surface area 
+
+4. Triple integrals: applications, cylindrical and spherical coordinates 
+
+5. Jacobians 
+
+E. Vector Analysis 
+
+1. Vector fields and line integrals 
+
+2. Conservative vector fields 
+
+3. Greens theorem, parametric surfaces, surface integrals 
+
+4. Divergence theorem, Stokes theorem 
+
+VI. Educational Goals and Learning Outcomes 
+
+A. General Education Goals 
+
+Students will: 
+
+
+
+1. apply mathematical arguments to problems. (G. E. 1) 
+
+2. solve problems quantitatively and symbolically. (G. E. 7) 
+
+B. Learning Outcomes 
+
+2 
+
+
+
+
+
+Students will be able to: 
+
+
+
+1. compute with vectors in three-dimensional space 
+
+2. differentiate functions of several variables, including graphing 
+
+functions of two variables. 
+
+3. evaluate multiple integrals 
+
+4. utilize Greens Theorem to evaluate line integrals 
+
+VII. Modes of Teaching and Learning 
+
+A. tests 
+
+B. quizzes 
+
+C. cumulative final examination 
+
+D. projects 
+
+E. homework 
+
+F. small groups 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+A. tests 
+
+B. final examination 
+
+C. projects 
+
+D. laboratory products 
+
+E. quizzes 
+
+IX. Grade Determinants 
+
+A. cumulative final examination 
+
+B. tests 
+
+C. projects 
+
+D. individual teacher determinants 
+
+X. Texts and Materials 
+
+The following text and materials are required for the course: 
+
+
+
+A. Suggested Textbook: Thomas Calculus, latest ed., by Weir, Hass, 
+
+Giordano, Pearson Addison Wesley 
+
+B. Graphing calculator may be required. TI-84 is recommended. 
+
+Please Note: The course outline is intended only as a guide to course 
+content and 
+
+resources. Do not purchase textbooks based on this outline. The RVCC 
+Bookstore 
+
+is the sole resource for the most up-to-date information about textbooks. 
+
+
+
+XI. Resources 
+
+3 
+
+
+
+
+
+This course is held in a computer lab for two hours a week. The computers 
+need 
+
+to be installed with the math software currently licensed to the math 
+department. 
+
+Contact the math department to determine which software to install. 
+
+
+
+4 
+
+
+
+

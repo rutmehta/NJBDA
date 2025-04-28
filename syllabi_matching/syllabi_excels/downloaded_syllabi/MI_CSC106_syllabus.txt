@@ -1,0 +1,282 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+COURSE ID (DEPARTMENT AND COURSE NUMBER)
+
+Computer Science  Information Technology  CSC 106
+
+
+
+COURSE NAME
+
+Intermediate PC Applications with Programming
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3
+
+
+
+PREREQUISITE OR COREQUISITE COURSES OR ACADEMIC STANDING
+
+Prerequisite: (High school applications course or CSC 105 or CSC 107 or BUS 
+107 or MCT 101) and MAT 
+
+014
+
+
+
+NEW OR MODIFIED COURSE
+
+Modified
+
+
+
+SEMESTER AND YEAR COURSE WILL FIRST BE OFFERED
+
+SUMMER 2008
+
+
+
+NAME AND TELEPHONE NUMBER OR EMAIL ADDRESS OF DEPARTMENT CHAIR
+
+Frank Burke
+
+732.906.2526
+
+FBurkemiddlesexcc.edu
+
+
+
+DETAILED COURSE DESCRIPTION:
+
+This course introduces students to a problem solving approach to computer 
+applications through the use 
+
+of spreadsheets, database, presentation manager, a programming language and 
+Internet skills. It 
+
+emphasizes Visual Basic and Microsoft Excel, in addition to surveying 
+fundamental computer concepts, 
+
+and is designed for students who already possess a familiarity with computer 
+applications.  It is 
+
+recommended for students planning to transfer to an upper division college 
+that has a computer 
+
+programming requirement in its computer literacy course.  This course is 
+suitable for liberal arts, science 
+
+and business students.
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+
+
+1.Demonstrate effective use of the Internet to do research and build a web 
+page related to the 
+
+required research project. 
+
+2. Understand the societal risks involved in data processing including 
+computer security, privacy and 
+
+integrity.
+
+3.Create electronic spreadsheets including absolute, relative and mixed 
+addressing, use of multiple 
+
+tables and worksheets, creation of charts, and the use of database 
+capabilities. 
+
+4.Demonstrate effective use of a presentation manager by creating 
+presentations that include 
+
+multimedia and files imported from other applications.  
+
+5. Develop application programs and a comprehensive hands-on project.
+
+6.Demonstrate effective use of a graphical user interface programming 
+language by designing 
+
+and writing programs containing introductory programming constructs.
+
+7.Describe computer concepts including computer terminology, computer 
+hardware, computer 
+
+software, networking, telecommunications and the Internet.
+
+8.  Create a simple Web page.
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Essentials: Getting Started with Computing Concepts 
+
+Pearson Prentice Hall, 2001 
+
+ISBN 0-13-145588-5 
+
+Mastering Excel 2007 - A Problem Solving Approach 
+
+Author: James Gips 
+
+Pearson Custom Publishing, 2007 
+
+ISBN 0-53-639127-0 
+
+An Introduction to Programming Using Visual Basic 2005 - Sixth Edition 
+
+Author: David I. Schneider 
+
+Pearson Prentice Hall, 2006 
+
+ISBN: 0-13-030654-1 
+
+
+
+
+
+SUGGESTED GRADING CRITERIA
+
+10
+
+PC Concepts/PowerPoint/HTML Exams
+
+10
+
+PowerPoint/HTML Labs
+
+4
+
+Homework
+
+26
+
+VB Exams
+
+10
+
+VB Labs
+
+20
+
+Excel Exams
+
+10
+
+Excel Labs
+
+10
+
+Research Project
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED 
+
+
+
+
+
+Topic
+
+1
+
+Problem Solving Process
+
+2
+
+Visual Basic: The GUI Programming Environment
+
+3
+
+Visual Basic: Calculations
+
+4
+
+Visual Basic: Selection
+
+5
+
+Visual Basic: Repetition
+
+6
+
+Visual Basic: Functions   
+
+7
+
+Visual Basic: One Dimensional Arrays
+
+8
+
+PC Concepts: Software, Data Representation, 
+
+Hardware, Networking, Security, Privacy    
+
+9
+
+PowerPoint: Advanced Formatting Techniques, 
+
+Embedding Multimedia Content
+
+10
+
+HTML and Web Page Development   
+
+11
+
+Spreadsheets: Formulas, Charting
+
+12
+
+Spreadsheets:  What-If Analysis, Multiple Worksheets               
+
+13
+
+Spreadsheets: Conditional Processing, Lookups   
+
+14
+
+Spreadsheets and Databases: Sorting, Filtering, 
+
+Subtotaling
+
+15
+
+Internet Research Techniques 
+
+
+
+
+
+
+
+Course Code: CSC 106Page 1/6
+
+
+
+
+
+
+
+Course Approval Form Effective: September 2006

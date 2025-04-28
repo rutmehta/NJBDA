@@ -1,0 +1,163 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+ACADEMIC COURSE OUTLINE 
+
+
+MATH 116H INTRODUCTION TO LIMITS – HONORS 
+
+
+I. Basic Course Information 
+A. Course Number and Title: MATH 116H Introduction to Limits - Honors 
+B. New or Modified Course: Modified 
+C. Date of Proposal: Spring 2008 
+D. Sponsoring Department: Mathematics 
+E. Semester Credit Hours: 1 
+F. 
+Weekly Contact Hours: 1 Lecture: 1 
+Laboratory: 0 
+G. 
+Corequisites: MATH 112 Precalculus I, or 
+MATH 113 Precalculus II, or 
+MATH 114H: Precalculus Honors 
+H. Laboratory Fees: None 
+I. Department Chair: Siham Alfred, salfred@raritanval.edu 
+II. Catalog Description 
+Corequisite: MATH 112 Precalculus I, or MATH 113 Precalculus II, or MATH 
+114H: Precalculus Honors. This course is designed as an honors component to 
+supplement existing courses at the precalculus level. The course is intended to 
+provide students with exposure to relevant ideas for future courses in Calculus. 
+Topics include intuitive concept of the limit of a function, introduction to the delta 
+epsilon definition, limits at infinity, continuity, and the Intermediate Value 
+Theorem. 
+
+III. Statement of Course Need 
+Honors courses in mathematics were developed to provide mathematically 
+talented students the opportunity to obtain a level of rigor not currently available 
+in existing courses. Topics in this course were selected to supplement and enrich 
+the curriculum of precalculus courses by providing additional theory and 
+applications of the fundamental concept of limit as it was used by Newton and 
+Leibniz in the development of calculus. This course has been designed as an 
+additional one credit component to the existing precalculus courses. 
+
+OAA/je 
+1 
+
+4/2/2008 
+
+
+IV. Place of Course in College Curriculum 
+A. Free Elective: This course serves as a one credit free math elective for all 
+programs. 
+B. Course transferability: This course transfers as a math course in most liberal 
+arts programs. 
+V. Outline of Course Content 
+A. 
+Intuitive and Formal Definition of the Limit of a Function 
+B. 
+Limits of Functions: Polynomials, Rational, Radical and Trigonometric 
+C. 
+Multi-representation of Limits: Numerical, Graphical, and Algebraic 
+D. 
+One Sided Limits and Limits at Infinity 
+E. 
+Properties of Limits and their Proofs 
+F. 
+Application of Limits: Continuity 
+VI. Educational Goals and Learning Outcomes 
+A. Educational Goals 
+Students will: 
+
+1. 
+apply mathematical arguments to problems. (G. E. 1) 
+2. 
+solve problems quantitatively and symbolically. (G. E. 7) 
+B. Learning Outcomes 
+Students will be able to: 
+
+1. 
+prove one or more properties of limits of functions. 
+2. 
+define the limit of a function at a point both intuitively and 
+formally. 
+3. 
+evaluate the limit of a polynomial, rational, radical, and 
+trigonometric function. 
+4. 
+find the limit of a function numerically, graphically, and 
+algebraically 
+5. 
+evaluate one-sided limits, two-sided limits, and limits at infinity. 
+6. 
+state the relationship between continuity and the limit of a function 
+at a point. 
+7. 
+solve application problems that require the concept of a limit. 
+VII. Modes of Teaching and Learning 
+The following are appropriate to the course and may be included 
+
+A. Lecture/discussion 
+B. Small-group work 
+OAA/je 
+2 
+
+4/2/2008 
+
+
+C. Graphing Calculator assisted instruction 
+D. Student oral presentations 
+E. Student Collaboration 
+F. 
+Independent study 
+VIII. Papers, Examinations, and other Assessment Instruments 
+A. Teacher written exams 
+B. In-Class quizzes 
+C. Labs and/or Projects 
+D. Student Oral Presentation 
+E. Final examination 
+IX. Grade Determinants 
+A. Tests 
+B. 
+Quizzes 
+C. Projects 
+D. 
+Laboratory products 
+E. 
+Homework 
+F. Final exam 
+X. 
+Texts and Materials 
+The following text and materials are required for the course: 
+
+A. Suggested Textbook: 
+Precalculus by Blitzer, published by Pearson 
+Prentice Hall 
+B. Graphing calculator is required. TI-84 is recommended. 
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+XI. Resources 
+No additional resources are needed. 
+
+XII. Honors Course 
+A. Educational Goals and Learning Outcomes: 
+See detailed Educational Goals 
+and Student Learning Outcomes in Section VI. 
+B. Honors Content: 
+This is a one-credit honors course designed to supplement 
+topics in MATH 112 Precalculus I, MATH 113 Precalculus II or MATH 
+114H Precalculus Honors. 
+OAA/je 
+3 
+
+4/2/2008 
+
+
+C. Grade Determinants for Honors Work: See Section IX. 
+OAA/je 4 
+
+4/2/2008 
+
+

@@ -1,0 +1,204 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Middlesex County College
+
+Edison, New Jersey
+
+Computer Science Department
+
+Course Outline
+
+
+
+Course Title: C ProgrammingCourse No: CSC166
+
+
+
+Lecture Hours:    2Lab Hours2Credits:3
+
+
+
+Department Chair:   Frank Burke FBurkemiddlesexcc.edu 
+
+Phone   732-906-2526
+
+
+
+
+
+Start DateSpring 2003
+
+
+
+Prerequisites:2 years high school algebra  geometry or MAT014
+
+
+
+Textbook:      A First Book of C from here to there 3rd ed.
+
+                      Author:   Gary Bronson
+
+                      Publisher:  Course Technology 
+
+                      ISBN:   0-53-4492819
+
+
+
+
+
+Catalog Course Description:
+
+
+
+This is an introductory programming course using the C programming language. 
+ Students are 
+
+introduced to algorithm development and problem solving techniques.  
+Fundamental topics of 
+
+computer programming are discussed including: data types, operators, 
+input/output, arrays, and 
+
+control structures such as selection, repetition and functions.  No previous 
+programming 
+
+experience is required.  This course may not be taken by computer science 
+majors. 
+
+
+
+
+
+
+
+
+
+Objectives of the Course: Behavioral: 
+
+
+
+The student should be able to:
+
+
+
+1.   Identify the functional units of a computer and describe how 
+information flows 
+
+      through it.
+
+
+
+2.   Discuss the program development process.
+
+
+
+
+
+3.   Demonstrate an understanding of the syntax and semantics of C language
+
+      statements.
+
+
+
+4.   Understand basic control constructs of a programming language including 
+
+      sequencing, selection, repetition and functions.
+
+5.   Demonstrate an understanding of input from the keyboard and output to 
+the 
+
+      monitor.
+
+
+
+6.   Manipulate one dimensional arrays.
+
+
+
+7.   Code well-structured and properly documented source programs that 
+accept input data, solve 
+
+a specified problem and present solutions in an effective manner.
+
+
+
+8.   Test and debug a C program.
+
+
+
+
+
+
+
+Topical Outline: Lecture        Hours
+
+
+
+1.   Program Development Process2
+
+Analyzing the Problem
+
+Developing the Algorithm
+
+Implementing the Algorithm
+
+Testing and Debugging
+
+Maintenance
+
+
+
+2.   Data Values and Arithmetic Operations4
+
+Numeric and String Literals
+
+Integer and Floating-Point Numbers
+
+Character Values
+
+Escape Sequences
+
+Arithmetic Operations
+
+3.   Variables and Declaration Statements1
+
+4.   Input/Output (keyboard and monitor)2
+
+Formatting for Output
+
+5   Assignment Operations and Const2
+
+Built-in Functions
+
+6.   Selection5
+
+Logical Operators
+
+Compound Statements
+
+If Statements
+
+7.   Repetition5
+
+While
+
+For Loops
+
+8.   Functions                                                            3
+
+Void
+
+Value Returning
+
+Pass by Value
+
+9.   Arrays    4
+
+One-Dimensional Arrays
+
+
+
+
+
+csc166 as of sp03

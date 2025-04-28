@@ -1,0 +1,103 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College CS 252 Course Syllabus
+
+
+
+CS 252 Advanced Java Concepts: Course credits 3:0:3, Prerequisite: CS 251
+
+
+
+Contact Karen Mattison (856) 351-2672, kmattisonsalemcc.edu
+
+
+
+Course Description:Continues discussion of object-oriented programming using 
+the Java programming language. 
+
+Topics to be explored include improving class design through inheritance, 
+developing abstract classes, building 
+
+graphical user interfaces, handling errors and exceptions, and designing 
+applications. Place in College Curriculum: This 
+
+course is required for the Computer Science program. It may be taken as a 
+3-credit Computer Science elective or 3-credit 
+
+Open Elective in all other programs.
+
+Course Performance Objective 1: The student will demonstrate mastery of 
+fundamental object-oriented programming 
+
+syntax, control structures, and tools.
+
+Course Performance Objective 2: The student will design classes that can be 
+maintained and updated efficiently. 
+
+Course Performance Objective 3: The student will improve program structure 
+through inheritance. 
+
+Course Performance Objective 4: The student will create projects that use 
+advanced abstraction. 
+
+Course Performance Objective 5: The student will build a project that 
+includes a graphical user interface. 
+
+Course Performance Objective 6: The student will develop projects that can 
+handle errors. 
+
+Course Performance Objective 7: The student will apply standard 
+methodologies to the process of designing an 
+
+application.
+
+General Education Requirements: The general education goals covered in CS252 
+are critical thinking and problem 
+
+solving, quantitative skills, and science  technology.
+
+General Outcomes Assessment: A college-wide outcomes assessment program has 
+been put into place to enhance the 
+
+quality and effectiveness of the curriculum and programs at Salem Community 
+College.  As part of this assessment 
+
+program, the learning outcomes for this course will be assessed.  Assessment 
+methods may include tests, quizzes, 
+
+papers, reports, projects and other instruments.  Copies of all outcomes 
+assessments are available in an electronic 
+
+assessment bank maintained by the Institutional Research and Planning 
+Office. 
+
+Required Text(s): Barnes, D. J.,  Klling, M. (2006). Objects First with Java 
+(3 ed.). Harlow, England: Pearson 
+
+Education Limited.
+
+Materials/Supplies: Flash drive, notebook, pen/pencil, index cards 
+Additional Costs: As necessitated by the required 
+
+materials
+
+Course Activities: Classroom activities will include informal lectures and 
+demonstrations introducing new course material, 
+
+discussion and review of assigned work and observed processes, development 
+of CRC cards, and exams. 
+
+Course Requirements and Means of Evaluation: Please refer to the instructors 
+syllabus addendum for specific 
+
+information regarding the course requirements and means of evaluation.
+
+Course Content Outline:
+
+I.Review of fundamentals II. Class design III. Inheritance IV. Abstraction 
+V. Graphical user interfaces 
+
+VI. Error handling VII. Application design
+
+

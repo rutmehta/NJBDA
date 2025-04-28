@@ -1,0 +1,125 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+
+
+Course:  CS 101  M Introduction to Microcomputers
+
+
+
+Credits:  3
+
+
+
+Prerequisites 
+
+      None
+
+
+
+Description
+
+      Designed for students with an understanding of computers. This course 
+will 
+
+introduce Windows file management. Students will work with word processing, 
+
+spreadsheets and presentation software.
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+Utilize the operating system software to perform basic file functions on 
+
+the computer
+
+Use work processing software to create, edit, format, and print documents
+
+Use spreadsheet software to create, edit , format, and print worksheets
+
+Use presentation software to prepare computerized slide presentations.
+
+
+
+Topical Outline
+
+Windows and File Management
+
+Word  Creating a Document
+
+Word  Editing and Formatting a Document
+
+Word  Creating a Multiple-Page Report
+
+Excel  Using Excel to Manage Data
+
+Excel  Working with Formulas and Functions
+
+Excel  Developing a professional-Looking Worksheet
+
+PowerPoint  Creating a Presentation
+
+PowerPoint  Applying and Modifying Text and Graphic Objects
+
+
+
+Texts
+
+      New Perspectives Microsoft Office Edition, Office 2003, 2nd edition: 
+Thomson 
+
+Course Technology.
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+
+presentations and/or papers)
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper 
+
+documentation.
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper 
+
+rules for handling material is no excuse, plagiarism is, indeed, a criminal 
+offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the 
+
+student may receive a grade of F for the semester at the discretion of the 
+instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through 
+
+the Success Center.  If think that you might have a learning disability, 
+contact Project 
+
+Assist at 856.691.1800, x282 for information on assistance that can be 
+provided to 
+
+eligible students.

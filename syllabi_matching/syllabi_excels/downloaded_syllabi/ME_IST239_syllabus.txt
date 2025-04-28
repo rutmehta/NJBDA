@@ -1,0 +1,1094 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+       COURSE OUTLINE
+
+                                
+
+IST 239                            Advanced Programming in Java
+
+Course Number                                  Course Title
+
+
+
+     3                             2 lecture/2 laboratory
+
+Credits                       Hours: lecture/laboratory/other
+
+(specify)
+
+
+
+Catalog description:
+
+
+
+Focus on the use of Java as a tool for professional programming.
+
+Topics include advanced object-oriented programming including
+
+inheritance and polymorphism exception handling generic
+
+methods multithreading and networking database access Web
+
+programming, including Servlets and JavaServer pages, and
+
+formatting and regular expressions.   2 lecture/2 laboratory
+
+hours
+
+
+
+Prerequisite:
+
+
+
+IST 237
+
+
+
+Corequisites:
+
+
+
+None
+
+
+
+Required texts/other materials:
+
+
+
+Deitel  Deitel (2005). Java: How to Program, 6th Edition. Upper
+
+Saddle River, NJ: Prentice Hall.
+
+
+
+Students will find it easier to complete course assignments if
+
+they have access to a relatively up-to-date PC, with sufficient
+
+space to load Java, the JVM, and several programs.
+
+
+
+Last revised:
+
+
+
+
+
+
+
+
+
+Course coordinator:
+
+
+
+Edwin S. Eichert, III
+
+
+
+Information resources: (Describe the primary information
+
+resources that support the course, including books, videos,
+
+journals, electronic databases, websites, etc.)
+
+
+
+Lambert, K. A.  Osborne, M. (2003). Fundamentals of Java:
+
+Comprehensive Course, 2nd Edition. Boston, MA: Thomson Course
+
+Technology.
+
+
+
+Lewis  Loftus (2005). Java Software Solutions: Foundations of
+
+Program Design, 4th Edition. Boston, MA: Addison-Wesley.
+
+
+
+Liang (2003). Introduction to Java Programming, 4th Edition.
+
+Upper Saddle River, NJ: Prentice Hall.
+
+
+
+Malik (2005). Java Programming: From Problem Analysis to Program
+
+Design, 2nd Edition. Boston, MA: Thomson Course Technology.
+
+
+
+Pohl  McDowell (2000). Java by Dissection: The Essentials of
+
+Java Programming. Boston, MA: Addison-Wesley.
+
+
+
+Riley (2003). The Object of Java: Introduction to Programming
+
+Using Software Engineering Principles, BlueJ Edition. Boston, MA:
+
+Addison-Wesley.
+
+
+
+Savitch (2004). Java: An Introduction to Computer Science and
+
+Programming, 3rd Edition. Upper Saddle River, NJ: Prentice Hall.
+
+
+
+Skansholm (2004). Java from the Beginning, 2nd Edition. Boston,
+
+MA: Addison-Wesley.
+
+
+
+Other learning resources:  (Describe any other student learning
+
+resources that are specific to this course, including any special
+
+tutoring or study group support, learning system software, etc.)
+
+
+
+Students must be able to download or load using CDs software to
+
+computers in the laboratory and they must be able to retain their
+
+programs on laboratory computers for the duration of the
+
+semester. It would be ideal if their programs were retained in a
+
+directory on a server that was accessible in both the laboratory
+
+and the learning center.
+
+
+
+Students must have access to Oracle, SQL Server, and Access, all
+
+running on a server or servers, and the authority to connect
+
+their applications to specific databases.
+
+
+
+Students must have access to a computer PC on campus that can be
+
+accessed from both on and off campus using LANs and the Internet.
+
+
+
+Java is not a simple programming language. Qualified tutors, who
+
+are available several nights of the week, may contribute to
+
+student success.
+
+Course goals:  List the most important 5-8 overall student
+
+learning goals for your course. Learning goals (or competencies)
+
+are statements that describe the specific, measurable knowledge,
+
+skills, and/or values that the student is expected to
+
+demonstrate, perform or exhibit after completion of the course.
+
+Learning goals should focus on what the students will learn
+
+(rather than what the instructor will teach) and should include
+
+verbs (explain., demonstrate., identify.) that accurately reflect
+
+lower-order and higher-order learning goals.
+
+
+
+The student will be able to:
+
+   Explain how inheritance and polymorphism promote reusable,
+
+     extensible, and maintainable Java programs.
+
+   Use appropriate methods to implement and apply inheritance
+
+     and polymorphism, when appropriate, to meet application
+
+     requirements.
+
+   Use try, throw, catch, and finally to handle exceptions.
+
+   Create (design, program, test, and implement) generic
+
+     methods that perform identical tasks on collections of
+
+     different types. .
+
+   Understanding the how producer and consumer relationships
+
+     are implemented with multithreading.
+
+   Create client and server applications that communicate with
+
+     each other.
+
+   Create a Java application that uses JDBC and SQL to access
+
+     and update a relational database.
+
+   Use Java servelets to extend a Web servers functionality.
+
+   Create static and dynamic Web client applications using Java
+
+     server pages (JSPs), JavaBeans, implicit objects, and
+
+     scriptlets.
+
+   Use printf, a Java function to format output as desired.
+
+   Use regular expression in Java.
+
+Course-specific General Education goals and objectives.   To an
+
+extent consistent with its primary purposes, each course in every
+
+program is expected to reflect the colleges commitment to
+
+general education, as affirmed in the attached list of General
+
+Education Goals and Objectives.  A General Education Course is
+
+one whose primary purposes and overall design coincide strongly
+
+with one or more of the approved general education goals and
+
+objectives.  For any approved (or proposed) General Education
+
+Course, the General Education Goals and Objectives form should be
+
+completed and attached to the course outline.
+
+   This course will require students to read and study an
+
+     average of 26 pages of highly technical written material
+
+     each week.
+
+   Students are required to use code that is modeled in the
+
+     text to complete two medium (250 line) to large (500 line)
+
+     sized programs each week.
+
+   Students are required to complete an average two written
+
+     assignments each week. About half of these require writing
+
+     sentences and paragraphs. The other half involve code
+
+     snippets.
+
+   Although this course addresses quantitative understanding
+
+     and technology, it is not intended as a general education
+
+     elective. This is a course for students who are or who are
+
+     preparing to be professional programmers or information
+
+     technology specialists.
+
+
+
+Units of study in detail. List the units of study according to
+
+the general topics or themes by which the course is organized.
+
+Units of study are not chapter titles, but should be seen as
+
+independent of the selected textbook.  For each unit, identify
+
+specific learning objectives. These unit learning objectives
+
+should stem from the overall course objectives and applicable
+
+General Education objectives.  Unit learning objectives should
+
+state (in terms that can serve as the frame of reference for
+
+ongoing assessment of both student achievement and of the
+
+courses effectiveness) what successful students will be able to
+
+demonstrate, perform or exhibit at the end of the unit.
+
+
+
+Note: Learning Objectives are not text specific. In order to
+
+achieve consistence across the adjunct professors who teach this
+
+course, Learning Activities are text specific. Several of the
+
+topics that are included in this course and in the Deitel 
+
+Deitel text were introduced in IST137 or IST237. The new text
+
+tends to offer more advanced material and applications.
+
+
+
+Unit I:        Advanced Object-Oriented Programming
+
+(week 1-3)
+
+
+
+Learning Objectives The student will be able to.
+
+   Explain how inheritance and polymorphism promote reusable,
+
+     extensible, and maintainable Java programs.
+
+   Use appropriate methods to implement and apply inheritance
+
+     and polymorphism, when appropriate, to meet application
+
+     requirements.
+
+   Use extends, protected, super, the Object class, as
+
+     required.
+
+Learning Activities
+
+   Read and study Chapters 9 and 10, p. 415-509 in Dietel 
+
+     Dietel.
+
+   Lecture topics should cover course requirements, super and
+
+     sub classes, protected Members, creating classes with and
+
+     without inheritance, using private and protected instance
+
+     variables, constructors, the Object class, displaying text
+
+     and images, polymorphic behavior, creating direct and
+
+     indirect concrete subclasses, and creating and using
+
+     interfaces.
+
+   Complete written exercise 9.4 and 9.7 due at the start of
+
+     week 2.
+
+   Complete written exercise 10.3, 10.4, 10.5, 10.6, and 10.8
+
+     due at the start of week 3.
+
+   Complete programming exercise 9.3 due at the start of week
+
+     2.
+
+   Complete programming exercise 10.9 due at the start of week
+
+     3.
+
+   Complete programming exercise 10.11 due at the start of week
+
+     4.
+
+
+
+Unit II:       Exception Handling
+
+(week 4)
+
+
+
+Learning Objectives The student will be able to.
+
+   Use try, throw, and catch to detect, indicate, and process
+
+     exceptions.
+
+   Use finally to release resources.
+
+ 
+
+Learning Activities
+
+   Read and study chapter 13 p. 638-671 in Dietel  Dietel.
+
+   Lecture and / or demonstration should cover dealing with
+
+     sequential errors with and without exception handling the
+
+     Java exception hierarchy, finally, unwinding the stack
+
+     chained exceptions, new exception types, pre and post
+
+     conditions and assertions. Students should be assigned to
+
+     develop Examples 13.3, 13.4, 13.5, 13.6, 13.7, 13.8, and
+
+     13.9 they will be called on at appropriate times during the
+
+     lecture to describe the applications.
+
+   Complete programming exercise 13.17 due at the start of week
+
+     5.
+
+
+
+Unit III: Generic Methods                                   (week
+
+5)
+
+
+
+Learning Objectives The student will be able to.
+
+   Create generic methods that perform identical tasks on
+
+     arguments of different types.
+
+   Create a generic Stack class that can be used to store
+
+     objects of any class or interface.
+
+Learning Activities
+
+   Read and study chapter 18 p. 869-903 in Dietel  Dietel.
+
+   Lecture and / or demonstration should describe the
+
+     implementation of generic methods generic classes and
+
+     wildcards in methods. Students should be assigned to prepare
+
+     the code in figures 18.12 18.34 18.56 18.7,8,9
+
+     18.10 18.11 18.12 18.14 and 18.15 and they should be
+
+     called on at appropriate points in the lecture to describe
+
+     the applications.
+
+   Complete written exercise 18.3 and 18.13 due at the start of
+
+     week 6.
+
+   Complete programming exercises 18.6, 18.7, and 18.8 due at
+
+     the start of week 6.
+
+
+
+Unit IV:  Multithreading and Networking                     (week
+
+6-8)
+
+
+
+Learning Objectives The student will be able to.
+
+   Create and execute Runnables.
+
+   Describe producer and consumer relationships and how they
+
+     are implemented with multithreading.
+
+   Describe Java networking with URLs, sockets, and datagrams.
+
+   Implement Java clients and servers that communicate with
+
+     each other.
+
+Learning Activities
+
+   Read and study Lessons 16, 17, and 18, p. 531 to p. 616 in
+
+     Lambert  Osborne.
+
+   Lecture and / or demonstration should describe Thread
+
+     states, creating and executing threads, thread
+
+     synchronization, producer and consumer relationships,
+
+     ArrayBlockingQueue, monitors and locks URLs Reading a file
+
+     on a Web Server using Stream Sockets connectionless client-
+
+     server interaction and multithreaded servers. Students
+
+     should be assigned to develop the Java applications in
+
+     figures 23.45 23.6,7,8,9,  10 23.11  12 23.13  14
+
+     23.15  16 23.17  18 and 23.1920 for week 6 and 24.1 
+
+     2 24.3 24.5  6 24.7  8 24.9  10 24.11  12 and
+
+     24.13, 14, 15  16 for week 7 students will be called on at
+
+     appropriate points during the lecture to demonstrate their
+
+     code.
+
+   Complete written exercise 23.3, 23.4, and 23.5 due at the
+
+     start of week 7.
+
+   Complete written exercise 24.3, 24.4, 24.5, 24.6,24.7,24.8,
+
+     24.9, 24.10, 24.11, 24.12, and 24.13 due at the start of
+
+     week 8.
+
+   Complete programming exercise 23.9 and 23.10 due at the
+
+     start of week 7.
+
+   Complete programming exercise 24.19 and 24.23 due at the
+
+     start of week 8
+
+   Complete programming the Dietel Messenger Server and Client
+
+     on p. 1155-1181 in the text. Students may work in teams of
+
+     two or three people, with 5 extra credit if teams are used.
+
+     The project is due at the start of week 9.
+
+ .
+
+Unit V:        Accessing Databases with JDBC
+
+(week 9-10)
+
+
+
+Learning Objectives The student will be able to.
+
+   Use SQL to retrieve and maintain data in a SQL database.
+
+   Use JDBC to access databases.
+
+Learning Activities
+
+   Read and study chapter 25, p.1189-1235 in Dietel  Dietel.
+
+   Lecture and / or demonstration should describe relational
+
+     databases, SQL, JDBC, and the RowSet interface. Students
+
+     will be assigned to develop the following applications
+
+     25.25 25.28 25.31 and 25.32 they will be called upon to
+
+     present their work at appropriate points during the lecture.
+
+   Complete programming exercise 25.2 and 25.3 due at the start
+
+     of week 11.
+
+
+
+Unit VI:  Server-side Java Programming                      (week
+
+11-13)
+
+
+
+Learning Objectives The student will be able to.
+
+   Build a Web server using Apache Tomcat.
+
+   Use servelets and the JDBC with them to create dynamic Web
+
+     pages.
+
+   Use JSPs to create dynamic Web pages.
+
+   Use actions to manipulate JavaBeans in a JSP to include
+
+     resources dynamically and to make requests to other JSPs.
+
+Learning Activities
+
+   Read and study chapters 26 and 27, p.1237-1325 in Dietel 
+
+     Dietel.
+
+   Lecture and / or demonstration should cover Servlets
+
+     Installing Apache Tomcat Server HTTP Requests Redirecting
+
+     Requests using JDBC from Servlets Welcome files Java
+
+     Server Pages (JSPs) implicit objects scripting standard
+
+     actions and directives. Students should be assigned to
+
+     develop the Java applications in figures 26.7 8 26.10, 
+
+     12 26.15  16 26.18  19 26.21 for week 12 and 27.3
+
+     27.4 27.7, 8, 9, 10, 11,  12 27.14  15 and 27.19 for
+
+     week 13 students will be called on at appropriate points
+
+     during the lecture to demonstrate their code.
+
+   Complete programming exercise 26.5 and 26.6 due at the start
+
+     of week 12.
+
+   Complete programming exercise 27.7 due at the start of week
+
+     13
+
+   Complete programming the Guest Book on p. 1309-1321 in the
+
+     text. Students may work in teams of two or three people,
+
+     with 5 extra credit if teams are used. The project is due
+
+     at the start of week 14.
+
+
+
+Unit VII: Output, Strings, and Regular Expressions
+
+(week 14-15)
+
+
+
+Learning Objectives The student will be able to.
+
+   Use printf and Formatter to obtain any desired output
+
+     format.
+
+   Use String, StringBuffer, Character, and StringTokenizer as
+
+     appropriate.
+
+   Use regular expressions to validate and test String data.
+
+Learning Activities
+
+   Read and study chapters 28 and 29, p.1326-1397 in Dietel 
+
+     Dietel.
+
+   Lecture and / or demonstration should cover streams, printf,
+
+     format strings, the Formatter class, the String class, the
+
+     StringBuffer class, the Character class, the StringTokenizer
+
+     class, and regular expressions. Students should be assigned
+
+     to develop the Java applications in figures 28.2, 4,  5
+
+     28.9, 11,  12 28.13, 15,  16 28.17, 18,  19 28.20 
+
+     21 28.22  24 for week 14 and 29.1  2 29.3  4 29.5  6
+
+     29.7  8 29.9 29.10  11 29.12  13 29.14  15 29.16 
+
+     17 29.20  21 and 29.23  24  for week 15 students will
+
+     be called on at appropriate points during the lecture to
+
+     demonstrate their code.
+
+   Complete written exercise 28.4, 28.5, and 28.6 due at the
+
+     start of week 14.
+
+   Complete programming exercise due at the start of week 14.
+
+   Complete programming exercise 29.3 and 29.13 due at the
+
+     start of week 15.
+
+ 
+
+Evaluation of student learning:   Describe general guidelines
+
+for examinations, required work, course work, assignments, and
+
+tests. Explain how assignments evaluate student achievement of
+
+course objectives. Multiple measures (quizzes, tests, essays,
+
+projects, portfolios, practicums, etc.) are recommended.
+
+   Written assignments will be graded based on two components
+
+     content and the proper use of English grammar and format. If
+
+     the English grammar and format component is acceptable, the
+
+     content grade will be used to access the students
+
+     performance in this course. In the unlikely event, for a
+
+     course at this level, that the grammar and format component
+
+     is not acceptable, the student will be sent to the tutoring
+
+     center to revise the document until it is acceptable. In
+
+     general, instructors should require the initial draft of
+
+     written assignments to be completed on time. (Note, there
+
+     are only 15 actual written assignments in the course. The
+
+     other written work involves code snippets.)
+
+   After the first unit in this course, students will be
+
+     required to prepare and present technical information to
+
+     their classmates. These activities are aimed at developing
+
+     life-long learning and technical communications skills. The
+
+     instructor should grade the students presentation and
+
+     discuss approaches to improving his or her work in the
+
+     future.
+
+   Programs and code segments that work meet the minimum
+
+     standard for passing (60). Additional factors include
+
+     variable naming (5), appropriate use of the programming
+
+     language (5), program format (5), effectively using the
+
+     material in the current lesson (15), and on-time completion
+
+     (10). Students must recognize that programming is both an
+
+     art and a science, both fields require learning and using
+
+     accepted standards. Instructors should clearly define their
+
+     requirements for on-time completion and the penalties for
+
+     late work. One policy that has worked successfully is
+
+     programs that are one week or less late will be graded and
+
+     10 will be subtracted from the grade programs that are
+
+     more than one week late but less than two or three weeks
+
+     late will not be graded, but will receive a grade of 65 if
+
+     the program works and 55 if it does not work.
+
+   The topics covered in this course require continuous
+
+     critical thinking by the student. Most of the laboratory and
+
+     homework programming projects require critical thinking,
+
+     decision making, and problem solving skills to understand
+
+     the requirements and design the program. Most of the 21
+
+     student programs will require 250 to 500 lines of Java code.
+
+     Programs of such length require testing, debugging, and
+
+     retesting. These activities require and demonstrate problem-
+
+     solving skills.
+
+   Students are required to complete a departmental midterm
+
+     (10 of course grade) after week eight and a cumulative
+
+     final (15 of course grade) after week fifteen in the
+
+     Testing Center. It serves to insure that the student has
+
+     developed a basic understanding of the vocabulary and
+
+     concepts of intermediate Java programming. The tests consist
+
+     of 50 true/false or multiple-choice questions, which are
+
+     based on the questions at the end of each unit in the text.
+
+ 
+
+Attendance and Homework Expectations
+
+
+
+   This is a three credit, four contact-hour college-level
+
+     course. During a 15-week semester, the lecture and
+
+     demonstration portion of the course lasts 2 hours per week
+
+     for a total of 30 hours and the laboratory portion of the
+
+     course lasts 2 hours per week for a total of 30 hours.
+
+   In a college level course, a student can expect to study and
+
+     do work outside of class for 2 to 3 hours per hour of
+
+     lecture in this case, 4 to 6 hours of work will be assigned
+
+     each week for a total of 60 to 90 hours.
+
+   In a college level course, a student can expect to study 1
+
+     to 2 hours per hour of laboratory in this case, 2 to 4
+
+     hours of work will be assigned each week for a total of 30
+
+     to 60 hours.
+
+   Students are expected to attend all lectures if you miss a
+
+     lecture, you are responsible for obtaining lecture notes, in-
+
+     class assignments, or other materials from another student.
+
+     If you cut a lecture, you can expect to spend 1 to 2 times
+
+     more effort to learn the material that you missed on your
+
+     own.
+
+   Students are expected to complete and test every program in
+
+     the chapters that are covered in the course. These programs
+
+     should be brought to class on a flash drive or CD-ROM. Most
+
+     instructors will want this work completed before the topic
+
+     is covered in lecture.
+
+   Students who are caught up on their homework and laboratory
+
+     work, who have access to a computer with a Java compiler and
+
+     a JVM may be excused from laboratory. Such students will be
+
+     expected to work 2 hours per week or 30 hours per semester
+
+     to complete programming assignments.
+
+   A college-level programming course, particularly a course in
+
+     a sophisticated programming language, like Java, requires
+
+     active learning. Over the semester, this course requires 150
+
+     to 240 hours of effort, or an average of 195 hours per
+
+     semester or 13 hours per week during a 15-week semester.
+
+     Students who are unable to make this time commitment should
+
+     consider taking this course at another time.
+
+   When this course is offered during a semester of less than
+
+     15 weeks, the total time commitment of 150 to 240 (average 
+
+     195) hours does not change.
+
+ 
+
+
+
+Grade Factors:
+
+
+
+     Departmental Midterm in Testing Center - Two tries, highest
+
+counts         10
+
+     Departmental Final in Testing Center - Two tries, highest
+
+grade counts        15
+
+     Twenty-six written exercises  - 3 lowest grades dropped
+
+25
+
+     Twenty-one programming projects - 3 lowest grades dropped
+
+25
+
+     Attendance, participation, preparation
+
+25
+
+
+
+Course Grades:
+
+
+
+     The grade or average for each factor is multiplied by the
+
+weight for the factor and these products are summed. The course
+
+grade is based on the sum as follows:
+
+
+
+     93.1 - 100.0   A         77.0 -  79.9   C
+
+     90.0 -   93.0  A-        70.0 -  76.9   C
+
+     87.0 -   89.9  B        60.0 -  69.9   D
+
+     83.1 -   86.9  B           0.0 -  59.9     F
+
+     80.0 -   83.0  B-
+
+
+
+Incompletes (I) may be given at the desecration of the instructor
+
+given that the student has completed at least 2/3rds of the work,
+
+including all departmental tests, with an average for the
+
+completed work of 70 or better. It is the responsibility of the
+
+student who receives an incomplete to (a) verify the work that is
+
+required to (b) complete the work as a single package to (c)
+
+meet with the instructor to go over the work package and (d) to
+
+schedule his or her activities to complete all work within 15
+
+weeks. Incompletes that are not made up within 15 weeks are
+
+automatically converted to F.
+
+
+
+Academic Integrity Statement:
+
+
+
+Standard statement
+
+                                
+
+                                
+
+                                                         Appendix
+
+                                                                 
+
+      Verbs that may be useful in formulating and assessing
+
+              Student learning goals and objectives
+
+       (listed from lower-order to higher-order learning)
+
+
+
+Knowledge (list, define, describe, identify, state, name,
+
+     who/when/where)
+
+     
+
+Comprehension  (summarize, describe, interpret, contrast,
+
+     predict, distinguish, discuss, paraphrase)
+
+     
+
+Application (complete, illustrate, examine, classify, discover,
+
+     solve, use)
+
+     
+
+Analysis (analyze, order, connect, arrange, compare, contrast,
+
+     explain, infer, categorize, discuss)
+
+     
+
+Synthesis (combine, integrate, create, design, hypothesize,
+
+     develop, formulate, rewrite)
+
+     
+
+Evaluation (judge, assess, convince, support, justify, rank,
+
+     recommend, choose, criticize)
+
+
+
+
+
+This listing, generally known as Blooms Taxonomy, relates to
+
+cognitive behaviors (B.S. Bloom, Major Categories in the
+
+Taxonomy of Educational Objectives, 1956).
+
+Student learning objectives can also be stated in terms of
+
+affective and psychomotor Objectives:
+
+      Affective objectives emphasize feeling and emotion (e.g.,
+
+     accept, attempt, challenge, defend, dispute, join, judge, praise,
+
+     question, share, support and volunteer).
+
+    Psychomotor objectives are concerned with motor skills
+
+(e.g., measure, dissect, assemble, .).
+
+
+
+For more resources on this topic, many helpful websites are
+
+available.  For example:
+
+     http://www.humboldt.edu/tha1/bloomtax.html

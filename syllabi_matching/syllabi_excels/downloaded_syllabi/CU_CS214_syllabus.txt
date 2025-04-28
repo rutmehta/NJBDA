@@ -1,0 +1,124 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+  Computer Science  214
+
+  RPG 400 Programming
+
+  Credits:     3
+
+  Prerequisites:    3
+
+  New Course   Spring
+
+
+
+  Dr. Robert Hancox
+
+  hancoxcccnj.edu
+
+  CS 214 RPG/400 Programming (4:4:0)  Introduces students to the use of the
+
+RPG/400 programming
+
+  language.  Emphasis is placed on language syntax, data structures and
+
+definitions, file access,
+
+  processing, updating, and report generation.  Upon successful completion
+
+of the course, the student
+
+  should be able to: describe the steps involved in writing a program using
+
+RPG/400 explain the entries on
+
+  RPG coding specification sheets explain the use of physical and logical
+
+files describe input and output
+
+  processing, control breaks, subroutines, selection iteration, file
+
+updating, and table and array processing
+
+  and write programs utilizing these features.  Prerequisite: CS 105 or
+
+equivalent.
+
+
+
+
+
+  COURSE OBJECTIVES
+
+  Introduces students to the use of the RPG/400 programming language.
+
+Emphasis is placed on language
+
+  syntax, data structures and definitions, file access, processing,
+
+updating, and report generation.  Upon
+
+  successful completion of the course, the student should be able to:
+
+describe the steps involved in writing
+
+  a program using RPG/400 explain the entries on RPG coding specification
+
+sheets explain the use of
+
+  physical and logical files describe input and output processing, control
+
+breaks, subroutines, selection
+
+  iteration, file updating, and table and array processing and write
+
+programs utilizing these features.
+
+
+
+
+
+
+
+  TEXT:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GRADE DETERMINANTS:
+
+
+
+
+
+
+
+  CASE STUDIES:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  COURSE TOPICS

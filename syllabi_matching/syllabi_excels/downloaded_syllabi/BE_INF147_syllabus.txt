@@ -1,0 +1,132 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF147
+
+Web Development Using Dreamweaver
+
+Credits: 3
+
+Prerequisites: None Helpful:INF161 or INF162 or INF163 students who do not 
+adhere to recommended co-requisites may not be successful in the course. 
+
+New Course - Fall 2002
+
+
+
+Professor Lucy Caruso-Deane
+
+Department Head, Business
+
+lcarusodeanebergen.edu
+
+
+
+This course introduces students to web page authoring using a 
+What-You-See-Is-What-You-Get editing environment. This course will focus on 
+technical mastery of the software tools and techniques used to create web 
+pages with Dreamweaver, and on an understanding of the technical and 
+environmental issues that affect web page design, performance and 
+effectiveness. Graphic design issues will be addressed in this context. 
+
+
+
+Course Objectives:
+
+01. Understand fundamental web environment concepts
+
+02. Understand the various basic purposes of web sites
+
+03. Create web pages using basic text, image and hyperlink components 
+
+04. Manage the linking of components throughout a web site
+
+05. Employ tables and frames in the layout of components on a web page 
+
+06. Work with images and multimedia content
+
+07. Work with animations and dynamic content
+
+08. Incorporate interactive elements in a web site
+
+09. Publish original web pages, including a comprehensive final project
+
+
+
+Course Content:
+
+01. Introduction and Course Overview A First Web Page Web Site Basics: 
+Purposes, Design, Attractiveness, Interactivity, Performance/Efficiency, 
+Repeat Visits, Links, Visibility, Management/Maintenance Web Site Elements: 
+Text, Images, Animations, Hyperlinks, site management tools Editing an 
+existing web page, creating a simple web page User interface, workspace 
+(Documents, Objects and Properties windows), controls, program features 
+Editing an existing web page - importing an existing site Creating a simple 
+web page - defining a new web site Banner text - Body text - Adding an image 
+- Adding a hyperlink Previewing the web page - testing/debugging Publishing 
+the web page - using FTP 
+
+02. Web-page Editing Fundamentals Basic Site Control Formatting text - 
+character formatting, paragraph formatting Importing text Saving and titling 
+pages Site control - the Site window - relative/absolute links, file/folder 
+management, path structure, site maps, creating a site from scratch HTML 
+basics Viewing/editing/tweaking HTML source, HTML styles, meta tags Using 
+Find/Replace with text and tags Inserting/editing line breaks Changing 
+background and link colors Hyperlinks: external, internal, anchors, e-mail, 
+image-map links 
+
+03. Creating/Editing Templates - Creating/Editing Library Elements
+
+04. Working With Still Images Converting images to GIF or JPG Issues that 
+effect performance/quality In-line images, images in tables, images as 
+backgrounds/watermarks 
+
+05. Test 1 Page Layout with Tables Creating/editing tables - changing table 
+layouts, formatting content in tables, sorting, table properties 
+
+06. Page Layout with Frames Creating/editing frames - working with 
+Framesets, Web pages in Framesets, frame link destinations 
+
+07. Cascading Style Sheets (CSS) Defining styles - applying to elements on a 
+page HTML styles and CSS styles Internal and external style sheets Editing 
+and managing style sheets 
+
+08. Creating And Working With Layers Creating Layers - - LAYER tag used to 
+create DHTML layers - using the Layers palette - Layers and Behaviors - 
+creating Layers using CSS styles - converting tables to layers and layers to 
+tables - Layers and browser compatibility issues 
+
+09. Test 2 Using Behaviors To Create Rollover Effects And Animations Using 
+behaviors - attaching behaviors to objects, behavior modification Creating 
+Rollovers, adding Image States to rollovers on Navigation Bars, using Insert 
+Navigation Tool, multiple-event rollovers 
+
+10. Adding Multimedia Elements Downloadable elements PowerPoint slideshows, 
+Excel workbooks, Digital video 
+
+11. Timelines and DHTML, Animations Technical issues relating to inserting 
+and using animations Animations using Java scripts, VB scripts, Flash 
+
+12. Test 3 Interactivity Writing forms and CGI scripts - accepting and 
+storing input from the viewer/user Validating input Server Side includes, 
+e-commerce systems, using XML Dreamweaver and database connectivity - 
+UltraDev 
+
+13. Work on Final Project - Overall Design, Initial Site Development
+
+14. Work on Final Project - Completion of Site Development, Testing, 
+Publication 
+
+15. Final Project Presentation Wrap-up
+
+
+
+Text: To be announced
+
+
+
+Grade Determinants:
+
+75 - 3 Tests
+
+25 - Final Project Presentation

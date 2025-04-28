@@ -1,0 +1,96 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF266
+
+Network Configuration II
+
+Credits: 4 credits
+
+Prerequisites: INF265 Network Configuration I Helpful: A Certification 
+Microsoft Office Skills Introductory programming or multimedia courses 
+introductory electronics 
+
+New Course - Fall 2003
+
+
+
+Professor Lucy Caruso-Deane
+
+Department Head, Business
+
+lcaruos-deanebergen.edu
+
+
+
+This course seeks to differentiate among the following WAN services: LAPB, 
+Frame Relay, ISDN/LAPD, HDLC, PPP and DDR. Key Frame Relay terms and 
+features will be acquired to configure Frame Relays, LMls, maps and 
+subinterfaces. Skills for identification of PPP operations to encapsulate 
+WAN data on Cisco routers will be acquired. ISDN concepts and techniques 
+will be introduced to enable identification of ISDN protocols, function 
+groups, reference points, and channels. This course assists in preparation 
+towards the CISCO CNA certification. 
+
+
+
+Course Objectives:
+
+01. Master Basic Content: Review of first three semesters WANs WAN Design 
+PPP ISDN Frame Relay all CCNA Exam-related learning objectives 
+
+02. Master Lab Skills: Increasingly sophisticated router configuration 
+network troubleshooting skills all CCNA Examrelated skill objectives 
+
+03. Master Documentation Skills: maintaining engineering journal design 
+documentation and electronic portfolio development 
+
+04. Master People Skills: working in engineering teams, self and project 
+management, oral exams, presentations 
+
+05. Achieve Awareness and Access: basic technological literacy awareness of 
+IT careers preparation for 2 and 4 yr. EE, CS, and IT programs access to 
+well-paying, learning-oriented jobs ability to design, install, and maintain 
+internetworks 
+
+
+
+Course Content:
+
+01. Differentiate between the following WAN services: LAPB, Frame Relay, 
+ISDN/LAPD, HDLC, PPP, and DDR. 
+
+02. Recognize key Frame Relay terms and features.
+
+03. List commands to configure Frame Relay LMls, maps, and subinterfaces. 
+
+04. List commands to monitor Frame Relay operation in the router.
+
+05. Identify PPP operations to encapsulate WAN data on Cisco routers.
+
+06. State a relevant use and context for ISDN networking.
+
+07. Identify ISDN protocols, function groups, reference points, and 
+channels. 
+
+08. Describe Ciscos implementation of ISDN BRI.
+
+
+
+Text: Online Multimedia
+
+
+
+Grade Determinants:
+
+Skill Exams - pass/fail
+
+20 - Oral Exams
+
+20 - Journal
+
+20 - Exams
+
+20 - Final Exam
+
+20 - Portfolio

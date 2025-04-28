@@ -1,0 +1,639 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE OUTLINE
+
+
+
+
+
+       MAT135Intermediate Algebra  Applications
+
+Course Number                   Course Title
+
+
+
+
+
+4                 4 lecture hours
+
+       Credits                      Hours
+
+
+
+Catalog description:
+
+
+
+This course is designed for students who demonstrate some proficiency in 
+algebra but who need to develop additional algebraic skills for use in other 
+college courses or in higher level mathematics courses. Topics include 
+function notation, absolute value function, quadratic equations, rational 
+expressions and equations, rational exponents, radicals, graphing and 
+inequalities. 
+
+
+
+
+
+Prerequisites: 
+
+Completion of  MAT034 with a grade of C or better, successful completion of 
+a course equivalent to MAT034, an appropriate score on the Higher 
+Mathematics Placement Test, or permission of the department chairperson. 
+
+
+
+Corequisites:   None
+
+
+
+
+
+Required Materials:
+
+1.   Text:  Intermediate Algebra Through Applications, by Geoffrey Akst and 
+Sadie 
+
+                Bragg (Pearson/Addison Wesley Publishers)
+
+
+
+2.   Calculator:  A scientific calculator is required.
+
+
+
+
+
+Last revised:  November 2005
+
+
+
+
+
+Course coordinators:   Yvonne A. Greenbaun
+
+                                       Daniel Rose
+
+
+
+Course goals:
+
+Students will be able to demonstrate through tests, projects and 
+quizzes/homework the ability to: 
+
+1.  Solve inequalities in one and two variables
+
+2.  Solve and graph both linear and quadratic equations
+
+3.  Factor a second degree polynomial and some special higher degree 
+polynomials 
+
+4.  Recognize and work with functions and function notation
+
+5.  Perform operations and solve equations involving polynomial, radical and 
+rational expressions 
+
+6.  Solve a system of two linear equations
+
+7.  Apply each of the above techniques in various real world applications
+
+8.  Construct and/or analyze both linear and quadratic models of real life 
+phenomenon and predict 
+
+     future data values from these models 
+
+9.  Complete multiple projects containing investigative tasks which 
+demonstrate the applications 
+
+     of algebra in real world contexts
+
+
+
+General Course Structure:
+
+
+
+The content of the course is divided into three units with approximately the 
+same amount of class time being devoted to each unit. The two primary 
+assessments that will be used in these units are tests and projects, 
+followed by a comprehensive final exam. 
+
+
+
+Tests:  It is recommended that a test be given at the end of each unit. Each 
+unit covers approximately 2 chapters of the text. A minimum of 3 tests must 
+be given per semester. The Mathematics Department has placed sample unit 
+tests on file in the Academic Testing Center which may be used at the 
+discretion of the instructor. 
+
+
+
+Projects:   Specific time has been set aside in this course for students to 
+work together on projects focusing on real world applications of 
+intermediate algebra. It is recommended that a minimum of 2 projects be 
+incorporated into the course. Sample projects have been developed by the 
+department and are available on CD  please see either of the course 
+coordinators to pick one up. 
+
+
+
+Final Exam:  A comprehensive final exam should be given at the end of the 
+semester. The Mathematics Department has placed sample final exams in the 
+Academic Testing Center which may be used at the discretion of the 
+instructor. 
+
+
+
+A suggested day-to-day schedule (based on a 30-class semester) which leaves 
+in-class time for project work and a review of Chapter 1, as well as a list 
+of minimum suggested homework exercises from the text are also available 
+from the course coordinators. Please be sure to obtain a copy. Suggested 
+grading policies are provided at the end of this outline. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+COURSE CONTENT
+
+
+
+
+
+Unit I  Linear Modeling: Equations, Inequalities, and Graphs  (5 total 
+weeks) 
+
+
+
+Sections of text to be covered during the 5 weeks:
+
+
+
+Chapter 2: Linear Equations and Inequalities (section 2.1, 2.3, 2.4 omit 
+2.2, 2.5)  2.5 weeks 
+
+Chapter 3: Graphs, Linear Equations  Inequalities, and Functions (section 
+3.1, 3.2, 3.3, 3.4, 3.6 
+
+                  omit 3.5)  2.5 weeks. 
+
+
+
+Student Goals  Chapter 2
+
+
+
+1. Define and solve linear equations in one variable.
+
+2. Determine if a given number is a solution to a given linear equation.
+
+3. Define and solve linear inequalities in one variable.
+
+4. Determine if a given number is a solution to a given linear inequality.
+
+5. Graph solutions to linear inequalities on a real number line and express 
+solutions in interval notation. 
+
+6. Define, solve, and graph solutions to compound linear inequalities, as 
+well as compound linear inequalities using and  or terminology. 
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to business, nursing, 
+geography, chemistry, economics, banking  accounting, physical fitness, 
+investments, and profit. 
+
+
+
+Specific text examples of linear modeling facilitating student goals 
+include: 
+
+
+
+ Calculating prescribed medical dosage
+
+ Meeting marketing campaign budgets
+
+ Allocating investments into bonds and mutual funds
+
+ Comparing resulting salaries between two competing job offers
+
+ Choosing cost efficient city parking plans
+
+ Maintaining a physical fitness schedule
+
+
+
+
+
+Student Goals  Chapter 3 
+
+
+
+1. Plot points and identify quadrants on the coordinate plane.
+
+2. Define independent (x-variable) and dependent (y-variable) axes.
+
+3. Read, interpret, and explain trends in graphs which model applications.
+
+4. Define, calculate and interpret slope, especially as a rate of change.
+
+5. Determine relationship between slope and horizontal, vertical, parallel, 
+and perpendicular lines. 
+
+6. Define and graph linear equations in two variables. 
+
+7. Identify and graph x- and y-intercepts of a graph, and interpret them in 
+context. 
+
+8. Express and graph linear equations in slope-intercept form.
+
+9. Use linear modeling to find the equation of a line through two given 
+points, or a slope and y-intercept. 
+
+10. Define relations and functions.
+
+11. Use function notation to evaluate outputs for given inputs.
+
+12. Identify the domain and range of a function.
+
+13. Graph simple functions apply vertical line test.
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to temperature, 
+population, stock appreciation/depreciation, chemistry, manufacturing, 
+economics, nutrition, physics, business and sales. 
+
+
+
+Specific text examples facilitating student goals include:
+
+
+
+ Describing trends in U.S. population
+
+ Describing various sociological trends from a given graph
+
+ Analyzing recent trends in gasoline prices
+
+ Comparing long-distance packages from two different providers
+
+ Analyzing a proposed monthly payment plan for paying off bills
+
+ Modeling the relationship between depth under water and pressure
+
+
+
+
+
+
+
+
+
+
+
+Unit II  Polynomials, Rational Expressions and Equations  (5 total weeks)
+
+
+
+Sections of text to be covered during the 5 weeks:
+
+
+
+Chapter 5: Polynomials (section 5.1 through 5.7)  3 weeks
+
+Chapter 6: Rational Expressions and Equations (section 6.1, 6.2, 6.4 omit 
+6.3, 6.5)  2 weeks 
+
+
+
+Student Goals  Chapter 5
+
+
+
+1. Define monomial and polynomial (and its degree).
+
+2. Add and subtract polynomials.
+
+3. Multiply monomials and binomials (using FOIL) and special products 
+(squares of binomials, etc.) 
+
+4. Divide polynomials.
+
+5. Factor the GCF from polynomials and expressions.
+
+6. Factor polynomials by grouping.
+
+7. Factor various trinomials.
+
+8. Factor the difference of two squares, and the sum/difference of two 
+cubes. 
+
+9. Define and solve quadratic equations by the zero product property.
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to imports/exports, 
+profit, geometry, interest, average cost and profit, physics, projectile 
+motion, finance. 
+
+
+
+
+
+
+
+
+
+Specific text examples facilitating student goals include:
+
+
+
+ Calculating the difference between the volumes of petroleum imported and 
+exported in the U.S. 
+
+ Using different cost models to compare the fixed costs and variable costs 
+of owning and operating an automobile 
+
+ Calculating average profit for different capital ventures
+
+ Analyzing models of projectile motion to find when objects will hit ground 
+level 
+
+ Using quadratic equations to estimate the cost of a sailboats mainsail
+
+ Estimating the average cost of a long-distance phone call per minute
+
+
+
+
+
+Students Goals  Chapter 6
+
+
+
+1. Define rational expressions and identify where theyre undefined.
+
+2. Simplify rational expressions.
+
+3. Add, subtract, multiply and divide rational expressions.
+
+4. Solve rational equations.
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to environmental 
+pollution physics, sales growth, probability, average cost, distance/rate, 
+sharing a job. 
+
+
+
+Specific text examples facilitating student goals include:
+
+
+
+ Examining cost models for removing the percent of pollutants from the air
+
+ Simplifying and interpreting percent growth of sales models for a company
+
+ Calculating the interest rate required to turn a principal investment into 
+a specified amount in one year 
+
+
+
+
+
+
+
+Unit III  Quadratic Equations, Functions Linear Systems Radical Expressions 
+and Equations   (5 total weeks) 
+
+
+
+Sections of text to be covered during the 5 weeks:  
+
+
+
+Chapter  4: Solving Linear Systems (section 4.2 omit section 4.1, but 
+checking solutions 
+
+                   graphically are encouraged)  0.5 week  
+
+Chapter  7: Radical Expressions Rational Exponents Complex Numbers (section 
+7.1, 7.6 
+
+                   omit operations of complex numbers and 7.2 through 7.5)  
+1 week 
+
+Chapter  8: Quadratic Equations and Functions (section 8.1, 8.2, 8.4 omit 
+8.3, 8.5)  2 weeks 
+
+
+
+Approximately the last week of the five weeks set aside for this unit can be 
+spent finishing class projects and reviewing for the final exam.  It is 
+recommended that sections from this unit be presented in the following 
+chronological order in class: sections 7.6, 8.1, 8.2 and 8.4 (complex 
+numbers and quadratic modeling) followed by 4.2 and 7.1 (linear systems with 
+solutions and radical expressions).   See the day-to-day schedule for the 
+chronological order of sections. 
+
+Students Goals  Chapter 7.6, 8.1, 8.2, and 8.4
+
+
+
+1. Define the imaginary number i and complex number  
+
+2. Define and solve quadratic equations by completing the square and/or the 
+quadratic formula to get both real and complex solutions. 
+
+3. Use the discriminant to find the number of real and complex solutions to 
+a quadratic equation. 
+
+4. Graph quadratic equations, identifying the vertex as well as the 
+maximum/minimum value attained by the function. 
+
+5. Identify the domain and range of a quadratic function.
+
+
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to environmental 
+pollution, sociology, electrical engineering, finance and projectile motion. 
+
+
+
+Specific text examples facilitating student goals include:
+
+
+
+ Analyzing quadratic models for the number of U.S. cell phone subscribers 
+and use these models to predict future data 
+
+ Analyzing quadratic models for the value of the SP 500 Index and use these 
+models to predict future data 
+
+ Using quadratic profit models to predict the number of units of a product 
+that mist be sold to reach a specified amount of monetary return. 
+
+ Using cost models for a business to minimize the daily cost in 
+manufacturing units 
+
+
+
+Student Goals  Chapter 4.2 and 7.1
+
+
+
+1. Solve linear systems of equations having solutions
+
+2. Define and calculate square, cube, and nth root of a number.
+
+3. Calculate and/or simplify expressions with radicals or rational 
+exponents. 
+
+
+
+
+
+Real World Applications: Examples in the text which facilitate these goals 
+through real world applications should be completed. Applications in the 
+text pertain to subjects including, but not limited to astronomy, geography, 
+physics, and landscaping. 
+
+
+
+Specific text examples facilitating student goals include:
+
+
+
+ Analyzing magazine sales to address economic considerations of future 
+marketing endeavors. 
+
+ Calculating the velocity of a free-falling object after it falls a given 
+distance 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation of student learning:
+
+
+
+Students should receive regular feedback on their work through tests, 
+projects, and quizzes/homework.  The syllabus for this course should 
+describe the schedule for classes and assessments. A suggested day-to-day 
+schedule (based on a 30-class semester) which leaves in-class time for 
+project work and a review of Chapter 1, as well as a list of minimum 
+suggested homework exercises from the text are also available from the 
+course coordinators. 
+
+
+
+A minimum of 3 tests and 2 projects must be given per semester, as well as a 
+comprehensive final exam. Sample unit tests and final exams have been 
+developed by the department and are available in the Academic Testing 
+Center. Sample projects have been developed by the department and are 
+available on CD  please see either of the course coordinators to pick one 
+up. Suggested grading schemes for the course are provided below, although 
+the individual instructor can modify them, provided that the minimum 
+requirements above are met. 
+
+
+
+
+
+Unit Tests (3)...40Unit Tests (3).35
+
+Collected Projects (2)..20Collected Projects (3)30
+
+In-class Quizzes, etc15In-Class Quizzes, etc.10
+
+Final Exam..25Final Exam.25
+
+
+
+(65 tests/final)(60 tests/final)
+
+(35 projects, quizzes)(40 projects, quizzes)
+
+
+
+Academic Integrity Statement:
+
+
+
+Under no circumstance should students knowingly represent the work of 
+another as ones own.  Students may not use any unauthorized assistance to 
+complete assignments or exams, including but not limited to cheat-sheets, 
+cell phones, text messaging and copying from another student.  Violations 
+should be reported to the Academic Integrity Committee and will be 
+penalized.  Please refer to pages 55-56 of the 2003-2004 Student Handbook. 
+
+
+
+Additional Information and Tutorial Resources
+
+
+
+The following are additional resources that the publishers of the text have 
+made available for instructors and students. Please stop by the Division 
+office or see either of the course coordinators if you are an instructor and 
+need any of these resources, or if you have any questions. 
+
+
+
+1. Instructors Solution Manual:  This publication gives detailed solutions 
+to 
+
+even-numbered exercises from the text.
+
+
+
+2. Students Solution Manual:  This publication gives detailed solutions to
+
+odd-numbered exercises from the text.
+
+
+
+3. MyMathLab:  A complete online course designed to parallel the text with 
+links to video clips and practice exercises that are linked to the text. 
+
+
+
+In addition, a search of the Mercer County Community College Library shows 
+that there are close to 100 reference books that students may use and a 
+collection of problems on CD. Students are also encouraged to utilize the 
+Learning Centers for additional resources and/or tutoring. 

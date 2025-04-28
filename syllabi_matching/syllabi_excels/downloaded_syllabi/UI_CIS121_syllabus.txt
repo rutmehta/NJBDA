@@ -1,0 +1,271 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+UNION COUNTY COLLEGE
+
+COURSE SYLLABUS
+
+
+
+COURSE NUMBER  NAME:CIS 121  HTML Programming
+
+
+
+LECTURE/LAB HOURS2 Lecture Hours/2 Laboratory Hours
+
+
+
+CREDITS3
+
+
+
+PREREQUISITES:CIS 120
+
+
+
+COURSE DESCRIPTION:
+
+This course is an in-depth study of HTML (HyperText Markup Language) and its 
+use in creating Web pages. Students will learn to add functionality to Web 
+pages using JavaScript and DHTML (Dynamic HTML). In addition, students will 
+be taught the basics of XML (Extensible Markup Language. 2 lecture and 2 
+laboratory hours per week 
+
+
+
+COURSE OBJECTIVES/OUTCOMES:
+
+
+
+By the end of this course, the student will be able to:
+
+
+
+ Create and edit Web pages using HTML
+
+ Know HTML standards
+
+ Create tables using HTML tags
+
+ Create an image map using HTML tags
+
+ Create forms on a Web page using HTML tags
+
+ Use the three types of cascading style sheets  an embedded style sheet, 
+external style sheet, and inline style sheet 
+
+ Integrate JavaScript and HTML
+
+ Create Pop-up windows, add scrolling messages, and validate forms using 
+JavaScript 
+
+ Use DMTML to enhance Web pages
+
+ Create and Use XML Documents
+
+ Discuss locating and effectively using information to solve issues or 
+problems. 
+
+
+
+STUDENT RESOURCES:
+
+
+
+Creating Web Pages with HTML and XML (Comprehensive) by Patrick Carey
+
+Storage Media (USB drive, CDR, CDRW). 
+
+Software: Microsoft Word
+
+
+
+
+
+COURSE REQUIREMENTS:
+
+
+
+To enforce course objectives, all students in this course will be expected 
+to complete homework assignments, complete programming projects, and 
+successfully complete examinations. 
+
+An essential element of this course includes information literacy. 
+Information Literacy is the evaluation and assessment of integrated 
+information. An understanding of its ramifications and implications through 
+the critical use of information literacy will be discussed. Students will be 
+able to locate, discern, and effectively use information to solve issues 
+and/or problems. 
+
+
+
+EVALUATION METHODS:
+
+Assignments/Homework30
+
+Tests30
+
+Final Exam/Final Project/Research Paper40
+
+Grading:
+
+A90 or above
+C70-76
+B87-89
+D67-69
+B80-86
+D60-66
+C77-79
+Fbelow 60
+
+
+NOTE:
+
+The instructor reserves the right to modify the course requirements, 
+assignments, grading procedures and other related policies as circumstances 
+may dictate. 
+
+
+
+STUDENTS WITH PHYSICAL LEARNING DISABILITIES
+
+
+
+Any student with special needs that will affect performance in this class 
+should feel free to make an appointment to talk with the instructor during 
+office hours (or by appointment) or contact the disabilities counselor in 
+the Counseling office on the Cranford Campus. 
+
+
+
+
+
+CLASS SCHEDULE:
+
+
+
+Week
+Topic
+Assignments/Readings/Activities
+1
+Introduction, Syllabus
+
+Tutorial 1, Developing a Basic Web Page
+Read and complete Tutorial 1
+2
+Tutorial 2, Adding Hypertext Links to a Web Page
+Read and complete Tutorial 2
+3
+Tutorial 3, Designing a Web Page
+Read and complete Tutorial 3
+4
+Test 1: Tutorials 1 and 2
+
+Tutorial 4, Designing a Web Page with Tables
+Test
+
+Read and complete Tutorial 4
+5
+Tutorial 5, Using Frames in a Web Site
+Read and complete Tutorial 5
+6
+Tutorial 6, Creating Web Page Forms
+Read and complete Tutorial 6
+7
+Test 2: Tutorials 3, 4, and 5
+
+Tutorial 7, Working ith Cascading Style Sheets
+Test
+
+Read and complete Tutorial 7
+8
+Tutorial 8, Programming with JavaScript
+Read and complete Tutorial 8
+9
+Test 3: Tutorials 6 and 7
+
+Tutorial 8 cont
+
+What is XML
+Test
+
+Continue with Tutorial 8
+10
+Tutorial 9, Working with JavaScript Objects and Events
+Read and complete Tutorial 9
+11
+Tutorial 9 cont
+
+More XML
+Continue with Tutorial 9
+12
+Tutorial 10, Creating a Multimedia Web Page
+Read and complete Tutorial 10
+13
+Test 4:  Tutorials 8, 9, and 10
+Test
+14
+Projects and Review
+Demonstrations of projects
+15
+
+Final Examination
+
+
+
+
+SUGGESTED TEACHING METHODOLOGIES:
+
+a. Lecture, group discussion, presentations, multimedia/technology, 
+projects, experiments, demonstrations, etc. 
+
+b. Indication of the percentages or emphasis given to teaching methodologies 
+used will assist faculty members in course preparation and implementation. 
+
+      
+
+
+
+
+
+CORRELATION OF PROGRAM OUTCOMES, STUDENT OUTCOMES, AND ASSESSMENT
+
+      
+
+Program Outcomes
+Student Learning Outcomes
+Assessment of Outcomes
+The ability to communicate effectively with associates.
+Create and edit Web pages using HTML
+
+Know HTML standards
+
+Create tables using HTML tags
+
+Create an image map using HTML tags
+
+Create forms on a Web page using HTML tags
+
+Use the three types of cascading style sheets  an embedded style sheet, 
+external style sheet, and inline style sheet 
+
+Integrate JavaScript and HTML
+
+Create Pop-up windows, add scrolling messages, and validate forms using 
+JavaScript 
+
+Use DMTML to enhance Web pages
+
+Create and Use XML Documents
+Written: Exams, research paper, assignments.
+
+Verbal: Class discussion and responses, group discussion and responses.
+An understanding of the ethical ramifications of the uses of the computer.
+Discuss locating and effectively using information to solve issues or 
+problems 
+Written: Exams, research paper, assignments.
+
+Verbal: Class discussion and responses, group discussion and responses
+
+
+CIS12112006

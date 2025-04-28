@@ -1,0 +1,386 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Raritan Valley Community College 
+
+Official Course Outline 
+
+
+
+
+
+MATH 211H: PRECALCULUS (Honors) 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 211H: Precalculus (Honors) 
+
+B. Date of Proposal: Updated October, 2005 
+
+C. Sponsoring Department: Mathematics 
+
+D. Semester Credit Hours: 5 
+
+E. Weekly Contact Hours: 5 Lecture: 5 
+
+Laboratory: 0 
+
+F. Prerequisite: MATH 021: Intermediate Algebra, or 
+
+MATH 025: Algebra Mod 4: Rational  Radical Behavior, 
+
+or appropriate score on math placement test. 
+
+G. Laboratory Fees: none
+
+H. Dept. Chair: Dr. Nora Thornber (nthornberaritanval.edu) 
+
+II. Catalog Description 
+
+Prerequisite: MATH021 Intermediate Algebra or MATH025 Algebra Mod 4: 
+
+Rational  Radical Behavior or appropriate score on Placement Test. This is 
+an 
+
+honors course designed for students preparing to study calculus. The 
+material 
+
+covered in this course combines the material in BOTH MATH 112 Precalculus I 
+
+and MATH 113 Precalculus II. Topics include the study of polynomial, 
+rational, 
+
+logarithmic, exponential, and trigonometric functions and other topics from 
+
+algebra, trigonometry and analytic geometry. Students who successfully 
+
+complete Precalculus (Honors) can proceed directly into the study of 
+calculus. 
+
+
+
+III. Statement of Course Need 
+
+This course serves as a prerequisite to the study of calculus. 
+
+
+
+02/19/03 Page 1 of 5 
+
+
+
+
+
+MATH 211: Foundations for Calculus  Honors 
+
+
+
+IV. Place of the Course in the College Curriculum 
+
+A. Precalculus (Honors) satisfies general education requirements in 
+
+Mathematics. It serves as a mathematics elective for all programs. It may 
+
+also be used to satisfy mathematics requirements for programs in 
+
+mathematics, science, and engineering. 
+
+B. Precalculus (Honors) transfers as a mathematics course in most liberal 
+arts 
+
+programs. 
+
+C. Precalculus (Honors) is an honors course. 
+
+V. Outline of Course Content 
+
+A. Functions and Their Graphs 
+
+1. Function definition 
+
+2. Graphs: shifts, translations, reflections, stretches 
+
+3. Combinations of functions 
+
+4. Inverse functions 
+
+B. Polynomial and Rational Functions 
+
+1. Quadratic functions 
+
+2. Higher degree polynomials 
+
+3. Complex numbers 
+
+4. Fundamental Theorem of Algebra 
+
+5. Rational functions and asymptotes 
+
+6. Graphs of rational functions 
+
+C. Exponential and Logarithmic Functions 
+
+1. Exponential characteristics, properties, graphs 
+
+2. Logarithmic characteristics, properties, graphs 
+
+3. Solving equations involving exponents and logs 
+
+4. Non-linear models 
+
+D. Trigonometric Functions 
+
+1. Radian and degree measure 
+
+2. Circular and right triangle trigonometry 
+
+3. Trigonometric graphs 
+
+4. Inverse trigonometric functions 
+
+5. Trigonometric models 
+
+2 12/04/02 
+
+
+
+
+
+
+
+MATH 211: Foundations for Calculus  Honors 
+
+
+
+E. Analytic Trigonometry 
+
+1. Trigonometric identities 
+
+2. Trigonometric equations 
+
+3. Trigonometric formulas 
+
+4. Law of Sines, Law of Cosines 
+
+5. Vectors 
+
+F. Systems of Equations and Inequalities 
+
+1. Linear systems of two and three variables 
+
+2. Systems of inequalities 
+
+3. Linear programming (optional) 
+
+4. Matrices and matrix operations 
+
+5. Matrix applications, determinants 
+
+G. Topics in Analytic Geometry 
+
+1. Parabolas 
+
+2. Hyperbolas 
+
+3. Ellipses 
+
+4. Polar coordinates and polar graphs (optional) 
+
+VI. General Education Goals and Learning Outcomes 
+
+1. Education Goal: 
+
+The student will develop strategies to analyze and solve math problems of 
+
+two variables, graphically and algebraically (relates to Gen. Ed. Goals 1.a, 
+
+1.b, 1.c, 1.d, 1.f, and 1.g.). 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Identify functional relationships between two variables, both 
+
+graphically and algebraically 
+
+ Identify the characteristics of the conic sections, both graphically and 
+
+algebraically 
+
+2. Education Goal: 
+
+The student will develop the ability to apply geometric and algebraic skills 
+
+quantitatively to trigonometric functions (relates to Gen. Ed. Goals 5.a. 
+
+and 5.d.). 
+
+
+
+Learning Outcome: 
+
+
+
+3 12/04/02 
+
+
+
+
+
+
+
+MATH 211: Foundations for Calculus  Honors 
+
+
+
+The student will be able to: 
+
+
+
+ Specify the graphical and algebraic characteristics of polynomial, 
+
+rational, radical, exponential, logarithmic, and trigonometric functions. 
+
+3. Education Goal: 
+
+The student will develop the ability to apply mathematical modeling to 
+
+problems in selected areas of the sciences (relates to Gen. Ed. Goal 6.c. 
+
+and 7.d.) 
+
+
+
+Learning Outcome: 
+
+
+
+The student will be able to: 
+
+
+
+ Employ mathematical modeling techniques to solve problems using 
+
+polynomial, rational, radical, exponential, logarithmic, and 
+
+trigonometric functions. 
+
+VII. Modes of Teaching and Learning 
+
+Instructors can use a variety of modes including, but not limited to the 
+following: 
+
+
+
+ lecture/discussion 
+
+ small-group work 
+
+ computer-assisted instruction 
+
+ student oral presentations 
+
+ student collaboration 
+
+ independent study 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+Student learning outcomes are assessed using a combination of the following: 
+
+
+
+ tests 
+
+ final examination 
+
+ projects 
+
+ quizzes 
+
+IX. Grade Determinants 
+
+4 12/04/02 
+
+
+
+
+
+
+
+MATH 211: Foundations for Calculus  Honors 
+
+
+
+Final grades are determined by a combination of tests, quizzes, homework, 
+
+projects, labs, and final exam. Individual instructors are free to use the 
+above in 
+
+any combination. The final exam should be cumulative and should reflect all 
+of 
+
+the learning outcomes listed above. 
+
+
+
+X. Texts and Materials 
+
+Textbook: Precalculus with Limits, a Graphing Approach 3nd ed. Larson, 
+
+R.E., Hostetler, R. P.,  Edwards, B. H. Houghton Mifflin, 2001 
+
+
+
+Required technology: A graphing calculator is required of all students. 
+
+The TI83 is recommended. 
+
+
+
+XI. Resources 
+
+No additional resources are needed. 
+
+
+
+XII. Honors Courses 
+
+1. Precalculus (Honors) is an accelerated course in precalculus. It contains 
+
+the material from both Math 112: Precalculus I and Math 113: Precalculus 
+
+II. This is a one semester course that contains two semesters worth of 
+
+material. 
+
+2. See detailed Educational Goals and Student Learning Outcome in section 
+
+VI. 
+
+3. This is an existing honors course that has been approved by the 
+
+Curriculum Committee. It contains the material covered in MATH 112 
+
+and Math 113. It is designed for students who wish to complete a two-
+
+semester precalculus sequence in one semester. 
+
+5 12/04/02 
+
+
+
+
+
+

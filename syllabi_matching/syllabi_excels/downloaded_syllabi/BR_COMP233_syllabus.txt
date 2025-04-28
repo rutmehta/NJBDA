@@ -1,0 +1,527 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP233
+
+
+
+
+
+COURSE NAME
+
+Object Oriented Programming Using C
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP126, COMP132
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course will introduce students to the concepts and techniques of object 
+oriented programming using the ANSI/ISO Standard C language.  Topics to be 
+studied include classes and objects as encapsulation tools, design features 
+for objects, operator overloading, the use of dynamic memory, inheritance 
+and hierarchies among classes, virtual functions supporting polymorphism, 
+and the standard template library. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I. Object Oriented Concepts, Functions, and the STL 
+
+II. Pointers and References 
+
+III. Classes and Data Abstraction 
+
+IV. Advanced Classes and Dynamic Memory 
+
+V. Inheritance and Polymorphism 
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Beginning C Game Programming, Michael Dawson, 
+
+Thompson Course Technology, 2004, ISBN: 1-59200-205-6
+
+C Programming, Problem Analysis to Program Design 3rd edition, DS Malik 
+Thompson Course Technology, 2007, ISBN: 1-4188-3639-7 
+
+
+
+Software: Microsoft Visual C .NET or equivalent ANSI/ISO C compiler
+
+Storage: A portable secondary storage media (i.e., memory stick, zip disk)
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a project must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Projects must also meet documentation and style requirements as 
+outlined by the instructor. See Project Summary Page at end of syllabus for 
+more information. 
+
+The final grade requirements for the course will be:
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 90 thru 100 on the 
+
+Course work
+
+
+
+BComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 85 thru 89 on the
+
+Course work
+
+
+
+BComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 80 thru 84 on the 
+
+Course work
+
+
+
+CComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 75 thru 79 on the 
+
+Course work
+
+
+
+CComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 70 thru 74 on the 
+
+Course work
+
+
+
+DComplete Programming Projects 1-8 and Tests 1-2
+
+Earn an average grade of 60 thru 69 on the 
+
+Course work
+
+
+
+A C grade is required to successfully complete a Computer Science degree.
+
+
+
+FFail to successfully complete Projects 1-8 and Tests 1-2 or earn an average 
+grade below 60 on the course work 
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+There will be two tests given during the semester.  Successful completion of 
+these tests is mandatory.  The minimum passing grade on a test is 70, C. 
+
+
+
+PROGRAMMING PROJECTS:There will be eight programming projects to complete 
+during the semester.  The completion of all eight projects is mandatory.  
+The projects will be graded on a basis of 0-100 points.  The projects will 
+also have due dates, and grade points will be deducted from the project 
+grade for failure to submit projects by the specified deadline. 
+
+
+
+All submitted programming projects will include the following:
+
+
+
+1.)  Overall description of the program in textual form to include a general 
+statement of the problem, a discussion of the classes and objects used to 
+solve the problem, and other features pertaining to the problem as a whole.  
+This description must be word-processed handwriting is not acceptable. 
+
+
+
+2.)  Listings of all program code including any programmer defined libraries 
+and header files.  Program is to be successfully compiled. 
+
+
+
+3.)  Listings of input data and output data demonstrating the successful 
+execution of the program on a wide range of test data. 
+
+
+
+Programming Projects will be graded on the following criteria:
+
+
+
+Adherence to description of problem
+
+Correctness of output results
+
+Efficiency of solution to problem
+
+Thoroughness of test plan data
+
+Accuracy and completeness of documentation
+
+Well structured, understandable object oriented code
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+UNIT :1
+
+UNIT NAME:Object Oriented Concepts, Functions, and the STL
+
+UNIT OBJECTIVE:To review the processes of functions and arrays, and be 
+introduced to objects and their use in the Standard Template Library 
+
+
+
+
+
+METHOD OF EVALUATION:
+
+Completion of Programming Project 1
+
+Completion of Programming Project 2
+
+
+
+ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+
+
+LEARNING OBJECTIVES: The student will:
+
+
+
+1.   Reinforce the C programming concept of modular functions and review 
+void functions, value-returning functions, and pass by value. 
+
+
+
+2.   Be able to use the containers string and array to store and manipulate 
+elements. 
+
+
+
+3.   Study the use of standard C libraries in order to access and manipulate 
+frequently-used objects in programs. 
+
+
+
+4.   Incorporate vector containers and related algorithms into program 
+design by understanding how to use object members. 
+
+
+
+
+
+
+
+UNIT :2
+
+UNIT NAME: Pointers and References
+
+
+
+UNIT OBJECTIVE: To study and understand a powerful concept in the C 
+language, programming and manipulation of memory addresses 
+
+
+
+METHOD OF EVALUATION:
+
+Completion of Programming Project 3
+
+
+
+ESTIMATED TIME TO ACHIEVE: 2 weeks
+
+
+
+
+
+LEARNING OBJECTIVES: The student will:
+
+
+
+1.   Be able to understand memory addressing and how references provide for 
+efficiency in this. 
+
+
+
+2.   Learn how to specify functions that use reference parameters and how 
+reference parameters are affected. 
+
+
+
+3.   Understand the concept of pointers as a low level programming feature 
+allowing for access to bytes in memory. 
+
+
+
+4.   Study additional pointer and reference associations, functions, and the 
+relationship between pointers and arrays. 
+
+
+
+
+
+
+
+
+
+
+
+UNIT :3
+
+UNIT NAME: Classes and Data Abstraction
+
+
+
+UNIT OBJECTIVE:  To study the design and implementation of classes and 
+objects as the foundation of object oriented software systems 
+
+
+
+METHOD OF EVALUATION:
+
+Completion of Programming Project 4
+
+Completion of Programming Project 5
+
+Completion of Test 1 Midterm (Chapters 1-8)
+
+
+
+ESTIMATED TIME TO ACHIEVE: 2 weeks
+
+
+
+
+
+LEARNING OBJECTIVES: The student will:
+
+
+
+1.   Understand object oriented concepts, terminology, and the object 
+oriented approach to program development. 
+
+
+
+2.   Learn how to specify classes, members, and objects in C.
+
+
+
+3.   Understand the concept of constructor methods and how to implement them 
+using function techniques. 
+
+
+
+4.   Study additional object oriented topics such as composition, static 
+members, arrays of objects, and separating interface from implementation. 
+
+
+
+5.   Completion of Programming Project 5:
+
+
+
+
+
+
+
+UNIT :4
+
+UNIT NAME:Advanced Classes and Dynamic Memory
+
+
+
+UNIT OBJECTIVE:To study several advanced programming concepts and to 
+introduce the use of dynamic memory in classes and objects 
+
+
+
+METHOD OF EVALUATION:
+
+Completion of Programming Project 6
+
+
+
+ESTIMATED TIME TO ACHIEVE: 3 weeks
+
+
+
+
+
+LEARNING OBJECTIVES: The student will:
+
+
+
+1.   Understand the concept of dynamic memory allocation and the use of the 
+new and delete operators. 
+
+
+
+2.   Learn how to incorporate pointers and dynamic memory features in 
+constructors and destructors. 
+
+
+
+3.   Study classes that implement arrays, lists, and other container 
+structures based on dynamic memory allocation. 
+
+
+
+4.   Understand how dynamic memory allocation affects and enhances the 
+process of overloading operators. 
+
+
+
+
+
+
+
+UNIT :5
+
+UNIT NAME: Inheritance and Polymorphism
+
+
+
+UNIT OBJECTIVE:To study inheritance issues, use virtual functions to achieve 
+dynamic binding, and incorporate these object features into programming 
+systems 
+
+
+
+METHOD OF EVALUATION:
+
+Completion of Programming Project 7
+
+Completion of Programming Project 8
+
+Completion of Test 2 Final  (Chapters 8-10)
+
+
+
+ESTIMATED TIME TO ACHIEVE: 4 weeks
+
+
+
+LEARNING OBJECTIVES: The student will:
+
+
+
+1.   Understand the concept of inheritance for extending classes and 
+designing class hierarchies. 
+
+
+
+2.   Study constructor and destructor issues for base classes and derived 
+classes, study member access in an inherited hierarchy. 
+
+
+
+3.   Understand the concepts and terminology of polymorphism and dynamic 
+binding applied to classes and objects. 
+
+
+
+4.   Study virtual functions, abstract classes, and the use of pointers to 
+implement pure polymorphism in object oriented programming. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

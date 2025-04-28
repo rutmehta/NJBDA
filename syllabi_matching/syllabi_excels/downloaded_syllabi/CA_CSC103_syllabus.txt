@@ -1,0 +1,384 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                            COURSE SYLLABUS
+
+                         Camden County College
+
+                          Blackwood, NJ 08012
+
+
+
+Course ID:     Computer Science - CSC-103
+
+
+
+Course Name:   Elements of Computer Science
+
+
+
+Credits:       3
+
+
+
+Prerequisites:      None
+
+
+
+Co-requisites:      None
+
+
+
+New or Modified:    NEW
+
+(List old course ID, if modified)
+
+
+
+Semester  Year Course will First Be Offered or, if modified, semester
+
+ year when revised course will first be offered:  Fall 2005
+
+
+
+Contact Person:     Rosemary Boiano
+
+
+
+Email Address:      rboianocamdencc.edu
+
+
+
+Course Description:
+
+This course is designed as a survey of introductory topics in computer
+
+science.  These topics include operating systems, Windows XP and file
+
+management, hardware devices, number systems and internal
+
+representation of data, careers in the computer field and examples of
+
+educational programs designed for preparation for these careers, job
+
+searches, and an introduction to computer programming languages using
+
+hands-on experiences with an object oriented programming language.
+
+
+
+Outline of Course Objectives:
+
+Upon completion of this course, the student will be able to:
+
+1. Name three operating systems and some of their characteristics and
+
+functionality.
+
+2. Start Windows, run programs and access the help feature.
+
+3. Manage files and folders in Windows XP.
+
+4. Customize the taskbar and desktop and create shortcuts in Windows
+
+XP.
+
+5. Manage printers in Windows XP.
+
+6. List and compare eight input devices.
+
+7. Define and describe four types of pointing devices including
+
+wireless and optical technology.
+
+8. Compare and contrast inkjet and laser printers.
+
+9. Describe three classes of CDs and three classes of DVDs and 3 types
+
+of disk storage media.
+
+10. List and describe five types of flash memory cards.
+
+11. Name and describe four types of monitors.
+
+12. Perform mathematical conversions between binary, decimal and
+
+hexadecimal number systems.
+
+13. Perform mathematical operations in binary.
+
+14. Show the storage representation of numbers stored in twos
+
+complement.
+
+15. Show the storage representation of integers, long integers, single
+
+precision real numbers, double precision real numbers, and character
+
+(string) representation in ANSI or ASCII code.
+
+16. Name ten careers in the computer field.
+
+17. Write a job description for at least one career in the computer
+
+field.
+
+18. Use a computer to perform a job search for at least one career in
+
+the computer field.
+
+19. Use a computer to locate and print US Department of Labor and NJ
+
+Department of Labor statistics on job opportunities on at least one
+
+career in the computer field.
+
+20. Use a computer to locate and print selected academic programs,
+
+certificates and course descriptions on the Camden County College
+
+website.
+
+21. Compare and contrast computer training in Camden County Colleges
+
+Continuing Education with credit bearing associate degrees and
+
+certificates.  Note: costs, time commitment, outcomes, long term
+
+effects, etc.
+
+22. Name five Microsoft Certifications and explain their significance.
+
+Note: This is found on the Microsoft Website.
+
+23. Compare and contrast requirements for certificates and associate
+
+degrees as well as the difference between AA, AS, and AAS degrees.
+
+24. Use a computer to locate and print out the requirements for a
+
+bachelors degree in a computer field at Rowan U., Rutgers U. -
+
+Camden, Thomas Edison State College, or any college or university of
+
+choice.
+
+25. Write the steps in program development and explain their meaning.
+
+26. State the difference between compilers and interpreters.
+
+27. Complete a programming project in Visual BASIC. Net and one in
+
+Alice.
+
+28. Write definitions for the terms object oriented programming,
+
+objects, methods,  properties, classes and inheritance.
+
+
+
+Course Materials:
+
+     Textbook(s):
+
+     Computing Concepts, 2nd edition, by Stephen Haag, Maeve Cummings,
+
+     and Alan Rea, Jr.  McGraw-Hill    (2004).
+
+     Microsoft Windows XP,  by Stephen Haag and James Perry McGraw-
+
+Hill (2004).
+
+
+
+     Supplemental Materials:
+
+     Floppy disk(s) or zip disk
+
+
+
+Grade Determinants:
+
+     A - 90 to 100       B - 80 to 89
+
+     C - 70 to 79        D - 60 to 69
+
+     F - Below 60
+
+     I - Incomplete (Only under emergencies) Must be completed within
+
+one semester
+
+     NA - Not Attending
+
+     XA- Never Attended
+
+     W - Withdraw (Be sure to go to the registrars office. This is an
+
+     administrative grade and cannot be assigned by a faculty member.)
+
+
+
+Number of Papers  Examinations:
+
+The student will be evaluated on the degree to which student learning
+
+outcomes are achieved.  A variety of methods may be used such as
+
+tests, class participation, projects, homework assignments, etc.  For
+
+this course there will be three or four in-class tests and three or
+
+four major projects (programs) that will be collected and graded.
+
+Schedule of Topics to be covered:
+
+  I. Operating Systems
+
+        A. Operating Systems: Characteristics and Functionality
+
+        B. Windows XP
+
+        C. File Management in Windows XP
+
+
+
+    II.  Hardware
+
+        A. Input Devices
+
+        B. Output Devices
+
+        C. Storage Devices
+
+        D. Computer Architecture
+
+          1. CPU and RAM
+
+          2. Connectives and Ports
+
+          3. Expansion Cards
+
+          4. Buses
+
+
+
+    III. Internal Representation
+
+        A. Number Systems
+
+          1. Binary
+
+          2. Hexadecimal
+
+        B. Conversions between Number Systems
+
+          1. Binary and decimal
+
+          2. Binary and Hexadecimal
+
+        C. Mathematical Operations in Binary
+
+        D. Twos Complement
+
+        E. Data Types and Internal Representation
+
+          1. Variables
+
+          2. Integers
+
+          3. Long Integers
+
+          4. Single Precision Real Numbers
+
+          5. Double Precision Real Numbers
+
+          6. Character Representation in ANSI Code  (ASCII Code)
+
+        F. Logical Operations with And, Or and Not (Truth Tables)
+
+
+
+    IV. Careers in the Computer Field
+
+        A. Job Titles and Job Descriptions
+
+        B. Educational Programs and Requirements
+
+          1. Introduction to the Camden County College Web Site
+
+          2. Searching the CCC Web Site
+
+          3. Certificates and Degrees at Camden County College
+
+(computers)
+
+          4. Degrees in the computing field at four-year colleges and
+
+universities.
+
+          5. Continuing Education at Camden County College
+
+          6. Microsoft Certificates
+
+     C. Job Searches Using Popular Web Sites
+
+
+
+     V. Computer Programming Languages
+
+        A. The Meaning of Problem Solving
+
+        A. Program Development and Logic
+
+          1. Investigation, Analysis, Design
+
+          2. Pseudocode, Algorithms, Flowcharts, Story Boards,
+
+Hierarchy Charts
+
+        B. Syntax and Language Environments
+
+          1. Coding
+
+          2. Control Structures
+
+          3. Typing
+
+        C. Testing, Implementing and Maintaining Software
+
+          1. Debugging
+
+          2. Tracing
+
+        D. Compilers and Interpreters
+
+        E. Events
+
+          Hands-On With Visual BASIC. Net
+
+        F. Object-Oriented Programming
+
+          Hands-On with Alice  (or Java or C)
+
+
+
+Course Activities:
+
+Class presentations may include formal and informal lectures, videos,
+
+demonstrations,
+
+and hands-on work on the computer, which will enhance an
+
+understanding of the topic
+
+being studied.   Students will have the opportunity to contribute to
+
+the discussion and
+
+to ask questions about the material.
+
+
+
+     

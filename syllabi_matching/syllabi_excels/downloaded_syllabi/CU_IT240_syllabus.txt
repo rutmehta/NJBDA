@@ -1,0 +1,72 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	IT 240 Pneumatics and Hydraulic Automation
+
+Credits:	4 (4:3:2)
+
+Prerequisites:	IT 218 Programmable Logic Controllers
+
+Description: Hydraulic principles, types of hydraulic fluids and their characteristics are covered. Describes components of the hydraulic system and their functions, including filters and strainers, reservoirs and accumulators, pumps, piping, tubing and hoses, control valves, and actuating devices. Covers a variety of operating principles of reciprocating, positive displacement, rotary and dynamic air compressors. Covers primary and secondary air treatment. Includes valves, logic devices, cylinders, and air motors. This course will be completed in a lab setting and is based on lecture and lab.
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+* Solve problems for flow and pressure, relating to hydraulic and pneumatic systems
+* Simulate hydraulic and pneumatic circuits using automation studio. 
+* Design simple fluid power system using industry standard symbols for manual (discrete /variable) controls
+* Analyze practical hydraulic systems involved in the implementation of process control systems
+* Identify and draw graphic symbols of various components of a hydraulic system
+* Explain the functions of fluid power systems in industrial applications
+
+
+Topical Outline:
+
+* Introduction to Fluid Power
+* Basic Hydraulic Concepts
+* Hydraulic Pumps
+* Hydraulic Motors
+* Hydraulic Cylinders
+* Directional Control Valves
+* Pressure Relief Valves
+* Flow Control Valves
+* Electrohydraulics
+* Ancillary Devices
+
+
+
+
+Text:
+
+Fluid Power Technology, F. Don Norvelle, ISBN-13: 978-0-314-01218-0
+
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				30%
+      Assignments				10%
+      Lab Exercises				30%
+      Final Exam				30%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.

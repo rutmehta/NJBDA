@@ -1,0 +1,361 @@
+Mat 232
+
+CALCULUS II
+
+Credits: 4
+
+Prerequisite:  Mat 231 or instructors consent.
+
+Revised Syllabi Spring 2002
+
+
+
+Howard Valentine
+
+Department Chair, Mathematics
+
+valentinesalemcc.edu
+
+
+
+Course Description:      This course is designed for
+
+students who need additional calculus
+
+               for their major area of study or as
+
+               preparation for higher levels of mathematics.
+
+               Topics include applications of integration,
+
+               techniques of integration, indeterminate
+
+               forms, LHopitals Rule, improper integrals,
+
+               sequences, and series.
+
+
+
+
+
+Performance Objective 1:
+
+     The student will apply integration to application
+
+problems.
+
+
+
+Enabling Objectives:
+
+     1.   The student will use integration to find the area
+
+          bounded between two curves.
+
+2.   The student will use integration to find the volume of
+
+revolution using the Disc Method.
+
+3.   The student will use integration to find the volume of
+
+revolution using the Shell Method.
+
+4.   The student will use integration to find the length of
+
+a curve.
+
+5.   The student will use integration to find the surface
+
+area of a solid of revolution.
+
+6.   The student will use integration to solve an
+
+application involving work.
+
+7.   The student will use integration to find moments,
+
+centers of gravity, and centroids.
+
+8.   The student will use integration to solve an
+
+application involving fluid pressure and fluid force.
+
+
+
+Performance Objective 2:
+
+     The student will apply the techniques of integration.
+
+
+
+Enabling Objectives:
+
+     1.   The student will integrate by parts.
+
+2.   The student will evaluate a trigonometric integral.
+
+3.   The student will integrate using trigonometric
+
+substitution.
+
+4.   The student will integrate using partial fractions.
+
+5.   The student will use a  table of integrals.
+
+6.   The student will identify indeterminate forms and find
+
+a limit using LHopitals Rule.
+
+7.   The student will evaluate an improper integral.
+
+
+
+
+
+Performance Objective 3:
+
+     The student will analyze infinite series.
+
+
+
+Enabling Objectives:
+
+     1.   The student will understand the definition of a
+
+          sequence and be able to
+
+          find its limit.
+
+     2.   The student will understand the definition of an
+
+          infinite series and be able
+
+          to find the sum of a convergent geometric series
+
+     and a telescoping series.
+
+     3.   The student will be able to apply the Integral Test to
+
+          infinite series.
+
+4.   The student will be able to apply the Comparison Test
+
+and the Limit
+
+          Comparison Test to infinite series.
+
+     5.   The student will be able to apply the Alternating
+
+          Series Test to alternating
+
+          infinite series.
+
+     6.   The student will be able to apply the Ratio and the
+
+          Root Tests to infinite
+
+          series.
+
+     7.   The student will be able to find the Taylor Polynomial
+
+          of degree n for a
+
+          given function and use it for approximation of
+
+     that function.
+
+     8.   The student will be able to find the radius and
+
+          interval of convergence of a
+
+          power series.
+
+     9.   The student will be able to represent functions using
+
+          power series.
+
+10.  The student will be able to find a Taylor Series and a
+
+Maclaurin Series.
+
+
+
+Required Text: Larson, Hostetler, and Edwards, Calculus,
+
+               Early Transcendental Functions, 2nd ed.,
+
+               Houghton Mifflin Publishing.
+
+
+
+
+
+Course Requirements and Means of Evaluation:
+
+
+
+     Assignments:
+
+          Homework will be assigned at the end of each class
+
+     period, and questions
+
+          will be answered the following class.  Homework
+
+should be completed
+
+          neatly, showing all work.  These assignments
+
+     should be kept in some
+
+          organized manner for further reference.  A valid
+
+     attempt on every problem
+
+          assigned is expected, not a correct answer on
+
+     every problem assigned.
+
+          The quizzes and exams will follow the same pattern
+
+     as the homework.
+
+
+
+     Quizzes and Exams:
+
+          Quizzes (5 or more) 10 points each
+
+          Exams (3 or more) 100 points each
+
+          Final Exam (comprehensive) 200 points
+
+
+
+     Course Grade: (based on a percentage of total possible
+
+points)
+
+          A    93 - 100
+
+          A-   90 - 92
+
+          B   88 - 89
+
+          B    83 - 87
+
+          B-   80 - 82
+
+          C   78 - 79
+
+          C    73 - 77
+
+          C-   70 - 72
+
+          D   68 - 69
+
+          D    60 - 67
+
+          F     59
+
+
+
+Attendance:  Students are expected to attend all schedules
+
+classes.
+
+
+
+Academic Honesty Policy:
+
+     Students found to have committed an act of academic
+
+dishonesty may be subject
+
+     to failure in this course, academic probation, and/or
+
+suspension from the college.
+
+     See the Student Handbook for additional details.
+
+
+
+Course Activities:
+
+     Students will learn from lectures during which new
+
+material
+
+     will be delivered, small group discussions, individual
+
+explorations,
+
+     practice work, and discussion of assigned homework
+
+problems.  Students will
+
+     have the opportunity to investigate calculus using
+
+     Mathematica software.
+
+
+
+Course Content Outline:
+
+I.   Applications of Integration
+
+     A.   Area
+
+     B.   Volume using the Disc Method
+
+     C.   Volume using the Shell Method
+
+     D.   Arc Length
+
+     E.   Surface Area
+
+     F.   Work
+
+     G.   Moments, Centers of Mass, and Centroids
+
+     H.   Fluid Pressure and Fluid Force
+
+II.  Integration Techniques
+
+     A.   Parts
+
+     B.   Trigonometric Integrals
+
+     C.   Trigonometric Substitution
+
+     D.   Partial Fractions
+
+     E.   Integration Tables
+
+     F.   Indeterminate Forms and LHopitals Rule
+
+     G.   Improper Integrals
+
+
+
+III. Infinite Series
+
+     A.   Sequences
+
+     B.   Series and Convergence
+
+     C.   The Integral Test
+
+     D.   Comparison Tests
+
+     E.   Alternating Series
+
+     F.   Ratio and Root Tests
+
+     G.   Taylor Polynomials
+
+     H.   Power Series
+
+     I.   Representation of Functions by Power Series
+
+     J.   Taylor and Maclaurin Series

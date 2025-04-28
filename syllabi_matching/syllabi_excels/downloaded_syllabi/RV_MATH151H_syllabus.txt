@@ -1,0 +1,365 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ 
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+ 
+
+MATH 151 H CALCULUS I HONORS 
+
+ 
+
+I. Basic Course Information 
+
+ 
+
+A. Course Number and Title: Math 151H Calculus I Honors 
+
+ 
+
+B. New or Modified Course: New 
+
+ 
+
+C. Date of Proposal: Semester: Fall Year: 2010 
+
+ 
+
+D. Sponsoring Department: Mathematics Department 
+
+ 
+
+E. Semester Credit Hours: 4 
+
+ 
+
+F. Weekly Contact Hours: 5 Lecture: 3 
+
+ Laboratory: 2 
+
+
+G. Prerequisites: GPA of 3.5 or permission of the instructor. 
+Three-and-one-half years of college 
+preparatory mathematics including 
+Trigonometry and a satisfactory score on a 
+placement test, or MATH 113 Precalculus 
+II, or MATH 114H Precalculus Honors 
+
+ Corequisites: None 
+
+
+H. Laboratory Fees: None 
+
+ 
+
+I. Name and Telephone Number or E-Mail Address of Department Chair: 
+Patricia Hulsen (908) 526-1200 extension 8542 phulsen@raritanval.edu 
+
+ 
+
+II. Catalog Description 
+
+. 
+
+ Prerequisite: GPA of 3.5 or permission of the instructor. Three-and-one-half 
+years of college preparatory mathematics including Trigonometry and a 
+satisfactory score on a placement test, or MATH 113 Precalculus II, or MATH 
+114H Precalculus Honors. Introductory calculus with a technology-based 
+computer laboratory component. Topics include limits, differentiation, 
+applications of derivatives, integration, the Fundamental Theorem of Calculus, 
+and logarithmic, exponential, and other transcendental functions as well as the 
+Binomial Theorem and Mathematical Induction. Calculus application problems 
+from business, the natural sciences and mathematics 
+
+ 
+
+
+III. Statement of Course Need 
+
+ 
+
+This course is a prerequisite for MATH 152 Calculus II. This course also serves 
+as a math requirement for programs in Biology, Computer Science, Engineering 
+Science, General Science, Mathematics and the Honors College Program. 
+
+ 
+
+Honors courses in mathematics have been developed to provide mathematically 
+talented students the opportunity to obtain a level of rigor above the level 
+currently available in existing courses. 
+
+ 
+
+ 
+
+IV. Place of Course in College Curriculum 
+
+ 
+
+A. This course is a free elective. 
+B. This course serves as a General Education requirement in Mathematics. 
+C. This course meets a program requirement in Biology, Computer Science, 
+Engineering Science, General Science, Mathematics and in the Honors 
+College Program 
+D. This course transfers as a first semester honors calculus course. For Course 
+transferability; for New Jersey schools go to the NJ Transfer website, 
+www.njtransfer.org. For all other colleges and universities go to their 
+individual websites. 
+
+
+ 
+
+V. Outline of Course Content 
+
+ 
+
+ A. Limits and their properties 
+
+ 1. Preview 
+
+ 2. Finding limits graphically, numerically, and analytically 
+
+ 3. Continuity and one-sided limits 
+
+ 4. Infinite limits 
+
+ 
+
+ B. Differentiation 
+
+ 1. The derivative and the tangent line problem 
+
+ 2. Basic Differentiation rules and rates of change 
+
+ 3. Product rule, quotient rule, higher-order derivatives 
+
+ 4. Chain rule 
+
+ 5. Implicit differentiation 
+
+ 6. Related rates 
+
+ 
+
+ C. Applications of differentiation 
+
+ 1. Extrema 
+
+ 2. Rolle's Theorem, mean value theorem 
+
+ 3. Increasing and decreasing functions and the first derivative test 
+
+ 4. Concavity and the second derivative test 
+
+ 5. Limits at infinity 
+
+ 6. Summary of curve sketching 
+
+
+ 7. Optimization problems 
+
+ 8. Newton's method, differentials 
+
+
+ D. Integration 
+
+ 1. Antiderivatives and indefinite integration 
+
+ 2. Area, Riemann sums, and definite integrals 
+
+ 3. Fundamental theorem of calculus 
+
+ 4. Integration by substitution; numerical integration 
+
+ 
+
+
+ E. Logarithmic, exponential, and other transcendental functions 
+
+ 1. Natural logarithmic functions: differentiation, integration 
+
+ 2. Inverse functions 
+
+ 3. Exponential functions: differentiation, integration 
+
+ 4. Bases other than e and their applications 
+
+ 5. Differential equations: growth and decay, separation of variables 
+
+ 6. Inverse trigonometric functions: differentiation and integration 
+
+ 7. Hyperbolic functions 
+
+
+F. Enrichment and proofs 
+1. Selected proofs appropriate to the level of the course 
+2. Mathematical Induction 
+3. The Binomial Theorem 
+
+ 
+
+ G. Applications problems 
+1. Business applications, 
+
+ 2. Engineering applications 
+
+ 3. Natural science applications 
+H. Instruction in the computer algebra software designated for Calculus Labs 
+
+ 
+
+
+VI. Educational Goals and Learning Outcomes 
+
+ 
+
+A. Educational Goals 
+
+
+ 
+
+Learn and use the language, symbols, logical reasoning skills and analytic tools in 
+Mathematics to solve with appropriate use of technology, modeling problems about rates 
+of change and accumulated change and their applications in business, mathematics and 
+the natural sciences 
+
+ 
+
+ 
+Students will: 
+
+ 1. apply mathematical arguments to problems. (GE - NJ 2) 
+
+ 2. solve problems quantitatively and symbolically. (GE - NJ 2) 
+
+
+ 
+
+
+B. Learning Outcomes 
+
+ 
+
+ Students will be able to: 
+
+ 
+
+1. Utilize the concept of instantaneous rate of change or accumulated 
+change to solve application problems in business engineering or 
+the natural sciences 
+
+ 2. Differentiate polynomial, rational, exponential, logarithmic, 
+and trigonometric functions algebraically. 
+
+ 3. Demonstrate the relationship between the algebraic and geometric 
+properties of the derivative. 
+
+ 4. Use the concept of antiderivative to algebraically evaluate integrals 
+involving simple substitutions. 
+
+5. Demonstrate the relationship between differentiation and 
+integration using the Fundamental Theorem of Calculus. 
+
+ 6. Apply the derivative procedure to optimization problems. 
+
+ 7. Prove selected theorems appropriate to the level of the course. 
+
+ 8. Demonstrate proficiency in the computer algebra software 
+designated for calculus labs. 
+
+ 
+
+VII. Modes of Teaching and Learning 
+
+ 
+
+A. lecture 
+B. labs with technology component 
+C. projects 
+D. homework 
+E. small groups 
+F. quizzes 
+G. tests 
+H. Cumulative Final Exam 
+
+
+ 
+
+ 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+ 
+
+A. tests 
+B. final examination 
+C. projects 
+D. laboratory reports 
+E. quizzes 
+
+
+ 
+
+IX. Grade Determinants 
+
+ 
+
+A. tests 
+
+B. labs 
+
+C. quizzes 
+
+D. projects 
+
+
+E. cumulative final examination 
+
+F. individual teacher determinant 
+
+ 
+
+ 
+
+ 
+
+X. Texts and Materials 
+
+ 
+
+The following text and materials are required for the course: 
+
+A. Suggested Textbook: Single Variable Calculus, Early Transcendentals, 
+latest ed., by James Stewart, Thomson, Brooks/Cole. 
+Graphing calculator may be required. TI-84 is recommended. 
+
+
+ 
+
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+ 
+
+ 
+
+XI. Resources 
+
+ 
+
+This course is held in a computer lab for two hours a week. The computers need 
+to be installed with the math software currently licensed to the math department. 
+Contact the math department to determine which software to install. 
+
+ 
+
+ 
+
+ 
+
+

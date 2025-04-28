@@ -1,0 +1,304 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+UNION COUNTY COLLEGE
+
+COURSE SYLLABUS
+
+
+
+COURSE NUMBER  NAME:CSC 100  Computer Programming Fundamentals
+
+
+
+LECTURE/LAB HOURS2 Lecture Hours/2 Laboratory Hours
+
+
+
+CREDITS3
+
+
+
+PREREQUISITES:ENG 088, MAT 022
+
+
+
+COURSE DESCRIPTION:
+
+This course introduces students to file management and developing computer 
+programs. The basic concepts of creating programs in a logical and 
+object-oriented fashion are discussed. Students learn to design, create, 
+debug and test programs. The major emphasis is the development of problem 
+solving skills that are needed in any programming environment. 2 lecture and 
+2 laboratory hours per week 
+
+
+
+COURSE OBJECTIVES/OUTCOMES:
+
+
+
+By the end of this course, the student will be able to:
+
+
+
+ Introduce students to the basic components of a computer system, 
+particularly how the hardware devices correspond to the data processing 
+cycle. 
+
+ Understand the basics of how the computer executes instructions in the CPU.
+
+ Understand how data is organized with files.
+
+ Use of file management to create, edit, delete and backup files.
+
+ Apply the concepts of program development
+
+ Understand the importance of design.
+
+ Use Windows type applications.
+
+ Know the basics of Object-Oriented design.
+
+ Know the basics of Window objects, properties, methods and events.
+
+ Understand the relationship of objects in classes.
+
+ Understand the fundamentals of creating algorithms.
+
+ Use basic operations  assignments, decisions and loop.
+
+ Discuss locating and effectively using information to solve issues or 
+problems. 
+
+
+
+STUDENT RESOURCES:
+
+
+
+Herbert, Charles W. An Introduction to Programming Using Alice. Course 
+Technology, 2006 
+
+ISBN 978-1-4188-3625-2
+
+Anderson, Ferro, Hilton.Connecting with Computer Science.Course Tech., 2005. 
+
+   ISBN 0-61-21290-X
+
+   Storage Media: flash drive, CDRW, etc
+
+
+
+COURSE REQUIREMENTS:
+
+
+
+To enforce course objectives, all students in this course will be expected 
+to complete homework assignments, complete programming projects, and 
+successfully complete examinations. 
+
+An essential element of this course includes information literacy. 
+Information Literacy is the evaluation and assessment of integrated 
+information. An understanding of its ramifications and implications through 
+the critical use of information literacy will be discussed. Students will be 
+able to locate, discern, and effectively use information to solve issues 
+and/or problems. 
+
+
+
+EVALUATION METHODS:
+
+Tests40
+
+Project/Paper10
+
+Programming assignments40
+
+Final exam10
+
+Grading:
+
+A90 or above
+C70-76
+B87-89
+D67-69
+B80-86
+D60-66
+C77-79
+Fbelow 60
+
+
+NOTE:
+
+The instructor reserves the right to modify the course requirements, 
+assignments, grading procedures and other related policies as circumstances 
+may dictate. 
+
+
+
+STUDENTS WITH PHYSICAL LEARNING DISABILITIES
+
+
+
+Any student with special needs that will affect performance in this class 
+should feel free to make an appointment to talk with the instructor during 
+office hours (or by appointment) or contact the disabilities counselor in 
+the Counseling office on the Cranford Campus. 
+
+
+
+
+
+CLASS SCHEDULE:
+
+
+
+Week
+Topic
+Assignments/Readings/Activities
+1
+Introduction, course syllabus, books, storage media
+Read and complete Chapter 1 1
+2
+Alice, Chapter 1
+
+CS, Chapter 1
+Read and complete Alice 
+
+Read and complete CS
+3
+Alice, Chapter 2
+
+CS, Chapter 2
+Read and complete Alice
+
+Read and complete CS
+4
+Alice, Chapter 3
+Test  CS Chapters 1-2
+
+Lab assignments
+5
+CS, Chapter 4 (Number Systems)
+Number system assignments
+6
+CS, Chapter 3
+Test  Number Systems
+
+Read chapter
+7
+Alice, Chapter 4
+
+CS, Chapter 5
+Read chapters
+
+Lab assignments
+8
+Alice, Chapter 5
+
+CS, Chapter 11 (Programming)
+Read chapters
+
+Lab assignments
+9
+Alice, Chapter 6
+Read chapter
+
+Lab assignments
+10
+Alice, Chapter 7
+Read chapter
+
+Lab assignments
+11
+Alice, Chapter 8
+
+File Structures
+Read chapter
+
+Lab assignments
+12
+Databases
+Read chapter
+
+Lab assignments
+13
+Test 4:  Tutorials 8, 9, and 10
+Test -- Alice
+14
+Projects and Papers
+Demonstrations of projects
+15
+
+Final Examination
+
+
+
+
+SUGGESTED TEACHING METHODOLOGIES:
+
+a. Lecture, group discussion, presentations, multimedia/technology, 
+projects, experiments, demonstrations, etc. 
+
+b. Indication of the percentages or emphasis given to teaching methodologies 
+used will assist faculty members in course preparation and implementation. 
+
+      
+
+
+
+
+
+CORRELATION OF PROGRAM OUTCOMES, STUDENT OUTCOMES, AND ASSESSMENT
+
+      
+
+      
+
+Program Outcomes
+Student Learning Outcomes
+Assessment of Outcomes
+The capability to design well-defined, logical programs
+Introduce students to the basic components of a computer system, 
+particularly how the hardware devices correspond to the data processing 
+cycle. 
+
+Understand the basics of how the computer executes instructions in the CPU.
+
+Understand how data is organized with files.
+
+Use of file management to create, edit, delete and backup files.
+
+Apply the concepts of program development
+
+Understand the importance of design.
+
+Use Windows type applications.
+
+Know the basics of Object-Oriented design.
+
+Know the basics of Window objects, properties, methods and events.
+
+Understand the relationship of objects in classes.
+
+Understand the fundamentals of creating algorithms.
+
+Use basic operations  assignments, decisions and loop.
+
+Discuss locating and effectively using information to solve issues or 
+problems 
+Written: Exams, research paper, assignments.
+
+Verbal: Class discussion and responses, group discussion and responses.
+.
+
+      
+
+      
+
+      
+
+
+
+CSC10012006

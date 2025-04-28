@@ -1,0 +1,235 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+                         CAMDEN COUNTY COLLEGE
+
+                         Blackwood, New Jersey
+
+                            Course Syllabus
+
+
+
+
+
+Course ID:          Computer Studies/Computer Science
+
+Course Name:   Fundamentals of Programming - CSC 100
+
+Credits:       4
+
+Prerequisites:      None
+
+Co-requisites:      None
+
+Course:        New
+
+Offered:       Fall 2003
+
+Contact Person:     William Taylor
+
+Email address: wtaylorcamdencc.edu
+
+
+
+Course Description/Goals:
+
+This is an introductory Computer Science course in which students will
+
+learn the fundamentals of object-oriented programming in a 3-
+
+dimensional, interactive, animation environment.  Students will create
+
+animation projects using a special software package for creating
+
+animation in small virtual worlds using 3-dimensional models.
+
+Students will obtain a strong core of fundamental programming concepts
+
+and problem solving techniques, providing a basis for further study in
+
+a variety of computer related fields.
+
+
+
+Course Objectives/Student Learning Outcomes:
+
+Upon completion of this course, the student will be able to:
+
+     1.   Create objects and place them in the context of a virtual world.
+
+2.   Define classes.
+
+3.   Explain object properties.
+
+4.   Explain object behaviors.
+
+5.   Describe relationships between objects.
+
+6.   Perform decision-making using if.
+
+7.   Perform statements repetitively.
+
+8.   Define methods.
+
+9.   Explore the fundamental stages of software development.
+
+10.  Explain the flow of control through a program.
+
+11.  Perform mathematical operations.
+
+12.  Implement nested control structures.
+
+13.  Pass parameters to methods.
+
+14.  Define and use arrays for basic data organization.
+
+15.  Explain the life cycle of a software system.
+
+16.  Contrast linear and iterative development approaches.
+
+17.  Explore the goals and techniques of testing.
+
+18.  Explain the underlying concepts of recursion.
+
+19.  Examine recursive methods.
+
+20.  Demonstrate the use of recursion to solve problems.
+
+21.  Explain basic sorting technique.
+
+22.  Create simulations.
+
+23.  Create and describe composite objects.
+
+  
+
+
+
+
+
+Course Materials:
+
+     Textbook(s):   To be determined
+
+     Supplemental Materials:
+
+
+
+Student Evaluation:
+
+The student will be evaluated on the degree to which student learning
+
+outcomes are achieved.  A variety of methods may be used such as
+
+tests, class participation, projects, homework assignments, etc.
+
+
+
+Course Outline:
+
+Getting Started
+
+       o    Why Alice
+
+o    An Alice World (Demo)
+
+o    Using The Alice Interface
+
+o    How To Run An Alice World
+
+o    How To Create An Initial Scene
+
+o    How To Write  Test A Script
+
+o    Types of Animations
+
+                DoInOrder vs. DoTogether
+
+    Movie vs. Interactive
+
+  1.   Classes and Objects in a Virtual World
+
+       o    Object Properties
+
+o    Object Parts
+
+o    Object Actions
+
+o    Motion -- Object Motion
+
+o    A Comparison of Motion: Mouse vs. Methods
+
+  2.   Animations
+
+       o    Scenarios, Tasks, and Problem Solving Concepts
+
+o    Responses
+
+o    Details of Syntax
+
+o    Errors, Errors, Errors, Errors
+
+  3.   Powerful motion techniques
+
+       o    Decision: If Statements
+
+o    Repetitions: Loops
+
+o    Functions
+
+  4.   Recursion
+
+       o    Location Coordinates
+
+o    Random Number Generation
+
+o    Recursive Function Call
+
+  5.   Composite Objects Revisited
+
+
+
+
+
+
+
+  6.   Putting it all together
+
+       o    A List of Objects
+
+o    Sorting Objects (by color, height, )
+
+o    Simulations
+
+                Maze
+
+    Puzzle Pieces
+
+    Towers of Hanoi
+
+  7.   Project
+
+       o    Commercial
+
+o    Game
+
+
+
+Course Activities:
+
+The classroom activities will include formal and informal lectures
+
+where new material and assigned problems will be explained.  Students
+
+will have the opportunity to contribute to the discussion and to ask
+
+questions about the material.  Hands-on computer activities will take
+
+place to reinforce concepts presented during the lecture.  Projects
+
+are assigned to be completed inside and outside of the regularly
+
+scheduled class time.

@@ -1,0 +1,938 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+
+
+Salem Community College Course Syllabus
+
+
+
+Information Technology 108
+
+Copper Cabling Systems
+
+Credits:  4.0  Lecture 2 / Laboratory 4
+
+Pre-Requisites:  Completion of EN 98, EN 99, and MA 93, if
+
+required.
+
+Co-Requisite:  MAT 136, if required
+
+New Course:  Fall 2003
+
+
+
+Donna Dobie
+
+Department Co-Chair
+
+Business, Computer  Technical Studies
+
+dobiesalemcc.edu
+
+
+
+
+
+Course Description: This course will introduce students to the
+
+properties and theories of copper cabling systems in todays
+
+communications devices. They will learn proper handling and
+
+installation techniques for copper cabling. This course will
+
+provide the theory and background needed to thoroughly understand
+
+and implement copper cabling systems.
+
+This course reinforces the theory with practical hands-on
+
+exercises.
+
+
+
+Place in College Curriculum:  spring or fall semester in the
+
+first year of the Telecommunications Cabling Technician
+
+Certification and fall semester in the first year of
+
+Communications Technology AAS degree.
+
+
+
+Course Content Outline:
+
+  I.    History of Telecommunications
+
+       A.    Telegraphy
+
+B.    Telephony
+
+C.    Wireless
+
+D.    Computer network
+
+  II.   Technology of Communications
+
+       A.    Telephone
+
+B.    Video Transmission
+
+C.    CATV Networks
+
+  III.  Wire Installations
+
+       A.    Cable
+
+B.    Equipment
+
+C.    Safety
+
+D.    Installation Management
+
+  IV.   Structured Cabling
+
+       A.    Standards
+
+B.    EIA/TIA 568
+
+C.    Fiber Optics
+
+  V.    Telephone Wiring
+
+       A.    Residential
+
+B.    Commercial
+
+C.    Code Requirements
+
+D.    Circuit Protection
+
+E.    Conductors
+
+F.    Components
+
+G.    Second Line
+
+H.    Plan the Installation
+
+I.    Separation and Physical Protection
+
+J.    Safety
+
+K.    Installation Steps
+
+L.    Testing
+
+M.    Install Checklists
+
+  VI.   Video Systems
+
+       A.    Cabling
+
+B.    Installation
+
+C.    Termination
+
+D.    Code Requirements
+
+  VII.  Network Cabling
+
+       A.    Requirements
+
+B.    Types
+
+C.    Wireless
+
+D.    Infrared
+
+E.    Power Line Carrier Networks
+
+F.    NEC Code Typical Installs
+
+G.    Cable Pulling
+
+H.    Closets and Equipment Rooms
+
+  VIII.      Testing Voice, Data, and Video Installs
+
+       A.    Coax Cable Testing
+
+B.    UTP Testing
+
+C.    Wire Mapping
+
+D.    Impedance, Resistance, and Return Loss
+
+E.    Cable Length
+
+F.    NEXT
+
+G.    ACR
+
+H.    Propagation Delay and Skew
+
+I.    Cable Plant Certification Standards
+
+J.    Attenuation
+
+  IX.   Wiring Termination Practices
+
+       A.    Coax
+
+B.    Cat 3 and 5
+
+C.    Connection Block
+
+D.    Mating Cable
+
+
+
+Course Performance and Enabling Objectives
+
+
+
+Enabling Objectives for all Sections: Students will understand
+
+and be able to adhere to the safety procedures specified in every
+
+lab. Students will search for products and company information
+
+via the web as needed in the lab assignments. They will find URLs
+
+needed for any given application/specification. They will use
+
+search strings in the product knowledge base to configure and
+
+troubleshoot products (software and hardware), and use listserv
+
+groups to enhance their knowledge of any given subject. They will
+
+be able to locate patches for products, download, and apply the
+
+patches. Students will use on-line and paper manuals to set up
+
+and use products. Students will also search the web via browsers
+
+to locate URLs that provide additional information about products
+
+and specifications. Students, reinforcing and complementing all
+
+assignments inside and outside the classroom, will regularly seek
+
+out the information on the web. (IL)
+
+
+
+I History of Telecommunications
+
+     
+
+     Performance Objectives:
+
+     1.    Detail the history of telecommunications.
+
+     
+
+     Enabling Objectives:
+
+     1.    Recite and list the major historic events of telegraphy
+
+2.    Recite and list the major historic events for Telephony
+
+3.    Recite and list the major historic events of Wireless Radio
+
+and Television
+
+4.    List the capabilities of UHF and VHF
+
+5.    List the historic events of CATV
+
+6.    Recite and list the major historic events of computer
+
+networks.
+
+7.    Define WWW, LAN.
+
+
+
+II. Technology of Communications
+
+      
+
+      Performance Objectives:
+
+      1.    Describe how communications systems work and how they use
+
+        cabling to communicate.
+
+2.    List the terminology used to describe communications
+
+systems.
+
+3.    Describe the installation processes, cabling, and equipment
+
+that make up a communications systems.
+
+      
+
+      Enabling Objectives:
+
+      1.    Describe how telephone communications work.
+
+2.    Describe how CATV cabling systems work.
+
+3.    Describe how computer network cabling systems work.
+
+4.    List the terminology specific to each type of
+
+communications systems (telephone, CATV, computer networks).
+
+5.    Define the types of cabling systems used in telephone,
+
+CATV, and computer networks.
+
+6.    Describe the installations processes unique to each type of
+
+installation
+
+7.    Identify the types of cabling and equipment in a
+
+communications system.
+
+       
+
+III. Wire Installations
+
+   
+
+     Performance Objectives:
+
+     1.    Describe the common telecom equipment and installations of
+
+       today.
+
+   
+
+     Enabling Objectives
+
+     1.    Distinguish between standards and codes.
+
+2.    Define how standards complement safety.
+
+3.    List the general safety standards
+
+4.    List the common types of telecom equipment
+
+5.    List the seven components of a computer network install.
+
+6.    Define the safety procedures for each type of installation.
+
+7.    Demonstrate safety technical in the lab.
+
+
+
+IV.  Structured Cabling
+
+     
+
+     Performance Objectives:
+
+     1.    Describe the standard architectures and components used for
+
+       cabling installations.
+
+
+
+     Enabling Objectives:
+
+     1.    Define the EIA/TIA 568 standard
+
+2.    List the specifications for EIA/TIA 568
+
+3.    List all the EIA/TIA and TSB standards relating to cabling
+
+networks.
+
+4.    List the distance requirements fore568 cabling.
+
+5.    List the category designations for UTP.
+
+6.    List the layout (pin-out) for UTP cable pairs for 10Base-T,
+
+Token Ring, FDDI, ATM, 100Base and Gigabit Ethernet
+
+7.    Demonstrate the proper technique for making UTP cabling for
+
+100Base-T
+
+8.    Identify RJ-45 connector types
+
+9.    Demonstrate the proper technique for installing connectors
+
+on cabling.
+
+10.   List the two ways to terminate cables (plugs and
+
+punchdowns)
+
+11.   List the types of punchdowns.
+
+12.   Demonstrate the correct procedures for installing
+
+terminations at punchdown blocks.
+
+13.   Identify 568A, 568B, and USOC wiring schematics.
+
+14.   Describe the function of a patch panel.
+
+15.   List the various options in wiring UTP.
+
+16.   Demonstrate the various options by creating the UTP wiring
+
+17.   List the three backbone cables.
+
+18.   Define a home run cabling system.
+
+19.   Define the purpose of the voluntary interoperability
+
+standards.
+
+20.   Define the legal basis of NEC
+
+       
+
+V.   Telephone Wiring
+
+   
+
+     Performance Objectives:
+
+     1.    Detail the installation, code, and testing of  telephone
+
+       wiring systems.
+
+
+
+     Enabling Objectives:
+
+     1.    Distinguish between residential and commercial installation
+
+       practices.
+
+2.    Define inside wiring.
+
+3.    Describe the locations and installation of the NI (network
+
+interface)
+
+4.    Describe the function of the NI as the boundary between the
+
+inside wiring and the telecommunications network.
+
+5.    Describe the code requirements outlined in Article 800 of
+
+NEC.
+
+6.    Describe the function of circuit protections.
+
+7.    Identify the major components for communications grounding.
+
+8.    List the types of interior communications conductors.
+
+9.    Describe the characteristics of Class, 1, 2, and 3
+
+conductors.
+
+10.   List the types of inside wiring and the specifications for
+
+2-pair and 3-pair wiring.
+
+11.   List the terminations for 2-pair and 3-pair.
+
+12.   Demonstrate the correct procedures for terminating
+
+telephone wire
+
+13.   Identify modular outlets and RJ-11 vs. RJ-14 jacks and
+
+their usages
+
+14.   Demonstrate proper procedures for outlet installations for
+
+RJ-11 and RJ-14.
+
+15.   List the fastener spacing guidelines.
+
+16.   Describe the standards for a second line install.
+
+17.   Demonstrate a second line install
+
+18.   Describe the standards for a small office install.
+
+19.   List the general rules for planning and performing a
+
+telephone install.
+
+20.   Identity the 25-pair backbone cable color code.
+
+21.   List the safety steps used during installation.
+
+       
+
+VI. Video Systems
+
+     
+
+     Performance Objectives:
+
+     1.    Describe the functions of CCTB and CTAV systems.
+
+2.    Distinguish between the two types of installations.
+
+3.    Detail the installation and coding of a video system.
+
+   
+
+     Enabling Objectives:
+
+     1.    List the common coaxial cable connector types and detail
+
+       the termination process.
+
+2.    List the rules for grounding.
+
+3.    List the rules for routing coaxial circuits.
+
+4.    List the requirements for indoor circuits.
+
+5.    Demonstrate proper techniques when creating coaxial cabling
+
+6.    Define and describe the uses for the cable types CATVP,
+
+CATVR, CATV, CATVX.
+
+7.    List the hierarchy for cable substitutions.
+
+8.    List the detail specification of NEC article 820.
+
+       
+
+VII Network Cabling
+
+       
+
+       Performance Objectives:
+
+       1.    Detail the installation requirements of network cabling.
+
+2.    Detail the various installation types and corresponding
+
+cable specifications.
+
+3.    Define the terminology for network installations.
+
+         
+
+       Enabling Objectives:
+
+       1.    List the cabling requirements for a network based on
+
+         length, signal quality, and environment.
+
+2.    Define attenuation, impedance, crosstalk, and capacitance.
+
+3.    Define the causes of attenuation, impedance, crosstalk, and
+
+capacitance.
+
+4.    List the types of shields to prevent crosstalk.
+
+5.    Define the applications for and disadvantages of UTP, ScTP,
+
+STP, coaxial, and fiber optic cables.
+
+6.    Define wireless transmission.
+
+7.    Define infrared transmission.
+
+8.    Describe power line carrier networks.
+
+9.    Define the class 2 and 3 circuit characteristics.
+
+10.   List the NEC code requirements from article for class 1, 2,
+
+3, 4, remote control, signaling, a and power limited circuits.
+
+11.   List the rules for installation of cat 5 components.
+
+12.   Overview a typical installation of cat 5.
+
+13.   Demonstrate a typical installation of cat 5
+
+14.   Define the various pulling methods for cat 5.
+
+15.   Describe the function of horizontal cable supports.
+
+16.   Describe a closet-to-closet pull.
+
+17.   Describe the various pulls for conduit, trays, raceways,
+
+and riser installations.
+
+18.   List the mounting hardware found in an equipment room or
+
+closet.
+
+19.   Describe the function of fire stopping.
+
+
+
+VIII. Testing Voice, Data, and Video Installs
+
+       
+
+       Performance Objectives:
+
+       1.    Describe the testing methods for voice, data, and video
+
+         installs.
+
+2.    List and describe the functions of testing equipments.
+
+
+
+       Enabling Objectives:
+
+        1.    List the functions of a DMM (digital multimeter) and
+
+          describe the testing methodology for an open or short.
+
+        2.    Demonstrate testing with a DMM of an opened and a short.
+
+3.    List the functions of a toner (wire mapper).
+
+4.    Describe the importance of wire mapping.
+
+5.    Detail the components of wiremapping.
+
+6.    Detail the test requirements for the various cabling
+
+systems
+
+7.    Demonstrate testing coaxial, RJ-45, and RJ-11 cabling with
+
+a cable tester.
+
+8.    List the pinouts for 568A, 568B, USOC, open DEC.
+
+9.    Define and detail wire map problems: shorts, opens, reverse
+
+pairs, transposed pairs, split pairs.
+
+10.   Describe how TDR (time domain reflectometer) can estimate
+
+the length of cable.
+
+11.   Define NVP (nominal velocity of propagation.
+
+12.   Define attenuation as express in dB (decibels.
+
+13.   Describe the testing methodology for NEXT (near end
+
+crosstalk).
+
+14.   Define attenuation to crosstalk ratio (ACR).
+
+15.   Define Propagation delay and delay skew.
+
+16.   Describe the testing methodology for ACR, and delay.
+
+17.   List the cable plant certification standards.
+
+18.   List the specifications for NEXT and Attenuation.
+
+          
+
+IX. Wiring Termination Practices
+
+        
+
+        Performance Objectives:
+
+        1.    List the proper handling procedures for telephone, LAN,
+
+          CATV, and CCTV networks.
+
+2.    List the tools and materials needed for terminations.
+
+          
+
+        Enabling Objectives:
+
+        1.    Define the functions of a coax stripper and crimper.
+
+2.    Detail the procedures for constructing a coaxial cable
+
+length.
+
+3.    Describe an F connection.
+
+4.    List the tools used for cat 5 cable construction and
+
+installation: cable jacket tripper, punchdown tool, crimp tool,
+
+punchdown block.
+
+5.    Visually identify each of the above listed tools.
+
+6.    Describe the functions of each of the cat 5 tools.
+
+7.    List the procedures for a typical cat 5 cable installation
+
+into a punchdown block, modular  plug, and wall jack.
+
+8.    List the procedures for a typical cat 3 telephone install
+
+into a 66 punchdown block.
+
+9.    Describe the function of a bridge clip.
+
+10.   Demonstrate proper techniques in creating terminations with
+
+strippers and crimpers.
+
+
+
+
+
+Course Activities: Students will spend 1/3 the time in a
+
+lecture/demonstration series presented by the instructor. The
+
+instructor will use the RealCBT learning system for video
+
+lectures and simulations. The instructor will also use circuit
+
+boards and electronic trainers to demonstrate hands-on processes
+
+the students are expected to learn. The other 2/3 of the time the
+
+students are expected to reinforce the things learned in the
+
+lecture/demonstration in a supervised instructor led lab.
+
+Students will use the tools and testing equipment typically found
+
+in the industry to do the hands-on lab portion. This includes
+
+using the Internet to visit the sites of on-line companies and
+
+using all available on-line resources (knowledge bases, on-line
+
+videos, on-line technical support, and on-line product manuals)
+
+to complete labs as assigned.
+
+
+
+Course Requirements and Means of Evaluation:  Fifty percent of
+
+the grade is determined by test grades. Six tests will be given
+
+throughout the semester. Fifty percent of the grade is determined
+
+by lab experiments and homework.
+
+
+
+Grading:  Letter         Numerical Value         Grade Points
+
+Grade
+
+          A                  93-100                   4.0
+
+         A-                   90-92                   3.7
+
+         B                   88-89                   3.3
+
+          B                   83-87                   3.0
+
+         B-                   80-82                   2.7
+
+         C                   78-79                   2.3
+
+          C                   73-77                   2.0
+
+         C-                   70-72                   1.7
+
+         D                   68-69                   1.3
+
+          D                   63-67                   1.0
+
+          F                 Below 60                   0
+
+         FA                 Below 60                   0
+
+P - Pass:  This grade is given to students who satisfactorily
+
+meet the course requirements in the following types of courses:
+
+credit by exam, educational development courses with code numbers
+
+below 100, health practicum courses and co-op courses.  P
+
+grades are not calculated into a students GPA.
+
+
+
+I - Incomplete Work: This is a conditional grade given at the
+
+discretion of the faculty member when student emergencies prevent
+
+the completion of all course requirements. The student must
+
+complete all requirements within 30 days after the start of
+
+classes in the following semester or term. If this condition is
+
+not met, the I automatically becomes an F grade.
+
+
+
+W-Withdrawal:  This grade signifies official withdrawal from a
+
+course. See details under College Withdrawal.
+
+R-Audit: This is not a grade but indicates a student took the
+
+course for no credit and, therefore, no grade.
+
+Attendance: Students are expected to attend all scheduled
+
+classes. Any student who is absent for Thirty percent of the
+
+classes (9 classes) will receive an FA for the course, no
+
+exceptions.
+
+
+
+Tests: No makeup tests allowed. Students must complete a test on
+
+the test date or arrange to take a test in advance. All tests are
+
+closed book. Anyone cheating will receive a 0 for that test and
+
+be subject to failing the class via submittal to a disciplinary
+
+board of review.
+
+
+
+Lab Assignments: Each lab will have the results written in
+
+paragraph format and submitted via email on or before the due
+
+date. All homework/assignments due before class starts on the due
+
+date. Homework and assignments cannot be made up.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others.
+
+Specific procedures are to be adhered to when working with the
+
+equipment. These procedures will be demonstrated by the
+
+instructor, detailed in handouts and procedures, and are an
+
+intricate part of every lab. Should students have any doubts or
+
+questions regarding a procedure, they should ask the instructor
+
+before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the colleges  PCs. It is an illegal act to
+
+copy this software. Viruses can be transmitted through various
+
+media. Students will take every precaution when working with the
+
+schools software and hardware, adhering to the procedures for
+
+protecting from viruses. Students will not bring their own
+
+software to class, nor will they install it on any college PC.
+
+Students are not permitted to play games or download/participate
+
+in instant messaging or chat room in the labs. Students are
+
+permitted to sign out the MSDNAA software related to the IT class
+
+they are enrolled in. See the instructor to find out what
+
+software is available for that class. MSDNAA software can only be
+
+signed out during the first four weeks of classes no software
+
+will be signed out after that. Students will run the risk of
+
+dismissal from the class and the college if found in violation of
+
+the software and hardware policies.
+
+
+
+Required Text: Hayes, Jim, Data, Voice, and Video Cabling, 2000,
+
+Delmar Thomson Learning, ISBN 0-7668-0964-1
+
+
+
+Material or Supplies: Students will be required to purchase a set
+
+of PC headphones and a Computer Repair Toolkit with grounding
+
+wrist strap. Students will be supplied with additional tools,
+
+software, hardware, and safety equipment required for each lab.
+
+Items necessary to complete each lab will be given out at the
+
+beginning of each lab and returned at the end of each lab.
+
+
+
+
+
+
+
+-----------------------------7d43e0271100e6--

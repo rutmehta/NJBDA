@@ -1,0 +1,114 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Operating Systems for Help Desk 1 4/13/2004 1:26 PM
+
+Union County College
+
+Course Number: CIS 107
+
+Course Name: Operating Systems for Help Desk
+
+Credits: 3
+
+Prerequisites: ENG 089, ENG 099
+
+Course Description:
+
+This course is a survey of todays leading operating systems.
+
+Students learn operating
+
+systems from both an end-user and administrative standpoint. 3
+
+lecture hours and 1
+
+laboratory hour. 3 credits.
+
+Course Objectives:
+
+Upon completion of this course the student should be able to:
+
+ Define the term operating system
+
+ Explain the three different types of user interfaces.
+
+ Understand how the operating system handles resources.
+
+ Understand how the operating system handles files
+
+ Discuss the evolution of the microcomputer and different
+
+operating systems over
+
+time
+
+
+
+Describe the main features of a Windows operating system
+
+ Understand the basic functionalities of the Linux operating
+
+system
+
+ Describe the Linux file system
+
+ Describe the unique features that make Linux different from
+
+other operating
+
+systems
+
+
+
+Explain how the Macintosh mouse and keyboard are different from
+
+those on a PC
+
+and know how to use them.
+
+ Tell the difference between Aqua, Darwin, and Classic.
+
+ Use the parts of Mac OS Xs user interface (desktop, menu bar,
+
+windows, and the
+
+dock).
+
+
+
+Manage files using Mac OS X (get info, move, copy, rename,
+
+create, make
+
+aliases, and delete).
+
+ Change system settings using System Preferences (especially
+
+Classic Preferences,
+
+ColorSync Preferences, Display Preferences, Dock Preferences, and
+
+Software
+
+Update Preferences).
+
+ Explain the use of some system utilities to manage disks, find
+
+keystrokes, and
+
+mange printing
+
+ Locate, discern, and effectively use information to solve
+
+issues and/or problems in
+
+operating systems
+
+Required Materials:
+
+Stubbs, Todd and Mary Gorman. Introduction to Operating Systems:
+
+Comprehensive
+
+Course. Course Technology, 2003.

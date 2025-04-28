@@ -1,0 +1,630 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Mercer County Community College
+
+
+
+                       Course Outline
+
+
+
+Course Number:      CIS 212
+
+
+
+Course Title:            Advanced PC Business Applications
+
+
+
+Division:           Business and Technology
+
+
+
+Length of Semester:      15 weeks
+
+
+
+Credits:            3
+
+
+
+Lecture/Laboratory:      2/2
+
+
+
+Text:                    Shelly Cashman Series Microsoft
+
+Office 97
+
+                    Advanced Concepts  Techniques (Word
+
+97,
+
+                    Excel 97, Access 97, and PowerPoint
+
+97)
+
+
+
+                    Authors:  Shelly/Cashman/Vermaat
+
+
+
+                    Students will need (2) 3.5 high-density
+
+diskettes
+
+
+
+Catalog Description
+
+
+
+Extensive hands-on experience on PCs working with charts
+
+and tables, and desktop publishing using word processing
+
+macros, templates, sorting, and filtering using
+
+spreadsheets creating reports and forms using database
+
+creating slides and images using presentation graphics.
+
+Emphasis is on business usage and personal application.
+
+Integration of applications included.
+
+
+
+Prerequisite:  CIS 112 or equivalent
+
+
+
+
+
+                              Carol Weber
+
+                                 Course Coordinator
+
+
+
+Fall 1999
+
+
+
+
+
+Instructors Name 
+
+Time/Location 
+
+Office/Phone Nos. 
+
+Office Hours 
+
+BUS 242-Advanced PC Business Applications
+
+2
+
+
+
+Week 1 (Word 97)
+
+
+
+     Creating a Document with a Title Page and Tables -
+
+Project 4
+
+
+
+     Homework Assignment
+
+     Read:          WD4.1 through WD4.55
+
+     Complete: Student Assignment 1 and 2 on page WD4.56
+
+
+
+Week 2 (Word 97)
+
+
+
+     Generating Form Letters, Mailing Labels, and Envelopes
+
+-Project 5
+
+
+
+     Homework Assignment
+
+     Read:          WD5.1 through WD5.50
+
+     Complete: Student Assignment 1 and 2 on page WD5.51
+
+
+
+Week 3 (Word 97)
+
+
+
+     Creating a Professional Newsletter - Project 6
+
+
+
+     Homework Assignment
+
+     Read:          WD6.1 through WD6.53
+
+     Complete: Student Assignment 1 and 2 on page WD6.54
+
+     Study:         Review and study Word 97 Projects 4, 5,
+
+and 6 for first test
+
+
+
+Week 4 (Word 97)
+
+
+
+     Word Theory and Applications Tests (Projects 4, 5, and
+
+6)
+
+
+
+     Using WordArt to Add Special Text Effects to a Word
+
+Document
+
+
+
+Week 5 (Excel 97)
+
+
+
+     Creating Templates, Workbooks with Multiple Worksheets,
+
+and Web Pages-
+
+     Project 4
+
+     
+
+     Read:          E4.3 through E4.53
+
+     Complete: Student Assignment 1 and 2 on page E4.54
+
+BUS 242-Advanced PC Business Applications
+
+3
+
+
+
+Week 6 (Excel 97)
+
+
+
+     Data Tables, Visual Basic for Applications, Hyperlinks,
+
+and Scenario Manager-
+
+     Project 5
+
+
+
+     Read:          E5.1 through E5.49
+
+     Complete: Student Assignment 1 and 2 on page E5.50
+
+
+
+Week 7 (Excel 97)
+
+
+
+     Sorting and Filtering a Worksheet Database, Pivot
+
+Tables, and Creating a
+
+     Data Map-Project 6
+
+
+
+     Read:          E6.1 through E6.52
+
+     Complete: Student Assignment 1 and 2 on page E6.53
+
+     Study:         Review and study Excel Projects 4, 5,
+
+and 6 for test
+
+
+
+Week 8 (Excel 97)
+
+
+
+     Excel Theory and Applications Tests (Projects 4, 5, and
+
+6)
+
+
+
+     Embedding an Excel Worksheet into a Word Document Using
+
+Drag and Drop
+
+
+
+Week 9 (Access 97)
+
+
+
+     Reports, Forms, and Publishing Reports to the
+
+Web-Project 4
+
+
+
+     Read:          A4.3 through A4.51
+
+     Complete: Student Assignment 1 and 2 on page A4.52
+
+
+
+Week 10 (Access 97)
+
+
+
+     Enhancing Forms with OLE Fields, Hyperlinks, and
+
+Subforms-Project 5
+
+
+
+     Read:          A5.1 through A5.46
+
+     Complete: Student Assignment 1 and 2 on page A5.47
+
+
+
+Week 11 (Access 97)
+
+
+
+     Creating an Application System Using Macros, VBA, and
+
+the Switchboard
+
+     Manager-Project 6
+
+
+
+     Read:          A6.1 through A6.47
+
+     Complete: Student Assignment 1 and 2 on page A6.48
+
+     Study:         Review and study for Access 97
+
+(Projects 4, 5, and 6) test
+
+BUS 242-Advanced PC Business Applications
+
+4
+
+
+
+Week 12 (Access 97)
+
+
+
+     Access Theory and Applications Tests (Projects 4, 5,
+
+and 6)
+
+
+
+     Linking Excel Worksheets to an Access Database
+
+
+
+Week 13 (Power Point 97)
+
+
+
+     Using Embedded Visuals to Enhance a Slide Show-Project
+
+3
+
+
+
+     Read:          PP3.3 through PP3.61
+
+     Complete: Student Assignment 1 and 2 on page PP3.63
+
+
+
+Week 14 (PowerPoint 97)
+
+
+
+     Creating a Presentation Containing Interactive OLE
+
+Documents-Project 4
+
+
+
+     Read:          PP4.1 through PP4.60
+
+     Complete: Student Assignment 1 and 2 on page PP4.61
+
+
+
+Week 15-Final Project Presentations
+
+
+
+Course Evaluation
+
+
+
+     35--Objective Tests
+
+     35--Performance Assessment Tests
+
+     10--In-class Laboratory Assignments
+
+     20--Final Project  Presentation
+
+
+
+NOTE THE FOLLOWING GUIDELINES:
+
+
+
+    All Computer Lab Assignments are to be completed in
+
+  class.  However, if you need additional time, you will be
+
+  expected to attend a scheduled open lab on campus or use a
+
+  computer at home or work.
+
+
+
+    All assignments must be complete no credit will be
+
+  given for incomplete work.
+
+
+
+    Assignments are to be submitted on time reduced credit
+
+  will be given for projects submitted late.
+
+
+
+Office Systems Technology Majors-Please Note
+
+
+
+OST majors will develop a portfolio in OST 222-Current
+
+Topics in Office Administration which will consist of a
+
+selection of assigned projects from their required courses.
+
+Portfolio projects will be chosen at the instructors
+
+discretion.
+
+                                                         5
+
+               MERCER COUNTY COMMUNITY COLLEGE
+
+                  OFFICE SYSTEMS TECHNOLOGY
+
+                              
+
+          Class Attendance and Make-up Work Policy
+
+
+
+The following criteria will be strictly adhered to with
+
+regard to classroom attendance and assignments.
+
+
+
+Absences:
+
+
+
+     1.   Class attendance is mandatory for all students.
+
+          However, it is recognized that
+
+          occasionally an absence will be necessary.  Any
+
+          student exceeding six (6) hours (not meetings) of
+
+          absences will automatically be downgraded one
+
+          grade level at the discretion of the instructor.
+
+
+
+     2.   Three (3) consecutive absences from class without
+
+          contacting the instructor may
+
+          be considered cause for an automatic withdrawal
+
+          from the course by the instructor.  If the reason
+
+          is a medical excuse, the student is required to
+
+          bring in a doctors note.
+
+
+
+     3.   If a student decides to discontinue attending the
+
+          course, it is the students
+
+          responsibility to follow through and officially
+
+          withdraw from the course before the withdrawal
+
+          deadline date.  Failure to do this may result in
+
+          the student receiving an F for the course.
+
+
+
+Make-up Work:
+
+
+
+     1.   All assignments are to be turned in on the date
+
+          specified.  Late assignments will
+
+          be downgraded unless reason for lateness is fully
+
+          justified.
+
+
+
+     2.   When absence from class is necessary, you are still
+
+          responsible for making up for
+
+          all delinquent assignments.  These assignments
+
+          must be submitted within one week of your return.
+
+          No assignments will be accepted after that time.
+
+
+
+     3.   Students MUST be present for all scheduled tests.  If
+
+          you are absent on a test day
+
+          without justifiable reason, you will not be
+
+          permitted to make up the test.  If your absence is
+
+          excused, you are responsible for making up the
+
+          test before the next class period.  You must make
+
+          arrangements for making up the test outside of
+
+          class.
+
+
+
+     4.   Each students attendance is reported to the
+
+          Registrars Office every four weeks.
+
+          The Registrars Office is required by law to make
+
+          attendance reports on students who are funded by
+
+          Veterans Benefits, Social Security payments, and
+
+          other federal/state and private scholarship
+
+          programs.
+
+
+
+Note:  Any exception to the above-stated policy can be made
+
+at the discretion of the instructor on
+
+           an individual basis.
+
+                                                       6
+
+
+
+Academic Integrity Statement:
+
+
+
+A student who a.) knowingly represents work of others as
+
+his/her own b.) uses or obtains unauthorized assistance in
+
+the execution of any academic work, or c.) gives fraudulent
+
+assistance to another person is guilty of cheating.
+
+Violators will be penalized.  (Student Handbook)
+
+
+
+Classroom Conduct Statement:
+
+
+
+It is the students responsibility to attend all of their
+
+classes.  If they miss a class meeting for any reason,
+
+students are responsible for all content that is covered,
+
+for announcements made in their absence, and for acquiring
+
+any materials that may have been distributed in class.  It
+
+is expected that students be on time for all their classes.
+
+If students walk into a class after it has begun, it is
+
+expected that they choose a seat close to where they entered
+
+the room so that they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy
+
+during the class sessions.  Engaging in private, side
+
+conversations during class time is distracting to other
+
+students and to the instructor.  Leaving class early without
+
+having informed the instructor prior to class is not
+
+appropriate.  Unless there is an emergency, leaving class
+
+and returning while the class is in session is not
+
+acceptable behavior.  Disruptive behavior of any type,
+
+including sharpening pencils during class while someone is
+
+speaking, is not appropriate.
+
+
+
+The college welcomes all students into an environment that
+
+creates a sense of community of pride and respect we are
+
+all here to work cooperatively and to learn together.
+
+
+
+
+
+-----------------------------7d6181392d0506--

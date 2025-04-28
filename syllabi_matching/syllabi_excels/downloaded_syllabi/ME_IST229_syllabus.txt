@@ -1,0 +1,868 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+6
+
+IST229
+
+INTERMEDIATE C PROGRAMMING
+
+
+
+                Mercer County Community
+
+
+
+          College
+
+
+
+                            Arts,
+
+
+
+                            Communication
+
+
+
+                            and
+
+
+
+                            Technology
+
+
+
+                            Division IST
+
+
+
+                            229
+
+
+
+                  INTERMEDIATE C
+
+
+
+PROGRAMMING
+
+
+
+COURSE DESCRIPTION:
+
+A  continuation  of C programming that addresses
+
+intermediate
+
+level  topics  including advanced object-oriented
+
+programming, determining  system  and  resource
+
+parameters,  and   advanced Windows
+
+programming.   Laboratory  exercises  use  the
+
+.NET
+
+programming  environment to reinforce the
+
+materials  that  are covered in the lecture and the
+
+texts.
+
+
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:  CISabd.
+
+
+
+Co-requisites:
+
+
+
+Credits:  3         Lecture Hours: 2         Lab
+
+Hours:  2
+
+
+
+
+
+
+
+
+
+Food  and  drink are strictly prohibited in
+
+classrooms  as  per health and safety laws.
+
+Students may not bring in chemicals or cleaning
+
+fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox
+
+Latest Review:  Fall 2003
+
+
+
+OVERALL COURSE OBJECTIVES
+
+
+
+Upon completion of this course, students will be
+
+able to:
+
+
+
+      Modify and create object-oriented programs
+
+     that use classes, inheritance, polymorphism,
+
+     overloading, and error handling.
+
+     
+
+    Modify and write programs and classes that use
+
+                      windows
+
+     indexers and access windows properties.
+
+
+
+      Modify and develop windows applications that
+
+     utilize the basic and advanced controls that
+
+     are included in the .NET programming
+
+     environment.
+
+     
+
+     Students will demonstrate critical thinking
+
+                    and logical
+
+     reasoning skills by designing, developing,
+
+     documenting, and presenting summaries of
+
+     significant programming projects.
+
+SPECIFIC MODULE OBJECTIVES
+
+
+
+I. Review  of  Object-Oriented Programming
+
+   (Classes,  Objects, Methods, Modifiers Students
+
+   will)
+
+   a. Demonstrate    object-oriented   programming
+
+       techniques which   use   appropriate
+
+       keywords,  such  as   public, private, new,
+
+       and static, and programming techniques  to
+
+       create a simple four function calculator
+
+       class..
+
+   b. Further  demonstrate  object-oriented
+
+       programming  skills by  creating extensions
+
+       to the four-function  calculator to add a
+
+       POWER function.
+
+       
+
+II.Inheritance and Polymorphism (Students will)
+
+   a. Demonstrate  an understanding of inheritance
+
+       by  creating a   derived   class  from  a
+
+       base  class  by  entering, debugging,  and
+
+       thoroughly commenting the  code  to  use
+
+       inheritance to define a MotorCycle and a Car
+
+       class  from the text.
+
+   b. Further    demonstrate   an   understanding
+
+       by   adding additional  parameters  to the
+
+       MotorVehicle  class  for seats,  and  use,
+
+       and then using the revised base  class to
+
+       create   additional  derived  classes  for
+
+       Truck, MicroBus, and SportsCar.
+
+   c. After  reading  the text book(s), working
+
+       through  these exercises,  and  if
+
+       necessary  doing  research  on  the Internet
+
+       or  in the library, students will
+
+       demonstrate an  understanding  of
+
+       inheritance  in  object  oriented
+
+       programming in a written memo.
+
+   d  Be  able  to explain the polymorphism and the
+
+       use of  the keyword virtual in a C class in
+
+       a brief written memo.
+
+       
+
+III.    Resource Management (Students will)
+
+   a. Demonstrate  that they can manage computer
+
+       resources  by completing  text exercises
+
+       that illustrate  the  use  of the
+
+       destructor,  garbage  collection,   and
+
+       disposal methods.                                    program a Method 
+by 
+
+       moving code from  Main()
+
+       to an appropriately named Method().
+
+IV.Using Properties and Accessing Attributes
+
+(Students will)
+
+   a. Student  will compare and contrast properties
+
+       and  fields and  describe  the  different
+
+       types  of  properties  in writing.
+
+   b. Demonstrate    an   understanding   of
+
+properties                                                  by
+
+       completing  and  thoroughly  commenting  the
+
+       laboratory exercises in the text.
+
+   c. Demonstrate  the ability to access and use
+
+       properties  by modifying the code that
+
+       displays the perimeter and  area of  the
+
+       window and to display all data in  both
+
+       pixels and inches.
+
+       
+
+V. Indexers (Students will)
+
+   a. Demonstrate  a  basic  understanding  of  an
+
+       indexer  by writing  a brief summary of
+
+       their use, description,  and purpose in a
+
+       memo.
+
+   b. Demonstrate  a  knowledge of indexers by
+
+       completing  and thoroughly  commenting the
+
+       laboratory exercises  in  the text.
+
+   c. Additionally  demonstrate  a  knowledge  of
+
+       indexers  by creating  and coding a program
+
+       to encrypt characters  in a string.
+
+   d. Finally,  students will demonstrate the
+
+       ability to  apply indexers  by creating a
+
+       holiday application, which  will store
+
+       holidays and dates and use indexers to
+
+       access  a
+
+       holiday  given  a  date or access the  date,
+
+       given  the holiday.
+
+VI Delegates and Overloading (Students will)
+
+   a. Gain  experience  in  using delegate types
+
+       and  operator overloading by completing and
+
+       thoroughly commenting  the digital clock
+
+       laboratories in the text.
+
+   b. Demonstrate  the  ability to program with
+
+       delegates  and overloading  by  creating a
+
+       Date-Time  application  that continuously
+
+       displays the date, time, and  day  of  the
+
+       week.
+
+       
+
+VII.    Windows Forms (Students will)
+
+   a. Gain  experience  in  using  basic  windows
+
+       controls  by completing the laboratory
+
+       exercises in the text.
+
+   b. Students  will  demonstrate  a through
+
+       understanding  of windows  forms
+
+       applications by  designing,  developing,
+
+       documenting,  and  demonstrating a  child-
+
+       friendly  four function  calculator  with a
+
+       square  and  a  square-root button  an
+
+       integer calculator that allows for  numbers
+
+       to  be  entered and displayed in binary,
+
+       octal, decimal, and  hexadecimal  or a
+
+       simple game like  tick-tack-doe. Students
+
+       may also propose an application of
+
+       equivalent scope.  This is the first major
+
+       project in this course.
+
+       
+
+VIII.    Menus (Students will)
+
+   a. Gain  experience  in  using  basic  windows
+
+       controls  by completing the laboratory
+
+       exercises in the text.
+
+   b. Demonstrate a thorough understanding of menus
+
+       and  other controls  by creating a lottery
+
+       game, which  will  use menus  to save and
+
+       restart a game, use a pop-up menu  to get  a
+
+       credit card number and a credit limit (the
+
+       credit card  number will be encrypted), and
+
+       other pop-up  menus to establish the type of
+
+       game, and the bet-per-game.
+
+IX.  Window Forms Validation (Students will)
+
+   a. Gain  experience  at different methods of
+
+       validation  by completing  and  thoroughly
+
+       commenting  the  laboratory exercises in the
+
+       text.
+
+   b. Demonstrate  an understanding of validation
+
+       by  comparing and                                    contrasting  
+brute- 
+
+       force,  unobtrusive,  postponed
+
+       error  validation  and  discussing  the
+
+       advantages  and disadvantages in a written
+
+       memo.
+
+       
+
+X. Advanced  Controls (Splitter, Panel, TreeView,
+
+     ListView Students will)
+
+   a. Gain   experience   at   using   advanced
+
+controls   by
+
+       completing  and  thoroughly  commenting  the
+
+       laboratory exercises in the text.
+
+   b  Student  will  design, create and program  a
+
+       complicated application.   Possibilities
+
+       include  a  program   that allows  a  user
+
+       to enter the coefficients of a numerator and
+
+       a  denominator polynomial (up to  20th
+
+       order)  and then  plots the resulting
+
+       function and provides the user with  the
+
+       ability  to  zoom-in  or  zoom-out.
+
+       Another possibility  involves  writing a set
+
+       of  programs  that loads  and stores the
+
+       costs of the gifts in the  twelvedays  of
+
+       Christmas  and  then sings  the  song
+
+       while computing  the daily cost and the days-
+
+       to-date  cost.  A third  possibility  might
+
+       involve  developing  an
+
+       age
+
+       appropriate hang-man game for 4, 5, 6, 7,
+
+       .  year-old children.     Students   are
+
+       encourage   to    propose alternatives that
+
+       they might enjoy more.   This  is  the
+
+       second major project.
+
+       
+
+XI.Advanced Windows Forms (MDI  Dialog Boxes
+
+   Students will) a. Gain                                   experience  at
+
+   using  Forms  by  completing                  and
+
+       thoroughly  commenting the laboratory
+
+       exercises  in  the text.
+
+   b. Students  will  demonstrate  that  they  can
+
+       use   forms control  by creating a new
+
+       version of Hello World,  that also  says
+
+       hello to every name that was entered  on
+
+       the first screen in a separate child form. .
+
+       
+
+XII.     Creating GUI Components (Students will)
+
+   a. Gain   experience   at   creating   GUI
+
+       components   by completing  and  thoroughly
+
+       commenting  the  laboratory exercises in the
+
+       text.
+
+   b. Demonstrate  the  ability to create a  GUI
+
+       component  by creating  a log-on window
+
+       that collects a users  name and  password,
+
+       stores same on the  computer,  and  then
+
+       issues a machine restart.
+
+   c. Demonstrate  that  they understand how the
+
+       program  that they wrote above could be
+
+       misused in a written memo.
+
+       
+
+Students  will be required to enter, compile, and
+
+test programs outside  of class.  There are
+
+suitably configured computers  in the  library.
+
+The primary text for this course includes  a  C
+
+programming environment and a C compiler.  .
+
+
+
+Students will be expected to prepare for each class
+
+by  reading assignments from the textbooks and by
+
+entering the code for the laboratory exercise in an
+
+appropriate file.
+
+
+
+The  course will consist of two hours of lecture
+
+and two  hours of  laboratory each week.  The two
+
+hours of lecture will review the  reading
+
+material, help students with any  questions  that
+
+they  have,  and  cover some of the simpler
+
+examples  that  are included  in the text.  During
+
+the two-hour laboratory periods, students   will
+
+work  through  the  step-by-step   laboratory
+
+exercises  at  their own pace. The student  will
+
+document  the results  of  his  studies by adding
+
+detailed  comments  to  the laboratory  exercises.
+
+Students will be expected  to  complete the   step-
+
+by-step  exercises  and  several  other
+
+assignments outside of class.
+
+
+
+During  the  course, each student will be expected
+
+to  complete two significant programming projects.
+
+After the seventh module and  tenth modules, at
+
+about weeks 9 and 12 of the course, each student
+
+will   be  required  to  develop  a  complete
+
+major application, which will be documented and
+
+presented in class.
+
+
+
+Textbook:     Sharp,  John    Jagger, Jon,
+
+        (2002).  Microsoft Visual  C.NET  Deluxe
+
+        Learning Edition.  Redmond,  WA: Microsoft
+
+        Press.    ISBN:  0-7356-1633-7.    Includes
+
+        C.NET standard software.  REQUIRED
+
+        
+
+        Price,  Jason    Gunderloy,  Mike.
+
+        (2002).  Mastering Visual  C.NET. San
+
+        Fransisco, CA: Sybex.  ISBN 0-78212911-0.
+
+        REQUIRED
+
+        
+
+Five  memos  (two pages or less each) are required
+
+during  this course  to  demonstrate the students
+
+understanding  of  various concepts.  Each will be
+
+graded.
+
+
+
+When  students are required to describe something
+
+in  writing, they  will  be  require  to prepare a
+
+memo  to  the  instructor explaining or answering
+
+the given question.  Memos are expected to  be
+
+typed and to follow standard business form and are
+
+not expected  to  exceed two pages in length.
+
+Students  name  must appear  on both pages of a two
+
+page memo.  Multiple page  memos should  be
+
+stapled.  Memos will be graded for  content  (65),
+
+format or style (20), and timely submission (15).
+
+
+
+Students  will be expected to complete each of the
+
+step-by-step exercises  in  chapters 7,  and 11
+
+through 23.   in  Sharp  and Jagger.   Any exercise
+
+that is not completed in the  laboratory will  be
+
+completed  as homework.  Each  assignment  is  to
+
+be thoroughly commented to demonstrate the
+
+students understanding of  the  code  and turned
+
+in to the instructor.   Each  set  of laboratories
+
+will  be  graded and the  two  lowest,  non-zero,
+
+grades will be dropped.
+
+
+
+Students  are  expected to demonstrate a thorough
+
+understanding of   the   material  presented  by
+
+completing   six   homework assignments  which
+
+consist of either writing short programs  or
+
+extending the work that was completed in the
+
+laboratory.   Each homework assignment will be
+
+graded.
+
+
+
+There   are   two   significant  programming
+
+projects.     All programming  assignments,
+
+laboratories and  new  code  will  be graded based
+
+on the following:
+
+
+
+                          Submitted                     On-time
+
+15
+
+            Performs        the       Required        Functions
+
+25
+
+      Uses  All  Previously  Covered  Material,
+
+Including  the Current Topic       10
+
+       Uses   a   Consistent  and  Correct
+
+Indentation   Style 10
+
+         Uses     Sound     Program     Structuring     Methods
+
+10
+
+      Uses  appropriate variable names that are
+
+meaningful  but not too long                          10
+
+      Contains  Comments  that  Adequately
+
+Describe  the  Code 10
+
+      Uses Constructs that are Typically Used by C
+
+Programmers 10
+
+
+
+This  course  requires  a final with a significant
+
+programming component.   The  course grade will be
+
+based on  the  following weights:
+
+
+
+                          Final
+
+Examination 20
+
+            Two        major        programming        projects
+
+30
+
+                       Laboratory
+
+Assignments 15
+
+           Programming       /       Homework
+
+Assignments
+
+15
+
+                         Writing
+
+Assignments 10
+
+               Attendance           and
+
+Participation 10
+
+
+
+Because of the amount of homework that the
+
+instructor needs  to grade  and  because students
+
+must stay caught up  to  master  a subject   like
+
+C  programming,  LATE  HOMEWORK,   LABORATORY
+
+EXERCISES, and PROGRAMMING ASSIGNMENTS WILL NOT BE
+
+ACCEPTED.
+
+
+
+Students  are  reminded  of  the  schools
+
+academic  integrity policy.  In this class, if a
+
+student submits work that has been copied from an
+
+outside source, without proper citations, or  if
+
+two or more students submit work that is
+
+essentially identical, the grade for the assignment
+
+will be ZERO.  Grades of ZERO will not  be
+
+dropped.   Students who receive two  or  three
+
+ZEROS, depending  on  the  assignment, will not be
+
+able  to  pass  the
+
+course.
+
+The  course  percentage will be determined by
+
+multiplying  the students  average in each category
+
+by the specified weight  and totaling  these
+
+products. The  letter  grade  will  then  be
+
+determined as follows:
+
+
+
+          90  Percentage  100      A
+
+          80  Percentage <   90         B
+
+          70  Percentage <
+
+80   C
+
+          60  Percentage <
+
+70   D
+
+            0  Percentage <
+
+60   F
+
+Students  are reminded that they must be aware of
+
+the  deadline for  the drop-add period.  The
+
+professors who teach this course are  not
+
+obligated  to withdraw students who  stop  coming
+
+to class. WITHDRAWING   FROM  ANY  COURSE   IS
+
+THE  STUDENTS
+
+RESPONSIBILITY.

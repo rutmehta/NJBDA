@@ -1,0 +1,109 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MAT285 
+Discrete Mathematics
+New Course: Spring 2010
+
+COURSE DESCRIPTION:
+Discrete Mathematics is a study of mathematical concepts and techniques that form the foundation for many upper level mathematics courses.  Topics considered include sets and logic, proof techniques, functions and relations, algorithms, introduction to number theory, counting techniques, discrete probability, recurrence relations, trees, graphs, networks, and Boolean algebra.  Mathematical reasoning and proofs will be stressed.
+4 lec., 4  credits
+
+PREREQUISITE:		
+MAT-280 with a grade of C or better  or by permission of the Department Chair.
+
+STUDENT	LEARNING OBJECTIVES:
+As a result of meeting the requirements for this course, students will:
+1.   	understand the fundamental concepts of sets and logic and how they are used in the representation of real-world 		applications.
+2.   	be able to employ proofs to validate properties and arguments involving various concepts in discrete mathematics.
+3.   	understand the fundamental concepts of functions and relations and how they are used to represent real-world 			applications.
+4.   	be able to perform fundamental analysis of an algorithm.
+5.   	be able to solve first and second order recurrence relations and use mathematical induction to verify the solution.
+6.   	understand the fundamental properties and structure of trees, graphs, and networks, and be able to apply them to 		solve mathematical problems that can be represented by these structures.
+7.   	understand the fundamental properties of Boolean Algebras and be able to use them to derive other properties that can 	be used in real-world applications.
+8.	be able to apply the concepts and techniques of discrete mathematics in the representation of real-world applications 	and be able to solve the resulting mathematical problem.
+      
+ASSESSMENT MEASURES:
+Each of the above listed student learning objectives will be assessed by,
+1.  Written assignments and/or quizzes.
+2.  Written examinations
+3.  Other, as announced by the instructor
+
+COURSE GRADE:
+Students should refer to the instructor’s grading policy which will be distributed during the first meeting of the class.  Attendance and latenss policies and sanctions are to be determined by the instructor for each section of the course. These will be established in writing on the individual course outlines.  Attendance will be kept by the instructor for administrative and counseling purposes.
+
+TEXTBOOK:	
+Discrete Mathematics, Richard Johnsonbaugh Pearson, Prentice-Hall, 2009
+
+COURSE CONTENT:  
+
+TOPIC				CHAPTER		SECTIONS
+
+Sets and Logic			1          	1 - 5
+
+Proof Techniques		2		1 - 4	
+Mathematical Induction
+
+Functions and Relations		3		1 - 5	
+
+Algorithms    			4 		1 - 4
+
+Introduction to Number Theory  	5 		1 - 3
+
+Counting Techniques and		6 		1 - 7        
+Discrete Probability                                
+
+Recurrence Relations		7   		1 - 3
+  
+Graph Theory			8  		1 - 5
+
+Trees                           9		1 - 7
+
+Networks 			10              1 - 2
+
+Boolean Algebras		11		1 – 5
+
+Finite State Machines 		12		1 - 2
+                                                                
+   
+REFERENCES:        
+Discrete Mathematics, Epp, PWS Publishing Company
+Discrete & Combinatorial Mathematics, Grimaldi, Addison-Wesley
+                                    
+ELECTRONIC DEVICES:
+The Department of Mathematics prohibits the use of cell-phones, PDA’s, laptops, headphones,  IPODs and other such devices in mathematics classes unless otherwise specified in the grading policy provided by the instructor at the beginning of the semester.      
+
+COURSE OUTLINE AND CALENDAR
+
+WEEK	TOPIC / ACTIVITY                             STUDENT LEARNING OBJECTIVES
+
+1	Sets                                         1
+        Logic                                        1
+2       Proof Techniques                             2
+        Mathematical Induction                       2
+3, 4    Functions and Relations                      1, 3
+        Exam 1
+5       Algorithms                                   3, 4                                                      
+6       Number Theory                                2
+7, 8    Counting Techniques                          2, 8
+        Discrete Probability                         1, 8
+        Exam 2
+9       Recurrence Relations                         2, 5, 8
+10      Graph Theory                                 6, 8
+11,12   Trees and Networks                           6, 8
+        Exam 3
+13      Boolean Algebras                             1, 2, 7, 8
+14,15   Finite State Machines                        1, 3, 8
+        Final Examination        
+
+Note:   This calendar is tentative and may be modified to accommodate exams and the progress of the class.
+
+FACULTY:
+A daily list of cancelled classes will be posted in a glass case near the main corridor ABSENCE	on the first floor. Another such listing will be posted in a glass case in Ender Hall. 
+PROCEDURE:	
+Students can consult these listings before going to class. If students find a class cancelled which has not been listed, they should report this to the Divisional Dean's Office (A-325) or to the Evening Office (L-113).
+
+STUDENT SUPPORT SERVICES:
+Learning Assistance Center          Room:  L-125        447-7908
+Sidney Silverman Library            Room:  L-226        447-7436
+Office of Specialized Services      Room:  S-131        612-5270

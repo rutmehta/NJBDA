@@ -1,0 +1,160 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+
+Course NumberCourse TitleCredits     
+        MAT043		               	 Foundation Math III                                             1 (5 weeks)
+       		                
+ 					
+Hours: lecture/Lab/Other 
+Co- or Pre-requisiteImplementation sem/year  	    0/2/0 		   	           MAT042					Fall 2013
+
+Catalog description (2012-2014 Catalog).  Developmental mathematics course designed for students needing an introduction to algebra. Students work through the material – operations on rational and radical expressions, systems of equations, and linear models – in mastery-based modules in a lab setting. Those who complete this course may register for MAT135 or MAT140. [Does not fulfill mathematics elective requirements.]
+
+Is course New, Revised, or Modified?  New Fall 2012
+
+
+Required texts/other materials:  Carnegie Learning Software
+
+Revision date:           	   Course coordinator:   
+New		     	   Betty Peterson		 609.570.3421   	  	petersob@mccc.edu 
+
+
+Information resources:  The Mercer County Community College Library has a wide assortment of reference books that students may use. Students may access tutoring resources from the Carnegie Learning System.  Tutors are available during lab periods and at the West Windsor and James Kerney Learning Center.
+As this is a foundations level mathematics course, the objective of the course is to prepare students to take a college-level mathematics course.  Crucial to success in a mathematics course is the ability to think “algebraically”; that is, to be able to demonstrate an ability to move beyond following prescribed algorithms into abstract reasoning.
+A minimum grade of 'C' is required for movement from one developmental course to another and for the completion of developmental requirements to qualify for credit-bearing mathematics courses.
+
+
+
+
+Course-specific General Education Knowledge Goals and Core Skills:
+General Education Knowledge Goals
+
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+
+MCCC Core Skills
+
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+
+In the list below, GE refers to General Education Knowledge Goals and Core refers to MCCC Core Skills.
+
+
+Course Competencies/Goals:
+
+Students will be able to demonstrate through tests and assignments the ability to:
+
+1. define and solve quadratic equations by the zero product property using factoring. 
+(GE2, Core B,E)
+
+2. perform arithmetic operations on rational expressions.  (GE2, Core B,E)
+
+3. solve rational equations. (GE2, Core B,E)
+
+4. perform arithmetic operations on radical expressions. (GE2, Core B,E)
+
+5. solve linear systems of equations having solutions. (GE2, Core B,E)
+
+6. define, calculate and interpret slope, especially as a rate of change. (GE2, Core B,E)
+
+7. determine relationship between slope and horizontal, vertical, parallel, and perpendicular lines. (GE2, Core B,E)
+
+8. use linear modeling to find the equation of a line through two given points, or a slope and 
+y-intercept. (GE2, Core B,E)
+
+9. read, interpret, and explain trends in graphs which model applications. (GE2, Core B,E)
+
+
+
+
+
+
+
+
+
+In the following outline of the units of study, CG matches each objective with its course goal and the associated general education and MCCC core skills.
+
+Units of study in detail:
+
+Unit I 		Quadratic Equations and Rational Expressions
+
+The student will be able to:
+* solve quadratic equations by factoring.  (CG 1)
+* model ratios as a rational expression.  (CG 2)
+* simplify rational expressions. (CG 2)
+* perform arithmetic operations with rational expressions and simplify the answers. ((CG 2) 
+* solve rational equations that result in linear or quadratic equations.   (CG 3)
+
+
+Unit II 		Radical Expressions
+
+The student will be able to:
+* simplify radicals. (CG 4)
+* perform arithmetic operations with radical expressions and simplify the answers.  (CG4)
+
+
+Unit III	Linear Modeling and Systems of Equations
+
+The student will be able to:
+* graph a line that passes through a given point and has a given slope. (CG 6,8)
+* determine whether two given lines are parallel or perpendicular. (CG 7)
+* determine the x- and y- intercept of linear equations. (CG 6,8)
+* solve application problems involving linear equations. (CG 8,9)
+* solve a system of two linear equations with two unknowns.  (CG 5) 
+
+
+
+Evaluation of student learning:
+
+Achievement of the course objectives will be evaluated through the following methods:
+* Pre-and post-test assessments covering all course objectives throughout the course (CG 1-9).
+* Completion of written assignments relating course objectives in each unit to written proficiency of same (CG 1-9).
+*  A comprehensive final examination to demonstrate a student’s ability to retain and apply course objectives (CG 1-9).
+
+A suggested grading scheme follows.  Grade will be based on the following percentages: 
+
+* Pre/Post Test Modules 				50%
+* Hours in Software				10%
+* Assignments 					15% 
+* Final Examination				25%
+
+* Students who score 80% or higher on a pretest will be exempt from work on that module and will move to the next module.
+* Students must demonstrate a mastery level of at least 70% to move from one module to another. 
+* A written assignment at the end of each module will constitute part of the student’s grade and will give the student experience with the type of work expected on the final exam.
+* Assignments will be made available to instructors at the beginning of the course.
+* Students should receive regular feedback on their work through lab work and assignments.
+* Review packet for final exam to be provided.
+* Practice exams on software to be created.
+* Upon completion of the course material, the final exam may be  scheduled in the Testing Center. 
+* Students may take the final exam only once. 
+* Students who cannot complete the course in one 5-week session can register for the following 5-week session and continue where s/he left off. 
+*  Upon successful completion of this course, students may register for MAT135 or MAT140. 
+
+Academic Integrity Statement: 
+
+Mercer County Community College is committed to academic integrity – the honest, fair and continuing pursuit of knowledge, free from fraud or deception.
+
+Students should never: 
+* knowingly represent the work of others as their own 
+* knowingly represent previously completed academic work as current 
+* fabricate data to support academic work 
+* use or obtain unauthorized assistance in the execution of any academic work 
+* give fraudulent assistance to other students 
+* unethically use technological means to gain academic advantages
+
+Violators of the above actions will be penalized. The student will be reported to the Academic Integrity Committee, who may impose other penalties for a second (or later) violation. The student has right to a hearing and also to appeal any decisions. These rights are outlined in the student handbook.
+
+
+MAT043	Course Outline	Fall 2012
+
+
+
+4
+
+
+
+
+
+

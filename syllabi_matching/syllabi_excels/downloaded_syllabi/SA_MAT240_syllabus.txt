@@ -1,0 +1,61 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College MAT240 Course Syllabus
+
+MAT240  Linear Algebra Credits: 4:0:4 Prerequisite:  Mat 232 or written permission of Asst. Dean of 
+Academic Affairs Co-requisite: None
+Contact: John Steiner 856-351-2638 jsteiner@salemcc.edu.
+Course Description: This course is designed for students who need preparation for higher levels 
+of mathematics.  Topics include Linear equations, Matrix Algebra, Determinants, Vector Spaces, 
+Eigenvalues and Eigenvectors, and Orthogonality and Least squares.  Applications will be used 
+extensively throughout.  A TI graphing calculator is required.
+Place in the College Curriculum:
+This course is required in the Mathematics option of the Liberal Arts Degree.  This course can be taken 
+as a 4 credit Mathematics elective.Date of Last Revisions: November 2008
+Course Content Outline:I. Linear Equations in Linear Algebra A. Solution Sets of Linear Systems 
+B.Applications of Linear Systems C.Linear Independence D.Introduction to Linear Transformations E. The 
+Matrix of a Linear Transformation F.Linear Models in Business, Science, and Engineering II.Matrix 
+Algebra A.Matrix Operations B.The Inverse of a Matrix 
+C.Characterizations of Invertible Matrices D.Partitioned Matrices E.Matrix Factorizations F.The Leontief 
+Input-Output Model G.Applications to Computer Graphics H.Subspace of Rn  I.Dimension and Rank III. 
+Determinants A.Introduction to Determinants B.Properties of Determinants C.Cramer?s Rule, Volume, and 
+Linear Transformations IV.Vector Spaces A.Vector Spaces and Subspaces B.Null spaces, Column 
+Spaces, and Linear Transformations C.Linearly Independent Sets; Bases D.Coordinate Systems E.The 
+Dimension of a Vector Space F.Rank G.Change of Basis H.Applications to Difference Equations 
+I.Applications to Markov Chains V. Eigenvalues and Eigenvectors A.Eigenvectors and Eigenvalues B.The 
+Characteristic Equation C.Diagonalization D.Eigenvectors and Linear Transformations E.Complex 
+Eigenvalues F.Discrete Dynamical Systems G.Applications to Differential Equations H.Iterative 
+Estimates for Eigenvalues VI. Orthogonality and Least Squares A.Inner Product, Length, and 
+Orthogonality B.Orthogonal Sets C.Orthogonal Projections D.The Gram-Schmidt Process E.Least-
+Squares Problems F. Applications to Linear Models B.Inner Product Spaces C.Applications of Inner 
+Product Space
+Course Performance Objective #1:The student will use linear equations to solve application 
+programs.Course Performance Objective #2:The student will perform matrix algebra.
+Course Performance Objective #3:The student will demonstrate concepts involving determinants.Course 
+Performance Objective #4:The student will define and evaluate vector spaces.Course Performance 
+Objective #5:The student will apply Eigenvalues and Eigenvectors.Course Performance Objective 
+#6:The student will evaluate and construct least squares linesGeneral Education Requirements: The 
+general education goals covered in ?Linear Algebra? are critical thinking & problem solving, quantitative 
+skills, and science & technology.  See student handbook for additional details. Outcomes 
+Assessment:A college-wide outcomes assessment program has been put into place to enhance the 
+quality and effectiveness of the curriculum and programs at Salem Community College.  As part of this 
+assessment program, the learning outcomes for this course will be assessed.  Assessment methods 
+may include tests, quizzes, papers, reports, projects and other instruments.  Copies of all outcomes 
+assessments are available in an electronic assessment bank maintained by the Institutional Research and 
+Planning Office.
+Course Activities: Students will learn from lectures during which new material will be delivered, small 
+group discussions, individual explorations, practice work, and discussion of assigned homework 
+problems.  Students will have the opportunity to investigate the Linear Algebra concepts using some 
+computer software.Course Requirements and Means of Evaluation:Please refer to the instructor?s 
+syllabus addendum (to be distributed in class) for specific information regarding the course requirements 
+and means of evaluation.Attendance:  Regular and prompt attendance in all classes is expected of 
+students.  Students absent from class for any reason are responsible for making up any missed work.  
+Faculty members establish an attendance policy for each course and it is the student?s responsibility to 
+honor and comply with that policy.Academic Honesty Policy: Students found to have committed an act 
+of academic dishonesty may be subject to failure of this course, academic probation, and / or 
+suspension from the college. See the Student Handbook for additional details. Required Texts:Lay. 
+Linear Algebra and Its Application with CD-ROM, update, Addison-Wesley, 3rd Edition. ? 2008, 
+Lay. Student Study Guide Update, Addison-Wesley, ? 2006						
+		
+		Page 2

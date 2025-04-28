@@ -1,0 +1,79 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:  MA 207 Linear Algebra Lab for Engineers
+Credits:  1
+Contact Hours:  2
+Prerequisites
+MA140: Calculus II
+
+Description
+This is a linear algebra lab designed to prepare engineering students for their Differential Equations course.  Topics include vector operations, matrix row operations, matrix operations, determinants, vector spaces and subspaces, eigenvalues and eigenvectors, diagonalization and spectral decomposition, various applications, and numerical methods.  Students will be introduced to new concepts in a lecture format and will then experiment with those concepts in a lab setting using mathematical software.
+
+Learning Objectives  
+At the completion of this course, students should be able to:
+• Perform various operations using matrix and vector algebra. 
+• Solve systems of equations (and their applications) using Gaussian Elimination, as well as multiplication of the coefficient matrix inverse (if possible).
+• Use vector space properties to confirm a set of vectors is a vector space, and determine the basis and span of a given vector set.  Continue to apply the vector space principles throughout coursework.
+• Discuss the four Fundamental Subspaces of a matrix, and state the Rank Theorem.
+• Compute the eigenvalues and eigenvectors for square matrices, and use their results in various application, including raising matrices to high powers and spectral decomposition. 
+• Obtain the LU and QR forms of a matrix 
+• Compute Eigenvalues and Eigenvectors numerically using a variety of methods.
+Topical Outline
+Basic Concepts and Notations of Vectors/Matrices (3 weeks)
+• Vector Operations, Angle between vectors, and Projection
+• Linear Systems of Equations:
+• Gauss-Jordan Elimination
+• Reduced Row-Echelon Form
+• Properties of Systems 
+• Parameterization of Dependent solutions
+• Matrix Algebra
+• Matrix Addition, Scalar Multiplication
+• Matrix Multiplication
+• Matrix Transposition
+Matrix and Vector Space Theory (4 weeks)
+• Nonsingular Matrices, Inverse Matrices, Determinants, Cramer’s Rule
+• Vector Space:
+o Subspaces
+o Linear Combinations
+o Linear Span
+o Linear independence
+o Basis
+• The Fundamental Subspaces of a Matrix
+• Rank and Nullity
+Eigenvalues and Eigenvectors (5 weeks)
+• Properties of Eigenvectors
+• Diagonalization
+• Applications of Eigenvectors and Eigenvalues
+• Symmetric Matrices
+• The Graham-Schmidt Process
+• Diagonalization using Orthogonal Matrices
+• Positive Definite Matrices and Quadratic Applications
+• Complex Generalizations
+Numerical Methods (3 weeks)
+• LU Factorizations
+• Doolittle’s Method
+• Cholesky’s Method
+• Solving for Eigenvalues Numerically – Power Method, Shifted Power Method
+Required Texts and Other Materials 
+To Be Determined.
+Additional Considerations:  Class must take place in a room with computers, and one in which mathematics software can be installed on all computers. 
+Student Assessment
+Assessment may be accomplished through online homework assignments and projects, portfolios, exams, presentations and/or papers.
+
+Academic Integrity
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense.
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+      
+Available Resources
+If you are having difficulty with work in this class, tutoring is available through the Success Center.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600, x1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+ 
+1
+
+

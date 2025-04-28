@@ -1,0 +1,635 @@
+MAT136
+
+INTERMEDIATE ALGEBRA
+
+Credits:  4
+
+Prerequisite:  College Placement Test or MAT093 or written
+
+               permission of instructor
+
+Revised Syllabi Fall 2002
+
+
+
+Howard Valentine
+
+Department Chair, Mathematics
+
+valentinesalemcc.edu
+
+
+
+Course Description: This course is designed to enable students to
+
+               become very proficient in the
+
+               manipulative skills of traditional algebra.  Students
+
+               will investigate algebra both analytically and
+
+               graphically.  Major topics include functions, linear
+
+               equations and inequalities, properties of lines,
+
+               systems of equations, exponents and polynomials,
+
+               factoring, rational expressions, radical expressions,
+
+               and quadratic equations.  Methods of instruction
+
+               include lecture, group discussion, and graphical
+
+               analysis on both the graphing calculator and
+
+               computer.  The weekly labs focus on the topics of the
+
+               week and will consist of one of the following:  a
+
+               challenging problem set that the students work on
+
+               collaboratively, a graphing calculator investigation,
+
+               or a computer experiment where the students
+
+               investigate mathematics in an applied mode.
+
+
+
+
+
+Performance Objective 1:  The students will analyze functions.
+
+
+
+Enabling Objectives:
+
+1.   Given a function, the student will find its value at a number
+
+  in its domain analytically and graphically.
+
+2.   Given a function, the student will simplify its difference
+
+quotient.
+
+3.   Given a polynomial function, the student will find its domain
+
+analytically and graphically.
+
+4.   Given a rational function, the student will find its domain
+
+analytically and graphically.
+
+5.   Given a radical function, the student will find its domain
+
+analytically and graphically.
+
+6.   Given a polynomial function, the student will find its range
+
+analytically and graphically.
+
+7.   Given a rational function, the student will find its range
+
+graphically.
+
+8.   Given a radical function, the student will find its range
+
+analytically and graphically.
+
+
+
+
+
+Performance Objective 2:  The students will solve linear equations
+
+and inequalities.
+
+
+
+Enabling Objectives:
+
+1.   Given a linear equation in one variable, the student will solve
+
+  it analytically and graphically.
+
+2.   Given a linear equation in more than one variable, the student
+
+will solve for one of the variables in terms of the other variable.
+
+3.   Given a linear equation, the student will determine whether it
+
+is a conditional equation, an identity, or a contradiction
+
+analytically and graphically.
+
+4.   Given a linear inequality, the student will solve it
+
+analytically and graphically.
+
+5.   Given a solution to an inequality, the student will write it
+
+using interval notation.
+
+6.   Given a compound inequality using the work and, the student
+
+will solve it analytically and graphically and express the answer
+
+using interval notation.
+
+7.   Given a compound inequality using the word or, the student
+
+will solve it analytically and graphically and express the answer
+
+using interval notation.
+
+8.   Given a double inequality, the student will solve it
+
+analytically and graphically and express the answer using interval
+
+notation.
+
+9.   Given an absolute value equation, the student will solve it and
+
+determine if any solutions are extraneous.
+
+10.  Given an absolute value inequality, the student will rewrite it
+
+as a compound inequality.
+
+11.  Given an absolute value inequality, the student will solve it
+
+and express the answer using interval notation.
+
+
+
+                                                                    
+
+Performance Objective 3:  The student will find and analyze
+
+equations of lines.
+
+
+
+Enabling Objectives:
+
+1.   Given two points on a line, the student will find the slope of
+
+  the line.
+
+2.   Given the equation of a line, the student will find the slope
+
+of the line.
+
+3.   Given two points or the slope and a point, the student will use
+
+the point-slope form of the equation of a line to find its equation.
+
+4.   Given the slope and y-intercept, the student will use the slope-
+
+intercept form of the equation of a line to find its equation.
+
+5.   Given the line is vertical, the student will find its equation
+
+and its slope.
+
+6.   Given the line is horizontal, the student will find its
+
+equation and its slope.
+
+7.   Given the equation of a line and point not on the line, the
+
+student will find the slope of the line parallel to the given line
+
+and will find the equation of the parallel line through the given
+
+point.
+
+8.   Given the equation of a line and a point not on the line, the
+
+student will find the slope of the line perpendicular to the given
+
+line and find the equation of the perpendicular line through the
+
+given point.
+
+
+
+
+
+Performance Objective 4:  The student will manipulate polynomials.
+
+
+
+Enabling Objectives:
+
+1.   Given an exponent problem, the student will use the product,
+
+  quotient, power, product to a power, and quotient to a power
+
+  rules correctly.
+
+2.   Given an exponent problem, the student will interpret a zero
+
+exponent and a negative exponent correctly.
+
+3.   Given a polynomial addition problem, the student will add
+
+correctly.
+
+4.   Given a polynomial subtraction problem, the student will
+
+subtract correctly.
+
+5.   Given a monomial and a polynomial, the student will be able to
+
+multiply correctly.
+
+6.   Given two polynomials, the student will multiply correctly.
+
+7.   Given a monomial and a polynomial, the student will divide
+
+correctly.
+
+8.   Given two polynomials, the student will divide correctly.
+
+9.   Given a polynomial, the student will divide by s-a using
+
+synthetic division.
+
+                                                                    
+
+Performance Objective 5:  The student will completely factor
+
+polynomials.
+
+
+
+Enabling Objectives:
+
+1.   Given a polynomial, the student will identify and factor the
+
+  greatest common factor from the polynomial.
+
+2.   Given a polynomial that can be factored by grouping, the
+
+student will factor.
+
+3.   Given a binomial that is a difference of squares, the student
+
+will factor.
+
+4.   Given a trinomial with a leading coefficient o one, the student
+
+will factor.
+
+5.   Given a trinomial with a leading coefficient not one, the
+
+student will factor.
+
+6.   Given a binomial that is a sum of cubes, the student will
+
+factor.
+
+7.   Given a binomial that is a difference of cubes, the student
+
+will factor.
+
+
+
+
+
+Performance Objective 6:  The student will simplify rational
+
+expressions and solve rational equations.
+
+
+
+Enabling Objectives:
+
+1.   Given a rational expression, the student will reduce to lowest
+
+  terms.
+
+2.   Given two or more rational expressions, the student will
+
+multiply and leave answer in lowest terms.
+
+3.   Given two rational expressions, the student will divide and
+
+leave answer in lowest terms.
+
+4.   Given two or more rational expressions, the student will add
+
+and leave answer in lowest terms.
+
+5.   Given two rational expressions, the student will subtract and
+
+leave answer in lowest terms.
+
+6.   Given a complex fraction, the student will simplify.
+
+7.   Given a rational equation, the student will solve analytically
+
+and graphically and determine if any solutions are extraneous.
+
+
+
+
+
+Performance Objective 7:  The student will simplify radical
+
+expressions and solve radical equations.
+
+
+
+Enabling Objectives:
+
+1.   Given an expression with rational exponents, the student will
+
+  simplify using the properties of exponents.
+
+2.   Given a radical expression, the student will simplify.
+
+3.   Given two or more radical expressions, the student will
+
+multiply and/or divide and leave answers simplified.
+
+4.   Given a radical equation, the student will solve analytically
+
+and graphically and determine if any solutions are extraneous.
+
+5.   Given a complex number, the student will write in a  bi
+
+form.
+
+6.   Given two complex numbers, the student will add an/or subtract.
+
+7.   Given two complex numbers, the student will multiply and/or
+
+divide.
+
+
+
+                                                                    
+
+Performance Objective 8:  The student will solve quadratic
+
+equations.
+
+
+
+Enabling Objectives:
+
+1.   Given a quadratic equation, the student will solve by
+
+  factoring, if possible.
+
+2.   Given a quadratic equation, the student will solve by
+
+completing the square.
+
+3.   Given a quadratic equation, the student will solve by using the
+
+quadratic formula.
+
+4.   Given a quadratic equation, the student will be able to solve
+
+graphically.
+
+5.   Given an equation, quadratic in type, the student will be able
+
+to solve.
+
+6.   Given a nonlinear inequality, the student will be able to solve
+
+and express the answer using interval notation.
+
+
+
+
+
+Performance Objective 9:  The student will solve systems of linear
+
+equations.
+
+
+
+Enabling Objectives:
+
+1.   Given a 2 x 2 linear system, the student will solve both
+
+  analytically and graphically.
+
+2.   Given a 3 x 3 linear system, the student will solve
+
+analytically.
+
+
+
+                                                                    
+
+Required Text: Wright, D. Franklin and Bill D. New, Intermediate
+
+               Algebra, 4th ed., Hawkes Publishing.
+
+
+
+Course Requirements and Means of Evaluation:
+
+               Quizzes (5 or more) 10 points each
+
+               Exams (3 or more) 100 points each
+
+               Final Exam (comprehensive) 200 points
+
+               Lab Activities (best 13 of 15, 5 points each) 65
+
+               points
+
+
+
+Course Grade:  (based on a percentage of total possible points)
+
+
+
+               A    93 - 100
+
+               A-   90 - 92
+
+               B   88 - 89
+
+               B    83 - 87
+
+               B-   80 - 82
+
+               C   78 - 79
+
+               C    73 - 77
+
+               C-   70 - 72
+
+               D   68 - 69
+
+               D    60 - 67
+
+               F     59
+
+
+
+Attendance:  Students are expected to attend all scheduled classes.
+
+
+
+Academic Honesty Policy: Students found to have committed an act of
+
+                    academic dishonesty may be subject to failure in
+
+                    this course, academic probation, and/or
+
+                    suspension from the college.  See the Student
+
+                    Handbook for additional details.
+
+Course Activities:  Content will be delivered by means of lecture,
+
+               group discussion, and laboratory exercises including
+
+               collaborative work as well as calculator and computer
+
+               investigations.  The student will have the
+
+               opportunity to explore mathematics weekly to
+
+               reinforce the content he/she is learning in class.
+
+
+
+
+
+
+
+Course Content Outline:
+
+
+
+  I.   Functions
+
+       A.   Notation
+
+B.   Domain
+
+C.   Range
+
+
+
+  II.  Linear equations and inequalities
+
+       A.   Solve linear equations
+
+B.   Solve linear inequalities
+
+C.   Solve compound inequalities
+
+D.   Solve absolute value equations
+
+E.   Solve absolute value inequalities
+
+
+
+  III. Properties of Lines
+
+       A.   Slope
+
+B.   Find equation satisfying given conditions
+
+C.   Vertical and horizontal lines
+
+D.   Parallel and perpendicular lines
+
+
+
+  IV.  Polynomials
+
+       A.   Monomial arithmetic
+
+B.   Addition
+
+C.   Subtraction
+
+D.   Multiplication
+
+E.   Long division
+
+F.   Synthetic division
+
+
+
+  V.   Factoring
+
+       A.   Greatest common factor
+
+B.   Grouping
+
+C.   Difference of squares
+
+D.   Trinomials
+
+E.   Sum and difference of  cubes
+
+
+
+  VI.  Rational expressions
+
+       A.   Reducing
+
+B.   Multiplication
+
+C.   Division
+
+D.   Addition
+
+E.   Subtraction
+
+F.   Simplifying complex fractions
+
+G.   Solving rational equations
+
+                                                                    
+
+  VII. Radical expressions
+
+       A.   Rational exponents
+
+B.   Simplifying
+
+C.   Multiplication and division
+
+D.   Addition and subtraction
+
+E.   Solving radical equations
+
+F.   Performing operations on complex numbers
+
+
+
+  VIII.     Quadratic equations
+
+       A.   Solve quadratic equations by factoring
+
+B.   Solve quadratic equations by completing the square
+
+C.   Solve quadratic equations by quadratic formula
+
+D.   Solve quadratic equations by graphing
+
+E.   Solve quadratic equations in type
+
+F.   Solve nonlinear inequalities
+
+
+
+  IX.  Systems of equations
+
+       A.   2 x 2 linear systems
+
+B.   3 x 3 linear systems

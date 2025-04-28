@@ -1,0 +1,377 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+MATH152
+
+
+
+COURSE NAME
+
+College Algebra  Trigonometry
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+4 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+A grade of C or higher in MATH151 is required as a prerequisite
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+Revised
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Elaine Klett, Department Chair
+
+eklettbrookdalecc.edu
+
+732-224-2835
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course, followed by MATH 153, prepares students for the study of 
+calculus. Topics include functions and function notation, rate of change and 
+linear functions, transformations of functions, a review of right triangle 
+trigonometry, graphing trigonometric functions, applications leading to 
+sinusoidal graphs, trigonometric functions through the unit circle, some 
+basic identities, solving equations, identities as tools for rewriting 
+trigonometric expressions, the double and half-angle identities, quadratic 
+functions, power functions, and polynomial functions. Problems are 
+approached from a variety of perspectives, including graphical, numerical, 
+verbal, and algebraic. A graphing calculator is required the specific model 
+is determined by the mathematics department 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+
+
+Unit 1 Outcomes: You will:
+
+Know the definition of a function.
+
+Determine whether a graph, a table, or an equation represents a function.
+
+Use function notation to express relationships and evaluate functions.
+
+Evaluate a function at numerical and variable inputs and simplify the result 
+algebraically. 
+
+Given an output for a function, write and solve an equation (algebraically 
+and graphically) to find the input. 
+
+Determine the domain and range of a function.
+
+Determine and interpret the average rate of change of a function on an 
+interval 
+
+Use a graph or table to determine where a function is increasing or 
+decreasing, concave up or concave down, and write the result in interval 
+notation. 
+
+Determine the slope and equation of a linear function.
+
+Interpret the slope and intercepts of a linear function.
+
+Solve applications problems involving linear functions and interpret the 
+results in the context of the situation. 
+
+Set up a system of linear equations and solve the system graphically and 
+algebraically. 
+
+Know the properties of all the functions in the library of basic functions.
+
+Graph a piecewise function and determine its domain and range.
+
+Write a formula for a piecewise function from an application or a graph.
+
+Graph a function using a transformation.
+
+Find a formula for a transformed graph in terms of the original function.
+
+
+
+Unit 2 Outcomes: You will:
+
+Identify different types of angles.
+
+Define the trigonometric functions as ratios in a right triangle.
+
+Use the Pythagorean Theorem and trigonometry to solve right triangles that 
+is, find all sides and all angles. 
+
+Use trigonometry to solve application problems involving right triangles.
+
+Define and use radian measure of an angle.
+
+Convert between radian and degree measure of an angle.
+
+Know the two special triangles.
+
+Know the values of the trigonometric functions for special angles.
+
+Find the values of trig functions for any angle.
+
+Graph the six trigonometric functions by hand.
+
+Know the properties of the graphs of the trigonometric functions.
+
+Define the trigonometric functions as coordinates of points on the unit 
+circle. 
+
+Graph a sine or cosine function using transformations, including shifts, 
+reflections, compressions, and stretches. 
+
+Solve trigonometric equations graphically and using trigonometry and 
+algebra. 
+
+Find a formula for a transformed sinusoidal graph in terms of the original 
+function. 
+
+Model periodic phenomena using a sinusoidal function.
+
+
+
+Unit 3 Outcomes: 
+
+
+
+Review the algebra of algebraic fractions and solving equations and systems 
+of equations. 
+
+Know the fundamental identities, including all versions of the Pythagorean 
+identities. 
+
+Use identities to rewrite trigonometric expressions.
+
+Know the double-angle identities for trig functions.
+
+Rewrite trig expressions using the double-angle identities.
+
+Solve trig equations using trigonometry and algebra and check graphically.
+
+Know the definition of a quadratic function.
+
+Graph a quadratic function by finding the vertex and intercepts.
+
+Find the equation for a quadratic function given sufficient information.
+
+Solve quadratic equations algebraically and graphically.
+
+Solve applications problems involving quadratic functions.
+
+Solve non-linear inequalities using a sign diagram.
+
+Know the definition of a power function and a polynomial function.
+
+Use laws of exponents to rewrite expressions.
+
+Solve simple exponential equations.
+
+Give the basic shape of the graph of a power function based on its power and 
+the sign of the coefficient. 
+
+Find the equation of a power function given two points.
+
+Identify the long-run behavior of a polynomial function
+
+Find the zeros of a polynomial function algebraically, when possible, or 
+graphically. 
+
+Graph a polynomial function by identifying the long run and short run 
+behavior. 
+
+Find the equation of a polynomial function given sufficient information.
+
+Solve polynomial equations algebraically and graphically.
+
+Solve application problems involving polynomial functions
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+1.Textbook: custom edition of  Barnett, Ziegler, and Byleen, Analytic 
+Trigonometry and Connally, Hughes-Hallett, et al, Functions Modeling Change: 
+A Preparation for Calculus,  John Wiley  Sons, 2006. 
+
+2.Graphing Calculator: The calculator for this course is the TI-83 (any 
+version) or TI-84 (any version).  The use of any other calculator should be 
+discussed with the instructor.  The TI-89 and TI-92 may not be used for 
+testing. 
+
+3.   Graph paper
+
+4.Ruler: You should bring a small ruler to each class.
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+Grading Standard: 
+
+In this course, you will be evaluated by means of tests, projects, quizzes 
+and labs (and possibly homework). 
+
+
+
+TESTS
+
+There will be three tests, one after each unit. Each test will have two 
+parts: a graphing calculator part and a non-calculator part. All supporting 
+work must be shown on tests in order for your instructor to properly assess 
+your understanding of the material. The tests will be given in class and it 
+is expected that you will be in class to take the test on the day it is 
+given. If you are very ill (verifiable with a doctors note) or you have some 
+other emergency, you must contact your instructor immediately. Each test 
+will be worth 25 of your grade. 
+
+
+
+
+
+GRADING
+
+Each test is graded on the basis of 100 points and is worth 25 of your 
+grade. Labs, quizzes, and projects result in a combined grade worth 25 of 
+your grade. Your instructors addendum will state the exact percentages of 
+each. 
+
+FINAL GRADE
+
+Your final grade is determined by your final course average, which is a 
+weighted average of your three test grades and your project/lab/quiz grade. 
+Your final grade is determined as follows: 
+
+If your final course average is
+your final grade is
+90  100
+A
+87  89 
+B
+80  86
+B
+77  79
+C
+70  76 
+C
+60  69
+    D
+Below 60
+F
+ To use this course as a prerequisite for another mathematics course, you 
+must have a grade of C or better. 
+
+
+
+Incomplete
+
+INC is only given at the discretion of your instructor.  This may occur in 
+documented cases of hardship or emergency.  In this case, you must meet with 
+the instructor to discuss the work that must be completed to earn a grade in 
+the course. All work must be completed within 21 days of the end of the 
+term, exclusive of official college closings. 
+
+
+
+Withdrawal
+
+You may withdraw from the course, without penalty, up to a date set by the 
+College. If you do not withdraw from the course but stop attending, your 
+grade at the end of the semester will be F. 
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+LABS/QUIZZES/HOMEWORK
+
+There are periodic quizzes in the course and there may be several labs. Labs 
+are done in groups during class time and may be assessed either individually 
+or as a group assignment. Your instructor may also choose to use homework 
+assignments for evaluation. 
+
+
+
+PROJECTS
+
+There will be at least three projects for the course, to be done in groups 
+outside of class. In the projects, you will apply the concepts and skills 
+learned in class to a problem situation, present the mathematics, write 
+careful explanations, and interpret your results. Specific guidelines for 
+the projects will be handed out with Project 1. 
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+Unit 1- In this unit you will study functions and function notation, rate of 
+change and linear functions, a library of basic functions, and 
+transformations of functions. 
+
+Unit 2- In this unit, you will begin with a review of right triangle 
+trigonometry, then study exact values for special angles and their 
+multiples, the graphs of trigonometric functions, applications of sinusoidal 
+graphs, the definition of trigonometric functions through the unit circle, 
+some basic identities, and using identities to rewrite expressions and solve 
+equations. 
+
+Unit 3- In this unit, you will integrate algebra skills with new material by 
+reviewing the algebraic skills needed to work with identities, continuing to 
+work with the trigonometric functions, using identities as tools for 
+rewriting trigonometric expressions, studying the double and half-angle 
+identities, and solving equations using these identities. Then you will 
+return to algebraic functions and study quadratic functions, power 
+functions, and polynomial functions, as well as the skills needed to 
+simplify related expressions and solve equations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	IT 160 CNC Programming
+
+Credits:	4 (4:3:2)
+
+Prerequisites:	IT 211 Advanced Engineering Technology Design
+
+Description: A study of the capabilities, programming procedures, advantages, and disadvantages of numerical control (N/C) and computerized numerical control (CNC) metalworking machine tools. Manual methods for generating, debugging, and running point-to-point and continuous path programs including linear and circular interpolation, canned cycles, loops, and subroutines to produce work pieces of increasing complexity. This course will be completed in a lab setting and is based on lecture and lab.
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+* Understand the nature, applications, advantages, and disadvantages of numerical control machine tools.
+* Understand and follow safety-related procedures for part design and machine operation.
+* Manually write, edit, debug, and use N/C programs to produce a piece part.
+* Utilize canned cycles, loops, and subroutines.
+* Set up, communicate with, and safely operate N/C machines.
+* Select cutters, cutting and spindle speeds, and feedrates for both N/C mill and N/C lathe programs.
+* Understand basic tooling and part holding requirements.
+
+
+Topical Outline:
+
+* CNC production philosophy and equipment
+* Coordinate systems – cartesian and polar
+* Absolute and incremental movement
+* Cutting speeds for milling and drilling
+* Drawing basic stock shapes using geometric methods
+* Adding features to the stock
+* Generating tool paths
+* Generating G-code from the tool paths
+* Mill operation
+
+
+
+Text: Amatrol Lab manual and text
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				30%
+      Assignments				10%
+      Lab Exercises				30%
+      Final Exam				30%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+
+
+

@@ -1,0 +1,148 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+MATH 124H Mathematical Thinking (proposed) 
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+ACADEMIC COURSE OUTLINE 
+
+
+MATH 124H MATHEMATICAL THINKING – HONORS 
+
+
+I. Basic Course Information 
+A. Course Number and Title: MATH 124H Mathematical Thinking - Honors 
+B. New or Modified Course: Modified 
+C. Date of Proposal: Spring 2008 
+D. Sponsoring Department: Mathematics 
+E. Semester Credit Hours: 1 
+F. Weekly Contact Hours: 1 Lecture: 1 
+Laboratory: 0 
+G. Prerequisite or Corequisite: MATH 150 Applied Calculus 
+or MATH 151 Calculus 
+H. Laboratory Fees: None 
+
+I. Department Chair: Siham Alfred, salfred@raritanval.edu 
+II. Catalog Description 
+Prerequisite or Corequisite: MATH 150 Applied Calculus or MATH 151 
+Calculus I. This course is designed to introduce students to the techniques of 
+understanding and writing mathematical proof. Emphasis is on analyzing and 
+writing proofs. Problems from a variety of mathematical areas are considered. 
+Topics include set notation and operations, proof techniques, and induction. 
+
+III. Statement of Course Need 
+Honors courses in mathematics have been developed to provide mathematically 
+talented students the opportunity to obtain a level of rigor not currently available 
+in existing courses. The concept of mathematical proof is fundamental to all areas 
+of mathematics, but is not stressed in any of the currently-offered courses. The 
+ability to understand the underlying logic in proof requires effective mathematical 
+communication. This course will introduce the student to both the language and 
+the logic used by mathematicians to work through problems that cannot be solved 
+by simply substituting numbers into a template. 
+
+OAA/je 1 
+
+4/2/2008 
+
+
+MATH 124H Mathematical Thinking (proposed) 
+
+IV. Place of Course in College Curriculum 
+A. This course serves as a one credit free math elective for all programs. 
+B. This course serves as an Honors program math course. 
+C. This course transfers as a math course in most liberal arts programs. 
+V. Outline of Course Content 
+A. Forward-backward method 
+B. Definitions and terminology 
+C. Quantifiers, Construction method 
+D. Quantifiers, Choose method 
+E. Quantifiers, Specialization 
+F. Nested Quantifiers 
+G. Contradiction Method 
+H. Contrapositive Method 
+I. Induction 
+VI. Educational Goals and Learning Outcomes 
+A. Educational Goals 
+Students will: 
+
+1. apply mathematical arguments to problems. (G. E. 1) 
+2. solve problems quantitatively and symbolically. (G. E. 7) 
+B. 
+Learning Outcomes 
+Students will be able to: 
+
+1. 
+Use the different methods of proof to prove a mathematical statement. 
+2. 
+Manipulate quantified statements following the rules of mathematical 
+logic. 
+3. 
+Translate a written statement into its mathematical form using 
+appropriate quantifiers. 
+VII. Modes of Teaching and Learning 
+The following are appropriate to the course and may be included: 
+
+A. Lecture/discussion 
+B. Small-group work 
+C. Computer assisted instruction 
+D. Student oral presentations 
+E. Student Collaboration 
+F. 
+Independent study 
+OAA/je 
+2 
+
+4/2/2008 
+
+
+MATH 124H Mathematical Thinking (proposed) 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+A. Tests 
+B. Quizzes 
+C. Homework 
+D. Final Examination 
+E. Essays 
+F. 
+Oral Presentations 
+IX. Grade Determinants 
+A. Tests 
+B. 
+Quizzes 
+C. Projects 
+D. 
+Laboratory products 
+E. 
+Homework 
+F. Final exam 
+X. 
+Texts and Materials 
+Suggested Textbook: Mathematical Proofs: a Transition to Advanced 
+Mathematics, 2nd edition, by Gary Chartrand, Albert D. Polimeni and Ping Zhang, 
+Pearson-Addison Wesley, 2008 
+
+Please Note: The course outline is intended only as a guide to course content and 
+resources. Do not purchase textbooks based on this outline. The RVCC Bookstore 
+is the sole resource for the most up-to-date information about textbooks. 
+
+XI. Resources 
+No additional resources are needed. 
+
+XII. Honors Course 
+A. Educational Goals and Learning Outcomes: 
+See detailed Educational Goals 
+and Student Learning Outcomes in Section VI. 
+B. Honors Content: 
+Mathematical Thinking deals with the subject of 
+mathematical proof. While it is always present in other math courses, formal 
+proof is not usually emphasized. A typical course in mathematical proof is 
+usually offered to mathematics majors at the junior-year level. This course 
+introduces the calculus student to the fundamentals of proof and gives them 
+experience in creating their own formal proofs of mathematical statements. 
+C. Grade Determinants for Honors Work: See Section IX. 
+OAA/je 
+3 
+
+4/2/2008 
+
+

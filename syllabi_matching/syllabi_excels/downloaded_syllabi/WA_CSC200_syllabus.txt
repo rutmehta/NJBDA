@@ -1,0 +1,204 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Computer Science 200
+
+Database Management Concepts
+
+Credits: 3.0
+
+Prerequisite: Computer Science 103 (Introduction to
+
+Computing) or Computer Science 112 (Microcomputer Software
+
+Applications)
+
+New Course -  Spring 2004
+
+
+
+Susan Franciosi
+
+Area Coordinator, Computer Science, Graphics, Multimedia
+
+franciosiwarren.edu
+
+
+
+            This course will focus on database design, implementation
+
+and administration.
+
+            It will cover methods and procedures used in the design and
+
+development of relational databases. Topics will include
+
+database development, database design, query and report
+
+processing, principles of security, introduction to user
+
+interface design, macros and the basics of web/database
+
+connectivity. Students will use a popular microcomputer
+
+relational database management system.
+
+
+
+Course Objectives:    By the end of the course the student
+
+                      will be able to:
+
+
+
+1.   Define database management systems.
+
+2.   Identify the components of a database program.
+
+3.   Describe the guidelines for designing databases and
+
+setting field properties.
+
+4.   Create and maintain a database using the features in a
+
+popular software program.
+
+5.   Explain and demonstrate how to retrieve information
+
+from a database.
+
+6.   Demonstrate how to create forms and reports for data
+
+entry and presenting data.
+
+7.   Integrate a database with the Web and other programs.
+
+8.   Use macros to create a graphical user interface.
+
+9.   Write Visual Basic for applications code.
+
+10.  Manage and secure a database.
+
+
+
+Text:
+
+New Perspectives on Microsoft Access 2002, Comprehensive
+
+Joseph J. Adamski, Kathleen T. Finnegan
+
+Publisher: Course Technology Thomson Learning
+
+Bibliography/Supplementary Materials:
+
+A.   CD  - Data disks
+
+B.   Online - www.course.com/NewPerspectives
+
+C.   Additional assigned reading with relevance to the topic
+
+under discussion, including magazines and newspaper
+
+articles.
+
+
+
+Grade Determinants:
+
+3 Exams             45
+
+Weekly Internet Projects 40
+
+Lab Exercises            15
+
+
+
+Course Topics:
+
+I. Introduction to Database Management Systems
+
+   A. Database Concepts
+
+   B. Organizing Data
+
+   C. Databases and Relationships
+
+   D. Relational Database Management Systems
+
+II.   Creation and Maintenance of a Database
+
+   A. Designing and Creating a Database
+
+   B. Modifying a Database
+
+   C. Importing Data from another Source
+
+III.  Retrieving Information from a Database
+
+   A. Creating and modifying a query
+
+   B. Defining Table Relationships
+
+   C. Sorting and Filtering Data
+
+IV.   Forms and Reports
+
+   A. Designing and Creating a Form and Subforms
+
+   B. Designing and Creating a Report
+
+V. Enhancing the Components of a Database
+
+   A. Setting Field Parameters
+
+   B. Creating a Custom and Multi-page Forms
+
+   C. Filtering Data Using a Form
+
+VI.   Custom Reports
+
+   A. Designing and Creating a Custom Report
+
+   B. Adding a Subreport
+
+   C. Creating Mailing Labels
+
+VII.  Integrating a Database with the Web and Other Programs
+
+   A. Exporting Data into an HTML document
+
+   B. Updating Data on a Data Access Page
+
+   C. Creating and Using a PivotTable
+
+   D. Importing and Exporting Data into Other Programs
+
+VIII. Enhancing User Interaction with Action Queries
+
+   A.   Using Wizards to Create Queries
+
+B.   Creating and Using Action Queries
+
+C.   Establishing Relationships Between Database Tables
+
+IX.   Automating Tasks with Macros
+
+   A.   Implementing a Graphical User Interface
+
+B.   Macro Groups and SQL
+
+C.   Creating a Switchboard
+
+X. Using and Writing Visual Basic for Applications Code
+
+   A. Visual Basic for Applications
+
+   B. Creating an Event Procedure
+
+   C. Coding Procedures for Queries
+
+XI.   Managing and Securing a Database
+
+   A. Analyze Database Performance
+
+   B. Securing an Database

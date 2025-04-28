@@ -1,0 +1,127 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+Course:  CS 242  Principles of Information and Web Security
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+None
+
+
+
+Description 
+
+      Examines the field of information security to prepare information 
+systems students for their roles as business decision-makers. A balance of 
+the managerial and technical aspects of the discipline is presented. 
+Information within real-world context is included in this course. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Identify and discuss the fundamental reasons why information systems 
+security is such a critical element in todays business, government, 
+education, and home technology-based environments 
+
+ Identify and discuss the key information systems security legislative and 
+policy documents that provide guidance in developing an information system 
+security program for an organization (information literacy) 
+
+ Review and develop the key elements of an information systems security 
+management program 
+
+ Perform and document a risk-based analysis of information systems security 
+for an organization, to include identification of threats, vulnerabilities, 
+and countermeasures (effective writing) 
+
+ Develop a security plan to address the results of the risk assessment 
+(effective writing) 
+
+ Research and report on the key technological solutions to achieving 
+information systems security (information literacy, effective writing) 
+
+ Identify and discuss the ethical and societal issues related to 
+implementing information systems security programs (civic responsibility). 
+
+
+
+Topical Outline
+
+ Introduction to Information Security
+
+ The Need for Security
+
+ Legal, Ethical, and Professional Issues in Information Security
+
+ Risk Management: Identifying and Assessing Risk
+
+ Risk Management: Assessing and Controlling Risk
+
+ Blueprint for Security
+
+ Planning for Continuity
+
+ Security Technology
+
+ Appendix: Cryptography
+
+ Physical Security
+
+ Implementing Security
+
+ Security and Personnel
+
+ Information Security Maintenance
+
+ Comprehensive Review
+
+
+
+Texts
+
+      Principles of Information Security by Whitman  Mattord, 2nd edition: 
+Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

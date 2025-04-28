@@ -1,0 +1,424 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+                                                                   
+
+                  Mercer County Community College
+
+                                 
+
+            Arts, Communication and Technology Division
+
+                                 
+
+                              CIS 250
+
+                                 
+
+                ACCESS 2000 CONCEPTS AND TECHNIQUES
+
+                                 
+
+                                 
+
+                                 
+
+
+
+COURSE DESCRIPTION:
+
+This course is designed to cover current and advanced topics such
+
+as VBA development, dynamic data-driven web sites, Internet
+
+security, and office integration.  Students will learn the features
+
+offered in new Access program, including web publishing,
+
+subdatasheet views, improved SQL Server integration, and much more.
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:  CIS 147
+
+
+
+Co-requisites:   None
+
+
+
+Credits:  4         Lecture Hours: 2         Studio/Lab Hours:  2
+
+
+
+Food and drink are strictly prohibited in classrooms as per health
+
+ and safety laws.  Students may not bring in chemicals or cleaning
+
+            fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox             Latest Review:
+
+8/2001
+
+
+
+
+
+                                 
+
+                                 
+
+
+
+COURSE OBJECTIVES
+
+
+
+This course is designed to cover hot and advanced topics such as
+
+VBA development, dynamic data-driven web sites, Internet security,
+
+and Office integration.  Students will learn the features offered
+
+in new Access program, including web publishing, subdatasheet
+
+views, improved SQL Server integration, and much more. Students
+
+will create, manipulate, and customize databases using Access/VBA
+
+environment.
+
+
+
+TESTS
+
+
+
+A minimum of six tests/mini projects will evaluate student
+
+learning. Each test/mini project will contain sentence completion,
+
+interpretation of a flowchart and/or program, and may require the
+
+writing of a program or program element.
+
+
+
+QUIZZES
+
+
+
+Students should expect a brief quiz each week based upon the
+
+previous lecture and reading assignment.
+
+
+
+LABORATORY
+
+
+
+Students will be given a minimum of six major projects to provide a
+
+hands-on experiential component in the programming environment.
+
+All assignments will have deadlines.
+
+
+
+LABORATORY EVALUTION
+
+
+
+Students performance of each laboratory assignment will be
+
+evaluated and assigned a point value according to the following:
+
+
+
+
+
+          Standards           0 to 2 points
+
+                         Adherence to specified Programming
+
+                         Standard. Programs must contain properly
+
+                         identified modules. The minimum modules
+
+                         for any program are: Program
+
+                         Identification, Variable Map, Program
+
+                         Description, Main Routine, and EOJ
+
+                         Routine.
+
+                         
+
+
+
+     Remarks             0 to 2 point
+
+                         Generous use of remarks within the Main
+
+                         and Subroutines must be made.
+
+
+
+
+
+
+
+Use of Project Lesson         0 to 2 points
+
+                         The Visual Basic/Oracle/both elements
+
+                         specified in the project lesson section
+
+                         of the assignment must be used.
+
+          
+
+     Execution           0 to 4 points
+
+                         Output must be according to the projects
+
+                    specifications.
+
+          
+
+     Total each project       0 to 10 points
+
+
+
+
+
+
+
+FINAL GRADE
+
+
+
+     The final grade is a composite based upon:
+
+
+
+          Tests (Theory/projects/both)       40
+
+          Laboratory Major Projects(class)             30
+
+          Midterm Examination                15
+
+          Final Examination                               15
+
+
+
+
+
+
+
+
+
+Course Outline
+
+
+
+
+
+PART I  AN OVERVIEW OF ACCESS
+
+
+
+    Getting Started and Getting Around
+
+    Understanding Databases
+
+    Access in an Evening
+
+    About Access, Office, Windows, and the Internet
+
+
+
+PART II  CREATING A DATABASE
+
+        
+
+    Creating a Database
+
+    Creating Access Tables
+
+    Linking, Importing, and Exporting Data
+
+    Adding, Editing, and Viewing Data
+
+    Sorting, Searching, Filtering, and Printing
+
+    Querying Your Tables
+
+    Creating Forms with Form Wizards
+
+    Creating Reports with Report Wizards
+
+    Creating Custom Forms and Reports
+
+    Creating Data Access Pages
+
+    Creating Charts and PivotTables
+
+
+
+PART III  DATABASE AND TUNING AND ADMINISTRATION
+
+        
+
+    Personalizing Access
+
+    Speeding Up Your Database
+
+    Administering Your Database
+
+    Networking and Security
+
+
+
+PART IV  BUILDING A CUSTOM APPLICATION
+
+        
+
+    Creating a Custom Application
+
+    Using Macros to Create Custom Actions
+
+    Creating Custom Switchboards
+
+    Creating Custom Dialog Boxes
+
+    Creating Custom Toolbars
+
+    Creating Custom Menus
+
+
+
+
+
+
+
+PART V  REFINING A CUSTOM APPLICATION
+
+        
+
+    Introducing Visual Basic
+
+    Creating Custom Error Messages
+
+    Interacting with Other Programs
+
+    Pulling It All Together
+
+    Working with Projects
+
+
+
+PART VI  MACRO PROGRAMMING
+
+
+
+    Macro Basics
+
+    Dealing with Errors in Macros
+
+    Navigation with Macros
+
+    Data Maintenance with Macros
+
+    Working with Groups of Records Using Macros
+
+
+
+Academic Integrity Statement:
+
+
+
+A student who a.) knowingly represents work of others as his/her
+
+own b.) uses or obtains unauthorized assistance in the execution
+
+of any work or c.) gives fraudulent assistance to another student
+
+is guilty of cheating. Violators will be penalized. (Student
+
+Handbook)
+
+
+
+Classroom Conduct Statement:
+
+
+
+It is the students responsibility to attend all of their classes.
+
+If they miss a class meeting for any reason, students are
+
+responsible for all content that is covered, for announcements made
+
+in their absence, and for acquiring any materials that may have
+
+been distributed in class. It is expected that students be on time
+
+for all their classes. If students walk into a class after it had
+
+begun, it is expected that they choose a seat close to where they
+
+entered the room so they do not disrupt the class meeting.
+
+
+
+Students are expected to follow ordinary rules of courtesy during
+
+class session. Engaging in private, side conversations during class
+
+time is distracting to other students and to the instructor.
+
+Leaving class early without having informed the instructor prior to
+
+class is not appropriate. Unless there is an emergency, leaving
+
+class and returning while class is in session is not acceptable
+
+behavior. Disruptive behavior of any type, including sharpening
+
+pencils during class while someone is speaking, is not appropriate.
+
+
+
+The college welcomes all students into an environment that creates
+
+a sense of community and pride and respect we are all here to work
+
+cooperatively and to learn together.
+
+     
+
+                                 

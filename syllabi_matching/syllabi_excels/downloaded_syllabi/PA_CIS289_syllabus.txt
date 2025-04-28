@@ -1,0 +1,235 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Course Outline
+
+Computer Forensics and Investigations
+
+
+
+Title:Computer Forensics and InvestigationsCourse Number:CIS 289
+
+Number of Credits:  4                                Laboratory Hours: Open 
+lab 
+
+Textbooks: Guide to Computer Forensic and Investigations,
+
+by Amelia Phillips, Bill Nelson, Frank Enfinger, Chris Steuart
+
+Course Technology
+
+
+
+Reference:  Incident Response: A Strategic Guide to Handling System and 
+Network 
+
+Security Breaches by Schulz and Shumway, (Prentice Hall)
+
+      
+
+Prerequisites: CIS 106, CIS 180, CIS 286 
+
+
+
+Course Description:
+
+Introduces the field of Computer Forensics with a comprehensive 
+understanding of computer forensics and investigation tools and techniques. 
+Students learn what computer forensics and investigations are and how they 
+relate to corporate, civil and criminal investigations.  Students gain an 
+understanding of the overall investigative process and an understanding of 
+digital evidence preservation, image recovery, email investigations, network 
+defense and countermeasures techniques. Students gain hands-on experience 
+using several computer forensic tools. 
+
+
+
+The course provides a range of laboratory and hands-on assignments that 
+teach students about theory as well as the practical application of computer 
+forensic investigation 
+
+
+
+The course is mapped to the objectives of the international Association of 
+Computer Investigative Specialists (ACIS) certification 
+
+
+
+Course Outcome/Objective:
+
+Upon completion of this course, students will be able to
+
+ Demonstrate the process of data preservation, acquisition, computer 
+forensic analysis, e-mail investigations, image file recovery, investigative 
+report writing, and expert witness requirements. 
+
+ Demonstrate use of several computer forensic software and hardware tools.
+
+ Describe the major steps in computer forensic investigation process
+
+ Describe the digital evidence controls and how to process crime and 
+incident scenes 
+
+ Describe data preservation and acquisition procedures
+
+ Explain several analytical techniques used in computer forensics
+
+ Set up an investigators office and laboratory 
+
+ Explain the functions of the computer forensics profession
+
+ Describe operating system (Microsoft, Unix, Linux, MAC) boot processes and 
+disk structure 
+
+Evaluation Criteria:
+
+To assess the above student outcomes, students will be given written 
+in-class exams, lab projects, homework assignments, and will be assigned an 
+individual term project. In addition, students have to demonstrate a 
+satisfactory level of knowledge and skills in: 
+
+ Image recovery, email investigations and high tech report writing.
+
+ Network forensics techniques
+
+ Expert witness overview
+
+
+
+Evaluation Method:
+
+Students will be graded on the basis of testing and an evaluation of 
+projects assigned by the instructor. The grade will be determined by the 
+following:  40 written tests, 20 Lab Projects, 10 homework, 20 Final Exam 
+and 10 attendance / class participation. 
+
+
+
+Projects and homework will be assigned at the end of each chapter.  A 
+minimum of 8 projects is required from each student.  Some of these projects 
+will require group participation. 
+
+
+
+The 20 (Lab projects) of the grade is based on keeping a project notebook. 
+Students will be asked to obtain a small notebook or to use a lab notebook 
+and keep notes on the results of the hands-on projects at the end of each 
+chapter in the text. The notes will include comments that each student can 
+use once the class is over to help describe results of the 
+hands-on-projects. It will include any helpful tips or advice that might be 
+use in the future. 
+
+
+
+ Completion of an individual term project and presentation of findings are 
+also required. 
+
+
+
+Special Facilities/Equipment:
+
+
+
+Hardware: Intel based system, Floppy Disks, IDE hard drives, IDE cables, 
+Disk Jockey Forensic Kit, ICS DriveLock Firewire / USB, Tableau T8 Forensic 
+USB Bridge, ForensicPC Ultimate Write Block Kit, ForensicPC Dual Xeon 
+Workstation 
+
+
+
+Software: Microsoft Windows 2000, Windows 2003 Server, Windows XP 
+Professional, Linux and the Latest version of Windows NOS.  Demonstration 
+versions of leading forensic analysis software including EnCase, DriveSpy, 
+the Forensic Toolkit from Access Data, and freeware of versions of Linux 
+based forensic analysis software. 
+
+
+
+Resource Bibliography:
+
+ Security Guide to Network Security Fundamentals by Cisco Learning 
+Institute, Course Technology. 
+
+ Guide to Network Defense and countermeasures by Greg Holden, Course 
+Technology. 
+
+ Guide to Network Firewalls and Network Security by Greg Holden, Course 
+Technology 
+
+ Guide to Disaster Recovery by Michael Erbschioe, Course Technology.
+
+ 
+
+
+
+ Weekly Detail Course Outline:
+
+
+
+Week 1:Computer Forensics and Investigations as a Profession
+
+Week 2: Understanding Computer Investigations
+
+Week 3: The Investigators Office and Laboratory
+
+Week 4:Current Computer Forensics Tools
+
+Week 5: Processing Crime and Incident Scenes
+
+Exam 1
+
+Week 6: Digital Evidence Controls
+
+Week 7: Working with Windows and DOS Systems
+
+Week 8: Macintosh and Linux Boot Processes and File Systems
+
+Week 9: Data Acquisition
+
+Week 10: Computer Forensics Analysis
+
+Exam 2
+
+Week 11:Recovering Image Files
+
+Week 12:Network Forensics
+
+Week 13: E-Mail Investigations
+
+Week 14. Becoming an Expert Witness and Reporting Results of Investigations 
+
+Project Presentations
+
+Week 15:Final Exam
+
+
+
+
+
+Note  See The attached tool list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PASSAIC COUNTY COMMUNITY COLLEGE
+
+Department of Computer Information Sciences             Spring 2007
+
+
+
+
+
+Cybersecurity/ Computer Forensics Certificate              1 of 3

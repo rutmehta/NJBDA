@@ -1,0 +1,208 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                  BURLINGTON COUNTY COLLEGE
+
+                   COURSE INFORMATION FORM
+
+                              
+
+This form must be completed for all new and modified courses
+
+offered for credit, including experimental courses.
+
+  I. Course Prefix and number: CSE 256
+
+  II. Course Title: Principles of Operating Systems
+
+  III. Lecture Hrs.3   
+
+  V. Prerequisite(s): CSE 111
+
+  VI. Co-Requisite(s):
+
+  VII. Dr. David Spang, Dean of Science,
+
+Mathematics and Technology, 609-894-9311 ext.
+
+1239, dspangbcc.edu
+
+  X. Modified Course 
+
+  XI. Semester and Year Course will first be Offered (or,
+
+  if a modified course, semester and year when revised
+
+  course will first be offered): Fall 2004.
+
+  XII. Relation of Course to Curriculum(s):         Core
+
+  requirement
+
+                             General Education requirement
+
+                             Elective
+
+  XIII. General Education Designator (if course is intended
+
+  to satisfy a general education requirement check
+
+  appropriate designator):
+
+        CM  Communications                HW  Health and
+
+Wellness
+
+        HA  Humanities                    TL 
+
+Technological Literacy
+
+        SS  Social Sciences               DGP 
+
+Diversity/Global Perspective
+
+        MLS  Mathematics and Laboratory Science
+
+  XIV. Catalogue Description: This course explores the
+
+  fundamental concepts of operating systems which, includes
+
+  process management, memory management, device management,
+
+  file systems, resource allocation, and security and
+
+  protection. It introduces network and distributed
+
+  operating systems.
+
+  XV. Course Objectives (Learning Outcomes):
+
+  1.  Understands concepts of monitor, deadlock, process
+
+  scheduling and process synchronoization meansured by
+
+  assignments, tests and quizzes
+
+  2  Understands CPU scheduling concepts and can
+
+  differentiate between algorithms meansured by tests and
+
+  quizzes.
+
+  3.  Understands storage management strategies including
+
+  segmentation and paging schema measured by assignments,
+
+  tests and quizzzes.
+
+  4.  Understands schema for file system implementation and
+
+  can demonstrate and or explain, measured by  assignments,
+
+  tests and quizzzes.
+
+  5. Understands concepts of,  and some implementation
+
+  strategies for protection and security, as measured by
+
+  assignments, tests and quizzzes.
+
+  XVI. Textbook(s): Abraham Silberschatz, Peter Baer
+
+  Galvin, Greg Gagne Operating Systems Concepts, Windows
+
+  XP Update Edition, Sixth Edition.  ISBN: 0-471-25060-0
+
+  
+
+  XVII. Other Course Materials to be supplied by Student:
+
+  Media: diskettes, USB disk, etc.
+
+  XVIII. Grading Policy (Number and Weight of Papers,
+
+  Quizzes, Examinations, etc.)
+
+  
+
+  Tests .........            60            3 tests 20
+
+  including final
+
+  Quizes .........          10            no make up, drop
+
+  lowest score
+
+  Labs ..........       10   Spot check work and overall
+
+  lab effort.  Sessions graded                            0-
+
+  -1 for quality of deliverable and/or observed effort.
+
+  Labs must be completed on time for credit.
+
+  Projects.........    10    Projects should reflect
+
+  careful, independent work to
+
+  
+
+  solve a problem per an assigned specification.
+
+  Assignments.....     10             Attendance required
+
+  for on-time delivery.
+
+  
+
+  Participation........    0.5           Quality of
+
+  contributions to class demonstrates solution
+
+  
+
+  or technique,  provides unique insight to class.
+
+  
+
+  XIX. Detailed Description of Project Final Examination
+
+  (if applicable):  Students will
+
+  
+
+  XX. Schedule of topics to be covered in Course:
+
+  1.     Introduction
+
+  2.     Computer-System Structures
+
+  3.     Operating-System Structures
+
+  4.     Processes
+
+  5.     Threads
+
+  6.     CPU Scheduling
+
+  7.     Process Synchronization
+
+  8.     Deadlocks
+
+  9.     Memory Management
+
+  10.    Virtual Memory
+
+  11.    File-System Interface
+
+  12.    File-System Implementation
+
+  13.    Distributed System Structures
+
+  14.    Distributed File Systems
+
+  15.    Protection
+
+  16.    Security
+
+  

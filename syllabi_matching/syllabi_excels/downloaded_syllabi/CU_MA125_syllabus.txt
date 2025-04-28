@@ -1,0 +1,82 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	MA 125 Calculus Fundamentals I
+
+Credits:	3 (3:3:0)
+
+Prerequisites:	MA 120 Trigonometry
+
+Description: Intended for students who are not in Science or in Engineering.  An introduction to differential and integral calculus of a single variable. 
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+? Define and determine limits.  
+? Find the derivative of function from the limit definition
+? Find derivatives of products, quotients, and composite functions
+? Interpret the derivative as a rate of chance
+? Evaluate definite integrals using basic integration formulas and by substitution
+
+Topical Outline:
+
+? The Limit of a Function
+? Calculating Limits using Limit Laws
+? Limits involving Infinity
+? Derivatives and Rates of Change
+? The Derivative as a Function
+? Derivatives of Polynomials and Exponential Functions
+? Product and Quotient Rules
+? Derivatives of Trigonometric Functions
+? Chain Rule
+? Implicit Differentiation
+? Derivatives of Log Functions
+? Related Rates
+? Max and Min Values
+? Derivatives and Shapes of Curves
+? Indeterminate forms and L’Hopital’s Rule
+? Optimization Problem
+? Antiderivatices
+? Areas and Distances
+? The Definite Integral
+? Evaluating Definite Integrals
+? The Fundamental Theorem of Calculus
+
+
+Text:
+
+Stewart. Calculus: Concepts and Contexts bundled w/ WebAssign; Cengage;  2013; 4th edition. ISBN: 978-0-495-55742-5. 
+
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				40%
+      Assignments				10%
+      Quizzes				10%
+      Final Exam				40%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+
+
+

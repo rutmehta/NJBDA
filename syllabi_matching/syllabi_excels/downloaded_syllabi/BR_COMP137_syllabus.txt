@@ -1,0 +1,776 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP137
+
+
+
+COURSE NAME
+
+Programming for Engineers
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrokdalecc.edu
+
+732-224-2403
+
+
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course is designed for engineering students with no previous high-level 
+programming language experience.  The students will learn how to analyze 
+scientific problems and code solutions to these problems using the ANSI/ISO 
+Standard C language. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I.       Introduction: Basic Elements of C 
+
+II.       Input/Output Statements 
+
+III.       Selection Statements 
+
+IV.       Repetition Statements 
+
+V.       User-defined Functions 
+
+VI.       Namespaces and Character Strings 
+
+VII.     Arrays and Applications 
+
+VIII.    Classes and Data Abstraction 
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+C Programming: From Problem Analysis to Program Design, Third Edition, D.S. 
+Malik Thomson Course Technology 2007, ISBN:  1-4188-3639-7 
+
+
+
+Storage: A portable secondary storage media (i.e., jump drive, zip disk)
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. The final grade requirements for the course will 
+be: 
+
+
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-10
+
+Earn an average test grade of 60 thru 69
+
+A C grade is required to advance to the next course.
+
+      FEarn an average test grade below 60 or fail to successfully complete 
+labs 1-10. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+The student must print out and submit the following for each programming 
+problem: 
+
+
+
+1. A listing of the program code
+
+The first three lines in the program must have the following comments at a 
+minimum: 
+
+Student name,  COMP 137 and section no.,  Program problem no. (Lab 1, etc.)
+
+
+
+2. A print out of the program results or output
+
+The output must include the students name and the lab number at the bottom 
+or top. 
+
+
+
+
+
+COMP 137
+
+LAB SUMMARY PAGE
+
+
+
+LAB
+CHAPTER
+PAGE/PROB
+TOPIC
+DUE DATE
+
+
+
+1
+1
+PAGE 27, 12
+MILES PER GALLON
+
+
+2
+2
+PAGE 112, 15
+CONVERSION  
+
+Use data in syllabus
+
+
+3
+3
+PAGE 164, 1
+FILE PROCESSING  
+
+Use files inData1.txt and inData2.txt
+
+
+4
+4
+PAGE 228, 10
+CALCULATOR  
+
+Use data in syllabus
+
+
+5
+5
+PAGE 305, 17
+AVERAGE GPA  
+
+Use file inData3.txt
+
+
+6
+6
+PAGE 343, 5
+REVERSE DIGIT  
+
+Use data in syllabus
+
+
+7
+7
+PAGE 412, 4
+AVERAGE GPA  
+
+Use file inData3.txt
+
+
+8
+8
+IN SYLLABUS
+MANIPULATE NAMES  
+
+Use data in syllabus
+
+
+9
+9
+PAGE 544, 7
+CANDIDATE VOTES  
+
+Use data in text
+
+
+10
+9
+PAGE 546, 11
+FREQUENCY LIST  
+
+Use file inData5.txt
+
+
+11
+6
+PAGE 343, 6
+CARTESIAN CIRCLE  Use 4 sets of test data
+
+
+12
+7
+PAGE 412, 5
+
+Must use functions
+DAY OF YEAR  
+
+Use 4 sets of test data
+
+
+13
+9
+PAGE 546, 10
+TEMPERATURES  
+
+Use file inData6.txt
+
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT:1
+
+
+
+NAME OF UNIT:  INTRODUCTION:  BASIC ELEMENTS OF C
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the computer, problem solving 
+techniques, and simple C language programs 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignments  LAB-1  AND  LAB-2
+
+
+
+ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will learn about:
+
+
+
+1.  The organization of a computer and how various hardware and software 
+components of a computer interact. 
+
+
+
+2.  The concepts of problem solving, algorithm design, and program 
+development using input, processing, output. 
+
+
+
+3.  The basic elements of the C language, including data types, operators, 
+and expressions. 
+
+
+
+4.  Simple input and output statements that use the keyboard and screen.
+
+
+
+5.  Executing a sample C program in the Computer Lab using the editor, 
+compiler, and linker. 
+
+
+
+
+
+UNIT:2
+
+
+
+NAME OF UNIT:  INPUT / OUTPUT STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To examine techniques for performing and controlling input 
+and output processes in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-3
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Use the standard input/output objects and their operators, cout<< and 
+cin>>. 
+
+
+
+2.  Activate predefined versions of the cin statement to manipulate and 
+format input streams. 
+
+
+
+3.  Code enhancements of the cout statement to manipulate and format output 
+streams. 
+
+
+
+4.  Perform input and output of string and character data.
+
+
+
+5.  Read and write data to disk files.
+
+
+
+
+
+UNIT:3
+
+
+
+NAME OF UNIT:  SELECTION STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the various methods of 
+selection and decision making in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-4    AND Satisfactory 
+Completion of Test 1(Chapters 1-4) 
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1  weeks
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate decisions into the process of developing algorithms and 
+solving problems. 
+
+
+
+2.  Differentiate between relational operators, logical operators, and 
+logical expressions. 
+
+
+
+3.  Use the if statement for making one-sided and two-sided decisions.
+
+
+
+4.  Use nested if statements and the switch statement for multiple 
+alternative decisions. 
+
+
+
+
+
+UNIT:4
+
+
+
+NAME OF UNIT:  REPETITION STATEMENTS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the various methods of 
+repetition and looping in C 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-5
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1  weeks
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate looping into the process of developing algorithms and 
+solving problems. 
+
+
+
+2.  Use the while statement in various forms, including sentinel loops and 
+EOF loops. 
+
+
+
+3.  Implement counting loops using the for statement.
+
+
+
+4.  Differentiate between pre-test loops and post-test loops with the 
+do-while statement. 
+
+
+
+5.  Use nested loops for advanced repetition processing.
+
+
+
+
+
+UNIT:5
+
+
+
+NAME OF UNIT:  USER-DEFINED FUNCTIONS
+
+
+
+UNIT OBJECTIVE:  To develop the technique of writing modular C programs 
+through the use of programmer-written functions 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-6    AND Completion of 
+Assignment LAB-7 AND Satisfactory Completion of Test 2  (Chapters 5-7 ) 
+
+
+
+ESTIMATED TIME TO ACHIEVE:  2 weeks
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate modular functions in the process of developing algorithms 
+and solving problems. 
+
+
+
+2.  Differentiate between void functions and functions that return values.
+
+
+
+3.  Use reference parameters and value parameters in functions.
+
+
+
+4.  Identify the scope of an identifier and levels of function calls.
+
+
+
+5.  Distinguish between global variables, static variables, automatic 
+variables. 
+
+
+
+
+
+UNIT:6
+
+
+
+NAME OF UNIT:  NAMESPACES AND CHARACTER STRINGS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to the use of strings in C for 
+storing and manipulating character data 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-8
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Distinguish between the standard C namespace and user-defined 
+namespaces. 
+
+
+
+2.  Incorporate character strings in the process of developing algorithms 
+and solving problems. 
+
+
+
+3.  Use the built-in string data type and string operations to manipulate 
+character data. 
+
+
+
+4.  Differentiate between string objects and C-string character arrays.
+
+
+
+5.  Use the string library functions available for C-string processing.
+
+
+
+
+
+UNIT:7
+
+
+
+NAME OF UNIT:  ARRAYS AND APPLICATIONS
+
+
+
+UNIT OBJECTIVE:  To introduce the student to arrays in C as important data 
+structures for storing and manipulating homogeneous data 
+
+
+
+METHOD OF EVALUATION:  Completion of Assignment LAB-9    AND Completion of 
+Assignment LAB-10 
+
+
+
+ESTIMATED TIME TO ACHIEVE:  3 weeks
+
+
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate arrays into the process of developing algorithms and solving 
+problems. 
+
+
+
+2.  Define one-dimensional arrays, access array elements, perform input and 
+output operations. 
+
+
+
+3.  Establish parallel arrays of information, perform sequential and binary 
+search functions. 
+
+
+
+4.  Use sorting and other list processing functions to manipulate array 
+data. 
+
+
+
+5.  Define multidimensional arrays, use functions to access and process 
+individual elements. 
+
+
+
+
+
+UNIT:8
+
+
+
+NAME OF UNIT:  CLASSES AND DATA ABSTRACTION
+
+
+
+UNIT OBJECTIVE:  To introduce the student to objects in C as important data 
+structures for storing and manipulating heterogeneous data 
+
+
+
+METHOD OF EVALUATION:  Satisfactory Completion of Test 3 (Chapters 8-10, 12)
+
+
+
+ESTIMATED TIME TO ACHIEVE:  1 week
+
+
+
+LEARNING OBJECTIVES:  The student will learn how to:
+
+
+
+1.  Incorporate objects, attributes, and behaviors into the process of 
+problem solving and reusability. 
+
+
+
+2.  Define the interface for simple objects using UML diagrams and class 
+definitions. 
+
+
+
+3.  Differentiate between public and private members, accessor and mutator 
+functions. 
+
+
+
+4.  Construct and destruct objects with special constructor functions.
+
+
+
+5.  Instantiate objects and activate their behaviors in high-level programs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------7d73e41230043e--

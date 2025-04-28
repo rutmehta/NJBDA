@@ -1,0 +1,347 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Union County College
+Word I
+3 Credits
+ADM 213/CIS 113
+Course Outline
+Paula Belmonte@ucc.edu
+
+
+
+DESCRIPTION
+This course introduces the student to the use of a current version of 
+Microsoft Word. Topics 
+include: creating/editing documents, formatting, spelling/grammar checker, 
+thesaurus, 
+headers/footers, multiple windows, find/replace, borders, Microsoft Draw, 
+WordArt, tables, 
+columns, styles, and more. Materials covered in the course helps prepare the 
+student for the 
+Microsoft Office Specialist (Word 2010) exam. Prerequisites: ADM 101, ENG 
+089, ENG 099.
+Two lecture, three lab hours, three credits.
+
+OBJECTIVES
+By the end of the term, the student should be able to:
+a.	Create, edit, and print documents
+b.	Use basic character formatting
+c.	Format paragraphs
+d.	Customize paragraphs
+e.	Use writing tools effectively
+f.	Proofread and correct spelling and grammar errors
+g.	Format Pages
+h.	Customize page formatting
+i.	Maintain and print documents; size/orientation
+j.	Insert elements and navigate in a document
+k.	Maintain documents
+l.	Mange and print documents
+m.	Insert images
+n.	Insert shapes and WordArt
+o.	Create  and enhance tables
+p.	Create charts
+q.	Explain and use clipboards
+r.	Move, copy, find/replace text
+s.	Create Hyperlinks
+
+REQUIRED MATERIALS
+Microsoft Word 2010, Signature Series, Rutkosky/Roggenkamp, EMC Paradigm, 
+2011.
+Microsoft Word 2010 must be used to complete assignments. 
+One USB/flash drive. It is important to save all of your work until your 
+final grade has 
+been received. 
+
+
+
+GRADING PROCEDURES
+	Chapter Exercises		15%
+	Chapter Assessments		25%
+      Performance Assessments/Units		15%
+	Tests		20%
+		Final Examination			25%
+
+GRADING SYSTEM
+		A	90 or above			C	70 - 76
+		B+	87 - 89			D+	67 - 69
+		B	80 - 86			D	60 - 66
+		C+	77 - 79			F	below 60
+
+CLASS POLICIES
+1.	It is the student's responsibility to read the chapter prior to the 
+classroom presentation.
+2.	Tests cannot be made up. A grade of zero will be given for any missed 
+test.
+3. 	It is important to check the ANGEL site for announcements and dates.
+4.	Assignments are due on the assigned date. Assignments must be submitted 
+electronically as 
+well as hard copy.
+5.	Late work will be accepted up to three calendar days after the due 
+date. Eleven points will 
+be deducted for each day the assignment is late.
+6.	If you do not finish the assigned work during class time, it is your 
+responsibility to use the 
+open lab.
+7.	If you miss more than two lectures, your grade may be penalized. For 
+every class that is 
+missed beyond the second absence, your final grade may be lowered by two 
+points, i.e., if 
+your final grade is 90 and you miss a total of four classes, your final grade 
+will be 86.
+8.	Use of electronic devices (cellular/digital phones, MP3 players, radio, 
+CD players, etc.) is 
+strictly prohibited. Be sure to disengage sound before class begins. 
+Calculators, PDAs, 
+handhelds, and computers are prohibited during examinations unless taking 
+performance-
+based examinations.
+9.	Any acts of classroom disruption that go beyond the normal rights of 
+students to question 
+and discuss with instructors the educational process relative to subject 
+content will not be 
+tolerated, in accordance with the Academic Code of Conduct described in the 
+Student 
+Handbook. See the Student Handbook for the policy on 'Academic Integrity.' I 
+strongly 
+support the policy regarding academic behavior and disruptive behavior.
+
+COURSE POLICIES
+Preparing for Examinations
+Read the chapter prior to the lecture. Keep up with the assignments. 
+
+In Case You Are Late or Absent 
+It is your responsibility to get the course notes, handouts, and laboratory 
+assignments should you 
+miss class or be late. See instructor either after class or during office 
+hours.
+
+Appeals Policy
+To appeal a grade, send an email to your instructor through ANGEL mail within 
+one week of the 
+grade having been received. Overdue appeals will not be considered.
+
+Incomplete Policy
+Students will not be given an incomplete grade in the course without sound 
+reason and 
+documented evidence as described in the Student Handbook. In any case, for a 
+student to 
+receive an incomplete, he or she must be passing and must have completed a 
+significant portion 
+of the course.
+
+Cheating Policy
+Students are expected to uphold the school's standard of conduct relating to 
+academic honesty. 
+Students assume full responsibility for the content and integrity of the 
+academic work they 
+submit. The guiding principle of academic integrity shall be that a student's 
+submitted work, 
+examinations, reports, and projects must be that of the student's own work. 
+Students shall be 
+guilty of violating the honor code if they:
+
+1.	Represent the work of others as their own work.
+2.	Use or obtain unauthorized assistance in any academic work.
+3.	Give unauthorized assistance to other students.
+4.	Modify, without instructor approval, an examination, paper, record, or 
+report for the purpose 
+of obtaining additional credit.
+5.	Misrepresent the content of submitted work.
+
+The penalty for violating the honor code is severe. Any student violating the 
+honor code is 
+subject to receive a failing grade for the course and may be subject to 
+disciplinary action as 
+described in the Student Handbook. If a student is unclear about whether a 
+particular situation 
+may constitute an honor code violation, the student should meet with the 
+instructor to discuss the 
+situation.
+
+For this class, it is permissible to assist classmates in general discussions 
+of computing techniques. 
+General advice and interaction are encouraged. Each person, however, must 
+develop his or her 
+own solutions to the assigned homework and laboratory exercises. Students may 
+not 'work 
+together' on graded assignments. Such collaboration constitutes cheating, 
+unless it is a grouped 
+assignment. A student may not use or copy (by any means) another's work (or 
+portions of it) and 
+represent it as his/her own. If you need help on an assignment, contact your 
+instructor, not other 
+classmates.
+
+Laboratory Policy
+Homework and laboratory assignments must be submitted at the beginning of 
+class on the 
+scheduled due date. Assignments handed in after class begins are considered 
+late.
+
+No assignments will be accepted more than three calendar days after the due 
+date. Plan to spend 
+approximately eight to ten hours each week on reading, homework, and 
+laboratory assignments.
+ 
+Make sure your name, course and section, and assignment (ex. Word, Chapter 1 
+Exercises; Word, 
+Chapter 1 Assessments) appear on cover sheets. Chapter exercises and chapter 
+assessments are 
+submitted separately. Do not staple assignments from different chapters 
+together. Disorganized 
+assignments (pages out of order, mislabeled, unreadable, etc.) will receive a 
+grade of zero. If 
+there are multiple sheets/exercises to be handed in, sequence them according 
+to the order they 
+were assigned. All assignments for each chapter must be submitted in a folder 
+that is provided by 
+your instructor.
+
+Disabilities Policy
+In compliance with the Americans with Disabilities Act (ADA), all qualified 
+students enrolled in 
+this course are entitled to 'reasonable accommodations.' Please notify the 
+instructor during the 
+first week of class of any accommodations needed for the course. 
+
+Any student with special needs that will affect performance in this class 
+should feel free to make 
+an appointment to talk with me during office hours (or by appointment) or 
+contact the disabilities 
+counselor in the Counseling office on the Cranford Campus at 908-709-7164.
+
+ 
+Weeks 1 and 2
+Introduction: syllabus, textbook, blended learning, ANGEL, course 
+expectations, read chapter before the 
+lecture, etc.
+	Assignments for All Chapters
+*	All chapter exercises must be completed, saved, printed as instructed 
+in each chapter, 
+and submitted as hard copy on date due and as electronic copy through ANGEL
+*	Chapter assessments listed should be completed, printed, and submitted 
+as part of the 
+chapter assignments and through ANGEL
+*	Add your reference initials:file name a double space after the last 
+line of all documents: 
+urs:C01Ex01
+*	Assignments must be submitted in order (Exercise 1, 2, 4, etc. and 
+Assessment 1, 2, etc.). 
+Staple all exercises together. Staple all assessments together.
+*	When submitting hard copy, be sure to use a cover sheet for every 
+chapter; include your 
+name, course number, date, and chapter number
+
+	Lecture - Chapter 1: Creating, Printing, and Editing Documents
+	Homework: 
+		Chapter 1 exercises: all
+		Chapter 1 assessments: 1.1, 1.2, 1.3
+
+Week 3
+	Assignments for chapter 1 due beginning of class
+	Learning how to submit files in ANGEL
+	Lecture - Chapter 2: Formatting Characters
+	Homework:
+		Chapter 2 exercises: all
+		Chapter 2 assessments: 2.1, 2.2, 2.4, 2.6
+
+Week 4
+	Assignments for chapter 2 due beginning of class
+	Lecture - Chapter 3: Aligning and Indenting Paragraphs
+	Homework:
+		Chapter 3 exercises: all
+		Chapter 3 assessments: 3.1, 3.3, 3.4, 3.7
+
+Week 5
+	Assignments for chapter 3 due beginning of class
+	Lecture - Chapter 4: Customizing Paragraphs
+	Homework:
+		Chapter 4 exercises: all
+		Chapter 4 assessments: 4.1, 4.2, 4.3, 4.7
+		
+Week 6
+	Assignments for chapter 4 due beginning of class
+	Lecture - Chapter 5: Proofing Documents
+	Homework:	
+		Chapter 5 exercises: all
+		Chapter 5 assessments: 5.2, 5.3, 5.7
+
+Week 6
+	Assignments for chapter 5 due beginning of class
+	Test 1: Chapters 1-5
+	Homework:
+		Unit 1: Performance Assessments U1.1, U1.3, U1.5, U1.6, U1.7, 
+U1.9
+		Read Chapters 6 and 7
+
+Week 8
+	Lecture - Chapter 6: Formatting Pages
+	Lecture - Chapter 7: Customizing Page Formatting
+	Homework:
+		Chapter 6 exercises: all
+		Chapter 6 assessments: 6.1, 6.3, 6.4, 6.5
+		Chapter 7 exercises: all
+		Chapter 7 assessments: 7.1, 7.2, 7.5, 7.7
+
+Week 9
+	Assignments for chapters 6 and 7 due beginning of class
+	Lecture - Chapter 8: Inserting Elements and Navigating in a Document
+	Lecture - Chapter 9: Maintaining Documents 
+	Homework:
+		Chapter 8 exercises: all
+		Chapter 8 assessment: 8.1, 8.2, 8.3, 8.5
+		Chapter 9 exercises: all
+		Chapter 9 assessments: 9.1, 9.3, 9.6
+
+Week 10
+	Assignments for chapters 8 and 9 due beginning of class
+	Lecture - Chapter 10: Managing and Printing Documents
+	Homework:	
+		Chapter 10 exercises: all (do not print chapter 10 assignments; 
+only submit in ANGEL)
+		Unit 2: Performance Assessments U2.1, U2.3, U2.4, U2.8, U2.9 
+(Issued by: Your Name)
+
+Week 11
+	Assignments for Unit 2 due beginning of class
+	Test 2: Chapters 6-10
+	Lecture - Chapter 11: Inserting Images
+	Homework:
+		Chapter 11 exercises: all
+		Chapter 11 assessments: 11.1, 11.2, 11.4, 11.5, 11.6, 11.7, 11.9
+
+Week 12
+	Assignments for chapter 11 due beginning of class 
+	Lecture - Chapter 12: Inserting Shapes and WordArt
+	Homework:
+		Chapter 12 exercises: all
+		Chapter 12 assessments: 12.1, 12.2, 12.3 (Insert your name), 
+12.9, 12.10
+
+ 
+Week 13
+	Assignments for chapter 12 due beginning of class 
+	Lecture - Chapter 13: Creating Tables
+	Lecture - Chapter 14: Enhancing Tables 
+	Homework:
+		Chapter 13 exercises: all
+		Chapter 13 assessments: 13.1, 13.2, 13.4, 13.6
+		Chapter 14 exercises: all
+		Chapter 14 assessments: 14.1, 14.2, 14.5, 14.7, 14.8 
+	
+Week 14
+	Assignments for chapters 13 and 14 due beginning of class
+	Lecture - Chapter 15: Creating Charts
+	Homework:
+		Chapter 15 exercises: all
+		Chapter 15 assessments 15.1, 15.2, 15.3, 15.6, 15.7
+		Unit 3 Performance Assessments U3.2, U3.3, U3.4, U3.8, U3.12
+	 	Chapter 15 and Unit 3 due beginning of final exam
+		
+Week 15
+Comprehensive final examination to be given during the taken during  in class 
+during the scheduled  date and time.
+
+ 
+Word I	- 1 -	2011

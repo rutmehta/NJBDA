@@ -1,0 +1,1236 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College
+
+Course Syllabus
+
+
+
+Information Technology 109
+
+Fiber Optic Cabling Systems
+
+Credits:  4.0   Lecture:  2/Laboratory:  4
+
+Pre-Requisites:  Completion of EN 98, EN 99 and MA 93, if
+
+required.
+
+Co-Requisite:  MAT 136, if required
+
+New Course:  Spring 2004
+
+
+
+Donna Dobie
+
+Department Co-Chair
+
+Business, Computer  Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description:  This course introduces students to fiber
+
+optic cabling systems and their installations. Students will learn
+
+the skills necessary to prepare, handle, terminate, splice, and
+
+test fiber optic cable installations. They will learn the industry
+
+standard wiring methods as outlined by IEEE and FOA. Students will
+
+learn the theory and protocols used in installations. This course
+
+will parallel the industry certification for a Certified Fiber
+
+Optic Technician. This course reinforces the theory with practical
+
+hands-on exercises.
+
+
+
+Place in College Curriculum:  spring or fall semester in the first
+
+year of the Telecommunications Cabling Technician Certification
+
+and fall semester in the first year of Communications Technology
+
+AAS degree.
+
+
+
+Course Content Outline:
+
+  I.   History of Fiber Optics
+
+       A.   Optical Telephone
+
+B.   First Generation Single Mode
+
+C.   Newer Generations
+
+  II.  Basics of Fiber Optics
+
+       A.   Fiber Manufacture
+
+B.   Fiber Applications
+
+C.   Fiber Performance
+
+  III. Fiber Optic Networks
+
+       A.   Economics
+
+B.   Fiber Vs. Copper
+
+C.   Future Installations
+
+  IV.  Optical Fiber Cabling
+
+       A.   Construction
+
+B.   Cable Choices
+
+C.   National Electric Code
+
+  V.   Specifications for Optical Fiber Cabling
+
+       A.   Cable Parameters
+
+B.   Installation specifications
+
+C.   Environmental Specifications
+
+D.   Future Proofing Systems
+
+E.   Design Shortcuts
+
+  VI.  Connectors, Splices, and Tools
+
+       A.   Fiber Joints
+
+B.   Attenuation
+
+C.   Connectors
+
+D.   Splices
+
+E.   Tools
+
+F.   Hardware
+
+  VII. Fiber Optic Design and Installation
+
+       A.   Current Market
+
+B.   Overseeing Installations
+
+C.   Pricing
+
+D.   General Guidelines
+
+E.   Cable Guidelines
+
+F.   Connector Guidelines
+
+G.   Cable Plant Passive Component Loss
+
+H.   Equipment Link Loss
+
+  VIII.     Installation Safety
+
+       A.   Bare Fiber Safety
+
+B.   Safety Rules
+
+C.   Other Safety Considerations
+
+  IX.  Planning the Installation
+
+       A.   Planning Process
+
+B.   Measuring Conduit Pulls
+
+C.   Splicing
+
+D.   Terminations
+
+E.   Efficient Pulls
+
+F.   Duct Space
+
+G.   Initial Plant Layout
+
+  X.   Fiber Optic Plant Documentation
+
+       A.   Record Keeping
+
+B.   The document Process
+
+C.   Securing Records
+
+  XI.  Estimating and Bidding Jobs
+
+       A.   Estimating
+
+B.   Skills
+
+C.   Tools
+
+D.   Site Visit
+
+E.   Estimating Process
+
+  XII. Fiber Optic Cable Pulling
+
+       A.   Despooling Cable
+
+B.   Pulling Force
+
+C.   Bending Fiber
+
+D.   Interference
+
+E.   Procedures for Pulling Cable
+
+F.   Holding Cable for Stripping
+
+  XIII.     Fiber Optic Restoration
+
+       A.   Proactive Plant
+
+B.   Reactive Restorations
+
+C.   Identifying the Problem
+
+D.   Restoring Services
+
+E.   Storage Loops
+
+F.   Emergency Restorations
+
+G.   Single Mode Network Restorations
+
+  XIV. Fiber Optic Testing
+
+       A.   Optical Power
+
+B.   Optical Fiber Testing
+
+C.   Connector and Splice Loss Testing
+
+D.   Cable Plant Installation Testing
+
+E.   Coupler and Switch Testing
+
+F.   Data link Testing
+
+
+
+Course Performance and Enabling Objectives
+
+
+
+Enabling Objectives for all Sections: Students will understand and
+
+be able to adhere to the safety procedures specified in every lab.
+
+Students will search for products and company information via the
+
+web as needed in the lab assignments. They will find URLs needed
+
+for any given application/specification. They will use search
+
+strings in the product knowledge base to configure and
+
+troubleshoot products (software and hardware), and use listserv
+
+groups to enhance their knowledge of any given subject. They will
+
+be able to locate patches for products, download, and apply the
+
+patches. Students will use on-line and paper manuals to set up and
+
+use products. Students will also search the web via browsers to
+
+locate URLs that provide additional information about products and
+
+specifications. Students, reinforcing and complementing all
+
+assignments inside and outside the classroom, will regularly seek
+
+out the information on the web. (IL)
+
+
+
+I History of Fiber Optics
+
+
+
+     Performance Objectives:
+
+     1. Recite the history and describe the major events of the
+
+     development of fiber optics
+
+     
+
+     Enabling Objectives:
+
+     1. Recite and list the major historic events of fiber optic
+
+development
+
+     2. Recite and list the major historic events of single-mode
+
+fiber
+
+     3. List the major players in the history of fiber optics
+
+development
+
+     4. Recite the recent developments in the next generation of
+
+fiber optics
+
+
+
+II. Basics of Fiber Optics
+
+  
+
+     Performance Objectives:
+
+     1.   Describe how fiber optic data links work.
+
+     2.   Describe how the fiber is able to transmit the optical
+
+      signals.
+
+3.   Describe what types of fiber are available and how they
+
+differ what causes loss in fiber and how the bandwidth is limited
+
+in each type of fiber.
+
+  
+
+     Enabling Objectives:
+
+     1.   Define optical fiber as a medium
+
+2.   Describe the fiber optic signal
+
+3.   List the major advantage of fiber optic
+
+4.   Describe the three elements of an optical fiber data link
+
+(light source, fiber, and light detector).
+
+5.   Identify the core, cladding, and buffer coating of the cable.
+
+6.   Define single mode and multimode fiber.
+
+7.   List the typical specifications for each fiber type.
+
+8.   Define and describe the three methods used to fabricate
+
+fiber: modified chemical vapor deposition (MCVC), outside vapor
+
+deposition (OVD), and vapor axial deposition (VAD).
+
+9.   Associate each type of fiber with its specific application.
+
+10.  Describe how purity and imperfection affect fiber
+
+performance.
+
+11.  Describe the two factors (absorption and scattering) of fiber
+
+attenuation.
+
+12.  Define modal dispersion, chromatic dispersion, and their
+
+effects on fiber bandwidth.
+
+       
+
+III. Fiber Optic Networks
+
+     
+
+     Performance Objectives:
+
+     1.   Describe various types of fiber optic networks.
+
+2.   Describe how fiber optics networks can replace cooper
+
+networks.
+
+
+
+     Enabling Objectives:
+
+     1.   Describe fiber optic network usage in telephony.
+
+2.   Describe fiber optic network usage in CATV.
+
+3.   Describe fiber optic network usage in LANs.
+
+4.   Compare and contrast fiber vs. cooper applications in
+
+networks.
+
+5.   List the criteria for comparing fiber against copper
+
+installation.
+
+6.   Contrast fiber and UTP cabling.
+
+
+
+IV. Optical Fiber Cabling
+
+     
+
+     Performance Objectives:
+
+     1.   Describe the cabling types and their appropriateness to
+
+       specific installations.
+
+2.   Describe and detail each type of cabling including
+
+specifications for each cable type.
+
+
+
+     Enabling Objectives:
+
+     1.   Diagram the layers of (1) tight buffered fiber optic cable
+
+       (2) loose-tube fiber optic cable (3) ribbon fiber optic cable.
+
+2.   List the different types of cabling jackets and each
+
+environment appropriate for the jackets.
+
+3.   List the type of jacket suitable for IEEE-383, 1974.
+
+4.   List the industrial standard for each of the following fiber
+
+cables:
+
+       Simplex cable
+
+       Zipcord cable
+
+       Tightpack cable
+
+       Breakout cable
+
+       Amored loose-tube cable
+
+     5.   Describe the composition of each type of above named cable.
+
+6.   List the factors to be considered with choosing cable.
+
+7.   List the guidelines for composite cables
+
+8.   List the guidelines for fiber cable trays specifically
+
+vertical installations.
+
+9.   List the guidelines for conduits.
+
+10.  List the guidelines for buried cable.
+
+11.  List the guidelines for aerial installation
+
+12.  Describe how blown-in fiber is installed.
+
+13.  List the NEC (National Electric Code) ratings for fiber.
+
+14.  List the requirements of article 770.
+
+
+
+       
+
+V. Specifications for Optical Fiber Cabling
+
+     
+
+     Performance Objectives:
+
+     1.   List the cable parameters and typical values for
+
+       installations.
+
+2.   Describe environmental factors in installations.
+
+
+
+     Enabling Objectives:
+
+     1.   List the specifications for the maximum recommended
+
+       installation loads for raceway, conduit multifiber, direct burial,
+
+       lashed aerial, and self-supporting cables. (kg-force, pounds-
+
+       force, or N)
+
+2.   Describe how to determine the minimum recommended
+
+installation bend radius.
+
+3.   List the 21 environmental specifications and how each of
+
+these specifications is measured.
+
+4.   List the ways an installation can be future-proof
+
+5.   Describe how the choice of multimode vs. singlemeode fiber
+
+installations affect design shortcuts in indoor, outdoor, fiber
+
+performance, and cable performance.
+
+
+
+VI. Fiber Optic connectors, splices, and tools
+
+  
+
+     Performance Objectives:
+
+     1.   Identify the various connectors used with fiber cabling
+
+2.   Identify the criteria for splicing fiber cabling.
+
+3.   List the tools used for fiber splicing and connectorization.
+
+4.   Describe how the tools are used.
+
+5.   Detail the purpose of hardware
+
+6.   List the rules and specifications in determining indoor
+
+hardware
+
+7.   Identify the hardware used in indoor installations
+
+
+
+     Enabling Objectives:
+
+     1.   Define a fiber joint.
+
+2.   Describe the factors in fiber joints that cause attenuation
+
+3.   List parameters in splice losses.
+
+4.   Describe back reflection/reflectance
+
+5.   List the 5 major connector categories and identify the
+
+connectors in each category
+
+6.   List the criteria for choosing a fiber connector.
+
+7.   Describe and demonstrate installation procedures for
+
+installing a fiber connector onto a fiber.
+
+8.   Describe and demonstrate the stripping process.
+
+9.   Describe and demonstrate the cleaning process
+
+10.  Describe and demonstrate the cleaving process.
+
+11.  Describe and demonstrate how adhesives are used.
+
+12.  List the various adhesives that are used
+
+13.  Describe and demonstrate the end-face techniques (flat, PC-
+
+comed, and Angled-PC and how each is done.
+
+14.  Describe fusion splicing
+
+15.  Describe mechanical splicing
+
+16.  List the criteria in choosing splicing type.
+
+17.  List the tools used in splicing connectorization and
+
+demonstrate how each is used in the process.
+
+18.  List the four main functions of distribution points as stated
+
+in the EIA.TIA 568 specifications.
+
+19.  Describe each of the distribution points and how it is used
+
+(main cross-connect, intermediate cross-connect, telecom closet
+
+hardware, and telecom outlets)
+
+20.  Describe and demonstrate how each of the following hardware
+
+components is installed in the distribution points: splice panel,
+
+patch panel, wall outlet, panels, pigtail splicing, outside plant
+
+hardware, and conduit.
+
+
+
+
+
+Section VII. Fiber Optic Design and Installation
+
+
+
+     Performance Objective:
+
+     1.   Describe the process of starting a fiber contracting business
+
+2.   List the guidelines for vendors, products, options, and cost
+
+and how each affects decisions.
+
+3.   Describe the process of Link loss Budget analysis
+
+
+
+
+
+
+
+     Enabling Objectives:
+
+     1.   List the steps recommended for analyzing the market.
+
+2.   List the sources for Business.
+
+3.   List the minimum set of tools required.
+
+4.   Describe the process of overseeing a fiber installation,
+
+5.   Explain how inspection impacts installation.
+
+6.   List the requirements of NEC article 770.
+
+7.   Describe the pricing guidelines.
+
+8.   List the guidelines for evaluating vendors.
+
+9.   List the guidelines for evaluating cable.
+
+10.  List the guidelines for connector selection.
+
+11.  Explain the process of link loss budget analysis calculation.
+
+12.  List the steps needed to calculate the loss margin.
+
+
+
+VIII. Installation Safety
+
+
+
+     Performance Objectives:
+
+     1.   Desire the safety rules for bare fiber.
+
+2.   List the rules for safety
+
+     
+
+     Enabling Objectives:
+
+     1.   List the details of the safety study report in ANSI Z136.2
+
+2.   Describe how to protect yourself from bare fiber.
+
+3.   List the equipment used in bare fiber safety protection.
+
+4.   List the specifications for a safe environment when working
+
+with chemical cleaners and adhesives.
+
+5.   List the general safety rules for working with fiber optic
+
+installations.
+
+
+
+IX. Planning the Installation
+
+     
+
+     Performance Objectives:
+
+     1.   Describe and detail the planning process
+
+     
+
+     Enabling Objectives:
+
+     1.   List the three ways to measure the path for conduit pulls.
+
+2.   Describe how each of the measurements is taken.
+
+3.   List the tools used in each of the measurement processes.
+
+4.   Describe the environment needed for fusion and mechanical
+
+splicing.
+
+5.   Describe the environment for terminations.
+
+6.   Explain the efficient pull process.
+
+7.   Describe the environment and limitations in duct spaces.
+
+8.   Detail the initial planning walkout steps.
+
+
+
+Section X Fiber Optic Plant Documentation
+
+
+
+     Performance Objectives:
+
+     1.   Detail the documentation process for fiber cable plants.
+
+2.   Identify the records needed for the documentation process.
+
+
+
+     Enabling Objectives:
+
+     1.   List the data that is kept for cable splice and termination
+
+       points, fiber, connection, and paths.
+
+2.   List the major categories of documentation (design, bidding,
+
+installation, testing, troubleshooting, customer acceptance).
+
+3.   Describe the process from basic layout, to preliminary data,
+
+to identifying all hardware paths and locations.
+
+4.   Create a typical cable report form.
+
+5.   Describe how to protect documentation.
+
+
+
+XI Estimating and Bidding Jobs
+
+
+
+     Performance Objectives:
+
+     1.   Describe the skills needed for estimating.
+
+2.   Describe the tools used in estimating.
+
+     
+
+     Enabling Objectives:
+
+     1.   Detail how each of the following skills is needed for proper
+
+       estimating (mathematics, English language, imagination, on-site
+
+       expenses, and handwriting).
+
+2.   List how the following tools help the estimating process
+
+along: tape recorders, cameras, estimating sheets, and
+
+computerized tools.
+
+3.   Define the purpose of a site visit and the typical
+
+installations already found on site visits.
+
+4.   List the three part estimating process and how to use each
+
+part: takeoff, writing the estimate, and summarizing the estimate
+
+used in estimating.
+
+5.   Define the various labor units and unit hours.
+
+6.   Define how training and overhead affect estimating.
+
+
+
+XII Fiber Optic Cable Pulling
+
+
+
+     Performance Objectives:
+
+     1.   Describe the various pull methods used in fiber.
+
+2.   List and describe how to avoid pull problems.
+
+
+
+     Enabling Objectives:
+
+     1.   Describe the consequences of inaccurate measurements splice
+
+       loss, tensile stress, and how bending radius mistakes affect the
+
+       pull.
+
+2.   Detail the process of despooling cable.
+
+3.   List the specifications for pulling force and proper pulling
+
+technique.
+
+4.   Describe pre and post testing procedures and their purpose.
+
+5.   List the pitfalls of interference with other installations.
+
+6.   Detail the procedures for pulling cable in long runs, simplex
+
+and duplex cable, rope pulls, and racking the cable.
+
+7.   Describe how to hold cable for stripping.
+
+
+
+
+
+XIII Fiber Optic Restoration
+
+
+
+     Performance Objectives:
+
+     1.   Detail the proactive planning process versus the reactive
+
+       restoration.
+
+2.   List the issues and reasons for restoration.
+
+
+
+     Enabling Objectives:
+
+     1.   List the faults as related to patch panels, system related,
+
+       and installation related.
+
+2.   Detail the causes of cable system faults, the equipment used
+
+to test the fault and the resolution to the fault.
+
+3.   Relate the typical LAN failures to each of the fault
+
+categories.
+
+4.   List the equipment used in restoration and describe how each
+
+is used: cleaning kits, optical inspection scope, optical loss
+
+test kit, visual tracers and fault locators, and optical time
+
+domain reflectometer (OTDR).
+
+5.   List the steps use to identify problems.
+
+6.   List the issues in restoring service.
+
+7.   Detail how retrievable slack versus nonretrievable slack
+
+impact restoration.
+
+8.   List the suggested steps for singlemode network restoration.
+
+9.   Describe how having a restoration posture aids in the
+
+restoration process.
+
+10.  List the various considerations in forming this posture.
+
+
+
+
+
+XIV Fiber Optic Testing
+
+
+
+     Performance Objectives:
+
+     1.   List the standard testing procedures in a fiber install.
+
+2.   List the tools used in testing and describe how each is used
+
+and under what circumstances.
+
+
+
+
+
+     Enabling Objectives:
+
+     1.   Relate each test parameter with the instrument used to test
+
+       the parameter.
+
+2.   Describe the functions of a power meter and detail how it is
+
+used in testing.
+
+3.   Detail how fiber optic test sources must be compatible with
+
+the fiber source.
+
+4.   Detail why sources must have a variety of optic connectors
+
+for testing.
+
+5.   List the functions and detail how to use an optical loss test
+
+kit.
+
+6.   List the functions of and detail how to use an optical time
+
+domain reflectometer.
+
+7.   List the functions of and detail how to use a visual cable
+
+tracer.
+
+8.   Detail how a fiber identifier works to detect signal.
+
+9.   Describe the purpose of an optical continuous wave
+
+reflectometer.
+
+10.  Describe the usage of microscope inspection.
+
+11.   Describe the usage of a fiber optic talkset.
+
+12.  Describe the functions of an attenuator.
+
+13.  Describe how jumper cables and bulkhead slice adapters
+
+establish test conditions.
+
+14.  Describe how to measure optical power.
+
+15.  Describe the process of setting up reference stands to
+
+calibrate fiber optic power measurement.
+
+16.  List the uncertainty measurement for optical power, loss
+
+measurements, and optical return loss measurements.
+
+17.  Describe the function and procedures of continuity testing.
+
+18.  Describe the function and procedures for testing fiber
+
+attenuation.
+
+19.  List the sources for loss measurements.
+
+20.  Describe the factors for understanding modal distribution,
+
+mode control, and attenuation correction and the effects of each.
+
+21.  Describe the problems that cause bending loss.
+
+22.  Describe and demonstrate how an OTDR tests fiber.
+
+23.  Describe the uncertainties in OTDR testing.
+
+24.  Define modal dispersion
+
+25.  Define chromatic dispersion.
+
+26.  Describe how modal dispersion is tested.
+
+27.  Describe how connectors and splices are tested.
+
+28.  List the factors contributing to splice loss.
+
+29.  Describe the FOTP-34 test standard and the three options in
+
+modal distribution.
+
+30.  Describe and demonstrate visual inspection techniques for
+
+connectors.
+
+31.  Define ORL or optical return loss.
+
+32.  Describe how connectorized cable testing is performed in the
+
+field.
+
+33.  Describe and demonstrate how to find bad connectors.
+
+34.  Describe the tests used to measure installed splice loss
+
+35.  Define the largest factor in the uncertainty of multimode
+
+cable loss tests.
+
+36.  Describe the process of choosing a launch cable for testing.
+
+37.  List the ways fiber mismatches occur.
+
+38.  Detail the process of testing the installed fiber optic cable
+
+plant.
+
+39.  List the problems routinely encountered in fiber optic
+
+installations.
+
+
+
+
+
+
+
+
+
+Course Activities: Students will spend 1/3 the time in a
+
+lecture/demonstration series presented by the instructor. The
+
+instructor will use the RealCBT learning system for video lectures
+
+and simulations. The instructor will also use circuit boards and
+
+electronic trainers to demonstrate hands-on processes the students
+
+are expected to learn. The other 2/3 of the time the students are
+
+expected to reinforce the things learned in the
+
+lecture/demonstration in a supervised instructor led lab. Students
+
+will use the tools and testing equipment typically found in the
+
+industry to do the hands-on lab portion. This includes using the
+
+Internet to visit the sites of on-line companies and using all
+
+available on-line resources (knowledge bases, on-line videos, on-
+
+line technical support, and on-line product manuals) to complete
+
+assignments.
+
+
+
+Course Requirements and Means of Evaluation:  Fifty percent of the
+
+grade is determined by test grades. Six tests will be given
+
+throughout the semester. Fifty percent of the grade is determined
+
+by lab experiments and homework.
+
+
+
+Grading:  Letter Grade    Numerical Value         Grade Points
+
+          A                    93-100                  4.0
+
+          A-                   90-92                   3.7
+
+          B                   88-89                   3.3
+
+          B                    83-87                   3.0
+
+          B-                   80-82                   2.7
+
+          C                   78-79                   2.3
+
+          C                    73-77                   2.0
+
+          C-                   70-72                   1.7
+
+          D                   68-69                   1.3
+
+          D                    63-67                   1.0
+
+          F                   Below 60                  0
+
+          FA                  Below 60                  0
+
+P - Pass:  This grade is given to students who satisfactorily meet
+
+the course requirements in the following types of courses: credit
+
+by exam, educational development courses with code numbers below
+
+100, health practicum courses and co-op courses.  P grades are
+
+not calculated into a students GPA.
+
+
+
+I - Incomplete Work: This is a conditional grade given at the
+
+discretion of the faculty member when student emergencies prevent
+
+the completion of all course requirements. The student must
+
+complete all requirements within 30 days after the start of
+
+classes in the following semester or term. If this condition is
+
+not met, the I automatically becomes an F grade.
+
+
+
+W-Withdrawal:  This grade signifies official withdrawal from a
+
+course. See details under College Withdrawal.
+
+R-Audit: This is not a grade but indicates a student took the
+
+course for no credit and, therefore, no grade.
+
+
+
+Attendance: Students are expected to attend all scheduled classes.
+
+Any student who is absent for Thirty percent of the classes (9
+
+classes) will receive an FA for the course, no exceptions.
+
+
+
+Tests: No makeup tests allowed. Students must complete a test on
+
+the test date or arrange to take a test in advance. All tests are
+
+closed book. Anyone cheating will receive a 0 for that test and be
+
+subject to failing the class via submittal to a disciplinary board
+
+of review.
+
+
+
+Lab Assignments: Each lab will have the results written in
+
+paragraph format and submitted via email on or before the due
+
+date. All homework/assignments due before class starts on the due
+
+date. Homework and assignments cannot be made up.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others. Specific
+
+procedures are to be adhered to when working with the equipment.
+
+These procedures will be demonstrated by the instructor, detailed
+
+in handouts and procedures, and are an intricate part of every
+
+lab. Should students have any doubts or questions regarding a
+
+procedure, they should ask the instructor before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the colleges  PCs. It is an illegal act to
+
+copy this software. Viruses can be transmitted through various
+
+media. Students will take every precaution when working with the
+
+schools software and hardware, adhering to the procedures for
+
+protecting from viruses. Students will not bring their own
+
+software to class, nor will they install it on any college PC.
+
+Students are not permitted to play games or download/participate
+
+in instant messaging or chat room in the labs. Students are
+
+permitted to sign out the MSDNAA software related to the IT class
+
+they are enrolled in. See the instructor to find out what software
+
+is available for that class. MSDNAA software can only be signed
+
+out during the first four weeks of classes no software will be
+
+signed out after that. Students will run the risk of dismissal
+
+from the class and the college if found in violation of the
+
+software and hardware policies.
+
+
+
+Required Text: Hayes, Jim, Fiber Optics Technicians Manual,
+
+Second Edition, 2001, Delmar Thomson Learning, ISBN 0-7668-1825-X
+
+
+
+Material or Supplies: Students will be required to purchase a set
+
+of PC headphones and a computer repair toolkit with grounding
+
+wrist strap. Students will be supplied with additional tools,
+
+software, hardware, and safety equipment required for each lab.
+
+Items necessary to complete each lab will be given out at the
+
+beginning of each lab and returned at the end of each lab.
+
+
+
+
+
+
+
+-----------------------------7d4259ee0382--

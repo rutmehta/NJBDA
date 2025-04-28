@@ -1,0 +1,102 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College CS 251 Course Syllabus
+
+
+
+ CS 251 Introduction to Java Programming: Course credits 3:0:3, 
+Prerequisite: Completion of ENG 98 and MA 93 if 
+
+required. 
+
+
+
+Contact Karen Mattison (856) 351-2672, kmattisonsalemcc.edu
+
+
+
+Course Description:Introduces a basic discussion of object-oriented 
+programming using the Java programming 
+
+language. The development of Java building blocks takes an objects first 
+approach focusing on data types, variables, 
+
+arithmetic expressions, conditional statements, loops, collections, and the 
+Java class library. Place in College 
+
+Curriculum: This course is required for the Computer Science program. It may 
+be taken as a 3-credit Computer Science 
+
+elective or 3-credit Open Elective in all other programs.
+
+Course Performance Objective 1: The student will create and manipulate 
+objects of an existing class. 
+
+Course Performance Objective 2: The student will modify an existing class.
+
+Course Performance Objective 3: The student will create a project in which 
+the definition of one class will create and use 
+
+objects of another class.
+
+Course Performance Objective 4: The student will work with groups of 
+objects. 
+
+Course Performance Objective 5: The student will demonstrate sophisticated 
+programming behavior. 
+
+Course Performance Objective 6: The student will employ a variety of testing 
+and debugging tools and techniques. 
+
+Course Performance Objective 7: The student will design classes that can be 
+maintained and updated efficiently. 
+
+General Education Requirements: The general education goals covered in CS251 
+are critical thinking and problem 
+
+solving, quantitative skills, and science  technology.
+
+Required Text(s): Barnes, D. J.,  Klling, M. (2006). Objects First with Java 
+(3 ed.). Harlow, England: Pearson 
+
+Education Limited.
+
+Optional Text(s): NoneMaterials / Supplies: Flash drive, notebook, 
+pen/pencil 
+
+Additional Costs: As necessitated by the required materials
+
+General Outcomes Assessment: A college-wide outcomes assessment program has 
+been put into place to enhance the 
+
+quality and effectiveness of the curriculum and programs at Salem Community 
+College.  As part of this assessment 
+
+program, the learning outcomes for this course will be assessed.  Assessment 
+methods may include tests, quizzes, 
+
+papers, reports, projects and other instruments.  Copies of all outcomes 
+assessments are available in an electronic 
+
+assessment bank maintained by the Institutional Research and Planning 
+Office. 
+
+Course Activities: Classroom activities will include informal lectures and 
+demonstrations introducing new course material, 
+
+discussion and review of assigned work and observed processes, and exams.
+
+Course Requirements and Means of Evaluation: Please refer to the instructors 
+syllabus addendum for specific 
+
+information regarding the course requirements and means of evaluation.
+
+Course Content Outline: 
+
+I. Objects and classes II. Class definitions III. Object interaction: IV. 
+Object grouping V. More sophisticated object 
+
+and class behavior VI. Well-behaved objects VII. Class design
+
+

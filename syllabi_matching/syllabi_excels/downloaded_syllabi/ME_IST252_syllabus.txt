@@ -1,0 +1,209 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+
+ IST 252	   			Database Security			    3	
+Course Number             		      Course Title                              	Credits
+
+
+ 2	  	    2	   		     N/A	       	   N/A	       		15	
+Class or   	Laboratory   		Clinical or Studio	 Practicum, 		Course Length
+Lecture	Work Hours		Hours			Co-op, Internship          (15 week,
+Hours											10 week, etc.)  	
+
+                 		Not Applicable                     	 	Not Applicable_____
+Performance on an Examination/Demonstration		Alternate Delivery Methods
+(Placement Score (if applicable); minimum CLEP score)		(Online, Telecourse [give title of videos])
+
+Required Materials 
+Textbook:    		Afyouni, H.A.  (2005).  Database Security and Auditing: Protecting Data Integrity and Accessibility.  Boston:  Cengage Learning.
+ISBN:	   		10: 0619215593  (ISBN-13: 9780619215590)
+Other Material:	Flash drive 
+
+Catalog Description 
+Overview of security architecture, including fundamentals of operating system security. Topics include administration of users; profiles, password policies, privileges, and roles; database application security models; virtual private databases; database auditing models; application data auditing; database activity auditing; and security and auditing. (2 lecture/2 laboratory hours)
+
+Prerequisites:  IST 109 and IST 253	                     		Corequisites:  none
+
+
+Last Revised:  04/01/09     	 
+
+Course Coordinator 
+Assistant Professor Queen E. Okike
+okikeq@mccc.edu
+609.570.3464
+
+
+
+Course Competencies/Goals  
+The student will be able to:
+• Explain security architecture.
+• Demonstrate operating system security fundamentals.
+• Administer users; Profiles, Password Policies, Privileges, and Roles.
+• Demonstrate database application security models.
+• Explain virtual private databases.
+• Implement database auditing models.
+• Use application data auditing.
+• Practice auditing database activities.
+• Demonstrate the understanding of security and auditing.
+
+Units of Study in Detail
+Learning Objectives for Unit I:  Security Architecture
+The student will be able to:
+• Define security.
+• Describe an information system and its components.
+• Define database management system functionalities.
+• Outline the concept of information security.
+• Identify the major components of information security architecture.
+• Define database security.
+• List types of information assets and their values.
+• Describe various security methods.
+
+Learning Objectives for Unit II: Operating System Security Fundamentals
+The student will be able to:
+• Explain the functions of an operating system.
+• Describe the operating system security from a database perspective.
+• Describe the components of an operating system security environment.
+• Explain the differences among various authentication methods.
+• Outline useful user administration best practices.
+• Describe the criteria of strong password policies.
+• Describe operating system vulnerabilities.
+• Describe security risks posed by e-mail services.
+
+Learning Objectives for Unit III: Administration of Users
+The student will be able to:
+• Explain the importance of administration documentation.
+• Outline the concept of operating system authentication.
+• Create users and logins using both Oracle10g and SQL Server.
+• Remove a user from Oracle10g and SQL servers.
+• Modify an existing user using both Oracle10g and SQL servers.
+• List all default users on Oracle10g and SQL servers.
+• Explain the concept of a remote user.
+• Describe the security risks of linked servers.
+• Describe the security risks of remote servers.
+• Describe best practices for user administration.
+• Describe the risks of database links.
+
+Learning Objectives for Unit IV:  Profiles, Password Policies, Privileges, and Roles
+The student will be able to:
+• Grant and revoke user privileges.
+• Create, assign, and revoke user roles.
+• Describe best practices for securing a network environment.
+
+Learning Objectives for Unit V:  Database Application Security Models
+The student will be able to:
+• Describe the different types of users in a database environment and the distinct purpose of each.
+• Identify and implement the most common application security models.
+• Describe the use of data encryption within database applications
+• Describe and compare the five security models.
+• Describe the most commonly used application types.
+
+Learning Objectives for Unit VI:  Virtual Private Databases
+The student will be able to:
+• Define the term “virtual private database” and explain its importance.
+• Implement a virtual private database by using the VIEW database object.
+• Implement a virtual private database by using Oracle’s application context.
+• Implement the Oracle virtual private database feature.
+• Use a data dictionary to view an Oracle virtual private database.
+• Use Policy Manager to view an Oracle virtual private database.
+• Implement row-level and column-level security.
+
+Learning Objectives for Unit VII:  Database Auditing Models
+The student will be able to:
+• Gain an overview of auditing fundamentals.
+• Describe the database auditing environment.
+• Create a flowchart of the auditing process.
+• List and describe the basic objectives of an audit.
+• Explain the differences among various auditing classifications and types.
+• Describe the benefits and side effects of an audit.
+• Create his/her own auditing models.
+• Create and manipulate records in PL/SQL.
+
+
+
+
+
+
+Learning Objectives for Unit VIII:  Application Data Auditing
+The student will be able to:
+• Explain the differences between the auditing architecture of DML Action Auditing Architecture and DML changes.
+• Create and implement Oracle triggers.
+• Create and implement SQL Server triggers.
+• Define and implement Oracle fine-grained auditing.
+• Create a DML statement audit trail for Oracle and SQL Server.
+• Generate a data manipulation history.
+• Implement a DML statement auditing using a repository.
+• Describe the importance and the implementation of application errors auditing in Oracle.
+• Implement Oracle PL/SQL procedure authorization.
+
+Learning Objectives for Unit IX:  Auditing Database Activities
+The student will be able to:
+• Use Oracle database activities functions properly.
+• Create DLL triggers with Oracle.
+• Audit database activities using Oracle.
+• Audit server activities with Microsoft SQL Server 2000.
+• Audit database activities using Microsoft SQL Profiler.
+• Use SQL Server for security auditing.
+
+Learning Objectives for Unit X:  Security and Auditing Project Cases
+The student will be able to:
+• Design and implement security and auditing solutions for common business situations.
+• Create an online database.
+• Set up a payroll system.
+• Track Town Contracts.
+• Create a Secured Authorization Repository.
+
+Evaluation of Student Learning
+Weekly class attendance and participation						10%
+Average of weekly homework and laboratory assignments				50%
+Four (4) Unit Tests:
+	Units I - III					10%
+	Units IV - VI					10%
+	Units VII and VIII				10%
+	Units IX and X					10%
+											40%		
+Total	 	 						                                  100% 
+
+
+Grade Policy
+
+
+Grade
+Definition
+Nominal
+%
+Quality Point ValueASuperior Achievement93-1004A-90-923.7B+87-893.4BAbove Average Achievement83-863B-80-822.7C+77-792.4CAverage Achievement70-762DMinimally Passing60-691FAcademic Failure0-590XAudit — no evaluationN/AWWithdrawal (Student-initiated)N/AWIWithdrawal (Instructor-initiated)N/AWAWithdrawal (Administration-initiated)N/ANNo grade reported by the instructorN/AIIncomplete — no credit earnedN/A
+Audit
+A student who audits the course will receive an “X” grade—this cannot be changed to a letter grade at a later date.
+
+Withdrawal
+To receive a W grade for any course, a student must consult with the course instructor or an appropriate division representative and then withdraw officially before two-thirds of the course has been completed by submitting a withdrawal form to the Office of Student Records. Withdrawal after this point results in a grade other than W (usually F). At any time before two-thirds of the course has been completed, the instructor may also withdraw with a W grade any student who has been absent excessively. A student thus withdrawn will not be entitled to any refund of tuition or fees. The student may appeal this action.
+
+Attendance Policy
+Mercer County Community College does not have a “cut system.” Students are expected to attend all classes of every course on their schedules. Only illness or serious personal matters may be considered adequate reasons for absence.  It is the prerogative of the instructor to excuse absences for valid reasons, provided the student will be able to fulfill all course requirements.
+
+Student performance in classes is formally verified at each class meeting. If a student’s attendance has been infrequent or performance unsatisfactory, he or she may receive notification in the mail. At any time, the instructor may withdraw the student from class for insufficient attendance.
+
+Classroom Conduct Statement
+It is the student’s responsibility to attend all classes. If a student misses a class meeting for any reason, he/she is responsible for all content that is covered, for announcements made, and for acquiring any materials that may have been distributed in class. It is expected that students be on time for all classes. Students who walk into class after it has begun are expected to choose seats close to where they entered the room so that they do not disrupt the class meeting.
+
+Students are expected to follow ordinary rules of courtesy during the class sessions.  Engaging in private, side conversations during class time is distracting to other students and to the instructor. Leaving class early without having informed the instructor prior to class is not appropriate. Unless there is an emergency, leaving class and returning while the class is in session is not acceptable behavior. Disruptive behavior of any type, including sharpening pencils during class while someone is speaking, is not appropriate.
+
+The college welcomes all students into an environment that creates a sense of community of pride and respect; we are here to work cooperatively and to learn together.
+
+Academic Integrity Statement
+A student who knowingly represents work of others as his/her own, uses or obtains unauthorized assistance in the execution of any academic work, or gives fraudulent assistance to another student is guilty of cheating. The penalty for violating the honor code is severe. (See Student Handbook.)  Any student violating the honor code is subject to receive a failing grade for the course and will be reported to the Office of Student Affairs. If a student is unclear about whether a particular situation may constitute an honor code violation, the student should meet with the instructor to discuss the situation.
+
+It is permissible to assist classmates in general discussions of computing techniques; general advice and interaction are encouraged. Each person, however, must develop his or her own solutions to the assigned homework and laboratory exercises. Students may not 'work together' on graded assignments. Such collaboration constitutes cheating, unless it is a group assignment. A student may not use or copy (by any means) another's work (or portions of it) and represent it as his/her own.
+
+
+
+            LIBERAL ARTS DIVISION                               HY 101 - page    
+
+IST 252 Course Outline		     Page 6 of 6
+
+
+		
+

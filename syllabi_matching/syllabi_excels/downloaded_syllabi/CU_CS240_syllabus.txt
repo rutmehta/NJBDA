@@ -1,0 +1,141 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 240  Security
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+CS 170, CS 217
+
+
+
+Description 
+
+      Provides students with a comprehensive overview of network security. 
+The course covers the general security concepts communication security, 
+information security, cryptography basics, and operational/organizational 
+security are explored in how it relates to further avenues of specialization 
+for the security student. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand network security goals, threats, and factors involved in a 
+secure network strategy 
+
+ Learn to identify and deal with various security attacks and malicious 
+codes 
+
+ Understand and deal with the different vulnerabilities associated with 
+telecommuting and VPN technology 
+
+ Understand e-mail vulnerabilities and how to safeguard against them
+
+ Understand the vulnerabilities of JavaScript, buffer overflow, ActiveX, 
+cookies, CGI, applets, SMTP relay, and how they are commonly exploited 
+
+ Understand security issues related to wireless media and how to do a 
+wireless site survey 
+
+ Understand network security topologies  devices and learn to apply the 
+security features of VPNs 
+
+ Understand and apply intrusion detection systems
+
+ Have a basic understanding of the concepts of cryptography and how they 
+relate to network security 
+
+ Understand and be able to design the disaster recovery planning process.
+
+ Understand and be able to apply the basic computer forensics methods.
+
+
+
+Topical Outline
+
+ Security Overview
+
+ Authentication
+
+ Attacks and Malicious Code
+
+ Remote Access
+
+ E-mail
+
+ Web Security
+
+ Directory and File Transfer Services
+
+ Wireless and Instant Messaging
+
+ Devices
+
+ Media and Medium
+
+ Network Security Topologies
+
+ Intrusion Detection
+
+ Security Baselines
+
+ Physical Security
+
+ Cryptography
+
+ Computer Forensics and Advanced Topics
+
+ Disaster Recovery and Business
+
+
+
+Texts
+
+      Guide to Network Security Fundamentals (w/CD) by Boswell, Calvert  
+Campbell, 2nd edition: CISCO Learning Inst. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

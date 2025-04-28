@@ -1,0 +1,273 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+                                                              
+
+COURSE OUTLINE
+        MAT 201       Probabilty and Statistics for  Science &       Engineering4Course NumberCourse TitleCredits   MAT 151 or MAT149 with a minimum of C grade
+Co- or Pre-requisite   Catalog description:
+ one variable  data analysis, sample regression and correlation, probability, discrete distributions , continuous distributions, random samples and central limit theorem, confidence intervals and hypothesis testing ,contingency tables, Experimental Design: one factor and factorial  
+     Navidi William  
+     Principles of statistics for Engineers and Scientists
+    Mc Graw Hill
+Required texts/other materials
+
+                                                                      Leslie Grunes
+                                                                          (609) 570 -3865
+        Fall 2012                                                   grunesl@mccc.edu
+Revision date                                           Course coordinator:   
+
+
+Information resources: 
+
+* The library has many books, CDs and videos available.
+* The Library Computer Lab has Internet access and MINITAB installed for student use.
+* The Learning Center has tutoring and help available to the students.
+
+
+Course Competencies/ Course-specific General Education Knowledge Goals and Core Skills. 
+
+
+The student will be able to
+
+  I   Analyzed in-depth one variable data using appropriate techniques on an individualized student data 
+      Set (CG 1)
+ II.  Analyzed in-depth bivariate data analysis stressing regression and correlation techniques on a
+      personally chosen data set (CG 2) 
+III    Calculate probability of an event  (CG 3)
+IV   Calculate probability , mean and standard deviation for  discrete and continuous distributions (CG 4)
+V    Calculate probability, mean , and standard deviation for the following specific  discrete distribution: 
+       Binomial and Poisson CG 5)
+VI Calculate probability, mean , and standard deviation for the following specific  continuous   
+     distribution: Normal, Uniform, Exponential and LogNormal (CG 6)
+VII Use technology to draw a random sample for any of the population distribution and calculate
+      Statistics (CG 7) 
+VIII Perform probability plots to determine if the random sample comes from a specific population  
+       Distribution (CG 8)
+IX calculate interval estimation for a single random sample, two independent random samples,  
+        match pairs for quantitative data or binomial categorical  data (CG 9)
+X Determine how to test hypothesis for a single random sample, two independent random samples,  
+        match pairs for quantitative data or binomial categorical  data (CG 10)
+XI Determine how to test hypothesis  on categorical data using contingency tables (CG 11)
+XII Perform a one factor, or factorial experimental design (CG 12)
+
+          Course-specific General Education Knowledge Goals and Core Skills
+
+General Education Knowledge Goals
+Goal 1. Communication. Students will communicate effectively in both speech and writing.
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+.Goal 4. Technology. Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading.
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+	•
+
+UNIT 1 One variable data analysis (CG I)
+
+          LEARNING OBJECTIVES
+ A.        The student will distinguish between a quantitative variable or categorical variable for analysis.  (GE 1,2,4, CS  A,B,E)
+B.	The student will input a data set into a MINITAB worksheet or use an already existing MINITAB data set. The student will choose one quantitative variable and one categorical variable for analysis. (, GE 4, CS E)
+C.	The student will use MINITAB to graph (Categorical Variable) pie chart, bar chart, dot plot and (Quantitative Variable) stem-and-leaf, histogram, box plot, and side by side box plot and calculate descriptive statistics for quantitative variable for all observations and for each value of categorical variable. (, GE 4, CS E)
+D.	The various measures of central tendency are the mean, median.  The student will know the definition of each of these measures and will be able to calculate them.
+           (GE 2, CS B)
+E.	The various measures of variation are the range, variance, and standard deviation, interquartile range The student will know the definition of each of these measures and will be able to calculate them. (4GE 2, CS  B)
+	F.	The measurements of position such as quartiles, percentiles will be presented and the student will find the position given a data value or find the data value given the position.( GE 2, CS B)
+G. The student will know various distributional shapes (skew to right, skew to left, symmetric or uniform) ( GE 1, 2, CS A, B)
+	H.	The student will be able to calculate intervals for mild or extreme outliers. (GE 1,2, A, B)
+            I.         The student will write a paper analyzing the chosen quantitative variable and categorical variable. (GE 1, 2, 4, CS A, B, E)
+   UNIT 2 Sample regression and Correlation (CG II)
+
+LEARNING OBJECTIVES
+
+A.	Using MINITAB, the student will graph a scatter plot, graph the regression line, and graph residual plots for two quantitative variables and calculate statistics for an individual data set of pairs of observations.  (CG II, GE 4, CS A)
+
+B.       The student will understand the following aspects in examining sample linear regression line and write a paper:  (CG II, GE 1, 2, 4, CS A, B, E)
+                       1. causation
+                       2. various sources of variation (sum of squares)
+                            3. coefficient of determination R2  : the ratio of explained variation to the 
+                           total variation. 
+                      4 . extrapolation
+                      5. desirable residual plot
+                      6. outliers
+                      7. influential observations 
+
+            C       The student will be able to calculate the coefficients of the least squares equation
+                                ^   y^ = a + bx (GE 2,4,CS B,E)
+
+  D.    The student will know that correlation coefficient r, which indicates association, 
+        measures linear strength and direction and know the properties . The student will 
+        know the difference between  association and causation ( GE 1, CS A)
+              
+
+Unit 3 Probability (CG III, IV))
+
+              LEARNING  OBJECTIVES
+
+A. The student will calculate  probability of an event (GE 2, CS B)
+B. The student will calculate the conditional probability of an event (GE 2, CS B)
+C. The student will determine if two events are independent (GE 2, CS B)
+D. The student will calculate the probability of a system in series or parallel is functioning(GE2,CS B)
+E. For a discrete distribution,  the student will calculate the probability, cumulative distribution mean, and standard deviation given a probability mass function (pmf0 
+F. For a continuous distribution, the student will calculate the probability, cumulative distribution,  mean, and standard deviation given a probability density function (pdf) (GE 2, CS B)
+G.  The student will calculate mean and standard deviation for a linear combination of independent random variables (GE 2, CS B)
+          Unit 4 Population Distributions
+
+          Discrete  (Binomial and Poisson) (CG V)
+
+                 LEARNING OBJECTIVES
+
+                             Binomial Distribution
+	A	Given the sample size n and probability of success p,the student will calculate the 
+                        the probability of  X successes, the mean, and standard deviation from the 
+                         formula ( GE 2, CS B)
+	B	Given the sample size n and probability of success p, the student find the 
+                        probability of exactly x successes  or the x successes or less using the TI 84
+                        (GE  4, CS B)
+	C	The student will calculate probability of the number of  successes from a 
+                        simulation of drawing many runs  from a binomial distribution (n,p)
+
+                              Poisson Distribution 
+	A	Given the intensity ?, the student calculates the probability of the number of
+                       occurrences using the Poisson formula or TI 84 (GE 2,4 CS B)
+	B	Given the intensity ?, the student calculates the probability of the number of 
+                        Occurences or less using TI 84 (GE 4, CS B)
+
+         Continuous (CG VI)
+
+              LEARNING  OBJECTIVES
+
+          Normal Distribution with parameters  mean µ and standard deviation ?
+                i.e.      X~N(µ,?) 
+	A	Given X- interval, find probability
+                             Use formula z=(x-µ)/? to calculate z interval before using TI 84 to find 
+                             Probability (GE 2,4, CS B)
+	B	Given percentile, find X
+                                     Find Z on TI 84, then use formula X= µ + Z? (GE 2,4, CS B)
+	C	Normal Approximation to binomial
+                                   Given a large sample np>10, Calculate the Z interval before finding the 
+			Probability (GE 2, CS B)
+
+      Uniform Distribution
+A	Given the end points A and B, the student will find the cumulative distribution function (cdf), mean  µ and standard deviation ? by integrating the probability density function (pdf) (GE 2, CS B)
+
+, Exponential Distribution with parameter ?
+	A	Find probability given X-interval, using MINITAB ( GE 4, CS E)
+	B	Find X  given percentile, using MINITAB ( GE 4, CS E)
+
+Lognormal Y with parameters µ and ?
+	A	Find probability from calculating Z interval of ln(Y) (GE 2, CS B) 
+	B	Find percentile by applying formula ln(Y) = µ + Z? ( GE 2, CS B)
+
+
+Unit 5     Random Samples (CG VII, VIII)
+
+                        LEARNING OBJECTIVES
+
+A	  The student takes a random sample from a distribution and draw a probability plot which compares the sample percentiles with the population percentiles, If the correct distribution was chosen the should be on a straight line (GE 4, CS E) 
+
+                       Central Limit Theorm
+
+                        LEARNING OBJECTIVES
+
+A	Draw a large random sample from a arbitrary population with mean µ and standard deviation ?, calculate the sample means  at least 1000 times. Use MINITAB to demonstrate the distribution of sample means is approximately normal  (GE 4, CS E)
+B	Find  the probability of x-bar interval by calculating a z-interval  tand use TI 84  to get probability. (GE 2, CS B)
+
+Unit 6 Inferences
+
+	Point Estimation
+
+		LEARNING OBJECTIVES
+                           Know the properties for the  best estimator for µ is x-bar
+                                                                                                    ? 2 is s2
+                                                                                                    p  is p-hat (GE 1, CS A)
+
+	Confidence Intervals ( CG 9)
+
+		LEARNING OBJECTIVES
+
+ For the different situations below, calculate the margin of error, the intervals with interpretation (GE 2, CS B)
+
+         Quantitative Data
+
+              Single Sample µ
+             Two Independent Samples µ1- µ2
+              Match Pairs µD
+
+		Categorical Data
+
+                     Single Sample p
+                     Two independent samples p1 – p2
+
+	Prediction Intervals and Tolerance Intervals         
+
+		LEARNING   OBJECTIVES
+Calculate the Prediction and Tolerance Intervals for a random sample from a normal population (GE 2, CS B)
+
+
+                Hypothesis Testing from continuous populations discrete binomial populations(CG 10)
+
+	LEARNING OBJECTIVES
+         
+		Do a test of hypothesis applying the following procedure
+
+ 
+A.  Null Hypotheses H0 vs Alternative Hypothesis Ha
+B.  Check Assumptions
+C.  Calculate Test Statistic by Hand
+D.  Find the P-value from TI  84 or MINITAB 
+E. Conclusion in context
+
+Follow this procedure for
+  	A    mean µ for a single sample from continuous population (Z or T test)
+	B    means µ1 -µ2  for 2 independent samples from continuous populations  (Z or T test)  
+	C    match pairs
+	D    proportion p  for a single sample from a binomial population (Z test)
+	E    proportion p1 – p2 from 2 independent from binomial populations (Z test)
+	F    variance ? 2  for a single sample from normal population (Chi – square test)
+	G  ?21 =?22 from 2 independent samples from normal populations (F test)
+
+
+                 Hypothesis Testing form categorical data (contingency tables)g
+
+                         LEARNING  OBJECTIVES
+
+                      Case 1 equality of proportions from k independent populations (GE 2,4 CS B,E)
+                      Case 2 independence of 2 populations (GE 2,4 CS B,E)
+
+            Before applying the hypothesis testing using Chi-Square as test statistic, Identify the populations under consideration and how the random samples were drawn.
+                       
+
+ 
+
+Unit 7 Experimental Design( GS 12)
+
+                      LEARNING OBJECTIVES
+
+          For one factor and factorial design identify the response variable, the factor(s), treatment
+          levels, randomization, treatment levels (GE 1,2 3 CS A,B,C)
+
+
+         One Facto r Design (GE 1,2 3, CS A,B,C)
+
+A. State hypotheses with conclusion
+B. Do Graphs of each treatment level
+C. Construct Analysis of Variance table by hand.
+D. Perform the Tukey’s  multiple Comparison test to determent which means are different
+
+
+
+          Factorial Design (GE 1,2 3, CS A,B,C)
+
+A. Sate the hypothesis for main effect and interaction
+B.  Construct the model
+C. Give estimates for main effect and interaction
+D.  Plot main effects and interaction using MINITAB 
+
+
+ASSESSMENT
+                 Written Papers 20%
+                  Three Tests     60 %
+                  Group Projects 20%

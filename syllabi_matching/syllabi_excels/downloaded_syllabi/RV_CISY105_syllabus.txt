@@ -1,0 +1,488 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+CISY-105
+
+Foundations of Computer Science
+
+
+
+4 credits
+
+
+
+Corequisite:  Precalculus II (Math 113) or Foundations of
+
+Calculus (Math 211)
+
+
+
+Modified course with same course ID
+
+
+
+Offered Fall 2001
+
+
+
+Contact Person: Professor Milt Reiss
+
+
+
+(908)526-1200 ext.8473
+
+
+
+mreissraritanval.edu
+
+
+
+
+
+
+
+Goals of the Course:
+
+        1. To understand basic concepts of computer science.
+
+These concepts
+
+           include problem solving, algorithms and program
+
+development.
+
+        2. Code, test, debug, and document Java programs.
+
+       3. Describe the nature of structured and object
+
+oriented programming and
+
+            apply these concepts to the development of
+
+efficient Java programs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Required Materials:
+
+        3 1/2 inch diskette (HD) and/or zip
+
+disk, 2, twopocketed folders for handing in
+
+        labs with documentation.
+
+
+
+Grading:
+
+        The following weights will be used in
+
+determining the final grade:
+
+
+
+                 Lab Assignments          32
+
+                 Tests (2)
+
+28
+
+          Quizzes(2)
+
+8
+
+                 Final Exam
+
+24
+
+                 Homework
+
+8
+
+
+
+ A   (89.5 - 100)
+
+ B (86.5 - 89)
+
+                B   (79.5 - 86)
+
+ C (76.5 - 79)
+
+ C   (69.5 - 76)
+
+ D   (59.5 - 69)
+
+                  F   ( 59.5)
+
+                       
+
+                       
+
+                       
+
+                       
+
+Class policies:
+
+Attendance.
+
+      1.  Students are required to attend all
+
+classes. You
+
+are responsible for
+
+           material missed due to absence(s).
+
+      2.  Students who miss 20 of the course
+
+may be
+
+withdrawn from the class at
+
+          the discretion of the instructor. This
+
+is official school policy.
+
+          3.  I do not routinely give make-up
+
+quizzes. If
+
+you cannot be present for
+
+              an exam and you are going to want
+
+to make it up, you must inform me
+
+          (in person, phone, or e-mail) before
+
+you miss the regular exam.
+
+
+
+   Labs.
+
+          1.  No eating or drinking in computer
+
+labs. This is official school policy.
+
+          2.  Copying on labs will not be
+
+tolerated and will result in a zero (0) for that
+
+               lab. Although I encourage you to
+
+work together, labs must be done
+
+               individually and should reflect
+
+your own logic and style.
+
+          3.  Each lab that you hand in must be
+
+stapled if not, you will lose points.
+
+    4.  Each lab handed in must start with an
+
+introductory comment
+
+               within the code of the program
+
+We will discuss other aspects of writing
+
+               clear code in class.
+
+
+
+      Late Policy.
+
+          You are expected to be in class on
+
+time. Coming late is disruptive to
+
+            me and to your classmates.
+
+
+
+      Class Behavior.
+
+          When you first come to class you
+
+should open your text to the
+
+            appropriate material. Usually, the
+
+first activity will be going over homework
+
+            problems. Students volunteer or are
+
+asked to write selected homework
+
+            problems on the board.
+
+
+
+      Homework.
+
+          All homework will be collected and
+
+must be typed. Homework
+
+            assignments are due on time late
+
+assignments (next class) will receive half
+
+     credit assignments will not be accepted
+
+after the next class.
+
+     If you have difficulty with some of the
+
+problems, you can clarify
+
+            them and modify them as we go over
+
+the homework.
+
+
+
+      Suggestions to students.
+
+          You should be prepared to spend  6 to
+
+10 hours a week outside
+
+            of lab on reading and homework for
+
+this course. This is a common time
+
+  requirement for a course of this nature the
+
+                     actual
+
+time spent will vary for
+
+each student depending upon her/his study habits
+
+                       and
+
+other factors.
+
+          Your commitment to keep up with the
+
+reading, homeworks and labs is
+
+    essential to successfully completing this
+
+                    course. I
+
+recommend you exchange
+
+ your e-mail address/telephone number with other
+
+classmates for support and
+
+     for information regarding any missed class.
+
+           Foundations of
+
+           Course Outline
+
+Fall 2001
+
+  Computer Science
+
+Milt Reiss
+
+
+
+ Text: Java Software Solutions Foundations of
+
+                    program
+
+design 2nd  Ed.
+
+              by John Lewis and William Loftus,
+
+2001, Addison-Wesley Longman, Inc.
+
+Week(s)                     Topic(s)
+
+Reading
+
+
+
+    1               Introduction to Computer
+
+Science
+
+Chapter 1
+
+          Hardware and Software
+
+          Networks and the World Wide Web
+
+               Algorithms
+
+                    Problem Solving and
+
+          Programming Compilers and
+
+          Interpreters
+
+          
+
+    2              Introduction to Java
+
+Chapter 2
+
+                                      Appendix
+
+                                           B,
+
+                                           Numb
+
+                                           er
+
+                                           Syst
+
+                                           ems,
+
+                                           pp
+
+                                           537-
+
+                                      544
+
+    3, 4          Control Structures in Java
+
+Chapter 3
+
+          Selection
+
+          Looping
+
+              Kinds of Loops
+
+
+
+    5    Test 1  Chapters 1 - 3
+
+
+
+    6, 7       Objects and Classes
+
+Chapter
+
+4
+
+              Writing Classes
+
+              Encapsulation
+
+              Instance Data and Methods
+
+              Method Overloading
+
+
+
+    8                 More About Classes and
+
+Objects
+
+Chapter 5
+
+              Passing Arguments
+
+              Garbage Collection
+
+                             Interfaces
+
+                      Events and Listeners
+
+
+
+    9          Arrays
+
+Chapter 6
+
+                Sorting and Searching
+
+           Multidimensional Arrays
+
+                The Vector Class
+
+                              Graphics
+
+
+
+
+
+ Week(s)                     Topic(s)
+
+Reading
+
+
+
+ 10  Test 2  Chapters 4 - 6
+
+
+
+   11                Inheritance
+
+Chapter 7
+
+
+
+   12                Errors, Exceptions, and
+
+I/O Streams
+
+Chapter 8.1 - 8.4
+
+
+
+   13                Recursion
+
+Chapter 11
+
+.
+
+ 14, 15
+
+Additional Topics
+
+         Review
+
+            
+
+    References:
+
+     Java How To Program, 2nd Ed., by Deitel 
+
+Deitel, 2000, Prentice Hall
+
+     Computing Concepts with Java 2 Essentials,
+
+2nd  Ed., by Cay Horstmann, 1999,
+
+     John Wiley  Sons, Inc.
+
+
+
+     Java From the Beginning by Jan Skansholm,
+
+2000, AddisonWesley/Pearson

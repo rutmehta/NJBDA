@@ -1,0 +1,738 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+COURSE OUTLINE
+
+
+
+
+
+
+
+    MAT120                                Mathematics for Liberal Arts
+
+Course Number                     Course Title
+
+
+
+33 lecture hours
+
+CreditsHours
+
+
+
+
+
+Catalog description: Relates basic mathematical concepts to current issues 
+and applications of interest to liberal arts majors.  Concepts include 
+critical thinking, problem solving techniques, number sense and estimation, 
+and geometry.   Intended primarily for students in non-scientific / 
+non-technical majors.          3 lecture hours 
+
+
+
+
+
+
+
+Prerequisites:  MAT034 with a minimum C grade or appropriate placement test 
+score. 
+
+
+
+Corequisites:  None
+
+
+
+
+
+
+
+Required texts/other materials: 
+
+1. Text:  Using and Understanding Mathematics: A Quantitative Reasoning 
+Approach,      by Jeffrey O. Bennett and William L. Briggs, 3rd ed., Pearson 
+Education 2006. 
+
+2. Scientific Calculator
+
+
+
+
+
+
+
+Last revised:  N/A 
+
+
+
+
+
+
+
+Course coordinator:   Prof. Paul Toppo
+
+
+
+
+
+
+
+Information resources: 
+
+
+
+ Instructors Solution Manual: This publication gives detailed solutions to 
+even-numbered exercises from the text. 
+
+
+
+ Students Solution Manual: This publication gives detailed solutions to
+
+      odd-numbered exercises from the text.
+
+
+
+ Access to the companion website for the text
+
+      http://wps.aw.com/awbennettusingandun3
+
+      
+
+ Access to the text of FLATLAND by Edwin Abbott Abbott
+
+http://www.ibiblio.org/eldritch/eaa/FL.HTM
+
+
+
+ The library currently has several books available in support of the primary 
+text. 
+
+ 
+
+ Abbott, Edwin. Flatland. Signet Classics
+
+ S.M., Dowdy. Mathematics: Art And Science. 1971
+
+ Gloria, Olive. Mathematics For Liberal Arts Students. 1973
+
+ Fred, Richman. Mathematics For The Liberal Arts Student. 1967
+
+ John W., Bishir. Mathematics In The Behavioral And Social Sciences. 1970
+
+ Lawrence, Spector. Liberal Arts Mathematics. 1971
+
+
+
+
+
+ References to the following web pages:
+
+http://www.zweigmedia.com/ThirdEdSite/tcfinitep.html
+
+Stefan Waner and Steven R. Costenoble  On-Line Resources.
+
+
+
+http://infotrac.thomsonlearning.com/pdf/HSMathematics.pdf
+
+Free database, resource center and mathematical writing tutorial offered by 
+Thomson. 
+
+ http://www-math.cudenver.edu/wbriggs/qr/qrtop.html
+
+A web site devoted to Quantitative Literacy and Quantitative Reasoning. 
+Ideas, problems, news stories, case studies, and links to other QR/QL 
+Internet sites and some information about the book, Using and Understanding 
+Mathematics - A Quantitative Reasoning Approach, Third Edition, Addison 
+Wesley Longman (2005), by Jeffrey Bennett and William Briggs. 
+
+
+
+ Gilbert and Hatcher. Mathematics Beyond The Numbers. Wiley and Sons. 2000
+
+
+
+
+
+
+
+
+
+COURSE GOALS:
+
+
+
+Upon completion of this course, the student will be able to:
+
+
+
+1. Develop and strengthen quantitative reasoning skills and apply them to 
+other disciplines. 
+
+2. Recognize and utilize the logical underpinnings in mathematics.
+
+3. Understand and apply the theory of sets.
+
+4. Acquire and develop a mathematical sense, or intuition.
+
+5. Analyze, model and interpret real-world problems in mathematical terms.
+
+6. Analyze and evaluate written arguments, using propositional logic..
+
+7. Assess and evaluate data.
+
+8. Compare and contrast linear and exponential models of growth and decay.
+
+9.  Define and understand basic concepts of geometry.
+
+10.  Identify, describe and apply geometrical models to real world 
+situations. 
+
+11.  Apply the foregoing skills and techniques to the mathematics of music 
+and politics. 
+
+
+
+Course-specific General Education goals and objectives 
+
+ Critical thinking, problem solving and information literacy: 
+
+Students will use critical thinking and problem solving skills in analyzing 
+information gathered through different media and from a variety of sources. 
+
+Through the study of equations, graphs and matrices of relations in data, 
+the student will practice organizing and analyzing data in a way that can 
+lead to valid conclusions. 
+
+Internet Exercises are provided on the companion website to the text and 
+require searching for data or other information on the web.  The authors of 
+the text have provided a comprehensive list of web links and associated 
+exercises to accompany each topic. 
+
+ Communication: Students will communicate effectively in writing:
+
+Projects requiring group participation foster evaluation, revision and 
+editing of solutions. 
+
+Written assignments in the course: 
+
+- a project that includes an essay of at least 1100 words, 
+
+- homework assignments which include short essay questions in addition to 
+some application and exploration problems, 
+
+- exam questions that require explanation and/or justification, in full 
+sentences, of solutions. 
+
+ 
+
+Quantitative skills: Students will apply appropriate mathematical concepts 
+and operations to interpret data and to solve problems. 
+
+
+
+Students will demonstrate competence in the use of numerical, graphical, and 
+algebraic representations. 
+
+
+
+Students will demonstrate the ability to interpret data, analyze graphical 
+information, and communicate solutions in written and oral form. 
+
+
+
+Students will demonstrate proficiency in the use of mathematics and algebra 
+to formulate and solve problems. 
+
+
+
+ Science and technology: 
+
+The main thrust of this and other mathematics courses is to take what is 
+given and, by the use of the scientific method, to arrive at a valid 
+conclusion. 
+
+Students will demonstrate proficiency in using scientific calculators to 
+support their use of mathematics. 
+
+
+
+
+
+
+
+GENERAL COURSE STRUCTURE: The method of instruction is primarily lecture, 
+but will include collaborative in and out of class work. The outline is 
+flexible enough to permit other than traditional pedagogical methods to be 
+used freely, at the discretion of the instructor. The suggested evaluation 
+instrument consists of five tests and a comprehensive final exam, group 
+assignments, short projects, and a final project. A typical rubric for the 
+instrument follows the unit by unit outline. 
+
+
+
+A suggested day-to-day schedule based on a 45 hour semester course are 
+available from the course coordinator. This includes a test bank and 
+suggested exercises from the text as well as a set of short projects. 
+
+
+
+The general course outline consists of five units:
+
+
+
+Unit I:
+
+ (12 hours) Problem Solving-Thinking Critically (1A-1E, 2A, 2C) 
+
+
+
+1. Introduction to logic arguments and fallacies.
+
+2. Propositions and truth tables.
+
+3. Sets and Venn Diagrams and their application to logic.
+
+4. Analysis of arguments and critical thinking in real world situations.
+
+5. Units and dimensional analysis and their applications.
+
+6. General techniques for solving problems.
+
+
+
+The student will be able to:
+
+
+
+1. Recognize and analyze logical fallacies.
+
+2. Define and identify logical propositions.
+
+3. Construct and interpret truth tables
+
+4. Solve problems in logic using truth tables.
+
+5. Define sets and Venn diagrams.
+
+6. Solve problems using sets and Venn diagrams.
+
+7. Analyze and evaluate arguments using set theoretic and propositional 
+methods. 
+
+8. Apply the foregoing topics to everyday situations.
+
+9. Define units and unitless quantities.
+
+10.  Use logic to analyze and interpret units.
+
+11.  Understand and apply dimensional analysis.
+
+12.  Use logic to develop problem solving techniques.
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to, topics in the natural and social sciences. 
+
+
+
+A project exploring the fallacies in politics is provided in the day to day 
+syllabus. 
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+1. the gun control debate.
+
+2. health care debate.
+
+3. interpretation of measured gender differences.
+
+4. Analyzing case studies using Venn diagrams.
+
+
+
+
+
+Unit II:
+
+ (10 hours) Numbers in the Real World (3A-3C)
+
+
+
+1. Percentages and their correct use and interpretation.
+
+2. Fractions and their relation to percentages.
+
+3. Using percentages to describe change.
+
+4. Using percentages to make comparisons.
+
+5. Putting numbers in perspective.
+
+6. Large and small numbers and their interpretation.
+
+7. Uncertainties precision, accuracy and interpretation of error.
+
+8. Applications to real world situations.
+
+
+
+The student will be able to:
+
+
+
+1. Relate numbers to real world situations.
+
+2. Identify and use percentages and recognize their utility.
+
+3. Decide when percentages are necessary and when they are not.
+
+4. Analyze and evaluate real world situations using percentages.
+
+5. Describe and recognize large and small numbers.
+
+6. Use methods of Unit I to analyze and solve the logical problems related 
+to largeness and smallness. 
+
+7. Assess the efficacy of the techniques used to give meaning to large and 
+small numbers. 
+
+8. Define and describe uncertainty in both mathematical and real world 
+situations. 
+
+9. Examine errors in measurement in terms of precision and accuracy.
+
+10.  Discuss ways of dealing with uncertainty in real world situations.
+
+11.  Classify and examine the errors that give rise to uncertainty.
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to, finance, agriculture, and population growth. 
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+1. Salary Comparisons.
+
+2. Of vs. More Than.
+
+3. Shifting reference values and what they indicate.
+
+4. Scientific notation 
+
+5. Orders of magnitude.
+
+
+
+
+
+Unit III:
+
+ (12 hours) Growth Models (8A-8D)
+
+
+
+1. Linear trends: a graphical approach.
+
+2. What makes a line straight
+
+3. Exponential growth and decay: a graphical approach.
+
+4. Comparing and contrasting linear and exponential behavior.
+
+5. Doubling time and half-life.
+
+6. Some basic formulas and their connection to graphs of linear and 
+exponential trends. 
+
+7. Population growth in real situations.
+
+8. Logarithmic growth: a graphical approach.
+
+9. A common thread among earthquakes, sounds and acids.
+
+
+
+The student will be able to:
+
+
+
+1. Define, recognize and interpret linear growth from graphs and tables.
+
+2. Define, recognize and interpret exponential growth from graphs and 
+tables. 
+
+3. Define, recognize and interpret logarithmic growth from graphs and 
+tables. 
+
+4. Distinguish, compare and contrast the three types of growth defined 
+above. 
+
+5. Define and identify exponential decay from graphs and tables.
+
+6. Use doubling time and half-life to interpret and evaluate data.
+
+7. Evaluate and assess various population growth models.
+
+8. Summarize and discuss the exponential model used to understand 
+radioactive decay. 
+
+9. Summarize and discuss the logarithmic model used to understand the 
+destructive power of earthquakes. 
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to topics such as population growth, radioactive decay, 
+depreciation, and earthquakes. 
+
+
+
+A project on earthquake disasters is included in the day to day syllabus.
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+1. Constant growth in college admissions.
+
+2. Bacterial growth.
+
+3. The problem of radioactive waste disposal.
+
+4. Growth rates and carrying capacity.
+
+5. Earthquake magnitudes.
+
+6. Acid rain.
+
+7. Weather patterns (which do not appear to fit any of these models).
+
+
+
+
+
+Unit IV and Unit V can be combined and specific sections omitted or included 
+at the discretion of the instructor. 
+
+
+
+Unit IV:
+
+ (5 hours) Geometric Models (10A-10B)  
+
+
+
+1. Points, lines and planes.
+
+2. Plane geometry.
+
+3. Three-dimensional geometry.
+
+4. Flatland and the existence of ghosts.
+
+5. A brief discussion of spherical and hyperbolic geometry.
+
+6. Applications.
+
+
+
+The student will be able to:
+
+
+
+1. Identify and distinguish Euclidean, Spherical and Hyperbolic geometries.
+
+2. Understand the fundamental ideas of point line, angle and measurement in 
+geometry. 
+
+3. Develop and use formulas for area, perimeter and distance.
+
+4. Define dimension and construct examples to illustrate its application to 
+real world situations. 
+
+5. Analyze and solve everyday problems using geometric methods.
+
+6. Propose geometric models for optimal design of three dimensional forms.
+
+
+
+
+
+Exercises from the text selected to reinforce and apply the above concepts 
+to real-world situations should be completed. Applications include, but are 
+not limited to topics in the natural and social sciences, the fine arts and 
+architecture. 
+
+
+
+Specific applications which facilitate student goals include:
+
+
+
+1. Geometry in art and architecture.
+
+2. Dimension and what it means.
+
+3. Interior design.
+
+4. Comparison of fundamental geometric quantities e.g. surface area and 
+volume. 
+
+
+
+
+
+Unit V
+
+ (6 hours) Applications  (11A-11C 12A-12B)
+
+
+
+1. Tones and scales, from a mathematical perspective.
+
+2. Symmetry and its implications in art.
+
+3. Proportion, ratio and esthetics.
+
+4. Voting methods in various political systems.
+
+5. Fairness of voting
+
+
+
+
+
+The student will be able to:
+
+
+
+1. Identify the mathematical underpinnings in music.
+
+2. Interpret tone and scale mathematically.
+
+3. Describe and recognize symmetry.
+
+4. Evaluate the role that symmetry plays in art.
+
+5. Relate proportion to symmetry.
+
+6. Analyze and interpret the golden ratio from an esthetic viewpoint.
+
+7. Define majority, plurality, democratic system.
+
+8. Analyze election results and interpret them.
+
+9. Define fairness in voting.
+
+10. Compare and contrast the efficacy of various political systems.
+
+
+
+Final project: An investigation and analysis of the life and work of George 
+Polya. Details are provided in the day to day syllabus. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVALUATION OF STUDENT PROGRESS:
+
+
+
+The following suggested grading scheme may be modified, at the discretion of 
+the instructor. 
+
+
+
+Tests:
+
+
+
+Unit I 10
+
+Unit II10
+
+Unit III10
+
+Unit IV10
+
+Unit V10
+
+
+
+Collected Projects (2)10
+
+Final Project10
+
+
+
+In-class Quizzes, group work, etc.10
+
+
+
+Final Exam20 
+
+
+
+
+
+ACADEMIC INTEGRITY STATEMENT:
+
+
+
+Under no circumstance should students knowingly represent the work of 
+another as ones own. Students may not use any unauthorized assistance to 
+complete assignments or exams, including but not limited to cheat-sheets, 
+cell phones, text messaging and copying from another student. Violations 
+should be reported to the Academic Integrity Committee and will be 
+penalized. Please refer to pages 53-54 of the 2005-2006 Student Handbook. 
+
+
+
+
+
+            LIBERAL ARTS DIVISION                               HY 101 - 
+page 

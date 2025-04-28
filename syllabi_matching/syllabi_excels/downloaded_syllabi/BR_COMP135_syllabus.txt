@@ -1,0 +1,616 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP135
+
+
+
+
+
+COURSE NAME
+
+Computer Architecture Using Assembly Language
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP126 or COMP132
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED-This course originally required an additional scheduled lab, which 
+is no longer part of the course. 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+Students will acquire the fundamentals of computer architecture from a 
+programmers perspective by learning assembly language, the interface between 
+hardware and software. Designed for students with previous high-level 
+programming language experience, this course enables the students to write 
+code that provides a good, intuitive model of the computing environment. 
+Concepts covered will be data representation, memory organization, the 
+instruction cycle, addressing modes, exception handling and interrupts. 
+Programs will be developed using the popular INTEL based architecture. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+I.      Basic Machine Concepts/Data Representation
+
+II.     Processor Architecture 
+
+III.    Basic Elements of Assembly Language
+
+IV.     Addressing, Arithmetic and Data Transfer
+
+V.      External Procedures
+
+VI.     Conditional Processing and Loop
+
+VII.    Integer Arithmetic
+
+VIII.   Strings and Arrays
+
+IX.     32 Bit Windows Programming
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Text:Assembly Language for Intel-based Computers, Kip R. Irvine, Fourth 
+Edition, Prentice Hall, ISBN: 0-13-091013 
+
+
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+To be considered acceptable, a lab must be free of all syntax and logic 
+errors and must meet all of the requirements outlined by the problem 
+statement. Labs must also meet documentation and style requirements as 
+outlined by the instructor. In addition, there will be 3 examinations. The 
+final grade requirements for the course will be: 
+
+GradeRequirements
+
+ ASuccessfully complete Labs 1 to 12 and
+
+Receive test average of 90 thru 100 on all tests
+
+
+
+B      Successfully complete Labs 1 to 11 and
+
+Receive test average of 85 thru 89 on all tests
+
+
+
+BSuccessfully complete Labs 1 to 10 and
+
+Receive test average of 80 thru 84 on all tests
+
+
+
+CSuccessfully complete Labs 1 to 9 and
+
+Receive test average of 75 thru 79 on all tests
+
+
+
+CSuccessfully complete Labs 1 to 9 and
+
+Receive test average of 70 thru 74 on all tests
+
+
+
+DSuccessfully complete Labs 1 to 9  
+
+Receive test average of 60 thru 69 on all tests
+
+If a grade of D is received and you are a Computer Science Major, it is 
+highly recommended that the course be retaken. 
+
+
+
+FNon-completion of Labs 1 to 9, or
+
+Test average below 60.
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+ASSIGNMENTS FOR COMP-135
+
+
+
+ALL PROGRAMS NEED A COVER PAGE AND BOTH SOURCE AND OUTPUT PRINTED 
+
+LAB 
+
+        
+
+LAB-1           IN IRVINE  
+
+Week 1 PAGE 8   QUESTIONS 112
+
+Week 2 PAGES 224   QUESTIONS 129
+
+
+
+LAB-2            IN IRVINE    
+
+Pages 40 Section Review                                                      
+           47 Section Review                                                 
+                   57 Section Review 
+
+
+
+LAB-3            IN IRVINE
+
+Week 1 Page 96 Exercise 1
+
+Week 2 Page 96 Exercise 2
+
+
+
+LAB-4           Fibonacci Number series Program
+
+Write a program that will display the first 24 values
+
+in the Fibonacci sequence
+
+
+
+LAB-5 IN IRVINE    
+
+PAGE 176 Exercise 2 with changes
+
+Input 10 numbers, 1 at a time
+
+Display the numbers
+
+Display the sum of the numbers
+
+Display the difference between each number and the                    sum
+
+
+
+LAB-6           IN IRVINE    
+
+PAGE 224  225 Exercises 3 and 4 as 1 program
+
+
+
+LAB-7 IN IRVINE   
+
+PAGE 256 Exercise 5
+
+
+
+LAB-8 IN IRVINE    
+
+PAGE 331 Exercise 6
+
+
+
+LAB-9 IN IRVINE    
+
+PAGE 430 Exercise 6
+
+
+
+LAB-10IN IRVINE     
+
+PAGE 257 Exercise 7
+
+
+
+LAB-11IN IRVINE    
+
+PAGE 299 Exercise 5
+
+
+
+LAB-12IN IRVINE     
+
+Page 429 Exercise 4 or Page 430 Exercise 7
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT 1 
+
+
+
+Name of Unit:  Computer Languages/Data Representation
+
+Unit Objective:  To learn the hierarchy of computing languages and how data 
+is represented both internally and externally. 
+
+
+
+Method of Evaluation:  Completion of  LAB-1 and Test 1.Estimated Time to 
+Achieve:   2 Weeks 
+
+
+
+
+
+Learning Objectives:  
+
+
+
+The student will:
+
+Understand the differences between High Level, Mid Level and Machine 
+Languages.  Understand the hierarchy of  Computing Language 
+
+Describe Assembly Language applications
+
+Learn various ways to represent data including ASCII and EBCDIC
+
+Learn how to represent Binary and Hexadecimal values
+
+Learn how to do Binary and Hexadecimal arithmetic
+
+Learn how signed numbers are represented
+
+
+
+Recommended Learning Experiences:  
+
+
+
+Attend Class meetings
+
+Read in Irvine Pages  1 thru 29
+
+Read in Irvine Appendix A Pages 611 - 616
+
+Number Conversion Homework Handout
+
+
+
+UNIT 2
+
+
+
+Name of Unit:  Processor Architecture
+
+Unit Objective:  To understand the design and concepts of the Intel IA 32 
+Processor from a programming perspective 
+
+
+
+Method of Evaluation: Completion of LAB-2 and Test 1
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+Learn the basic design for the Intel 32 bit computer
+
+Understand the different Modes of operation
+
+Learn how memory is managed in the different modes
+
+Learn the hardware components of the IA-32 machine
+
+Understand the Input-Output features
+
+
+
+UNIT  3
+
+
+
+Name of Unit:  Basic Elements of Assembly Language
+
+
+
+Unit Objective:  To understand the Basic Structure of a MASM program, 
+enabling a user to assemble, link and execute a MASM designed program 
+
+
+
+Method of Evaluation: Completion of LAB-3 and Test 1
+
+
+
+Estimated Time to Achieve:  2 Weeks
+
+Learning Objectives: The student will:
+
+1. Learn the correct structure of a MASM source file
+
+2. Be able to distinguish between Constants and Expressions
+
+3. Define memory using correct Naming conventions
+
+4. Enter the HELLO.ASM program (back page)
+
+5. Assemble, Link and execute HELLO
+
+
+
+UNIT 4
+
+
+
+Name of Unit: Addressing, Arithmetic and Data Transfer
+
+
+
+Unit Objective:  The student will be able to define and allocate memory 
+locations, store data and move it to another location 
+
+
+
+Method of Evaluation: Completion of LAB- 4 and Test 2
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+Learning Objectives:
+
+
+
+The student will:
+
+1. Learn the data transfer instructions such as MOV and XCHG
+
+2. Learn the Arithmetic instructions
+
+3. Learn the Data Directives
+
+4. Be introduced to Indirect Addressing
+
+
+
+UNIT 5 
+
+
+
+Name of Unit: External Procedures
+
+
+
+Unit Objective:  The student will be able to incorporate external procedures 
+into a MASM program to expand the versatility. 
+
+
+
+Method of Evaluation: Completion of LAB- 5 and Test 2
+
+Estimated Time to Achieve:  1 Week
+
+
+
+Learning Objectives:  The student will:
+
+1. Learn the PUSH and POP commands
+
+2. Use IRVINE.LIB to access the external library
+
+3. Use the PROC and CALL instructions
+
+
+
+UNIT 6
+
+
+
+Name of Unit:  Conditional Processing and Loops
+
+Unit Objective: The student will be able to utilize the conditional loop 
+structures to effectively for program optimization 
+
+
+
+Method of Evaluation: Completion of LAB-6 and Test 2
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+Learning Objectives:  The student will:
+
+1. Learn the Conditional jumps
+
+2. Learn the LOOPZ and LOOPNZ instructions
+
+3. Learn how While and Until loops are created
+
+
+
+
+
+
+
+UNIT 7
+
+
+
+Name of Unit:  Integer Arithmetic
+
+Unit Objective: The student will use the integer arithmetic instructions to 
+shift and manipulate bits 
+
+
+
+Method of Evaluation: Completion of LAB-10 and Test 3
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+Learning Objectives:  The student will:
+
+1. Learn how to use the Boolean SHIFT instruction
+
+2. Learn to use the ROL/ROR instructions
+
+3. Learn to use the MUL and DIV instructions
+
+
+
+UNIT 8
+
+
+
+Name of Unit:  Strings and Arrays
+
+Unit Objective:  To understand how MASM defines and uses Strings and numeric 
+arrays 
+
+
+
+Method of Evaluation: Completion of LAB-8 and Test 3
+
+
+
+Estimated Time to Achieve:  1 Week
+
+
+
+Learning Objectives:  The student will:
+
+1.  Learn the correct use of the MOVSB, MOVSW, MOVSD
+
+2.  Learn the String compare instructions
+
+3.  Learn how o use a multi dimension array
+
+4.  Learn how to use a Sort and Search routine
+
+
+
+
+
+UNIT 9
+
+
+
+Name of Unit:   32 Bit Windows Programming
+
+
+
+Unit Objective:  To be able to use Assembly to develop a WIN32 Console 
+Program 
+
+
+
+Method of Evaluation: Completion of LAB- 9and Test 3
+
+
+
+Estimated Time to Achieve:  2 Weeks
+
+
+
+Learning Objectives:  The student will:
+
+1. Learn how to access the WIN32 environment: including:
+
+Console Functions
+
+Creating a Graphical Window
+
+IA-32 Memory Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------7d7245337d0510--

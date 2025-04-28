@@ -1,0 +1,609 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+COURSE NAME & NUMBER:  MAT266 Survey of Modern Mathematics 
+
+
+COURSE DESCRIPTION
+              
+This course provides a transition to higher mathematics and introduces the basic methods 
+of proofs. Topics include number theory, elementary symbolic logic, set theory, basic 
+methods of mathematical proofs, relations and functions, as well as the theory of 
+mathematical thinking and writing. 
+Prerequisite: Grade of 'C' or better in Calculus I or permission of the department chair 
+Corequisite: Calculus II 
+3 Lecture Hours Per Week 
+3 Credit Hours
+
+RATIONALE & STUDENT LEARNING OUTCOMES
+
+This course is designed to provide students with an introduction to writing and proving 
+mathematical statements. Many students have no familiarity with proofs, which is the 
+most important concept in higher mathematics courses. They also have little experience 
+writing and interpreting mathematical theorems. This course seeks to provide those skills 
+and experiences. In addition, this course will be a prerequisite to advanced mathematics 
+courses and will be required for mathematics and mathematics education majors.
+
+Similar courses are offered at William Paterson University, New Jersey City University, 
+Monmouth University, and Drew University supporting the transferability of this course.
+
+Student Learning Outcomes:  
+
+At the end of this course, the successful student will be able to:
+
+a)	Identify propositions 
+b)	Distinguish the different logical connectives
+c)	Construct truth tables  
+d)	Compare and use the different techniques of proofs 
+e)	Determine if a given relation is a function
+f)	Determine the cardinality of sets.
+
+ These content driven objectives fall within the broader scope of the following general 
+education objectives for mathematics.
+
+
+
+Students will:
+
+>	Translate quantifiable problems into mathematical terms and solve these problems 
+using mathematical operations.
+>	Identify a problem and analyze it in terms of its significant parts and the 
+information needed to solve it.
+>	Formulate and evaluate possible solutions to problems, and select and defend the 
+chosen solutions.
+>	Solve problems, applying mathematical strategies.
+>	Communicate and discuss mathematical problems and solutions.
+>	Comprehend and evaluate mathematical resources.
+>	Write clear and logical arguments/discussions on mathematical topics.
+>	Learn independently and direct their own course of learning and specialization 
+and be able to present those findings to a group of peers.
+
+TEXT:	A Transition To Advanced Mathematics 
+Douglas Smith, Maurice Eggen, & Richard St. Andre
+7th Edition
+	Brooks/Cole Publisher
+RESOURCES:
+The Library has a selection of mathematics books available to support student interests
+and needs in mathematics. The Academic Learning Center provides tutoring for students 
+who need assistance. In addition to L-302, the mathematics computer technology
+classroom, the College has computers available for additional research and software use.
+No additional resources are necessary.
+
+TEACHING METHODS
+
+A combination of methods is recommended to ensure meeting various learning styles and 
+course objectives.
+
+A.	Lecture
+B.	Group discussion 
+C.	Problem Solving 
+
+CLASS MEETINGS
+
+This course will be scheduled two nights per week for 80 minutes each class session. It 
+will be offered once a year to start, and increase to twice a year as the population builds.
+
+
+
+SCHEDULE OF TOPICS 
+
+Weeks I - III
+
+I.	Logic and Proofs 
+
+		1. Propositions and connectives
+		2. Conditionals and Bi-conditionals.
+		3. Quantifiers.
+			4. Sets, Set Operations, & Cardinality of Sets
+			5.  Basic Concepts of Number Theory
+
+Weeks IV- VI
+		
+II.	Writing Proof 
+
+1.	Direct Proof
+2.	Proof By Contraposition
+3.	Proof by Contradiction
+4.	Proofs Involving Quantifiers
+5.	Mathematical Induction (PMI)
+6.	Generalized Principle of Mathematical Induction
+7.	Principle pf Complete Induction
+8.	Well-Ordering Principle
+
+Weeks VII- IX
+
+III. Relations		
+			1.  Cartesian Product and Relations.
+                        		2.  Equivalence Relations
+3.  Partitions.
+                        		4.  Ordering Relations 
+			5. Graphs and Relations.
+
+Weeks X-XII
+ 	
+            IV. Functions 
+                          		1.     Functions as Relations
+		2.     Construction of Functions.
+                          		3.     Functions that are Onto; One-to-One Functions                                 
+		4.     Image of sets	
+
+
+
+
+
+
+
+
+UNITS
+CLASS 
+WEEKS
+CLASS 
+MTGS.
+TEXT ASSIGNMENT
+CHAP.            PAGES
+
+TOPICS
+ASSIGNMENT
+PROBLEMS OR QUESTIONS
+     1
+
+   0.5
+    1.1
+1-8
+Propositions and Connectives
+1,2,3,4,6,8,9,10,11,13
+
+
+     1
+    1.2
+9-17
+Conditionals and Biconditionals
+1,2,5,6,7,10,11,12,13,16
+
+
+    0.5
+    1.3
+18-26
+Quantifiers
+1,2,5,6,7,8,9,10,11,13,14
+
+
+     1
+    2.1
+71-78
+Basic Concepts for Set Theory
+1,3,4,5,6,8,9,14,15,16,17,19
+
+
+    0.5
+    2.2
+79-88
+Set Operations
+1,2,3,4,6,9,10,11,12,13,15,19
+
+
+     1
+    2.3
+89-99
+Extended Set Operations and 
+Indexed Families of Sets
+1,2,4,5,6,7,8,9,10,15,17,18
+
+
+     1
+    5.1
+233-241
+Equivalent Sets; Finite Sets
+2,6,7,9,10,11,13,15,18,19,20,21,22
+
+
+     1
+    5.2
+242-250
+Infinite Sets
+3,4,6,7,12
+
+
+     1
+    5.3
+251-258
+Countable Sets
+6,7,8,11,13,15
+
+
+    0.5
+    5.4
+259-266
+The Ordering of Cardinal Numbers
+2,5,8,11,16,17
+
+
+     1
+    5.5
+267-273
+Comparability of Cardinal Numbers 
+and the Axiom of Choice 
+1,5,8,10
+
+
+     1
+
+Review
+
+
+
+
+    0.5
+
+Exam 1
+
+
+
+
+
+
+
+
+
+     2
+
+     1
+    1.4
+27-39
+Basic Proof of Methods I
+1,4,5,6,7,10,11
+
+
+     1
+    1.5
+40-47
+Basic Proof of Methods II
+1,3,4,6,7
+
+
+     1
+    1.6
+48-59
+Proofs Involving Quantifiers
+1,2,4,6,7
+
+
+    0.5
+    1.7
+60-69
+Additional Examples of Proofs
+1,2,4,8,9,14,16,20,21,23
+
+
+     1
+    2.4
+100-113
+Mathematical Induction
+1,2,4,5,6,7,8,10,11,13
+
+
+     1
+    2.5
+114-121
+Equivalent Forms of Induction
+1,3,5,6,7,9,12,13
+
+
+    0.5
+    2.6
+122-134
+Principles of Counting
+2,3,5,10,21,23
+
+
+    0.5
+
+Review
+
+
+
+
+
+
+Exam 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     3
+
+    0.5
+    3.1
+135-146
+Cartesian Products and Relations
+
+
+
+     1
+    3.2
+147-156
+Equivalence Relations
+
+
+
+    0.5
+    3.3
+157-162
+Partitions
+
+
+
+     1
+    3.4
+163-173
+Ordering Relations 
+
+
+
+     1
+    3.5
+174-183
+Graphs
+
+
+
+    0.5
+
+Review
+
+
+
+
+    0.5
+
+Exam 3
+
+
+
+
+
+
+
+
+
+     4
+
+    0.5
+    4.1
+185-194
+Functions as Relations
+
+
+
+     1
+    4.2
+195-204
+Constructions of Functions
+
+
+
+    0.5
+    4.3
+205-212
+Functions That are Onto; One-to-
+One Functions
+
+
+
+    0.5
+    4.4
+213-219
+One-to-one Correspondences and 
+Inverse Functions
+
+
+
+     1
+    4.5
+220-224
+Images of Sets
+
+
+
+    0.5
+
+Review
+
+
+
+
+    0.5
+
+Exam 4
+
+
+
+
+     1
+
+Review for 
+Final Exam
+
+
+
+
+
+
+
+
+
+
+
+
+ACHIEVEMENT STANDARDS AND EVALUATION OF RESULTS:                                                                
+. 
+Student learning outcomes will be assessed through a combination of methods.
+A suggested grading formula is presented below:				40%
+
+Quizzes/Homework/Class Assignments - There will be a combination of assignments 
+assessing the materials covered each week.					30%
+
+Tests - There will be two or three in-class tests assessing understanding of text contents 
+and class lectures/discussion							30%
+    
+Final Exam - There will be a comprehensive final exam assessing the cumulative 
+contents of the course.		
+
+
+BIBLIOGRAPHY
+
+				               
+Bond, Robert J. and William J. Kean. An Introduction to Abstract Mathematics. 
+        Pacific Grove, CA: Brooks/Cole Inc., 1999.  
+Chartrand, Polimeni, and Zhang, A Transition to Advanced Mathematics, 
+        Brooks/Cole Inc., 2006.
+Gerstein, Larry J..  Introduction to Mathematical Structures and Proofs. New 
+        York, NY: Springer Verlag Inc., 1996.
+Sibley, Thomas Q.2009 Foundations of Mathematics. John Wiley and Sons Inc.
+         Sundstrom, Ted, Mathematical Reasoning: Writing and Proofs. Saddle 
+River,   
+         NJ Pearson Education Inc., Upper, 2007.
+Smith, D. M. and Eggen, R. ST. Andre, A Transition to Advanced Mathematics, 
+6th 
+        ed. Boston, MA: Brook/Cole Inc., 2011.
+Solow, How to read and do Proofs, 3rd ed., John Wiley & Sons, Inc. NY, NY 
+2002.
+Wohlgemuth, Andrew Introduction to Proof In Abstract Mathematics. 
+         Philadelphia, PA: Saunders College Publishing, 1990
+
+ 
+
+
+
+
+
+
+
+
+
+CORRELATION OF PROGRAM OR GENERAL EDUCATION OUTCOMES,
+STUDENT OUTCOMES, ASSESSMENT METHODS, & DATA COLLECTION
+
+Mathematics/General Education 
+Objectives
+Student Learning Outcomes
+Assessment of 
+Outcomes
+Translate quantifiable problems into 
+mathematical terms and solve these 
+problems using mathematical operations.
+
+Demonstrate ability to translate 
+problems and solve them 
+mathematically in discussion, 
+and in completion of class and 
+homework assignments, as well 
+as test problems.
+In-class and homework 
+assignments
+ 
+Group & Class 
+Discussion
+
+Quizzes/Tests
+Identify a problem and analyze it in terms 
+of its significant parts and the information 
+needed to solve it.
+
+Demonstrate ability to identify 
+parts of a problem and 
+significant information to solve 
+through class discussions, group 
+work, and completion of 
+assignments. 
+In-class and homework 
+assignments
+
+Group & Class 
+Discussion
+
+Quizzes/Tests
+Formulate and evaluate possible solutions 
+to problems, and select and defend the 
+chosen solutions.
+Demonstrate ability to formulate 
+and evaluate solutions to 
+problems, and to defend 
+solutions through class 
+discussions, group work, and 
+completion of assignments.
+In-class and homework 
+assignments
+
+Group & Class 
+Discussion
+
+Quizzes/Tests
+Solve problems, applying mathematical 
+strategies.
+
+
+Demonstrate ability to apply 
+mathematical strategies to solve 
+problems through completion of 
+class and homework 
+assignments.
+Class Problems
+Homework 
+Assignments
+
+Group & Class 
+Discussion
+
+Quizzes/Tests
+Communicate and discuss mathematical 
+problems and solutions.
+
+Demonstrate ability to 
+communicate and discuss 
+mathematical problems and 
+solutions through class and 
+group discussions.
+
+Group & Class 
+Discussion
+Write clear and logical 
+arguments/discussions on mathematical 
+topics.
+
+Demonstrate ability to write 
+clear and logical discussions on 
+mathematical topics through 
+class and homework 
+assignments.
+Class & Homework 
+Assignments
+
+Quizzes/Tests
+Learn independently and direct their own 
+course of learning and specialization and 
+be able to present those findings to a group 
+of peers.
+
+Demonstrate independent 
+learning on selected topics 
+through writing, discussion, and 
+presentations.
+Class & Homework 
+Assignments
+Group & Class 
+Discussion
+
+Respectfully Submitted by Cynthia Roemer & Ginny Crisonino, February 2011

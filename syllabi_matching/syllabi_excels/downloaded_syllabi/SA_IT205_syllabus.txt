@@ -1,0 +1,743 @@
+2
+
+
+
+IT 205
+
+Network Systems II
+
+Credits: 4
+
+Pre-Requisites: Pre-Requisites: IT 106, IT102, IT103, IT104,
+
+IT204, and IT105 Network Systems I or written permission of
+
+Instructor
+
+New Course Fall 2002
+
+
+
+Donna Dobie
+
+Department Co-Chair: Business, Computer, and Technical Studies
+
+dobiesalemcc.edu
+
+
+
+Course Description: This course will teach advanced administration
+
+of a common network operating system. Students will compare and
+
+contrast the operating systems and learn how to integrate them
+
+into a mixed network environment. File server optimization and
+
+security will also be explored in depth. Desktop management
+
+policies will also be explored. A higher-level operating system
+
+(Linux) and its integration into a network will be introduced.
+
+
+
+
+
+Course Performance Objectives:
+
+     1.   Students will convey how TCP/IP works in network environments
+
+       and be able to set up TCP/IP in these environments.
+
+     2.   Students will be able to configure and fix TCP/IP problems at
+
+       the client and server levels.
+
+     3.   Students will be able to configure DHCP to run in network
+
+       environments.
+
+     4.   Students will be able to manage, troubleshoot, and maximize
+
+       the server via the server utilities.
+
+     5.   Students will be able to manage, troubleshoot, and maximize
+
+       mix server environments.
+
+     6.   Students will be able to identify the tape drive
+
+       specifications and procedures needed by the server and install the
+
+       drive in the servers.
+
+     7.   Students will be able to create a backup procedure and
+
+       implement that procedure in the network environment.
+
+     8.   Students will be able to integrate multiple platforms in a
+
+       network environment.
+
+     9.   Students will be able to use advanced administration
+
+       techniques for system and user policies in the environment.
+
+     10.  Students will be able to use group policies for advanced
+
+       administration tasks in the environment.
+
+     11.  Students will verify the Domain Name Service as it relates to
+
+       the Internet and enable environments to communicate using DNS on
+
+       the Internet.
+
+     12.  Students will be able to configure the environments to
+
+       communicate using DNS on the Internet.
+
+     13.  Students will describe the security issues facing companies
+
+       that connect to the Internet.
+
+     14.  Students will be able to identify the role firewalls play in
+
+       connecting a local area network to the Internet.
+
+     15.  Students will be able to explain the purpose filtering
+
+       Internet contents and setting up filtering at the server or client
+
+       level.
+
+
+
+
+
+Enabling Objectives:
+
+All Sections: Students will understand and be able to adhere to
+
+the safety procedures specified in every lab. This will always
+
+include using an ESD strap and unplugging the PC from external
+
+power whenever the cover is off the PC or the components are being
+
+installed on the motherboard. Students will always take these
+
+important steps in addition to other component specific steps
+
+before proceeding to work on the PC.
+
+
+
+All Sections: Students will search for products and company
+
+information via the web as needed in the lab assignments. They
+
+will find URLs needed for any given application/specification.
+
+They will use search strings in the product knowledge base to
+
+configure and troubleshoot products (software and hardware), and
+
+use listserv groups to enhance their knowledge of any given
+
+subject. The will be able to locate patches for products and
+
+download and apply the patches. Students will use on-line and
+
+paper manuals to set up and use products. Students will also
+
+search the web via browsers to locate URLs that provide additional
+
+information about products and specifications. Students,
+
+reinforcing, and complimenting all assignments inside and outside
+
+the classroom will regularly seek out the information on the web.
+
+(IL - satisfies the information literacy component for all
+
+courses)
+
+
+
+PART I TCP/IP
+
+1.   Students will define TCP/IP.
+
+2.   Students will define class A, B, and C IP classes.
+
+3.   Students will state the High Order Bit, First Octet Range,
+
+  Number of networks, and number of hosts/network for each address
+
+  class.
+
+4.   Students will define the use of the subnet mask as it is
+
+  applied to IP addressing.
+
+5.   Students will match the default subnet mask to its respective
+
+  class type.
+
+6.   Students will define subnetting.
+
+7.   Students will define the use of a routing table.
+
+8.   Students will define ARP and how it works.
+
+9.   Students will define WINS.
+
+10.  Students will define the use of the default gateway.
+
+11.  Students will install an IP address on a server.
+
+12.  Students will install an IP address on higher-level server.
+
+13.  Students will install TCP/IP on a client workstation and use
+
+   winipconfig to troubleshoot the workstation.
+
+14.  Students will use ping to troubleshoot IP addresses.
+
+
+
+PART II DHCP
+
+1.   Students will define DHCP and why it should be used.
+
+2.   Students will define the process by which DHCP assigns IP
+
+  addresses.
+
+3.   Students will create a DHCP server.
+
+4.   Students will create an nixed environment DHCP server.
+
+5.   Students will define the subnet and the subnet address ranges
+
+  for each server.
+
+6.   Students will configure a client to use DHCP.
+
+
+
+PART III Windows NT server administration
+
+1.   Students will define the structure of the registry.
+
+2.   Students will view the registry.
+
+3.   Students will edit a registry value.
+
+4.   Students will add a registry value.
+
+5.   Students will search the registry.
+
+6.   Students will define hives as they relate to registries.
+
+7.   Students will explain how to edit a remote registry.
+
+8.   Students will learn the registry keys.
+
+9.   Students will define the purpose of the server manager.
+
+10.  Students will view the computer menu.
+
+11.  Students will view the view menu.
+
+12.  Students will view the options menu.
+
+13.  Students will start, stop, and pause services.
+
+14.  Students will configure services.
+
+15.  Students will define the system utility.
+
+16.  Students will explore the environment of the system utility.
+
+17.  Students will explore the general properties of the system
+
+  utility.
+
+18.  Students will explore hardware profiles.
+
+19.  Students will explore user profiles.
+
+20.  Students will monitor system performance.
+
+21.  Students will explore startup/shutdown properties.
+
+22.  Students will define the task manager and its use.
+
+23.  Student will explore the performance tab.
+
+24.  Students will explore the applications tab.
+
+25.  Students will explore the processes tab.
+
+26.  Students will use the system utility and task manager to
+
+  monitor and optimize server performance.
+
+27.  Students will explain the use of the server diagnostics.
+
+28.  Students will list the version of the diagnostic program.
+
+29.  Students will list system, diagnostic problems, and
+
+  resolutions.
+
+30.  Students will list display, drives, and memory problems and
+
+  resolutions.
+
+31.  Students will list services, problems, and resolutions
+
+32.  Students will list resources, problems, and resolutions.
+
+33.  Students will list the environment diagnostic messages and
+
+  resolutions.
+
+34.  Students will list the network diagnostic messages and
+
+  resolutions.
+
+
+
+PART IV Linux/Unix Server Administration
+
+1.   The students will identify the server console.
+
+2.   Students will explain the uses of the console.
+
+3.   Students will issue console commands to display the
+
+  environment and networks and servers.
+
+4.   Students will explain the use of the set parameter.
+
+5.   Students will list the parameters that can be set.
+
+6.   Students will display the current set parameters of the
+
+  server.
+
+7.   Students will add server modules.
+
+8.   Students will load monitor and list parameters the can be
+
+  changed to optimize the server.
+
+9.   Students will load and unload modules.
+
+10.  Students will secure the console.
+
+11.  Students will load the GUI and describe its uses.
+
+12.  Students will view process and relate how to diagnose
+
+  problems.
+
+
+
+PART V Server Backup
+
+1.   Students will visit the Arcserve Internet site and list
+
+  specifications for the Arcserve backup for a server. (IL)
+
+2.   Students will visit the Arcserver Internet site and list
+
+  specifications for the Arcserver backup for a network environment.
+
+  (IL)
+
+3.   Students will list tape drives compatible with the servers we
+
+  have set up in class.
+
+4.   Students will list issues for backing up servers.
+
+5.   Students will list issues for backup up the network
+
+  environment.
+
+6.   Students will visit the Backup Exec Internet site and list
+
+  specifications for Backup Exec. (IL)
+
+7.   Students will visit the Backup Exec Internet site and list
+
+  specifications for the network environment. (IL)
+
+8.   Students will install a tape backup into the servers.
+
+9.   Students will install Backup Exec in the servers.
+
+10.  Students will configure the Backup Exec software to backup
+
+  the server data.
+
+11.  Students will define full, incremental, and differential
+
+backup.
+
+12.  Students will define copy and daily backups per NT backups.
+
+13.  Students will describe the rotating media and plot the
+
+Grandfather, Father, Son method.
+
+14.  Students will plot the two-step rotation.
+
+15.  Students will describe the journalized archive.
+
+16.  Students will describe the perpetual archive.
+
+17.  Students will list the items addressed in a disaster recovery
+
+plan.
+
+
+
+PART VI Integrating Server Environments
+
+1.   Students will define problems in a mixed environment.
+
+2.   Students will define services as they relate to their network
+
+3.   Students will prepare a server to support a mixed
+
+  environment.
+
+4.   Students will install the services.
+
+5.   Students will activate the services and add shares.
+
+6.   Students will configure users, printers, and passwords in the
+
+  mixed environment.
+
+7.   Students will prepare the servers for a mixed environment.
+
+8.   Students will configure workstation for users, printers, and
+
+  passwords via the mixed environment.
+
+9.   Students will list advantages and limitations of the mixed
+
+  environment.
+
+
+
+PART VII Managing Clients
+
+1.   Student will define the use of user policies.
+
+2.   Students will list the user policies.
+
+3.   Students will define the use of system policies.
+
+4.   Students will list system policies.
+
+5.   Students will configure user policies with windows.
+
+6.   Students will configure system policies for windows.
+
+7.   Students will install policies on the network.
+
+8.   Students will configure user policies via the network
+
+  servers.
+
+9.   Students will configure system policies via the network
+
+  servers.
+
+
+
+PART VII Domain Name Services
+
+1.   Students will define DNS.
+
+2.   Students will explain the DNS name resolution process.
+
+3.   Students will install DNS on a server.
+
+4.   Students will install DNS in the mixed environment.
+
+5.   Students will list the parts of the zone.
+
+6.   Students will configure the server with zones.
+
+7.   Students will configure the environment with zones.
+
+8.   Students will use ping to troubleshoot DNS problems.
+
+9.   Students will configure clients with DNS.
+
+
+
+PART IX Security and the Internet
+
+1.   Students will describe how a firewall is used.
+
+2.   Students will describe a network level firewall.
+
+3.   Students will describe an application level firewall.
+
+4.   Students will explain how filtering works.
+
+5.   Students will install a filter program onto a client.
+
+6.   Students will configure the filter program.
+
+
+
+
+
+Required Text: Microsoft Corporation, Microsoft Windows 2000
+
+Server, Academic Learning Series, Microsoft Press, ISBN 0-7356-
+
+0988-8
+
+
+
+
+
+Course Requirements and Means of Evaluation: 50 of the grade is
+
+determined by test grades. Six tests will be given throughout the
+
+semester. 50 of the grade is determined by lab experiments and
+
+homework. All lab assignments, procedures, and handouts will be
+
+complete for each test area will be completed before students take
+
+the test and will be reviewed after each test. All homework must
+
+be typed and handed in by the due date assigned. No late work or
+
+labs will be accepted.
+
+
+
+Attendance: Students are expected to attend all scheduled classes.
+
+They are expected to make up all missed work. Students who miss a
+
+class are required to make up any missed lab before the test for
+
+the section. Missed homework cannot be made up as you have several
+
+different ways to hand it in on time including face to face early
+
+or email. Any missed test must be completed by the end of the next
+
+class after the test. Failure to do so will result in a 0 for
+
+items missed.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others. Specific
+
+procedures are to be adhered to when working with the PC and
+
+equipment. These procedures will be demonstrated by the
+
+instructor, detailed in handouts and procedures, and are an
+
+intricate part of every lab. Should students have any doubts or
+
+questions regarding a procedure, they should ask the instructor
+
+before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the school PCs. It is an illegal act to copy
+
+this software. Students will run the risk of dismissal from the
+
+class and possibly the school if software is copied illegally.
+
+Viruses can be transmitted through various media. Students will
+
+take every precaution when working with the schools software and
+
+hardware, adhering to the procedures for protecting from viruses.
+
+Students will not bring their own software to class nor will they
+
+install it on any school PC.
+
+
+
+
+
+Course Activities: Students will spend half the time in a
+
+lecture/demonstration series by the instructor. The instructor
+
+will use PowerPoint presentations, videos (taped and from the
+
+Internet) and overhead projections from the instructors PC during
+
+that time. The instructor will also use the PC to demonstrate
+
+hands-on processes the students are expected to learn. The other
+
+half of the time the students are expected to reinforce the things
+
+learned in the lecture/demonstration in a supervised instructor
+
+led lab. Student will use the PC to gather information needed to
+
+do the hands on lab portion. This includes using the Internet to
+
+visit the sites of on-line companies, use all available on-line
+
+resources (knowledge bases, on-line videos, on-line technical
+
+support, and on-line product manuals) to complete labs as
+
+assigned. The PC is also the centered of the lab experience, as
+
+students will apply what they have learned via installing and
+
+configuring software and hardware on the personal computer.
+
+
+
+
+
+Course Content outline:
+
+I.   TCP/IP
+
+     a.   Configuring TCP/IP on the server
+
+     b. Configuring TCP/IP on the client
+
+     c.   Troubleshooting TCP/IP at the server
+
+     d. Troubleshooting TCP/IP at the client
+
+     e.   Server requirements
+
+
+
+II.  DHCP
+
+     a.   How it works
+
+     b.   Setting up in Windows
+
+     c.   Setting up in Linux
+
+
+
+III. Windows server administration
+
+     a. Working with the registry
+
+     b.   Server manager
+
+     c. Systems utility
+
+     d.   Task manager
+
+     e. Server optimization
+
+     f.   Diagnostics
+
+
+
+IV.  Linux/Unix Server Administration
+
+     a.   The server console
+
+     b.   Console commands
+
+     c.   Server set parameters
+
+     d.   Server optimization
+
+     e.   Managing modules
+
+     f.   Diagnostics
+
+     
+
+V.   Server backup
+
+     a.   Arcserve
+
+     b.   Backup Exec
+
+     c.   Tape drives
+
+     d.   Backup procedures
+
+
+
+VI.  Integrating network operating systems
+
+     a.   Modules for integration
+
+     b.   Problems with integration
+
+     c.   Managing integrated environments
+
+     
+
+VII. Managing Clients
+
+     a.   User Policies
+
+     b.   System policies
+
+     c.   Group policies
+
+
+
+VIII.     Domain Name Services
+
+     a.   Installation and management
+
+     b.   Management in the network environment
+
+
+
+IX.  Security and the Internet
+
+     a.   Firewalls
+
+     b. Filtering sites

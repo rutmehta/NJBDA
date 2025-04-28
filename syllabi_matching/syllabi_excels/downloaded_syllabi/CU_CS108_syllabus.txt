@@ -1,0 +1,99 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 108  Introduction to Web Page Development
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+None 
+
+
+
+Description 
+
+      Introduces the novice computer user to the concepts and techniques of 
+the basic features of an operating system and of the design and development 
+of Web pages using a Web site design program. A hands-on computer approach 
+using step-by-step instructions will be used. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Create a Web site
+
+ Enhance a Web site with graphics and hyperlinks
+
+ Use lists, anchors, Web site views, shared borders, and themes
+
+ Use tables and frames
+
+ Publish a Web site.
+
+
+
+Topical Outline
+
+ Creating a Web Site
+
+ Working with Graphics and Hyperlinks
+
+ Using Lists, Anchors, and Web Site Views
+
+ Using Shared Borders and Themes
+
+ Creating Tables and Frames
+
+ Publishing a Web Site
+
+
+
+Texts
+
+      New Perspectives of Microsoft Front Page 2003, Introductory, 2003 by 
+Evans, 2003: Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

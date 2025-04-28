@@ -1,0 +1,367 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Syllabus for Calculus I
+
+
+
+MA 130M - Calculus I (4:4:0)
+
+
+
+Brief Description:
+
+Topics include limits continuity and differentiation techniques for 
+algebraic, trigonometric, natural logarithms/exponentials.  The define 
+integral and the anti-derivative are linked by the Fundamental theorem of 
+Calculus.  Numerical methods such as Newtons method as well as Trapezoidal 
+and Simpsons rule will be explored. Theory is augmented by application from 
+a variety of disciplines. 
+
+
+
+Prerequisite:
+
+MA102 or MA 120 or MA 121 or placement by CBSPT scores.
+
+
+
+General Objectives:
+
+A. Understand the concepts of Calculus through graphical means.
+
+B. Develop clear communication of mathematical concepts and ideas.
+
+C. Knowledge of mathematical definitions  theorems.
+
+D. Recognize and use different function representations.
+
+E. Mathematical modeling.
+
+F. Top-down methodology to break a problem into sub-problems.
+
+G. Symbolic manipulation.
+
+H. Use technology.
+
+I. Approximation and estimation.
+
+
+
+Competency-Based Objectives with Exit Criteria:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Functions
+
+a. Express/Evaluate a function explicitly and implicitly.
+
+b. Add/Subtract/Multiply/Divide and use compositions
+
+c. Describe domain  range
+
+d. Classify as algebraic/transcendental
+
+e. Use in mathematical models
+
+f. Find absolute/relative extrema, influx points
+
+g. Find intervals where increasing/decreasing.
+
+h. Find intervals where concave up/down.
+
+ Graphing
+
+a. Draw a representative graph to model phenomena.
+
+b. Use graphs to infer function behavior.
+
+c. Locate points on a graph satisfying certain requirements about 
+continuity/limits/derivatives. 
+
+d. Describe a graph (function rule not needed) satisfying certain 
+requirements about continuity/limits/derivatives. 
+
+e. Visually describe the meaning of all critical theorems/ideas in Calculus 
+through a graphical picture. 
+
+ Limits
+
+a. Explore limits numerically, graphically and analytically.
+
+b. State informal definitions of one and two sided limits
+
+c. Use Limit laws to evaluate simple limits
+
+d. Use various techniques to evaluate limits
+
+e. State definition of Continuity and express continuity on an interval in 
+terms of a graph. 
+
+f. Describe/provide examples of the forms of discontinuity.
+
+ Derivatives
+
+a. Describe, evaluate and relate rates of change.
+
+b. State definition of the derivative of a function.
+
+c. Evaluate derivative of algebraic functions by definition.
+
+d. Evaluate derivatives of algebraic, trigonometric, logarithmic and 
+exponential functions through rules. 
+
+e. Find equation of tangent/secant lines.
+
+f. Use 1st/2nd Derivative Tests
+
+g. Use Newtons method/differentials to approximate values.
+
+ Summation  Integration
+
+a. Evaluate Basic Anti-derivative through rules.
+
+b. Evaluate Anti-derivatives through variable substitution and pattern 
+recognition. 
+
+c. Use  simplify summation notation.
+
+d. State the definition of a definite integral.
+
+e. Evaluate definite integral by definition/graphical means.
+
+f. Evaluate definite integral through the fundamental theorem of calculus 
+and properties of definite integrals. 
+
+ Critical Theorems
+
+a. State the intermediate value theorem and its use in:
+
+i. The test point method in solving inequalities.
+
+ii. The existence and finding solutions to equations.
+
+iii. The implicit graphic understanding of continuity.
+
+b. State the extreme value theorem and its use in:
+
+i. The existence and finding solutions to global and local extrema 
+applications. 
+
+c. State the mean value theorem and its use in:
+
+i. The relationship between average and instantaneous rates of change.
+
+ii. The criteria for increasing/decreasing functions.
+
+iii. The describing functions with the same derivative.
+
+d. State the fundamental theorem of calculus and its use in:
+
+i. Evaluating definite integrals.
+
+ii. Defining the natural logarithm.
+
+ Transcendental Functions
+
+a. Define, evaluate, and differentiate logarithms, and exponentials 
+functions. 
+
+b. Provide a sketch of their graphs.
+
+c. State their domain, range and asymptotic behavior.
+
+d. Identify common integration forms which result in these transcendental 
+functions. 
+
+e. Perform logarithmic differentiation
+
+
+
+Outline of Course Content and Suggested Time Schedule:
+
+Total for course: 56 hours (14 weeks  4 hrs a week)
+
+I. Review graphing and functions.  (4 hours)
+
+1. Graphs and their properties.
+
+2. Linear models and Rates of Change
+
+3. Functions.
+
+a) Definition of a function and ways to represent them.
+
+b) Finding the domain and range.
+
+c) Notation and operations.
+
+II. Limits and Continuity. (8 hours)
+
+1. Limit of a function.
+
+a) Properties of limits.
+
+b) Techniques for evaluating.
+
+c) One sided and infinite limits.
+
+d) Delta, epsilon definition of a limit.
+
+2. Continuity.
+
+a) Definition of continuity at a point.
+
+b) Theorems on continuity.
+
+III. The derivative.  (8 hours)
+
+1. Slope of a curve at a point.
+
+2. Definition of the derivative of a function.
+
+3. Derivative formulas.
+
+4. Derivative of an implicit function.
+
+5. Higher order derivatives.
+
+IV. Applications of the derivative.(12 hours)
+
+1. Curve sketching.
+
+a) Increasing and decreasing functions.
+
+b) Relative maxima and minima.
+
+i. First derivative test.
+
+ii. Second derivative test.
+
+c) Concavity and points of inflection.
+
+d) Rolles and Mean-value theorem.
+
+2. Maxima and Minima applications.
+
+3. Related rates.
+
+4. One-dimensional kinematics.
+
+5. The differential and its applications.
+
+V. Anti-differentiation / definite integral. (10 hours)
+
+1. Area under a curve.
+
+2. The Fundamental Theorem of Calculus.
+
+3. Basic integration techniques  u-substitution
+
+4. Numerical integration.
+
+5. Applications of the integral.
+
+VI. Introduction to Logarithms (6 hours)
+
+1. Definition and properties of natural logarithm
+
+2. Logarithmic differentiation
+
+3. Natural Logarithm  Integration
+
+4. Inverses
+
+5. Definition and properties of natural exponential
+
+6. Derivatives and Integration
+
+VII. Tests (6 hours)
+
+1. Three test
+
+VIII. Review/Make Up time (2 hours)
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems.  All students will 
+be required to spend time in the computer lab to complete hand in 
+assignments working with DERIVE. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+91-100A
+
+81-90B
+
+71-80C
+
+61-70D
+
+Below-61F
+
+
+
+Attendance:
+
+Students are expected to attend all classes and be there on time.  If for 
+some reason a student misses a class, it is their obligation to catch up on 
+the work missed.  If a student misses more than 8 hours of class and has 
+below a C average the student will be dropped from the class.  If a student 
+misses more than 10 hours of class they may be dropped from the class no 
+matter what their grade.  No warning will be given before instituting this 
+policy. 
+
+
+
+Bibliography:
+
+Larson, R., Hostetler, R. P.,  Edwards, B. H. (2002). Calculus (7th ed.). 
+New York: Houghton Mifflin 
+
+
+
+
+
+
+
+
+
+Fall 2002
+
+Page 1 of 4

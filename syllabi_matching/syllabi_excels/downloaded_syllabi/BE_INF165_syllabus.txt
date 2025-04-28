@@ -1,0 +1,148 @@
+INF165
+
+Introduction to Linux
+
+1 credit
+
+Pre-requisite or Co-requisite: None
+
+New Course
+
+Fall 2004
+
+Professor Lucy Caruso-Deane, Department Chair, 201.447-7214
+
+lcarusodeanebergen.edu
+
+
+
+Introduction to Linux provides a hands-on introduction to this open-source 
+operating 
+
+system. Students learn to configure a graphical desktop environment, install 
+and 
+
+configure office-suite applications, create a Linux server environment, 
+configure 
+
+basic services, and use Linux commands.
+
+
+
+Objectives:
+
+1. Explain the significance of open-source computing environments and GPL.
+
+2. Install and configure Linux and services.
+
+3. Install office applications.
+
+4. Command the Linux operation system.
+
+
+
+Course Texts and/or other study materials:
+
+To be determined.
+
+
+
+Grade Determinants:
+
+Exams - 60
+
+Hands-on Projects - 40
+
+
+
+Course Content:
+
+1. Introduction - Linux and the open-source movement in computing the Linux 
+GPL 
+
+   Linux sources and resources Linux implementation Red Hat, Suse, Debian, 
+etc. 
+
+   building a Linux server Linux boot kick partitioning - root, swap LILO 
+boot 
+
+   loader installation modes text, expert, graphic, kickstart.
+
+2. X Window configuring X server window managers installing/configuring 
+GNOME 
+
+   and KDE.
+
+3. Using a Linux file manager such as Nautilus navigating directories 
+getting 
+
+   listings and permissions folder and file management copying, moving, 
+renaming, 
+
+   deleting, creating new folders, finding files/folders.
+
+4. Using shell commands file navigation/management/processing commands. I/O
+
+   redirection, filter, pipe basic shell variables.
+
+5. Test 1
+
+6. More on shell commands commands for managing processes and users 
+date/time 
+
+   commands file system commands using a line-oriented editor such as vi to 
+
+   create batch commands.
+
+7. Understanding TCP/IP networking IP addresses subnet masking basic 
+networking 
+
+   commands: ipconfig, ping, traceroute, netstat internet service and port 
+numbers. 
+
+8. Internet services setting up Apaches web server configuring Apache web 
+server, 
+
+   setting up user accounts and permissions.
+
+9. More Internet services setting up an FTP server setting up user accounts 
+and 
+
+   permissions setting up telnet services setting up DHCP services.
+
+10. Test 2
+
+11. Accessing Windows and DOS files mounting a DOS/Windows file system 
+mounting 
+
+    DOS/Windows floppy disks accessing DOS/Windows files.
+
+12. Installing and configuring StarOffice ports to Linux Windows and Solaris
+
+    UNIX other language implementations aside from English a basic tour of
+
+    StarOffice compatibility and interoperability with Microsoft Office user
+
+    interface comparison file compatibility StarOffice and XML file formats
+
+    StarOffice and PDF.
+
+13. Using StarOffice word-processing and spreadsheet software basic features
+
+    interoperability between word processor and spreadsheet program support
+
+    issues this course will focus more on the help-desk users point-of-view 
+in 
+
+    relation to StarOffice.
+
+14. Using StarOffice presentation and graphics drawing software basic 
+features 
+
+    interoperability among all four components of StarOffice suite
+
+    interoperability with other software applications other open-source and
+
+    freeware applications: sources and resources.
+
+15. Test 3

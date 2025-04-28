@@ -1,0 +1,246 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+
+
+
+
+
+
+                 Mercer County Community College
+
+                                
+
+           Arts, Communication and Technology Division
+
+                                
+
+                             CIS 162
+
+                                
+
+                    ADVANCED E-COMMERCE  WEB SITES
+
+                                
+
+                                
+
+                                
+
+COURSE DESCRIPTION:
+
+Explores the ways to construct the most intricate e-commerce
+
+sites, from databases and mailing lists to sophisticated user
+
+accounts.  Students create an operating business web site with a
+
+database and secure contact with customers, Capstone project
+
+included.
+
+
+
+
+
+
+
+
+
+
+
+Text (s): Reference Division Booklist
+
+
+
+Prerequisites:    CIS 161 - Building E-Commerce Web Sites
+
+
+
+Co-requisites:    None
+
+
+
+Credits:  3         Lecture Hours: 2         Studio/Lab Hours:  2
+
+
+
+   Food and drink are strictly prohibited in classrooms as per
+
+ health and safety laws.  Students may not bring in chemicals or
+
+       cleaning fluids without the appropriate MSD sheets.
+
+
+
+
+
+
+
+
+
+
+
+Course Coordinator: Winston H. Maddox             Latest Review:
+
+8/2001
+
+
+
+
+
+                                
+
+                                
+
+                                
+
+                                
+
+
+
+Recommended Grading:
+
+
+
+5 Projects:  15 each
+
+1 Capstone Project:  25
+
+
+
+Required Materials:
+
+
+
+Required Web Tutorials
+
+
+
+General Objectives:
+
+
+
+1.   To teach students to design a database and link it to a
+
+website.
+
+2.   To show students how to use and manage mailing lists for
+
+marketing.
+
+3.   To expose students to strategies for continuous contact with
+
+customers.
+
+4.   To teach students to create user accounts.
+
+
+
+Topic 1:  Databases
+
+
+
+E-businesses use a variety of databases:  Access, SQL Server and
+
+Oracle.  Each type of database has its advantages and
+
+disadvantages.  Luckily, there is a common language you learn to
+
+talk to all of these databases:  SQL - Structured Query Language.
+
+In this section students will learn to:
+
+    Design a database.
+
+    Create an access database.
+
+    Use the most common SQL Queries - add data, extract data
+
+  and alter data.
+
+
+
+Topic 2:  Linking Web-Pages to Databases
+
+
+
+Once your business has a database, the most intricate step is
+
+connecting the database to your web-site.  In this section
+
+students will learn to:
+
+
+
+    Display information from a database using:
+
+    Enter information into a database.
+
+    Alter information in a database.
+
+
+
+Students will accomplish these using:
+
+
+
+    Perl
+
+    Active Server Pages
+
+
+
+Topic 3:  Creating Mailing Lists
+
+
+
+A good way to notify customers of new products and services is to
+
+use a mailing list.  In this segment students will learn how to
+
+create and successfully use mailing lists, or listservs.
+
+
+
+Topic 4:  Allowing Customization of Web-Pages
+
+
+
+Yahoo, Amazon and Weather.com all allow users to customize the
+
+home-page according to their interests.  This technique requires
+
+the use of cookies and server-side programming.  In this section
+
+students will:
+
+
+
+    Learn how to place and extract cookies from the users
+
+  computer.
+
+    Use the content of cookies to customize the web-site.
+
+
+
+Topic 5:  Creating User Accounts
+
+
+
+The most powerful web-site allows users to create personal
+
+account and then interact with the businesses database on a
+
+personal level.  This topic will unify the previous topics.  Case
+
+studies will include:
+
+
+
+    An online bookseller.
+
+    An online brokerage account.

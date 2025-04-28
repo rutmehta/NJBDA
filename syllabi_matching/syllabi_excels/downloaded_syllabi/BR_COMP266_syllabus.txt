@@ -1,0 +1,645 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP266 
+
+
+
+COURSE NAME
+
+Data Base Using Access
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 Credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+None
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED: 
+
+REVISED:  Change from 4 credits to 3 credits-
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+This course will teach the students basic and advanced topics of Microsoft 
+Access, including programming and running macros, advanced queries and 
+custom forms, integrating Access with other programs, publishing objects on 
+the World Wide Web and writing Visual Basic Code. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+The 12 chapters (units) comprising the course are:
+
+
+
+I. Introduction of Microsoft Access 2003
+
+II. Creating and Maintaining a Database
+
+III. Querying a Database
+
+IV. Creating Forms and Reports
+
+V. Enhancing Tables Design and Creating Advanced Queries
+
+VI. Creating Custom Forms
+
+VII.  Creating Custom Reports
+
+VIII. Integrating Access with Web and Other Programs
+
+IX. Using Action Queries and Defining Table Relationships
+
+X. Automating Tasks with Macros
+
+XI. Using and Writing Visual Basic Code
+
+XII. Managing and Securing Databases
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+New Perspectives on Microsoft Access 2003, Comprehensive by Joseph J. 
+Adamski and Kathleen T. Finnegan  ISBN 0-619-20672-1 
+
+
+
+Storage: A portable secondary storage media (i.e., floppy, memory stick, zip 
+disk) 
+
+
+
+
+
+GRADE DETERMINANTS
+
+
+
+ASuccessfully Complete Lab Assignments 1-12 and Earn an average test grade 
+of 90 or above 
+
+
+
+BSuccessfully Complete Lab Assignments 1-11 and Earn an average test grade 
+of 85 or above 
+
+
+
+BSuccessfully Complete Lab Assignments 1-10 and Earn an average test grade 
+of 80 to 84 
+
+
+
+CSuccessfully Complete Lab Assignments 1-8 and Earn an average test grade of 
+70 to 74 
+
+
+
+DSuccessfully Complete Lab Assignments 1-8 and Earn an average test grade of 
+60 thru 69 
+
+
+
+      FEarn an average test grade below 60 or fail to successfully complete 
+labs 1-8. 
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+To be considered acceptable, a lab must be free of all errors and must meet 
+all of the requirements outlined by the case problem.  Labs can be 
+resubmitted up to 2 weeks after being assigned. All labs must be completed 
+and correct by the last day of the class. The student should expect to spend 
+at least 2 hours of time outside class for each hour in class.  The Computer 
+Science Main Lab is open Mon.-Sat. during Fall and Spring. Hours are posted 
+on the outside door and on the Computer Science Website. 
+
+
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+UNIT TOPICS AND/OR OUTCOME (OBJECTIVES):
+
+
+
+UNIT 1
+
+
+
+NAME OF UNIT:Introduction to Microsoft Access
+
+UNIT OBJECTIVE:The Student will view and work with tables.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Define relationships and databases
+
+2. Define a relational database management system
+
+3. Start and exit Access
+
+4. Open existing databases and tables
+
+5. Print tables
+
+6. Work with Queries
+
+7. Create and print forms and reports
+
+METHOD OF EVALUATION: Test after Chapter 3
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 1.
+
+3. Complete assignment LAB-1.
+
+
+
+UNIT 2
+
+
+
+NAME OF UNIT:Creating and Maintaining a Database
+
+UNIT OBJECTIVE:The Student will create, modify and update a table.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+
+
+1. Assign Field Data Types 
+
+2. Specify Primary keys and foreign keys
+
+3. Add records to a table
+
+4. Delete and change records
+
+5. Copy records from another Access database
+
+METHOD OF EVALUATION: Test after Chapter 3
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 2.
+
+3. Complete assignment LAB-2.
+
+
+
+UNIT 3
+
+
+
+NAME OF UNIT:Querying a Database
+
+UNIT OBJECTIVE:The Student will retrieve information from a database table.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Define one-to-many relationships
+
+2. Explain referential integrity
+
+3. Filter data
+
+4. Define record selection criteria for queries
+
+5. Use the Query Window with the design grid
+
+6. Create a calculated field
+
+7. Use aggregate functions
+
+8. Use record group calculations
+
+METHOD OF EVALUATION: Test after Chapter 3
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 3.
+
+3. Complete assignment LAB-3.
+
+
+
+UNIT 4
+
+
+
+NAME OF UNIT:Creating Forms and Reports
+
+UNIT OBJECTIVE:The Student will create a form and report.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create a form using the Form Wizard
+
+2. Change a Forms AutoFormat
+
+3. Navigate a Form
+
+4. Maintain table data using a form
+
+5. Create a form with a main form and sub form
+
+6. Create a report using a Report Wizard
+
+7. Insert a picture
+
+METHOD OF EVALUATION: Test after Chapter 7
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 4.
+
+3. Complete assignment LAB-4.
+
+
+
+UNIT 5
+
+
+
+NAME OF UNIT:Enhancing a Tables Design and creating more advanced queries
+
+UNIT OBJECTIVE:The Student will make a database easier to use.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create Lookup Wizards and Input Masks
+
+2. Create a parameter query
+
+3. Used both the And Or operators in the same query
+
+4. Use different types of queries
+
+METHOD OF EVALUATION: Test after Chapter 7
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 5.
+
+3. Complete assignment Lab-5.
+
+
+
+UNIT 6
+
+
+
+NAME OF UNIT:Customizing Forms
+
+UNIT OBJECTIVE:The Student will create a custom forms.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create a custom form
+
+2. Add a sub form to a form
+
+3. Use a form filter
+
+METHOD OF EVALUATION: Test after Chapter 7
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 6.
+
+3. Complete assignment LAB-6.
+
+
+
+UNIT 7
+
+
+
+NAME OF UNIT:Customizing Reports
+
+UNIT OBJECTIVE:The Student will create a custom report, report with an 
+embedded chart and a linked text document. 
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Work with report controls
+
+2. Sub reports
+
+3. Group Totals
+
+METHOD OF EVALUATION: Test after Chapter 7
+
+
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+4. Attend class meetings.
+
+5. Read Chapter 7.
+
+6. Complete assignment LAB-7.
+
+
+
+UNIT 8
+
+
+
+NAME OF UNIT:Integrating Access with the Web and Other Programs
+
+UNIT OBJECTIVE:The Student will create web-enabled information.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Use the Web
+
+2. View HTML files using Internet Explorer
+
+3. Use and create Data Access Pages
+
+4. Create Pivot Tables
+
+5. Use XML
+
+6. Create Hyperlinks
+
+METHOD OF EVALUATION: Test after Chapter 7
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 8.
+
+3. Complete assignment LAB-8.
+
+
+
+UNIT 9
+
+
+
+NAME OF UNIT:Using Action Queries and Defining Table Relationships.
+
+UNIT OBJECTIVE:The Student will use action queries and define table 
+relationships. 
+
+ LEARNING OBJECTIVES:The student will be able to:
+
+1. Create a make-table query
+
+2. Create an append query
+
+3. Create a delete query
+
+4. Join tables
+
+5. Create relationships
+
+METHOD OF EVALUATION: Test after Chapter 11
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 9.
+
+3. Complete assignment LAB-9.
+
+
+
+UNIT 10
+
+
+
+NAME OF UNIT:Automating Tasks with Macros
+
+UNIT OBJECTIVE:The Student will create and run macros.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create a macro
+
+2. Run a macro
+
+3. Add a Skybox action
+
+4. Create a macro group
+
+5. Add a List Box to a form
+
+6. Adding a command button to a form
+
+7. Create a switchboard
+
+METHOD OF EVALUATION: Test after Chapter 11
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 10.
+
+3. Complete assignment LAB-10.
+
+
+
+UNIT 11
+
+
+
+NAME OF UNIT:Writing Visual Basic Code
+
+
+
+UNIT OBJECTIVE:The Student will complete a Database project using Visual 
+Basic Code. 
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create Visual Basic Code.
+
+2. Create functions in a standard module
+
+3. Create an event procedure
+
+4. Code a load event procedures for the Query dialog box form
+
+METHOD OF EVALUATION: Test after Chapter 11
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 11.
+
+3. Complete assignment LAB-11.
+
+
+
+UNIT 12
+
+
+
+NAME OF UNIT:Managing and Securing Databases
+
+UNIT OBJECTIVE:The Student will secure a database.
+
+LEARNING OBJECTIVES:The student will be able to:
+
+1. Create a replica
+
+2. Use Performance Analyzer
+
+3. Link Tables
+
+4. Use Startup Options
+
+5. Secure a database
+
+METHOD OF EVALUATION: Test after Chapter 11
+
+RECOMMENDED LEARNING EXPERIENCES: 
+
+1. Attend class meetings.
+
+2. Read Chapter 12.
+
+3. Complete assignment LAB-12.
+
+
+
+COMP 266  Microsoft Access 2003
+
+LAB ASSIGNMENTS
+
+
+
+Introduction of Microsoft AccessLAB-1Page AC 301
+
+Creating and Maintaining a DatabaseLAB-2Page AC 741
+
+Querying a DatabaseLAB-3Page AC 1221
+
+Creating Forms and Reports LAB-4Page AC 1631
+
+Table Designs and Advanced QueriesLAB-5Page AC 2121
+
+Custom FormsLAB-6Page AC 2781
+
+Custom ReportsLAB-7Page AC 3541
+
+Integrating AccessLAB-8Page AC 4301
+
+Action Queries and RelationshipsLAB-9Page AC 4811
+
+MacrosLAB-10Page AC 5452
+
+VBALAB-11Page AC 5931
+
+SecurityLAB-12Page AC 6341
+
+
+
+Name on all work:  Name      266-section no.       Assignment No.
+
+  ex.      John Doe           266-01           Lab1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

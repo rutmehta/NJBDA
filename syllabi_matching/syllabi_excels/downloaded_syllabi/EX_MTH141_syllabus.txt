@@ -1,0 +1,251 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+ESSEX COUNTY COLLEGE 
+
+Mathematics and Physics Division
+
+MTH 141 Mathematical Statistics
+
+Course Outline
+
+
+
+Course Number  Name: MTH 141  Mathematical Statistics
+
+
+
+Credit Hours: 3.0Contact Hours: 3.0    Lecture: 3.0   Lab: N/AOther: N/A
+
+
+
+Prerequisites: Grade of C in MTH 114 or MTH 121 or placement
+
+
+
+Co-requisites: None
+
+
+
+Effective Date: Spring 2001
+
+
+
+Catalog Description:
+
+A course in the mathematical theory of statistics.  Topics include counting 
+techniques and mathematical probability random variables and probability 
+distributions applications to sampling theory, hypothesis testing and 
+correlation and regression. 
+
+
+
+General Education Goals
+
+The aggregate of the core courses will have the following goals:
+
+1. To enable students to become more aware of the different perspectives 
+emanating from a culturally diverse population. 
+
+2. To emphasize critical thinking and problem solving to the extent 
+possible, to include quantitative reasoning and research skills, including 
+accessing information from a variety of sources and media 
+
+3. To enable students to increase proficiency in writing, reading, speaking, 
+and listening skills 
+
+4. To require students to prepare and present information with the use of 
+computers 
+
+
+
+Course Objectives:
+
+This course exposes students to discrete and continuous case methods in 
+mathematical probability and statistics as used by statisticians, engineers 
+and other mathematics intensive decision makers. 
+
+
+
+Curricula Served
+
+MTH 141 is a recommended elective for mathematics and engineering majors
+
+
+
+Textbook
+
+Mathematical Statistics, 3rd Edition, by Freund and Walpole, published by 
+Prentice Hall 
+
+Students are required to have a scientific calculator.
+
+
+
+Course Requirements
+
+ Doing homework assignments in a timely manner
+
+ Taking part in class discussion and doing problems on the board when 
+required 
+
+ Taking tests and exams in class or making up missed tests if permitted
+
+
+
+Methods of Instruction
+
+The instruction will consist of a combination of:
+
+ Lectures
+
+ class discussion
+
+ group work
+
+ individual study
+
+ computer lab work.
+
+
+
+Methods of Evaluation
+
+Weighted average of exams, quizzes, homework and class participation.
+
+Instructor will provide specific weights for each of the course requirement 
+items at the beginning of the semester 
+
+
+
+Course Content Outline
+
+Based on the textbook: Mathematical Statistics 3rd Edition, by Freund and 
+Walpole, published by Prentice Hall 
+
+
+
+ChapterNumber of 80 
+
+SectionTopicsMinutes Classes
+
+Introduction to Probability
+
+Mathematical models and stochastic models0.5
+
+2.1  2.3Sample spaces and events0.5
+
+1.1  1.3Principles of counting  combinations, permutations, binomial
+
+coefficients1.5
+
+2.4  2.5Probability and its computation  addition rule, multiplication 
+
+rule, conditional probability, independence1.5
+
+2.6  2.8Bayers theorem1.0
+
+
+
+Random Variables and Probability Distribution
+
+3.1  3.2Discrete random variables and probability distributions1.0
+
+3.3  3.4Continuous random variables and probability distributions1.0
+
+3.5  3.6Multivariate distribution and marginal distributions1.0
+
+4.1  4.3Expectations and variance1.5
+
+4.4Chebyshevs theorem0.5
+
+
+
+Special Probability Distributions and Densities
+
+5.1, 5.2, 6.1Uniform distribution  discrete, continuous0.5
+
+5.3  5.4Binomial1.0
+
+5.6Hypergeometric0.5
+
+5.7Poisson0.5
+
+6.5Normal1.0
+
+6.6Normal approximation to binomial0.5
+
+
+
+Midterm Exam1.0
+
+
+
+7.1  7.4Functions of random variables (briefly)1.5
+
+Introduction to statistical methods
+
+Handouts: classifying and summarizing data
+
+Handouts: statistical inference1.5
+
+
+
+Sampling Distributions
+
+8.1  8.3Sampling distribution of the mean1.0
+
+8.4, 8.5, 8.6The chi-square distribution,  t-distribution, and f- 
+distribution1.0 
+
+
+
+Estimation
+
+10.1  10.5Point estimation-properties of estimators1.5
+
+11.1  11.3Interval estimation-confidence intervals for means and 
+
+for difference between means1.0
+
+11.4  11.5Interval estimation-confidence intervals for proportions and 
+
+difference between proportions1.0
+
+11.6Interval estimation-confidence intervals for variances0.5
+
+11.7Interval estimation-confidence intervals for ratios of two variances0.5
+
+ChapterNumber of 80 
+
+SectionTopicsMinutes Classes
+
+Hypothesis Testing
+
+12.1  12.3Introduction and theory1.5
+
+13.1  13.2Tests on means0.5
+
+13.3Tests on difference between means0.5
+
+13.4Tests on variances0.5
+
+13.5Tests on proportions0.5
+
+13.7Contingency tables0.5
+
+13.8Goodness of fit0.5
+
+
+
+Correlation and Regression
+
+14.1Regression0.5
+
+14.2Linear regression0.5
+
+14.3Method of least squares1.0
+
+
+
+Final Exam1.0

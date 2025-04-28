@@ -1,0 +1,313 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+Course Title:  Analytic Geometry  Calculus I (Part B)
+
+Course No.  MAT 131B
+
+
+
+Class Hours:  3Laboratory Hours:  0Credit Hours:  2
+
+
+
+Department Head:Maria DeLucia, Ph.D.
+
+Phone:732-906-2585
+
+Email:MDeluciamiddlesexcc.edu
+
+
+
+Prerequisite:
+
+MAT-131A (Analytic Geometry  Calculus - Part A)
+
+
+
+Textbook of Course:
+
+Author: Larson/Hostetler
+
+Title: Calculus Single Variable
+
+Publisher: Houghton-Mifflin 8th Edition 
+
+
+
+
+
+Catalog Course Description:
+
+
+
+The second half of the two-semester sequence of Analytic Geometry and 
+Calculus 
+
+I.  Presents the fundamental ideas of calculus such as the derivative, 
+integral, 
+
+and their applications.  Topics include fundamentals of analytic geometry 
+and 
+
+transcendental functions.  This completes the first course in a sequence of 
+
+calculus courses intended for the student interested in mathematics, 
+
+engineering, and the natural, physical and social sciences. TI 83 plus 
+
+calculator required.
+
+
+
+Objectives of Course:
+
+
+
+The student will demonstrate through quizzes, examinations, homework and 
+
+projects the ability to:
+
+1.Identify, comprehend, and manipulate abstract symbols and their use in a 
+
+variety of situations.
+
+2.Establish strong conceptual foundations.
+
+3.Analyze mathematical situations with ideas and problem solving techniques.
+
+4.Make decisions about solving complex problems.
+
+5.Establish underlying mathematical models for conceptual understanding.
+
+6.Understand and analyze data intelligently in technologically advanced 
+
+society.
+
+
+
+
+
+
+
+Course Outline
+
+
+
+Chapters            Topics                  Approximate Number of Classes
+
+
+
+3  Applications of Differentiation 4
+
+4 Integration10
+
+5Logarithmic, Exponential and 
+
+Other Transcendental Functions9
+
+7Applications of Integration5
+
+
+
+Day-by-Day Outline
+
+
+
+
+
+1.
+
+Review Differentiation
+
+
+
+2.
+
+Chapter 3
+
+3.7 Optimization Problems
+
+
+
+3.
+
+3.8 Newtons Method
+
+
+
+4.
+
+3.9 Differentials
+
+
+
+5.
+
+Chapter 4
+
+4.1 Antiderivatives and Indefinite Integration
+
+
+
+6.
+
+4.2 Area
+
+
+
+7.
+
+4.3 Reimann Sums and Definite Integrals
+
+
+
+8.
+
+4.4 The Fundamental Theorem of Calculus
+
+
+
+9.
+
+4.5 Integration by Substitution
+
+
+
+
+
+10.
+
+4.5 Integration by Substitution continued
+
+
+
+11.
+
+4.6 Numerical Integration
+
+
+
+12.
+
+Review
+
+
+
+13.
+
+Test 1
+
+
+
+14.
+
+Chapter 5
+
+
+
+15.
+
+5.2 The Natural Logarithmic Function:Integration
+
+
+
+16.
+
+5.3 Inverse Functions
+
+
+
+17.
+
+5.4  Exponential Functions: Differentiation and Integration
+
+
+
+18.
+
+Review
+
+
+
+19.
+
+Test 2
+
+
+
+20.
+
+5.5  Bases Other Than e and Applications
+
+
+
+21.
+
+5.6  Differential Equations:  Growth and Decay
+
+
+
+22.
+
+6.3  Differential Equations: Separation of Variables
+
+
+
+23.
+
+Chapter 6
+
+7.1  Area of a Region Between Two Curves
+
+
+
+24.
+
+Review
+
+
+
+25.
+
+Test 3
+
+
+
+26.
+
+Catch up
+
+
+
+27.
+
+Review for Final
+
+5.1 The Natural Logarithmic Function
+
+
+
+28.
+
+Review for Final
+
+
+
+
+
+BASED ON TWO WEEK CLASS MEETINGS PER WEEK
+
+
+
+

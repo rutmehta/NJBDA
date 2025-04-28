@@ -1,0 +1,119 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+Course:  CS 112  Computer Science II
+
+
+
+Credits: 4
+
+
+
+Prerequisites 
+
+CS 111 
+
+
+
+Description 
+
+      Introduces students to structured programming and problem solving 
+using an object-oriented programming language. Algorithm development and 
+basic problem solving techniques are introduced. Fundamental topics of 
+computer programming including sequence, selection, repetition, 
+input/output, functions, parameter passing, scope, lifetime, and arrays are 
+discussed in detail. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Design, code, edit, run, and debug computer programs
+
+ Demonstrate understanding of fundamentals data types
+
+ Develop algorithms through the process of top-down, stepwise refinement
+
+ Use selection structures to make decisions in a program
+
+ Use repetition structures to execute statements in program repeatedly
+
+ Demonstrate use of the various arithmetic, assignment and logical operators
+
+ Construct modular programs using functions
+
+ Write programs that pass information between functions
+
+ Model data using one-and two-dimensional arrays.
+
+
+
+Topical Outline
+
+ Overview of a Personal Computer System
+
+ Introduction to Control Structures
+
+ Problem-Solving Process with a Programming Language
+
+ Variables, Constants, and Arithmetic Operators
+
+ Selection Structure
+
+ Repetition Structure
+
+ Value-Returning Functions
+
+ Void Functions
+
+ Arrays
+
+ String Manipulation
+
+ Sequential Access Files
+
+
+
+Texts
+
+      Java: An Intro to Problem Solving  Programming (w/Codekey) by Savitch, 
+4th edition: Prentice Hall. 
+
+
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers). 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

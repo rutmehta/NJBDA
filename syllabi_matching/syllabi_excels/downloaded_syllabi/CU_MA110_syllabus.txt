@@ -1,0 +1,232 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Course Syllabus for College Algebra
+
+
+
+MA 110M  College Algebra (3:3:0)
+
+
+
+Brief Description:
+
+Topics include polynomial, rational, other algebraic functions complex 
+number system exponential and logarithmic functions and properties and 
+graphs of functions.  This course is designed for students who may continue 
+in math, science, technology or business related fields. 
+
+
+
+Prerequisite: 
+
+Successful completion of MA 105 or placement by CBSPT scores or placement by 
+SAT score. 
+
+
+
+General Objectives:
+
+A. To provide the students with the algebraic abilities necessary to 
+continue in the fields of engineering, mathematics, science, technology, and 
+business related fields. 
+
+B. To engage students in extensive algebraic problem solving.
+
+C. To have students experience algebra through modeling real-world 
+situations. 
+
+D. To have students expand their algebraic reasoning skills.
+
+E. To have students communicate about algebra both orally and in writing.
+
+F. To have students use appropriate technology to enhance their 
+understanding of algebra. 
+
+
+
+Competency-based Objectives with Exit Criteria:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Sketch graphs of equations.
+
+ Find and use the slopes of lines to write and graph linear equations in two 
+variables. 
+
+ Evaluate functions and find their domains.
+
+ Analyze graphs of functions.
+
+ Identify and graph rigid and nonrigid transformations of functions.
+
+ Find arithmetic combinations and compositions of functions.
+
+ Find inverse functions graphically and algebraically.
+
+ Sketch and analyze graphs of polynomial functions.
+
+ Use long division and synthetic division to divide polynomials by other 
+polynomials. 
+
+ Perform operations with complex numbers.
+
+ Determine the numbers or rational and real zeros of polynomial functions, 
+and find the zeros. 
+
+ Determine the domains of rational functions and find asymptotes of rational 
+functions. 
+
+ Sketch graphs of rational functions.
+
+ Recognize and evaluate exponential and logarithmic functions.
+
+ Graph exponential and logarithmic functions.
+
+ Use the change-of-base formula to rewrite and evaluate logarithmic 
+expressions. 
+
+ Use properties of logarithms to evaluate, rewrite, expand, or condense 
+logarithmic expressions. 
+
+ Solve exponential and logarithmic equations.
+
+ Use exponential growth models, exponential decay models, logistic growth 
+models, and logarithmic to solve real-life problems. 
+
+ Solve systems of equations by substitution, by elimination, and by 
+graphing. 
+
+
+
+Outline of Course Content and Suggested Time Schedule:
+
+I. Review of fundamental concepts of algebra (1 hours)
+
+Real numbers and their properties
+
+Exponents and radicals
+
+Polynomials and factoring
+
+Graphical representation of data
+
+II. Functions and their graphs (4 weeks)
+
+Graphs of equations
+
+Linear equations in two variables
+
+Functions
+
+Analyze graphs of functions
+
+A library of functions
+
+Shifting, reflecting, and stretching of graphs
+
+Combinations of functions
+
+Inverse functions
+
+III. Polynomial and rational functions (4 weeks)
+
+Quadratic functions
+
+Polynomial functions of higher degree
+
+Polynomial and synthetic division
+
+Complex numbers
+
+Zeros of polynomial functions
+
+Rational functions
+
+IV. Exponential and logarithmic functions (4 weeks)
+
+Exponential functions and their graphs
+
+Logarithmic functions and their graphs
+
+Properties of logarithms
+
+Exponential and logarithmic equations
+
+Exponential and logarithmic models
+
+V. Systems of equations (1 week)
+
+Solving systems of equations
+
+Two-variable linear systems
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+90-100A
+
+80-89B
+
+70-79C
+
+60-69D
+
+Below-60F
+
+
+
+Attendance:  
+
+Regular class attendance is of primary importance for success in 
+Mathematics.  You will be permitted six hours absence.  Any absences after 
+six hours may cause the student to be dropped from the course. 
+
+
+
+Bibliography:
+
+Larson, R.,  Hostetler, R. P. (2004). Precalculus (6th ed.). New York: 
+Houghton Mifflin. 
+
+Fall 2003
+
+Page 1 of 2

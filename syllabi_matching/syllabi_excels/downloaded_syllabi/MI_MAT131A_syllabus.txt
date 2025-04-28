@@ -1,0 +1,322 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Middlesex County College
+
+Edison, NJ 08818
+
+
+
+
+
+
+
+Course Title:  Analytic Geometry  Calculus I (Part A)Course No.  MAT 131A
+
+
+
+Class Hours:  3Laboratory Hours:  0Credit Hours:  2
+
+
+
+Department Head:  Maria DeLucia, Ph.D.
+
+Phone :732-906-2585
+
+Email:MDeluciamiddlesexcc.edu
+
+
+
+
+
+Prerequisite:
+
+MAT-129A/129B or MAT-129 or appropriate score on the college placement test.
+
+
+
+Textbook of Course:
+
+Author: Larson/Hostetler
+
+Title:  Calculus Single Variable
+
+Publisher: Houghton Mifflin 8th Edition 
+
+
+
+
+
+Catalog Course Description:
+
+The first half of the two-semester sequence of Analytic Geometry and 
+Calculus I. 
+
+Presents fundamental ideas of calculus such as the derivative, integral, and 
+
+their applications.  Topics include fundamentals of analytic geometry and 
+
+transcendental functions.  The first course in a sequence of calculus 
+courses 
+
+intended for the student interested in mathematics, engineering, and the 
+
+natural, physical and social sciences.  TI 83 plus calculator required.
+
+
+
+Objectives of Course:
+
+The student will demonstrate through quizzes, examinations, homework and 
+
+projects the ability to:
+
+1.Identify, comprehend, and manipulate abstract symbols and their uses in a 
+
+variety of situations.
+
+2.Establish strong conceptual foundations.
+
+3.Analyze mathematical situations with ideas and problem solving techniques.
+
+4.Make decisions about solving complex problems.
+
+5.Establish underlying mathematical models for conceptual understanding.
+
+
+
+
+
+
+
+Course Outline
+
+
+
+
+
+
+
+Chapters Topics Approximate Number of Classes
+
+
+
+P Preparation for Calculus 7
+
+1 Limits and Their Properties3
+
+2 Differentiation7
+
+3Applications of Differentiation11
+
+
+
+
+
+
+
+
+
+Day-by-Day Outline
+
+
+
+
+
+1.
+
+Chapter P 
+
+P.1  Graphs and Models
+
+
+
+2.
+
+P.2  Linear Models and Rates of 
+
+Change
+
+
+
+3.
+
+P.3  Functions and Their Graphs
+
+
+
+4.
+
+P.4  Fitting Models to Data
+
+
+
+5.
+
+Review Trigonometric Functions
+
+
+
+6.
+
+Review
+
+
+
+7.
+
+Test 1
+
+
+
+8.
+
+Chapter 1
+
+1.1A Preview of Calculus (Quickly)
+
+1.2Finding Limits Graphically and Numerically
+
+
+
+9.
+
+1.3Evaluating Limits Graphically and Numerically
+
+1.4Continuity and One-Sided Limits
+
+
+
+10.
+
+1.5 Infinite Limits
+
+
+
+11.
+
+Chapter 2
+
+2.1 The Derivative and the Tangent Line Problem
+
+2.2 Basic Differentiation Rules and Rates of Change
+
+
+
+12.
+
+2.3 The Product and Quotient Rules and Higher-Order Derivatives
+
+
+
+13.
+
+2.4 The Chain Rule
+
+
+
+14.
+
+2.5 Implicit Differentiation
+
+
+
+15.
+
+2.6 Related Rates
+
+
+
+16.
+
+Review
+
+
+
+17.
+
+Test 2
+
+
+
+18.
+
+Chapter 3
+
+3.1 Extrema on an Interval
+
+3.2 Rolles Theorem and the Mean Value Theorem
+
+
+
+19.
+
+3.3 Increasing and Decreasing Functions and the First Derivative Test
+
+
+
+20.
+
+3.4 Concavity and the Second Derivative Test
+
+
+
+21.
+
+Review
+
+
+
+22.
+
+Test 3
+
+
+
+23.
+
+3.5 Limits at Infinity
+
+
+
+24.
+
+3.6 A Summary of Curve Sketching
+
+3.7 Optimization Problems
+
+
+
+25.
+
+3.9 Differentials
+
+
+
+26.
+
+Review
+
+
+
+27.
+
+Test 4
+
+
+
+28.
+
+Review for Final
+
+
+
+
+
+BASED ON TWO WEEK CLASS MEETINGS PER WEEK 
+
+
+
+
+
+

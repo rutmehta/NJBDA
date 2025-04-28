@@ -1,0 +1,322 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+ Cumberland County College
+
+Syllabus for Calculus II
+
+
+
+MA 140M Calculus II (4:4:0)
+
+
+
+Brief Description:
+
+A continuation of MA 130.  Topics include a further development of 
+exponential and logarithmic functions, inverse trigonometric functions, 
+hyperbolic and inverse hyperbolic functions integration techniques 
+indeterminant forms, LHospitals rule and improper integrals and infinite 
+sequence and series. Theory is augmented by applications from a variety of 
+disciplines. 
+
+
+
+Prerequisite: 
+
+MA103 or MA 130
+
+
+
+General Objectives:
+
+A. Understand concepts of Calculus through graphical means
+
+B. Develop clear communication of mathematical concepts and ideas
+
+C. Knowledge of mathematical definitions  theorems
+
+D. Mathematical modeling
+
+E. Top-down methodology to break a problem into sub-problems.
+
+F. Symbolic manipulation
+
+G. Using technology
+
+H. Approximation and estimation
+
+I. Techniques of integration
+
+J. Applications of the definite integral
+
+K. Convergence  function representation by infinite series.
+
+
+
+Competency-Based Objectives:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Transcendental Functions
+
+a. Define, evaluate, and differentiate logarithms, exponentials, inverse 
+trigonometric functions and hyperbolic functions 
+
+b. Provide a sketch of their graphs.
+
+c. State their domain, range and asymptotic behavior.
+
+d. Identify common integration forms which result in these transcendental 
+functions. 
+
+e. Perform logarithmic differentiation.
+
+ Differential Equations
+
+a. Translate physical law/phenomena such as Newtons law of cooling in terms 
+of a differential equation with initial conditions. 
+
+b. Solve separable differential equations with initial conditions.
+
+c. State the solution to the growth/decay model and use it in applications.
+
+ Applications of Integration
+
+a. Find the area between two functions over an interval.
+
+b. Find the arc length of function over an interval.
+
+c. Find the surface area and volume of a region rotated about either axis.
+
+d. Compute the amount of work needed to move an object over a distance with 
+a done in compressing/stretching springs. 
+
+e. Calculating work, density of lamina, or centers of mass.
+
+ Techniques of integration
+
+a. Integrate using trigonometric substitution, integration by parts, partial 
+fraction decomposition, and the integration tables. 
+
+b. Rewrite integrands such as using trigonometric identities, completing the 
+square, long division and other symbolic manipulations. 
+
+c. Integrate products/quotients of powers of trigonometric functions.
+
+d. Evaluate integrals over unbounded intervals.
+
+ Limits
+
+a. Recognize and rewrite indeterminate forms.
+
+b. Use LHopitals rule to evaluate expressions with a indeterminate form.
+
+ Sequences and Series
+
+a. Define the convergence of a sequence or series.
+
+b. State the bounded-monotonic sequence theorem.
+
+c. Determine the convergence/divergence of a series through the nth term 
+divergence test, integral test, comparison tests, alternating series test, 
+ratio test, and the root test. 
+
+d. Approximate the sum of a series, and approximate the lower bound on the 
+number of terms needed in the series to attain a maximum error in the 
+approximation. 
+
+e. Use a Taylor series rewrite functions as power series.
+
+f. State Taylors theorem with remainder.
+
+g. Use the binomial theorem  other techniques to find the power series 
+expansion of functions. 
+
+h. Determine the radius of convergence.
+
+
+
+Outline of Course Content and Suggested Time Schedule:
+
+I. Review (2 hours)
+
+1. Riemann sums and the Definite Integral.
+
+2. The Fundamental Theorem of Calculus.
+
+3. Integration by substitution.
+
+4. Numerical integration.
+
+a) Trapezoidal and Simpsons Rule.
+
+b) Error analysis and Computer programs.
+
+II. Logarithmic and Exponential Functions (14 hours)
+
+1. Review definition and properties of logarithms.
+
+2. The natural logarithmic function.
+
+a) Definition and its properties.
+
+b) Definition of e as the base of 1n x.
+
+c) Differentiation and applications.
+
+d) Log rule for integration.
+
+3. The inverse of a function.
+
+a) Definition and its properties.
+
+4. The exponential function.
+
+a) Definition and its properties.
+
+b) Differentiation and integration.
+
+5. Bases other than e.
+
+a) Definition of exponential and logarithmic functions to base a.
+
+b) Differentiation and Integration.
+
+c) Representing e as a limit.
+
+6. Growth and decay applications.
+
+7. Newtons law a cooling applications.
+
+8. Inverse trig functions.
+
+a) Definitions and properties.
+
+b) Differentiation and applications.
+
+c) Integrals involving inverse trig functions.
+
+9. Hyperbolic functions.
+
+a) Definitions and identities.
+
+b) Differentiation and applications.
+
+c) Inverse hyperbolic functions and their derivatives.
+
+III. Applications of the definite integral (6 hours)
+
+1. Area between curves.
+
+2. Volume of revolution.
+
+3. Arc length and surface of revolution.
+
+4. Center of mass.
+
+IV. Techniques of Integration (10 hours)
+
+1. Integration by parts.
+
+2. Integration by partial fractions.
+
+3. Integrals involving powers of sin and cos.
+
+4. Integration by trig substitution.
+
+V. LHopitals rule, Improper integrals (2 hours)
+
+VI. Infinite series (14 hours)
+
+1. Sequences
+
+2. Series and Convergence.
+
+3. Tests for convergence and divergence.
+
+4. Taylor Series  interval of convergence
+
+5. Other methods to find power series representations.
+
+6. Applications of infinite series.
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems.  All students will 
+be required to spend time in the computer lab to complete hand in 
+assignments working with DERIVE. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+91-100A
+
+81-90B
+
+71-80C
+
+61-70D
+
+Below-61F
+
+
+
+Attendance policy:
+
+Students are expected to attend all classes and be there on time.  If for 
+some reason a student misses a class, it is their obligation to catch up on 
+the work missed.  If a student misses more than 8 hours of class and has 
+below a C average the student will be dropped from the class.  If a student 
+misses more than 10 hours of class they may be dropped from the class no 
+matter what their grade.  No warning will be given before instituting this 
+policy. 
+
+
+
+Bibliography:
+
+Larson, R., Hostetler, R. P.,  Edwards, B. H. (2002). Calculus (7th ed.). 
+New York: Houghton Mifflin 
+
+
+
+
+
+
+
+Fall 2002
+
+Page 1 of 3

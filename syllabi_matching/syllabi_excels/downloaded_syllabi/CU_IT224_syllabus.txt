@@ -1,0 +1,72 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE
+
+Course:	IT 224 Dynamics for Technology
+
+Credits:	3 (3:3:0)
+
+Prerequisites:	IT 223 Statics for Technology
+
+Description: Provides an understanding of the mathematics of the motion of particles and rigid bodies, and the relation of forces and motion of particles.  Upon successful completion of this course, the students should be able to describe the motion of particles and rigid bodies as functions of time and position, develop their equations of motions due to applied forces, and determine post impact behavior.
+
+Learning Outcomes:
+
+At the completion of this course, students will be able to:
+
+* Describe the motion of particles and rigid bodies as functions of time and position
+* Develop their equations of motion due to applied forces
+* Determine post impact behavior
+
+Topical Outline:
+
+* Introduction to Kinematics
+* Kinematics of Particles: Rectilinear Motion, Curvilinear Motion
+* Kinetics of Particles: Newton’s 2nd Law, Energy Methods
+* Momentum Methods
+* Systems of Particles
+* Kinematics of Rigid Bodies
+* Relative Motions
+* Plane Motion of Rigid Bodies
+* Forces & Accelerations
+* Plane Motion of Rigid Bodies 
+* Systems & Constraints
+* Plane Motion of Rigid Bodies Energy Methods
+* Plane Motion of Rigid Bodies Momentum Methods
+* Vibrations
+
+Text:
+
+Vector Mechanics for Engineers: Dynamics, 10/11th Ed.by F.P. Beer, E.R. Johnston, Jr. and P. J. Cornwell, McGraw-Hall, 2013, ISBN: 978-0-07-740232-7 
+
+
+Student Assessment:
+
+Students’ evaluation in the subject will be based on 3 examinations, assignments, team projects and a final project.
+
+3 Exams				40%
+      Assignments				10%
+      Quizzes				10%
+      Final Exam				40%
+
+Attendance:
+
+Attendance is required.  Please see instructor for make-up policy for excused and school related absences.
+
+Academic Integrity:
+
+	Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation.
+
+	Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor.
+
+Tutoring & Project Assist:
+
+	If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students.
+
+Before Withdrawing From This Course:
+
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension.
+
+
+

@@ -1,0 +1,1232 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College
+
+Course Syllabus
+
+
+
+
+
+Information Technology 107
+
+Fundamentals of Electronic Communication
+
+Credits:  4.0  Lecture: 2 / Laboratory 4
+
+Pre-Requisites:  Completion of EN 98, EN 99, and MA 93, if
+
+required.
+
+Co-Requisite:  MAT 136, if required.
+
+New Course:  Fall 2003
+
+
+
+Donna Dobie
+
+Department Co-Chair
+
+Business, Computer  Technical Studies
+
+dobiesalemcc.edu
+
+
+
+
+
+Course Description Students will be introduced to the properties
+
+and theories of electronic signals used in todays communications
+
+devices. They will review the basic formation of circuits and Ohms
+
+Law. Electrical signals used in telecommunications will be
+
+introduced. The power of these signals, power ratios, and signal-
+
+to-power frequency applications of these signals will be explored.
+
+Students will explore waveform frequencies. The spectra of these
+
+waveforms and filters applied to the spectra will be introduced.
+
+Harmonics, linear, and non-linear circuits in signaling and their
+
+impacts will be discussed. Distortions effects on signals will be
+
+demonstrated. All these principles are applied to telephone and
+
+communications systems and voltage and power amplifiers used in
+
+those systems. This course reinforces the theory with practical
+
+hands-on exercises.
+
+
+
+
+
+Place in College Curriculum:  spring or fall semester in the first
+
+year of the Telecommunications Cabling Technician Certification
+
+and fall semester in the first year of Communications Technology
+
+AAS degree.
+
+
+
+Course Content Outline:
+
+  I.    Basic Electronics
+
+       A.    Ohms Law
+
+B.    AC circuits
+
+C.    DC Circuits
+
+D.    Multimeter
+
+E.    Oscilloscope
+
+  II.   Electrical Signals
+
+       A.    Audio Signals
+
+B.    Telecommunication Signals
+
+C.    Dimensions
+
+D.    Phase
+
+E.    Noise in Signals
+
+  III.  Signal Power
+
+       A.    Sine Wave
+
+B.    Power in Networks and Circuits
+
+C.    Network Calculations
+
+D.    Power Gains and Losses
+
+  IV.   Logarithmic Power Ratios
+
+       A.    Calculating Decibels
+
+B.    DB Conversions
+
+C.    Referenced Absolute Power
+
+D.    Power Scaling with Prefixes
+
+  V.    Power/Frequency Applications
+
+       A.    Acoustical Signal Power
+
+B.    Frequency Response of Circuits
+
+C.    Signal-to-Noise Ratios
+
+D.    Signal Power Transfer
+
+  VI.   Frequencies within Signal Waveforms
+
+       A.    Sine and Non-sine Waveforms
+
+B.    Waveforms and Multiple Frequencies
+
+  VII.  Frequency and Power Distribution
+
+       A.    Spectra of Complex Waveforms
+
+B.    Bandwidth and Bandpass
+
+C.    Harmonic Distortion
+
+  VIII.      Filters
+
+       A.    Filter Characteristics
+
+B.    Filter Type
+
+C.    Equalizing Networks
+
+  IX.   Utilizing Waveforms and Harmonics
+
+       A.    Harmonic Suppression
+
+B.    Harmonic Generation
+
+C.    Harmonic Multipliers
+
+  X.    Multiple Signals in Linear circuits
+
+       A.    Superposition
+
+B.    Linear Circuits
+
+  XI.   Multiple Signals in Non-Linear Circuits
+
+       A.    Intermodulation Distortion
+
+B.    Frequency and Power Distribution of Intermod Signals
+
+  XII.  Application of Intermodulation Distortion
+
+       A.    Suppressing Harmonic and Intermod Signals
+
+B.    Modulation
+
+C.    Mixers
+
+  XIII.      Transducers and Audio and Telephone Systems
+
+       A.    Transducers
+
+B.    Electric Properties of Input Transducers
+
+C.    Electric Properties of Output Transducers
+
+  XIV.  Audio voltage and Power Amplifiers
+
+       A.    Transistor Amplifiers
+
+B.    Combining Amplifier Circuits
+
+C.    Integrated Circuit Audio Amplifiers
+
+D.    Passive components
+
+                 
+
+Course Performance and Enabling Objectives
+
+
+
+Enabling Objectives for all Sections:  Students will understand
+
+and be able to adhere to the safety procedures specified in every
+
+lab. Students will search for products and company information via
+
+the web as needed in the lab assignments. They will find URLs
+
+needed for any given application/specification. They will use
+
+search strings in the product knowledge base to configure and
+
+troubleshoot products (software and hardware), and use listserv
+
+groups to enhance their knowledge of any given subject. They will
+
+be able to locate patches for products, download, and apply the
+
+patches. Students will use on-line and paper manuals to set up and
+
+use products. Students will also search the web via browsers to
+
+locate URLs that provide additional information about products and
+
+specifications. Students, reinforcing and complementing all
+
+assignments inside and outside the classroom, will regularly seek
+
+out the information on the web. (IL)
+
+  
+
+I. Basic Electronics
+
+ 
+
+   Performance Objectives:
+
+    1.    Use Ohms law to calculate various electrical outputs.
+
+    2.    Students will measure outputs with oscilloscopes and
+
+      multimeters.
+
+      
+
+    Enabling Objectives:
+
+    1.    List the variations of Ohms law to calculate voltage,
+
+      resistance, and current.
+
+2.    Use Ohms Law to calculate voltage, resistance, and current
+
+given any basic circuit.
+
+3.    Use an oscilloscope to measure characteristics of electrical
+
+signals.
+
+4.    Use a multimeter to measure AC and DC voltage, resistance,
+
+and current.
+
+    
+
+II. Electrical Signals
+
+         
+
+    Performance Objectives:
+
+    1.    Define the properties of signals in both acoustics and
+
+      electrical form.
+
+    2.    Describe and dimension signal frequency, wavelength, and
+
+      phase.
+
+3.    Apply the terms and formulas of basic AC to electrical
+
+signals.
+
+4.    Calculate the relationship of time and frequency, phase and
+
+distance, and phase and time.
+
+    
+
+    Enabling Objectives:
+
+    1.    Discuss telecommunications as a career field, and identify
+
+      technical aspects of the related subdisciplines.
+
+2.    Identify acoustic and electrical signals.
+
+3.    Show examples of how both signals are used in telephone
+
+practice.
+
+4.    Identify telecommunication signals and define the concept of
+
+frequency, audio spectrum, and electromagnetic spectrum.
+
+5.    List the units by which signal frequency and wavelength are
+
+dimensioned.
+
+6.    Describe the relationship of wavelength, frequency, time,
+
+and phase.
+
+7.    Describe the relationship between time, frequency, and
+
+resonance and demonstrate those relationships in electrical LC
+
+networks.
+
+8.    Explain noise and signal-to-noise ratio.
+
+    
+
+III. Signal Power
+
+     
+
+     Performance Objectives:
+
+    1.    Apply the terms and formulas of basic AC to electrical
+
+      signals.
+
+2.    Use basic terminology to scribe and dimension signal power.
+
+    
+
+    Enabling Objectives:
+
+     1.    Identify the four factors of electrical energy (EMF,
+
+      resistance, current, and power),  emphasizing power as the factor
+
+      that defines electrical work.
+
+    2.    Apply the terms and formulas of basic AC to electrical
+
+      signals.
+
+3.    Use basic terminology to describe and dimension signal
+
+power.
+
+4.    List the common units in which power is defined, and the
+
+Ohms law relationships from which power is computed, including
+
+rms and p-p formulas.
+
+5.    List examples of signal power applied to common electrical
+
+devices.
+
+      
+
+IV. Logarithmic Power ratios
+
+    
+
+    Performance Objectives:
+
+    1.    Calculate power gains and losses in dB units, and convert
+
+      these levels to voltage, current, and power ratios.
+
+2.    Calculate referenced power levels in dBm, and convert these
+
+levels to voltage, current, and power ratings.
+
+    
+
+    Enabling Objectives:
+
+    1.    Identify common signal waveforms, and show how combining
+
+      multiple frequency sine waves creates them.
+
+2.    Specify the logarithmic relationships of power in physical
+
+phenomena, including acoustic and electrical signals.
+
+3.    Calculate and convert decibels to power ratios, and vice
+
+versa.
+
+4.    Calculate and convert decibels to power ratios using actual
+
+telecommunications scenarios
+
+5.    Describe dBm as a measure of how signal power is scaled in
+
+reference to a 1 mW  standard. Describe similar standards with
+
+dBf, dBrnC.
+
+6.    Make distinctions between gain and loss measured in dB,
+
+signal power in dBm, and acoustic power in dB.
+
+7.    Apply power scaling to a sequence of test points along a
+
+communication circuit that has both gains and losses, with
+
+referenced signal power measured at the circuits input and output
+
+terminals.
+
+8.    Demonstrate power measurements in mW made at different
+
+points along a circuit.
+
+9.    Convert power measurements to dBm and calculate signal gain
+
+and loss between points in the circuit where signal power is
+
+measured.
+
+    
+
+V. Power/Frequency Applications
+
+    
+
+    Performance Objectives:
+
+    1.    Define the concepts of frequency response, power versus
+
+      frequency, to telephone and audio equipment.
+
+2.    State the signal-to-noise ratios required for reliable
+
+communication with telephone and audio equipment.
+
+3.    Describe and dimension the characteristics of transmission
+
+lines and cables used for the efficient transfer of signal power.
+
+    
+
+    Enabling Objectives:
+
+    1.    Relate the sound pressure levels of acoustical signals that
+
+      are measured in dB to the  loudness of common sounds in the
+
+      environment.
+
+2.    Describe the general frequency response of human hearing
+
+using the Fletcher-Munsen curves as a reference.
+
+3.    Apply the measurement process by which frequency responses
+
+are made and apply the process to an LCR network.
+
+4.    Identify the terminology of frequency and phase responses as
+
+applied to filters.
+
+5.    Define the character of frequency response slopes specified
+
+in the dB-per-range of frequencies.
+
+6.    Define noise as a random-frequency signal distributed across
+
+a range of frequencies.
+
+7.    Describe signal-to-noise ratio as the dB relationship
+
+between two power levels.
+
+8.    Apply the concept of S/n to the clarity of communication
+
+signals.
+
+9.    Describe power losses that occur along transmission lines
+
+and circuits to mismatched impedances.
+
+10.   Calculate mismatch loss in dB.
+
+    
+
+VI. Frequencies within Signal Waveforms
+
+    
+
+    Performance Objectives:
+
+    1.    Define the fundamental and harmonic frequencies of
+
+      electrical signals.
+
+2.    Identify common signal waveforms, and explain how combining
+
+multiple frequency sine waves can create them.
+
+    
+
+    Enabling Objectives:
+
+    1.    Describe the sine wave in reference to degrees of rotation,
+
+      relating the amplitude of the voltage to phase angles from 0
+
+      degrees to 90 degrees.
+
+2.    Define the resulting character of waveforms in relations to
+
+combining signals of frequencies and those frequencies within the
+
+waveform.
+
+3.    Reverse the superposition process and describe how different
+
+waveforms contain multiple frequencies.
+
+4.    Define the character of waveforms and explain how waveforms
+
+define each of the frequencies contained within them.
+
+5.    List the terminology related to fundamental and harmonic
+
+frequencies.
+
+6.    Define by example the fundamental and harmonic frequencies
+
+contained within a non- sine waveform.
+
+7.    Describe frequency domain and how spectrum analyzers are
+
+used to measure and display the frequencies and power levels of
+
+signals containing harmonics.
+
+8.    Make comparisons and distinctions between the frequency-
+
+domain spectrum analyzer and the time-domain oscilloscope.
+
+9.    Describe common communication signals and their waveforms
+
+that include harmonics.
+
+10.   Relate a circuits frequency response to the number of
+
+harmonics within a signal that   will pass through a circuit.
+
+    
+
+VII. Frequency and Power Distribution
+
+    
+
+    Performance Objectives:
+
+    1.    Define the harmonic structures of common signal waveforms,
+
+      and identify their frequency and power distribution
+
+2.    Specify the common forms of waveform distortion applied to
+
+signals that pass through electronic circuits.
+
+3.    Specify the effects of circuit bandpass and frequency
+
+response on signal waveforms and their harmonic structure.
+
+    
+
+         Enabling Objectives:
+
+    1.    Demonstrate the spectra of common complex signal waveforms
+
+      using both spectrum analyzer and oscilloscope display.
+
+2.    Apply the concepts of spectral distribution to the
+
+calculation of circuit bandpass required to retain all of the
+
+harmonics within a waveform.
+
+3.    Use calculations to show how limiting circuit bandpass
+
+through filtering limit the spectral distribution and reduce the
+
+harmonics of complex signal waveforms simplifying signals.
+
+4.    Define the types and characteristics of popular filters.
+
+5.    Calculate the relationships between slope, bandpass, and Q.
+
+6.    Apply the concept of filtering to the equalizing networks
+
+used in telephone practice.
+
+7.    Define the concept of harmonic distortion wherein harmonic
+
+frequencies are created through the distortion of a sine wave
+
+signal.
+
+8.    Compare the power level of the fundamental with the power
+
+levels of harmonic signals.
+
+9.    Describe the applications of harmonic distortion used in
+
+communication practice.
+
+    
+
+VIII. Filters
+
+    
+
+         Performance Objectives:
+
+    1.    Determine the effects of selective filtering on the
+
+      suppression and/or selection of specific harmonic signals.
+
+2.    Relate the concepts of harmonic distortion and frequency
+
+generation to telephone, audio, and telecommunication systems.
+
+    
+
+    Enabling Objectives:
+
+    1.    List the signal requirements of communication circuits.
+
+2.    Describe how harmonics are suppressed by limiting circuit
+
+bandpass with filters.
+
+3.    List and describe the four general categories of filters,
+
+loss-pass, high-pass, bandpass,  and bandstop.
+
+4.    Describe how equalization networks are used in
+
+communications circuits.
+
+    
+
+IX. Utilizing Waveforms and Harmonics
+
+    
+
+        Performance Objectives:
+
+    1.    Relate the results of waveform distortion to the generation
+
+      of harmonic frequency signals.
+
+2.    Apply the concepts of harmonic generation and frequency
+
+response to the analysis of electronic comb and marker signal
+
+sources.
+
+3.    Relate the concept of harmonic distortion and frequency
+
+generation to telephone, audio, and telecommunication systems.
+
+    
+
+        Enabling Objectives:
+
+    1.    List the contrary requirements of communications circuits
+
+      and systems to create and/or maintain harmonics within their
+
+      bandpass.
+
+2.    Describe harmonic generators (harmonic multipliers) and
+
+their use in creating frequencies, which are multiples of a stable
+
+fundamental frequency.
+
+3.    Detail the specification of the harmonic signal levels
+
+available from specific waveforms.
+
+4.    Detail the operation of the basic FDM (frequency division
+
+multiplex) system that uses harmonic generation to assure the
+
+synchronous operation of the multiple voice channels it processes.
+
+5.    Calculate the efficiency and frequency range in harmonic
+
+generators and multipliers, including doublers and triplers.
+
+    
+
+X. Multiple Signals in Linear Circuits
+
+    
+
+    Performance Objectives:
+
+    1.    Identify and distinguish between linear and non-linear
+
+      circuits that process two or more signals.
+
+    
+
+         Enabling Objectives:
+
+    1.    Calculate the effects of linear mixing of two signals using
+
+      superposition techniques.
+
+2.    Identify the waveforms that result from the adding, or
+
+linear mixing, of signals.
+
+3.    Describe the results of superposition as it applies to the
+
+combination of two signals within a linear circuit.
+
+4.    Calculate the voltage and frequency of signals within
+
+linearly combined waveforms.
+
+    
+
+XI. Multiple Signals in Non-Linear Circuits
+
+    
+
+    Performance Objectives:
+
+    1.    Determine and identify the waveforms that will result from
+
+      the processing of two signals through non-linear circuits.
+
+2.    Determine and identify the intermodulation frequencies that
+
+result from processing two signals through non-linear circuits.
+
+3.    Calculate the percentage factors of intermodulation and
+
+harmonic distortion in circuits and signals.
+
+4.    Calculate the power distribution of intermodulation signals
+
+over their range of frequencies.
+
+    
+
+        Enabling Objectives:
+
+    1.    Relate the results of waveform distortion to the generation
+
+      of harmonic frequency signals.
+
+2.    Apply the concepts of harmonic generation and frequency
+
+response to the analysis of electronic comb and marker signal
+
+sources.
+
+3.    Describe the results of combining two signals in a non-
+
+linear device.
+
+4.    Identify modulation and intermodulation distortion as a
+
+result of one signal affecting the waveform of another.
+
+5.    Identify the sum and difference frequencies present within
+
+the waveform of a modulated signal.
+
+6.    Calculate the intermodulation and harmonic frequencies
+
+produces when two signals are applied to a non-linear circuit.
+
+7.    Specify the bandwidth of signals and the circuit bandpass
+
+required to retain frequencies.
+
+8.    Define intermodulation distortion, and explain how it is
+
+measured and show how to calculate IMD.
+
+    
+
+XII. Application of Intermodulation Distortion
+
+    
+
+    Performance Objectives:
+
+    1.    Specify the effects of circuit bandpass and frequency
+
+      response upon the signal waveforms and intermodulation
+
+      frequencies.
+
+2.    Determine the effects of phase and filtering upon the
+
+generation, suppression, and/or selection of harmonic and intermod
+
+signals.
+
+3.    Apply the concepts of intermod products to the modulation of
+
+signals and the frequency conversion of signals in communications
+
+systems.
+
+    
+
+        Enabling Objectives:
+
+    1.    List the requirements for suppressing harmonics and intermod
+
+      signals in communication circuits and systems by limiting circuit
+
+      bandpass, applying phase cancellation, and filtering.
+
+2.    Describe the concept of modulation process, which purposely
+
+uses intermodulation distortion.
+
+3.    Define the terminology of the modulation process including
+
+carrier and sideband frequencies, modulation index, and the
+
+modulation forms DSB-AM, DSB-SC, and SSB.
+
+4.    Describe the uses of filters in selecting and/or suppressing
+
+specific intermod signals.
+
+5.    Describe the process of phase cancellation using the
+
+balanced modulation circuit to suppress specific modulation of
+
+intermod signals.
+
+6.    Calculate sideband frequencies and power levels in AM, DSB-
+
+SC, and SSB circuits.
+
+7.    Define the distinctions between the power and voltage levels
+
+of sideband signals and the total sideband power as the sum of
+
+(twice) each sideband signal power level.
+
+8.    Define the mixer as a form of AM modulator and explain how
+
+it is distinct in function from the modulator.
+
+9.    Specify the use of the mixer in frequency conversion
+
+processes critical to communication systems.
+
+10.   Clarify the distinctions between unbalanced, single-
+
+balanced, and double-balanced mixers.
+
+    
+
+XIII. Transducers and Audio and Telephone Systems
+
+    
+
+    Performance Objectives:
+
+    1.    Identify the electrical principles, acoustical and
+
+      electrical properties upon which popular input (microphones and
+
+      telephone transmitters) and output (loudspeakers and telephone
+
+      receivers) transducers operate.
+
+2.    Determine the efficiency of transducers from measured
+
+specifications, and convert Db SPL to electrical signal power.
+
+3.    Determine the electrical requirements of gain and power
+
+level for amplifier systems using input and output transducers.
+
+    
+
+        Enabling Objectives:
+
+    1.    Define transducers as the elements in the telephone handset
+
+      that converts acoustic signals to electrical signals and vice
+
+      versa.
+
+2.    Identify the types of transducers used in microphones and
+
+speakers, and in telephone transmitters and receivers.
+
+3.    Define the important electrical properties of microphones
+
+(telephone transmitters), including sensitivity, frequency
+
+response, impedance, noise, and distortion.
+
+4.    Define the important electrical properties of loudspeakers
+
+(telephone receivers), including sensitivity (efficiency),
+
+frequency response, impedance, power, and distortion.
+
+5.    Calculate the sensitivity of microphones, and convert their
+
+specifications to voltage levels.
+
+6.    Demonstrate the application of microphone data to determine
+
+impedance and power transfer relationships.
+
+7.    Calculate the efficiency of speakers and determine required
+
+signal power levels versus acoustic power.
+
+    
+
+XIV. Audio voltage and Power Amplifiers
+
+    
+
+         Performance Objectives:
+
+    1.    Identify the distinctions used to classify voltage
+
+      amplifiers versus power amplifiers in electronic circuitry.
+
+2.    Identify and categorize the dominant electrons devices used
+
+to amplify signals, including bipolars, FETs, and ICs.
+
+3.    Identify and categorize the dominant circuit configurations
+
+in which bipolar, FET and IC devices are placed for signal
+
+amplification.
+
+4.    Determine the operating characteristics of amplifier devices
+
+and circuits, including gain, impedance, and power levels.
+
+5.    Determine the effects of amplifier circuits upon the
+
+frequency response, noise, and distortion of signals passing
+
+through them.
+
+    
+
+         Enabling Objectives:
+
+    1.    List the properties of electronic amplifiers that are
+
+      critical to circuit performance.
+
+2.    Define the configurations of single-staged transistor
+
+amplifier circuit connections
+
+3.    Define the power requirements of single-stage transistor
+
+amplifier circuit connections.
+
+4.    List the voltage and power gain performance of various
+
+single-stage transistor amplifier circuit connections.
+
+5.    Describe the multi-stage transistor connections typical of
+
+those found within IC devices
+
+6.    Describe the discrete complementary-symmetry output driver
+
+7.    Describe the differential input voltage amplifier.
+
+8.    Describe the structure of the IC operational amplifier
+
+9.    Describe the differential input and complementary output
+
+stages of the IC operational amplifier
+
+10.   Apply the circuit to the amplification of voice signals used
+
+in telephone practice.
+
+
+
+Course Activities: Students will spend 1/3 the time in a
+
+lecture/demonstration series presented by the instructor. The
+
+instructor will use the RealCBT learning system among other
+
+resources for video lectures and simulations. The instructor will
+
+also use circuit boards and electronic trainers to demonstrate
+
+hands-on processes the students are expected to learn. The other
+
+2/3 of the time the students are expected to reinforce the things
+
+learned in the lecture/demonstration in a supervised instructor
+
+led lab. Students will use the tools and testing equipment
+
+typically found in the industry to do the hands-on lab portion.
+
+This includes using the Internet to visit the sites of on-line
+
+companies and using all available on-line resources (knowledge
+
+bases, on-line videos, on-line technical support, and on-line
+
+product manuals) to complete labs as assigned.
+
+
+
+Course Requirements and Means of Evaluation:  Fifty percent of the
+
+grade is determined by test grades. Six tests will be given
+
+throughout the semester. Fifty percent of the grade is determined
+
+by lab experiments and homework.
+
+
+
+Grading:  Letter Grade    Numerical Value         Grade Points
+
+          A                    93-100                  4.0
+
+          A-                   90-92                   3.7
+
+          B                   88-89                   3.3
+
+          B                    83-87                   3.0
+
+          B-                   80-82                   2.7
+
+          C                   78-79                   2.3
+
+          C                    73-77                   2.0
+
+          C-                   70-72                   1.7
+
+          D                   68-69                   1.3
+
+          D                    63-67                   1.0
+
+          F                   Below 60                  0
+
+          FA                  Below 60                  0
+
+P - Pass:  This grade is given to students who satisfactorily meet
+
+the course requirements in the following types of courses: credit
+
+by exam, educational development courses with code numbers below
+
+100, health practicum courses and co-op courses.  P grades are
+
+not calculated into a students GPA.
+
+
+
+I - Incomplete Work: This is a conditional grade given at the
+
+discretion of the faculty member when student emergencies prevent
+
+the completion of all course requirements. The student must
+
+complete all requirements within 30 days after the start of
+
+classes in the following semester or term. If this condition is
+
+not met, the I automatically becomes an F grade.
+
+
+
+W-Withdrawal:  This grade signifies official withdrawal from a
+
+course. See details under College Withdrawal.
+
+R-Audit: This is not a grade but indicates a student took the
+
+course for no credit and, therefore, no grade.
+
+Attendance: Students are expected to attend all scheduled classes.
+
+Any student who is absent for Thirty percent of the classes (9
+
+classes) will receive an FA for the course, no exceptions.
+
+
+
+Tests: No makeup tests allowed. Students must complete a test on
+
+the test date or arrange to take a test in advance. All tests are
+
+closed book. Anyone cheating will receive a 0 for that test and be
+
+subject to failing the class via submittal to a disciplinary board
+
+of review.
+
+
+
+Lab Assignments: Each lab will have the results written in
+
+paragraph format and submitted via email on or before the due
+
+date. All homework/assignments due before class starts on the due
+
+date. Homework and assignments cannot be made up.
+
+
+
+Academic Honesty Policy: Students found to have committed an act
+
+of academic dishonesty may be subject to failure in this course,
+
+academic probation, and/or suspension from the college. See the
+
+student handbook for additional details.
+
+
+
+Student Safety and Procedures: Students are required to follow
+
+procedures for their own safety and the safety of others. Specific
+
+procedures are to be adhered to when working with the equipment.
+
+These procedures will be demonstrated by the instructor, detailed
+
+in handouts and procedures, and are an intricate part of every
+
+lab. Should students have any doubts or questions regarding a
+
+procedure, they should ask the instructor before proceeding.
+
+
+
+Software and Hardware Policies: The school is licensed to use all
+
+software required in class and lab. Students will not be allowed
+
+to copy software from the colleges  PCs. It is an illegal act to
+
+copy this software. Viruses can be transmitted through various
+
+media. Students will take every precaution when working with the
+
+schools software and hardware, adhering to the procedures for
+
+protecting from viruses. Students will not bring their own
+
+software to class, nor will they install it on any college PC.
+
+Students are not permitted to play games or download/participate
+
+in instant messaging or chat room in the labs. Students are
+
+permitted to sign out the MSDNAA software related to the IT class
+
+they are enrolled in. See the instructor to find out what software
+
+is available for that class. MSDNAA software can only be signed
+
+out during the first four weeks of classes no software will be
+
+signed out after that. Students will run the risk of dismissal
+
+from the class and the college if found in violation of the
+
+software and hardware policies.
+
+
+
+Required Text: The Principles of Electronic Communication, 2001,
+
+Heathkit, ISBN 0-87119-296-7
+
+
+
+Material or Supplies: Students will be required to purchase a set
+
+of PC headphones and a computer repair toolkit with grounding
+
+wrist strap. Students will be supplied with additional tools,
+
+software, hardware, and safety equipment required for each lab.
+
+Items necessary to complete each lab will be given out at the
+
+beginning of each lab and returned at the end of each lab.

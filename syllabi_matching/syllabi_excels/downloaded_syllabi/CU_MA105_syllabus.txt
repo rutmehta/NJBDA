@@ -1,0 +1,274 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+Cumberland County College
+
+Course Syllabus for Intermediate Algebra
+
+
+
+MA 105M  Intermediate Algebra (3:3:0)
+
+
+
+Brief Description:
+
+Intermediate Algebra is primarily for students who may continue in math, 
+science, technology, or business-related fields.  Topics included are a 
+review of basic algebra, rational exponents and radicals, first and second 
+degree equations and inequalities, and systems of equations, functional 
+relationship. 
+
+
+
+Prerequisite:
+
+Successful completion of MA 092 or MA 094 or MA098 or MA 099 or MA 100 or 
+placement by CBSPT scores. 
+
+
+
+General Objectives:
+
+A. To provide the students with the basic algebraic abilities necessary to 
+continue study in mathematics for the fields of engineering, mathematics, 
+science, technology, and business related fields. 
+
+B. To engage students in extensive algebraic problem solving.
+
+C. To have students experience algebra through modeling real-world 
+situations. 
+
+D. To have students expand their algebraic reasoning skills.
+
+E. To have students communicate about algebra both orally and in writing.
+
+F. To have students use appropriate technology to enhance their 
+understanding of algebra. 
+
+
+
+Competency-based Objectives with Exit Criteria:
+
+Upon successful completion of this course, the student should be able to 
+demonstrate competency in the following areas: 
+
+ Understand and work with the properties of Real and Complex numbers
+
+ Perform operations with exponents, polynomials, and radicals
+
+ Demonstrate an understanding of factoring
+
+ Use algebraic techniques to simplify rational expressions
+
+ Solve linear equations and inequalities, absolute value equations and 
+inequalities, application problems and literal equations 
+
+ Work with functional notation and draw graphs
+
+ Solve quadratic equations and systems of equations
+
+
+
+Outline of Course Content and Suggested Time Schedule
+
+I. Review of basic algebraic concepts (1 hour)
+
+Sets of numbers and interval notation
+
+Operations on real numbers
+
+Simplifying expressions
+
+Linear equations in one variable
+
+Applications of linear equations in one variable
+
+Literal equations and applications to geometry
+
+Linear inequalities in one variable
+
+II. Linear equations in two and three variables (6 hours)
+
+Linear equations in two variables
+
+Slope of a line
+
+Equations of a line
+
+Applications of linear equations and graphing
+
+Systems of linear equations in two equations
+
+Applications of systems of linear equations in two variables
+
+Systems of linear equations in three equations
+
+III. Introduction to relations and functions (3 hours)
+
+Introduction to relations
+
+Instruction to functions
+
+Graphs of basic functions
+
+Additional topics on functions
+
+Variation
+
+I. Polynomials (5 hours)
+
+Properties of integer exponents and scientific notation
+
+Polynomial functions and applications
+
+Addition and subtraction of polynomials
+
+Multiplication of polynomials
+
+Division of polynomials
+
+Synthetic division
+
+IV. Radicals and complex numbers (7 hours)
+
+Definition of an nth root
+
+Rational exponents
+
+Properties of radicals
+
+Addition and subtraction of radicals
+
+Multiplication and subtraction of radicals
+
+Multiplication or radicals
+
+Rationalization
+
+Radical equations
+
+Complex numbers
+
+V. Factoring and quadratic functions (4 hours)
+
+Greatest common factor and factor by grouping
+
+Factoring trinomials
+
+Factoring binomials
+
+Zero product rule
+
+Completing the square and the square root property
+
+Quadratic formula
+
+Equations in quadratic form
+
+VI. Quadratic functions and nonlinear systems (2 hours)
+
+Graphs of quadratic functions
+
+Applications of quadratic functions
+
+Distance formula
+
+VII. Rational expressions (6 hours)
+
+Introduction to rational functions
+
+Multiplication and division of rational expressions
+
+Addition and subtraction of rational expressions
+
+Complex fractions
+
+Rational equations
+
+Application of rational equations and proportions
+
+VIII. More equations and inequalities (4 hours)
+
+Compound inequalities
+
+Polynomial and rational inequalities
+
+Absolute value equation
+
+Absolute value inequalities
+
+Linear inequalities in two variables
+
+
+
+Instructional Methodologies:
+
+Learning activities will be provided through lecture, discussion, problem 
+solving, and group work. Students will be expected to work with appropriate 
+technology work collaboratively use multiple approaches when solving 
+problems, and communicate both orally and in writing.  Students will also be 
+expected to attend all classes, take notes, read the related material in the 
+book, study, and attempt to solve the assigned problems. 
+
+
+
+Basic Materials for Students:
+
+Textbook
+
+Student Solution manual for textbook
+
+Notebook or binder with paper
+
+Graph paper
+
+TI-83 or TI-83 plus calculator
+
+
+
+Evaluation - Methods:  
+
+A variety of forms of assessment will be used, which include but are not 
+limited to, tests, quizzes, homework assignments, projects, calculator and 
+computer labs.  A cumulative final exam will also be given.  Some 
+consideration might be given to class participation and board work.  The 
+following will be used to determine your grade: 
+
+
+
+90-100A
+
+80-89B
+
+70-79C
+
+60-69D
+
+Below-60F
+
+
+
+Attendance:  
+
+Regular class attendance is of primary importance for success in 
+Mathematics.  You will be permitted six hours absence.  Any absences after 
+six hours may cause the student to be dropped from the course. 
+
+
+
+Bibliography:
+
+Miller, J.,  ONeill, M. (2004). Intermediate Algebra (1st ed.). New York: 
+McGraw-Hill. 
+
+
+
+
+
+Fall 2003
+
+Page 1 of 3

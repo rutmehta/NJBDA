@@ -1,0 +1,77 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+UNION COUNTY COLLEGE
+COURSE SYLLABUS
+
+COURSE NUMBER & NAME:	CSC 285 - Special Topics in Computer Programming
+
+LECTURE/LAB HOURS	3 Lecture Hours
+
+CREDITS	3
+
+PREREQUISITES:	Permission of coordinator
+
+
+COURSE DESCRIPTION
+Topics of current interest and trends in computer programming are discussed in this seminar course. 
+Course content is arranged to satisfy the particular needs and interests of students. The course is 
+intended for students who are completing their degree in Computer Science/Computer Information 
+Systems/Information Systems Technology.
+
+COURSE LEARNING OUTCOMES
+To provide an opportunity for advanced students to further their interest in computer science/computer 
+information systems and to explore new relevant topics.
+
+STUDENT RESOURCES
+This will vary with the topic.
+
+COURSE REQUIREMENTS
+
+To enforce course objectives, all students in this course will be expected to complete homework 
+assignments, complete programming projects, and successfully complete examinations.
+An essential element of this course includes information literacy. 'Information Literacy' is the 
+evaluation and assessment of integrated information. An understanding of its ramifications and 
+implications through the critical use of information literacy will be discussed. Students will be able to 
+locate, discern, and effectively use information to solve issues and/or problems.
+
+EVALUATION METHODS
+
+Grading Procedures
+     Research paper/Research Project
+     
+     Grading:
+     
+	A	90 or above
+C	70-76
+	B+	87-89
+D+	67-69
+	B	80-86
+D	60-66
+	C+	77-79
+F	below 60
+
+
+
+NOTE
+The instructor reserves the right to modify the course requirements, assignments, grading procedures and other 
+related policies as circumstances may dictate.
+
+****STUDENTS WITH PHYSICAL LEARNING DISABILITIES****
+
+Any student with special needs that will affect performance in this class should feel free to make an 
+appointment to talk with the instructor during office hours (or by appointment) or contact the 
+disabilities counselor in the Counseling office on the Cranford Campus.
+
+SUGGESTED TEACHING METHODOLOGIES
+a.	Lecture, group discussion, presentations, multimedia/technology, projects, experiments, 
+demonstrations, etc.
+b.	Indication of the percentages or emphasis given to teaching methodologies used will assist 
+faculty members in course preparation and implementation.
+      
+CLASS SCHEDULE-dependent upon special topic chosen
+      
+CORRELATION OF PROGRAM OUTCOMES, STUDENT OUTCOMES, AND ASSESSMENT
+      Dependent upon special topic chosen
+      
+CSC285	1	2013-2014

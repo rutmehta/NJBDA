@@ -1,0 +1,683 @@
+7
+
+
+
+                   GLOUCESTER COUNTY COLLEGE
+
+               Business and Technology Division
+
+
+
+                        COURSE SYLLABUS
+
+
+
+
+
+                                             Fall      2002
+
+                                             SEMESTER/YEAR
+
+
+
+
+
+CIS 109                            Operations Systems
+
+COURSE CODE                        COURSE TITLE
+
+
+
+
+
+                        2                                    2
+
+3
+
+LECTURE/RECITATION HOURS           CREDITS
+
+
+
+
+
+Introduction to Operating Systems:      Gorman, Mary,  Stubbs,
+
+S. Todd
+
+Advanced Course                    and CEP Inc.
+
+TITLE OF TEXT                      AUTHOR(S)
+
+
+
+
+
+                                   Course Technology
+
+                                   PUBLISHER
+
+
+
+
+
+15   Weeks
+
+LENGTH OF SEMESTER                 INSTRUCTOR
+
+
+
+
+
+CATALOG DESCRIPTION:
+
+
+
+This  course  presents  the theory, basic  operation  and  the
+
+practical utilization of widely implemented operating  systems
+
+such as Windows, Unix using Linux, Novell Netware and MAC OSX.
+
+Principal  topics include file system organization,  creating,
+
+deleting and managing files and directories, output, input and
+
+storage  devices,  modems  and other  communications  devices,
+
+command  structure and command language programming.  Students
+
+will also study network connecting, resource sharing over  two
+
+networks and standard operating and maintenance procedures.
+
+
+
+
+
+
+
+
+
+
+
+109
+
+PURPOSE OF THE COURSE:
+
+
+
+To provide an in-depth study of the most commonly used network
+
+operating    systems    from    an   administrative/management
+
+standpoint.
+
+
+
+OBJECTIVES OF THE COURSE:
+
+
+
+1.     Study  and  understand  networking  concepts  such   as
+
+   configuring the operating system on the network, and properly
+
+   installing an operating system on a network workstation.
+
+
+
+2.   Study how to manage users and groups on a network.
+
+
+
+3.   Study how to secure a network.
+
+
+
+SPECIFIC OBJECTIVES:
+
+
+
+After completing this course, the student will be able to:
+
+
+
+1.   Describe what a network is and why networks are important
+
+     in business today.
+
+
+
+2.   Explain the difference between a peer-to-peer network and
+
+     a client/server network.
+
+
+
+3. Understand  the  basics of installation  and  operation  of
+
+   commonly used network operating systems.
+
+
+
+4. Understand  the  main  features  of  the  current   Windows
+
+   operating system.
+
+
+
+5. Understand  disk  management  operations  in  an  operating
+
+   system.
+
+
+
+6. Understand  and  manage  users  and  user  groups   in   an
+
+   operating system.
+
+
+
+7. Understand   basic   troubleshooting   procedures   in   an
+
+   operating system.
+
+
+
+8. Understand  the  basic security features  in  an  operating
+
+   system.
+
+
+
+POLICIES OF THE COURSE:
+
+
+
+ 1.GCC Attendance Policy:
+
+
+
+   There  is  significant  value  in  the  daily,  cumulative,
+
+   educational  growth that results from regular participation
+
+   in  class.   This is especially true where ideas, concepts,
+
+   points  of  view,  social development,  poise,  confidence,
+
+   knowledge  and  success  derive  from  the  interaction  of
+
+   students and faculty.
+
+
+
+   Therefore,  students  are  expected  to  attend  all  class
+
+   sessions  for  which they are scheduled.   Students  attain
+
+   maximum  academic benefit through regular class attendance.
+
+   The   effect  of  absences  on  student  grades   will   be
+
+   determined by each instructor  consistent with his  or  her
+
+   stated policy provided in course outlines.
+
+ 2.Instructors Attendance Policy:
+
+
+
+   Daily  attendance  is  required of  all  students.   Exams,
+
+   quizzes  and  labs  missed may not be made  up,  except  in
+
+   cases of prolonged illness or other conditions approved  by
+
+   the   instructor  prior  to  the  class(es)  being  missed.
+
+   Students  absent from class are responsible  for  obtaining
+
+   materials missed.
+
+
+
+   WARNING:   The  information discussed in  the  lectures  is
+
+   cumulative  in  nature  therefore,  excessive  absenteeism
+
+   leads  to  a point where it will be impossible for  you  to
+
+   successfully  complete  this  course  with  a  transferable
+
+   grade.
+
+
+
+   A  penalty  will be assessed to the students final  letter
+
+   grade for excessive absences as follows:
+
+                 of Absences       Penalty
+
+
+
+                         4          1 grade level
+
+                                         5           2   grade
+
+   levels
+
+                                         6           3   grade
+
+   levels
+
+                                         7           4   grade
+
+   levels
+
+                                                             8
+
+   5 grade levels
+
+                                         9           6   grade
+
+   levels
+
+                              10 or more       grade of F
+
+
+
+METHOD OF EVALUATION:
+
+
+
+Grades will be computed as follows:
+
+
+
+                20      Exam I
+
+                20      Exam II
+
+                20      Exam III
+
+                20      Project I
+
+                20      Project II
+
+
+
+MISSED WORK:
+
+
+
+   All  work  must  be  submitted at the  announced  deadline,
+
+   which unless stated otherwise, will be at the beginning  of
+
+   class on the announced date.
+
+
+
+   As  a  general  rule,  work  submitted  late  will  not  be
+
+   accepted.   Tests  or  assignments  may  not  be   made-up.
+
+   However,   if   you  think  you  have  a   sufficient   and
+
+   documentable  reason to warrant an exception to  the  rule,
+
+   see  the  instructor  immediately  after  the  absence   to
+
+   discuss the situation.
+
+
+
+
+
+SPECIFIC CONDITIONS FOR AUDIT:
+
+
+
+   If  a  student wishes to attend a class regularly but  does
+
+   not  wish  to  receive a grade or credit, the  student  may
+
+   choose  to  audit  the  course.  For  this  to  occur,  the
+
+   student  must  first  register  for  the  course,  pay  the
+
+   tuition and any fees, and then switch to audit status.
+
+
+
+   Audits  are not accepted unless an Audit Form is  completed
+
+   by   the  student  and  course  instructor  and  officially
+
+   approved  by  the  Director  of Student  Development.   All
+
+   audit  enrollments must occur during the first  half  of  a
+
+   semester  or its equivalent.  Once the auditor is enrolled,
+
+   the  course  cannot be changed to credit.   The  instructor
+
+   will  determine the conditions of the audit  to  which  the
+
+   student  must  adhere  in order to receive  an  R  grade,
+
+   signifying  successful completion of  the  audit.   If  the
+
+   student  fails  to  meet  the conditions,  a  W  will  be
+
+   assigned, signifying audit withdrawal.
+
+
+
+ INCOMPLETE GRADE:
+
+
+
+   A  grade  of incomplete (I) may be reported for  a  student
+
+   who  has  carried a course with a passing grade  until  the
+
+   end  of  the semester, but due to illness or other  unusual
+
+   and  substantiated cause has been unable  to  complete  the
+
+   final examination or some limited amount of assigned work.
+
+
+
+   The  student and faculty member must complete the  Student
+
+   Contract  for  Incomplete form prior to  a  grade  of  I
+
+   being  given.   Any incomplete not removed by  the  end  of
+
+   this period automatically becomes an F.
+
+
+
+WITHDRAWALS:
+
+
+
+   A student wishing to withdraw from a course or the
+
+   College, should formally complete all withdrawal
+
+   procedures at the Student Development Office prior to the
+
+   announced end of the withdrawal period (the end of the
+
+   10th week of a regular semester or two-thirds through
+
+   shorter semesters.).
+
+
+
+   A student who officially withdraws from a course will
+
+   receive a W grade which will not affect the students
+
+   GPA.  Withdrawal is not permitted after the withdrawal
+
+   period.
+
+
+
+OFFICE HOURS:
+
+
+
+   Your  instructors  office hours  will  be  posted  by  his
+
+   office  door in the College Center.  You are encouraged  to
+
+   take advantage of this time.
+
+   Your instructors e-mail address is
+
+   and the office phone is 415-
+
+
+
+INSTRUCTIONAL MATERIALS:
+
+
+
+   Introduction to Operating Systems:  Advanced  Course,  by
+
+   Gorman, Mary, Stubbs, S. Todd and CEP Inc.
+
+
+
+
+
+ACADEMIC INTEGRITY:
+
+
+
+   Honesty  and  the  scholarly pursuit  of  truth  are  basic
+
+   precepts of academic integrity and are fundamental to  this
+
+   course  and College.  As a member of the College community,
+
+   you  have the responsibility to maintain academic integrity
+
+   and  to  conduct yourself in a manner consistent  with  the
+
+   Colleges policy on Student Conduct, which is found in  the
+
+   Student  Handbook.   Accordingly, you are  expected  to  do
+
+   your  own  work and not to give or receive assistance  with
+
+   your work unless directed to do so by the instructor.    To
+
+   do otherwise would constitute academic dishonesty.
+
+
+
+   Academic  dishonesty is a serious offense and will  not  be
+
+   tolerated.   It  may include, but is not  limited  to,  the
+
+   following violations.
+
+
+
+                Cheating  -  (i.e.,  the use  of  unauthorized
+
+       materials,   information,  or  aid  in   the   learning
+
+       process.)
+
+
+
+                Collaboration  -  (i.e., unauthorized  working
+
+       with others to complete work)
+
+                Fabrication - (i.e., submitting an  untruthful
+
+       statement or the resubmitting of returned academic work
+
+       without prior permission)
+
+
+
+                Plagiarism  - (i.e., submitting  the  work  of
+
+       others  as  ones  original work  or  failure  to  cite
+
+       sources of information used)
+
+
+
+               Tampering With Testing or Grades
+
+   
+
+   College  sanctions  for  violations  are  outlined  in  the
+
+   Student  Handbook.   Penalties in the course  for  academic
+
+   dishonesty  may range from a reprimand to failure  for  the
+
+   course.
+
+
+
+   It  is  your  responsibility  to  bring  knowledge  of  any
+
+   violations  of academic integrity to the attention  of  the
+
+   instructor.
+
+                OUTLINE OF LEARNING ACTIVITIES
+
+                               
+
+                                                      Text
+
+Week                                               Chapters
+
+
+
+   1    Introduction to Network                          1
+
+        Operating Systems
+
+            -    What is a Network
+
+            -    Understanding Network Configurations
+
+            -    Network Media and Hardware
+
+            -    Future of Networking
+
+
+
+2-3     Mac OS X                                         2
+
+        Introduction to Mac OS X
+
+        Installing Mac OS X
+
+        Customizing the Look
+
+        Managing Mac OS X through System
+
+        Preferences
+
+        Setting up the Mac for Multiple Users
+
+        Setting Up the Network
+
+        Beyond Aqua
+
+
+
+4-5     Microsoft Windows XP                             3
+
+        Introduction
+
+        Installation of Windows XP
+
+        The Boot Process
+
+        Configuring Windows XP
+
+        Disk Management
+
+        Setting Up and Managing Users
+
+        Troubleshooting the Operating System
+
+
+
+ 6      EXAM I
+
+
+
+7-8     Windows 2000 Professional                        4
+
+        Introduction
+
+        Differences between Windows 2000 and Previous Versions
+
+        Installation of Windows 2000
+
+        Management Tools
+
+        Using the Control Panel
+
+        Disk Management
+
+        Setting Up and Managing User Accounts
+
+        Assigning NTFS Permissions
+
+        Working with Shared Folders
+
+        Auditing
+
+
+
+9-10    Windows NT Workstation                           5
+
+        Features of Windows NT Workstation
+
+        Installing Windows NT Workstation
+
+        Configuring Windows NT Workstation
+
+        Disk Management
+
+        Managing Users and Groups
+
+        Windows NT Security
+
+
+
+11      EXAM II - Project I is due.
+
+
+
+12      Novell Netware                                   6
+
+        The Beginnings of Novell
+
+        Installation of NetWare
+
+        Novells Network Objects
+
+        Disk Management
+
+        Creating Users and Groups
+
+        The NetWare Security Model
+
+
+
+13-14   UNIX (using the Linux variation)
+
+        Introduction
+
+        Installing Linux
+
+        Managing Disks
+
+        Managing Users
+
+        Troubleshooting the Operating System
+
+
+
+15      EXAM III - Project II is due.

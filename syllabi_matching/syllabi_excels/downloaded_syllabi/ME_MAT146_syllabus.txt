@@ -1,0 +1,1015 @@
+            This syllabus is representative of the course content.
+
+           Requirements for individual course sections may vary.
+
+
+
+1
+
+
+
+                   Mercer County Community
+
+College                                              Liberal
+
+                        Arts Division
+
+                              
+
+                              
+
+                       Course Outline
+
+
+
+
+
+
+
+    MAT 146
+
+Precalculus                                    4
+
+Course Number                                   Course
+
+Title                              Credits
+
+
+
+
+
+             4
+
+
+
+                                       15 weeks
+
+Class or Lecture
+
+Hours
+
+                    Semester Length
+
+
+
+
+
+
+
+Required Materials
+
+
+
+Book:  Pre-calculus, a Graphing Approach
+
+            by Barnett, Ziegler, and Byleen
+
+            McGraw-Hill Publishers
+
+
+
+Calculator:   Graphing  calculator  required  (TI-83  or  86
+
+recommended,   no  calculator  with  algebraic  manipulation
+
+permitted).
+
+
+
+
+
+Catalog  Description:  A second course  in  the  mathematics
+
+sequence  leading  to  calculus  for  engineering,  computer
+
+science,  math,  and  science majors.   In  depth  study  of
+
+polynomial,      rational,     exponential,     logarithmic,
+
+trigonometric    and   inverse   trigonometric    functions,
+
+equations,  and  identities systems of equations  including
+
+matrices
+
+extensive use of graphing calculators.
+
+
+
+
+
+Latest Review:  Fall 2003
+
+
+
+Prerequisites:  MAT 141 with a minimum C grade or
+
+equivalent.  Credit will be given for only one of MAT 145 or
+
+MAT 146.  Co-requisites:  None
+
+
+
+
+
+Course Coordinator:  Edith Silver
+
+
+
+
+
+
+
+                              
+
+                              
+
+                      Course Objectives
+
+
+
+  1.   To develop the understanding that functions are
+
+     statements of how a change in one quantity brings about a
+
+     change in another quantity.
+
+2.   To develop the skill and understanding of reading and
+
+making graphs of functions.
+
+3.   To develop the understanding that technology has
+
+brought about changes in mathematics by the storing of data
+
+from which models of events in our daily life can be
+
+developed and from which predictions can be made.
+
+4.   To develop the understanding that, given certain
+
+conditions under which two or more quantities are related,
+
+optimum solutions to problems can be obtained graphically
+
+and algebraically.
+
+5.   To develop the understanding that mathematics plays an
+
+important role in various fields and the ability to transfer
+
+mathematical algorithims and techniques from problems in one
+
+field to that of another.
+
+6.   To develop the skill of analyzing problems and
+
+synthesizing information in another situation.
+
+7.   To develop the skill of making quantitative estimations
+
+that are appropriate for a given situation.
+
+8.   To develop the ability to work with others on projects
+
+and to contribute to the outcome of the project.
+
+9.   To develop the mathematical and logical skills
+
+necessary for a course in calculus.
+
+10.  To develop quantitative and logical skills for everyday
+
+living.
+
+  
+
+                              
+
+                              
+
+                              
+
+                   Course Outline MAT 146
+
+
+
+Unit I - Polynomial and Rational Functions (3.1 - 3.4)
+
+2.5 weeks
+
+
+
+            A.  You should be able to define, state, or
+
+identify
+
+
+
+          1.   relation
+
+2.   function
+
+3.   polynomial function and its degree
+
+4.   domain
+
+5.   range
+
+6.   graph of an equation
+
+7.   intercepts
+
+8.   symmetry
+
+9.   slope of a line
+
+10.  distance formula
+
+11.  midpoint formula
+
+12.  vertical line test
+
+13.  zeros, roots and solutions of a function
+
+14.  even function
+
+15.  odd function
+
+16.  basic types of functions - linear, constant, identity,
+
+square or quadratic, cubic, square root, reciprocal,
+
+greatest integer and absolute value functions
+
+17.  multiplicity m of zeros of a polynomial
+
+18.  imaginary zeros
+
+19.  upper and lower bounds on real zeros
+
+20.  rational function
+
+21.  discontinuity of a rational function
+
+22.  vertical asymptotes
+
+23.  horizontal asymptotes
+
+24.  slant/oblique asymptotes
+
+
+
+     B.   You should be able to
+
+
+
+          1.   state and apply the Remainder Theorem, Factor Theorem,
+
+            Fundamental Theorem of Algebra, Rational Zeros Theorem,
+
+            Imaginary Zeros Theorem, n Zeros Theorem, Upper and Lower
+
+            Bound Rules for Real Zeros.
+
+2.   perform algebraic long division and synthetic division
+
+of polynomials
+
+3.   evaluate a polynomial by using the remainder theorem
+
+and synthetic division
+
+4.   determine the left and right end behavior of a
+
+polynomial using the degree and leading coefficient
+
+          
+
+          
+
+          
+
+          5.   sketch the graph of a polynomial or rational function
+
+            and confirm the
+
+                                 sketch   by   choosing   an
+
+appropriate     viewing    window    on     the     graphing
+
+                               calculator
+
+          6.   find all real zeros of a polynomial or rational
+
+            function and confirm the
+
+                                zeros by using the root or
+
+zero function on the graphing calculator
+
+          7.   use the maximum and minimum functions on the graphing
+
+            calculator to find the local extrema of a given polynomial
+
+8.   describe the behavior of the graph of a polynomial at a
+
+zero with an   odd or even multiplicity
+
+9.   write an equation of a polynomial having given zeros
+
+and a given degree
+
+          10.  find, if possible, all the zeros and their multiplicity
+
+            of a polynomial function with real coefficients and write
+
+            the polynomial as  a product of linear and irreducible
+
+            quadratic factors over the real numbers using the Rational
+
+            Zeros Theorem and upper and lower bounds on the zeros
+
+          11.  approximate irrational zeros for a polynomial using the
+
+            bisection method for odd multiplicity zeros or a maximum or
+
+            minimum approximation for even multiplicity zeros to two
+
+            decimal places
+
+12.  find the vertical, horizontal, and/or slant/oblique
+
+asymptotes, if any, for a rational function
+
+13.  solve applications that result in equations which are
+
+polynomial or  rational functions
+
+          14.  pass a unit test
+
+
+
+
+
+Unit  II  -  Inverse Functions Exponential and  Logarithmic
+
+Functions (4.1 - 4.7)  3.5weeks
+
+
+
+             A.   You  should be able to define,  state,  or
+
+identify
+
+
+
+             1.   composite functions
+
+          2.   inverse function and its notation
+
+          3.   horizontal line test
+
+4.   increasing function
+
+5.   decreasing function
+
+6.   one to one function
+
+7.   implicit form of a function
+
+8.   explicit form of a function
+
+9.   exponential function with base b or e
+
+10.  logarithmic function
+
+11.  common logarithms
+
+12.  natural logarithms
+
+13.  change of base formula
+
+14.  properties of logarithms
+
+
+
+
+
+
+
+
+
+            B.  You should be able to
+
+
+
+          1.   find  the  equation for the sum,  difference,
+
+          product, or quotient of two
+
+                given functions and determine the domain  of
+
+          each
+
+          2.   find the composite of two given functions and determine
+
+            the domain of the composite
+
+3.   determine the values of operations on functions or the
+
+value of the composite function when given the graphs of two
+
+functions and given an x value
+
+          4.   find two functions, f and g, such that  for a given
+
+            function h
+
+          5    determine whether a given set of ordered pairs, given
+
+            graph, or given equation is a one to one function
+
+          6    find the inverse and its domain and range of a given
+
+            one to one function and verify that two functions f(x) and
+
+            g(x) are inverses of each other by showing f(g(x))  x and
+
+            g(f(x))  x
+
+          7.   graph a function and its inverse on the same axes and
+
+            graph the line of symmetry yx
+
+8.   graph a given exponential function or logarithmic
+
+function, indicate its domain and range, x or y intercept,
+
+describe it as increasing or decreasing and identify any
+
+asymptotes the graph has
+
+          9.   solve exponential equations in which it is possible to
+
+            convert to the same base and equate exponents, for
+
+            example:
+
+
+
+                                    25 x1      125  2x
+
+
+
+                                    (52) x1     (5 3) 2x
+
+
+
+                                    5 2x2       5 6x
+
+
+
+                                    2x2  6x
+
+
+
+                                    2  4x
+
+
+
+                                      x
+
+
+
+          10.  perform vertical and horizontal shifts, stretches and
+
+            compressions and reflections when given an exponential or
+
+            logarithmic function together with its graph
+
+11.  simplify and evaluate log expressions
+
+12.  write log expressions in simpler form using the
+
+properties of  logarithms
+
+13.  write a given expression as a single log using the
+
+properties of      logarithms
+
+          14.  solve log equations using the properties of  logs, for
+
+            example:
+
+
+
+                                    3 log b 2  0.5 log b 25
+
+- log b20  log b x
+
+
+
+                                    log b      log b x
+
+
+
+                                    log b 2  log b x
+
+
+
+                                    x  2
+
+
+
+          15.  use a calculator to evaluate expressions involving
+
+            common and natural logs
+
+16.  solve applications that result in exponential or log
+
+equations such as    radioactive decay, bacterial growth,
+
+compound interest, decibel        level, earthquake
+
+intensity, etc.
+
+17.  solve exponential equations by converting to log form
+
+18.  solve log equations by converting to exponential form
+
+19.  use the change of base formula to find the log of any
+
+number in any base > 0 using base 10 or base e
+
+20.  pass a unit test
+
+
+
+
+
+Unit  III  - Trigonometric Functions (5.2 - 5.9) (omit  5.1)
+
+4.5 weeks
+
+
+
+             A.   You  should by able to define,  state,  or
+
+identify
+
+
+
+          1.   the unit circle
+
+          2.   six circular functions sin x, cos x, tan x, csc x, sec
+
+            x, cot x
+
+3.   reciprocal trigonometric identities
+
+4.   quotient identities tan x  (sin x)/(cos x) and cot x 
+
+(cos x)/(sin x)
+
+5.   identities for negatives such as sin(-x)  - sin x etc.
+
+6.   Pythagorean identities
+
+          
+
+                      sin 2 x  cos 2 x  1
+
+          
+
+                                    1  tan 2 x  sec 2 x
+
+
+
+                                    1  cot 2 x  csc 2 x
+
+
+
+          7.   angles-straight, right, acute, obtuse, complementary,
+
+            and supplementary
+
+          8.   standard position of an angle
+
+9.   initial and terminal sides of an angle
+
+10.  coterminal angles
+
+11.  positive and negative angles
+
+12.  radian measure
+
+13.  degree measure including minutes and seconds
+
+          14.  quadrantal angles
+
+          15.  relationships between radian and degree measure
+
+
+
+                              
+
+                              
+
+          16.  six trigonometric functions  sin, cos, tan, csc,
+
+            sec,cot
+
+          17.  reference triangle and reference angle
+
+18.  six trigonometric functions using sides of a right
+
+triangle
+
+19.  periodic function
+
+20.  period of the six trigonometric graphs
+
+21.  amplitude of sine and cosine graphs
+
+22.  phase shift of a trigonometric graph
+
+23.  inverse trigonometric functions
+
+          24.  trigonometric functions of 00 or 0 radians, 300 or ,
+
+            450 or , 600 or ,  900 or
+
+
+
+            B.  You should be able to
+
+
+
+          1.   define  the  six  circular  or  trigonometric
+
+          functions  in terms of the unit        circle  in
+
+          terms of a, b, and r or in terms of the sides  of
+
+          a right       triangle
+
+          2.   determine the signs of the trigonometric functions in
+
+            any given quadrant
+
+3.   convert from radian measure to degree measure and vice-
+
+versa
+
+          4.   use the formula   to find the radian measure for a
+
+            central angle which subtends an arc s on a circle of radius
+
+            r
+
+          5.   convert from degrees, minutes, and seconds to
+
+          decimal degrees and          vice-versa
+
+          6.   find  a  positive  and a negative  coterminal
+
+     angle for a given angle in
+
+               degrees and radians
+
+                         7.   find  the values  of  the  six
+
+trigonometric     functions     for     an     angle      in
+
+                             standard  position that  has  a
+
+terminal    side    passing   through    a    given    point
+
+                              (a,b) or when given the  value
+
+of one of the trigonometric functions of
+
+                             the angle
+
+          8.   evaluate the six trigonometric functions for a given
+
+            angle in degrees or radians using a graphing calculator
+
+9.   find the reference angle for a given angle
+
+          10.  find the acute angle   when given a trigonometric
+
+            function value of  by using inverse trigonometric functions
+
+11.  solve for the missing sides and angles of a right
+
+triangle when given one other angle and a side or when given
+
+two sides
+
+          12.  sketch the graphs of equations of the form   y   A sin
+
+            (Bx  C)  k or  y  A cos (Bx   C)  k, and determine the
+
+            amplitude, period, phase shift and vertical shift, as well
+
+            as the intercepts, domain and range
+
+          13.  sketch the graphs of  y  A tan(BxC), y  A cot(BxC),
+
+            y A csc(BxC), y A sec(BxC) and determine
+
+            the period,    domain, range, and intercepts of
+
+            each, as well as the phase shift
+
+          14.  determine the restrictions needed to make   y  sin x,
+
+            y  cos x and
+
+            y    tan  x one to one functions so the inverse
+
+            trigonometric  functions  can  be  defined,  and
+
+            determine the domain and range for   y   sin  -
+
+            1 x,
+
+            y  cos -1 x, and y  tan -1 x
+
+          15.  evaluate given inverse trigonometric expressions
+
+16.  graph inverse trigonometric equations
+
+17.  solve applications that result in trigonometric or
+
+inverse trigonometric equations
+
+18.  pass a unit test
+
+
+
+
+
+      Unit IV  Trigonometric Identities and Conditional
+
+Equations  (6.1 - 6.3, 6.5) omit 6.4            2.5 weeks.
+
+
+
+             A.   You  should be able to define,  state,  or
+
+identify
+
+
+
+          1.   the basic trigonometric identities including the
+
+            reciprocal, quotient, negatives, and Pythagorean identities
+
+2.   the sum and difference identities
+
+
+
+            sin (x  y)  sin x cos y  cos x sin y
+
+            
+
+            cos (x  y)  cos x cos y sin x sin y
+
+            
+
+            tan (x  y ) 
+
+            
+
+          3.   the cofunction identities that is, cofunctions of
+
+            complementary angles  are equal
+
+            cos ()  sin x
+
+            sin ()  cos x
+
+            tan ()  cot x
+
+            
+
+            
+
+            
+
+          4.    the double- and half-angle identities
+
+            
+
+               sin 2x  2 sin x cos x
+
+            
+
+               cos 2x  cos 2 x- sin 2 x  2 cos 2 x -1  1-
+
+            2 sin 2 x
+
+               tan 2x 
+
+
+
+                      sin
+
+               cos
+
+               tan
+
+
+
+          5.   conditional trigonometric equations and distinguish
+
+            between trigonometric identities and conditional
+
+            trigonometric equations
+
+
+
+            B.  You should be able to
+
+
+
+        1.   verify trigonometric identities by using definitions or
+
+            previously    verified trigonometric identities such as the
+
+            reciprocal, quotient, Pythagorean, sum and difference,
+
+            cofunction, double- or half-angle identities
+
+2.   use appropriate identities to find exact values of
+
+trigonometric functions of given angles, for example:
+
+            
+
+            
+
+        3.   solve  conditional trigonometric  equations  by
+
+           using  identities to rewrite in terms of  one  or
+
+           two  trigonometric  functions and  factoring,  or
+
+           using   a   graphing  calculator  to   find   all
+
+           solutions for
+
+                         4.   solve applications that result
+
+in trigonometric equations
+
+                        5.  pass a unit test.
+
+
+
+
+
+
+
+
+
+
+
+Unit V - Matrices (8.1 - 8.3)      2 weeks
+
+
+
+             A.   You  should be able to define,  state,  or
+
+identify
+
+
+
+                        1.   system of 2 linear equations in
+
+2 variables
+
+          2.   solution of a system of equations
+
+3.   points of intersection and graphing method of solution
+
+4.   equivalent systems
+
+5.   consistent systems
+
+6.   inconsistent systems
+
+7.   independent systems
+
+8.   dependent systems
+
+9.   substitution method of solution
+
+10.  elimination by addition or subtraction method
+
+11.  matrix
+
+12.  order of a matrix   (m x n)
+
+13.  square matrix
+
+14.  column matrix
+
+15.  row matrix
+
+16.  entry of a matrix notation  (aij)
+
+17.  augmented matrix
+
+18.  coefficient matrix
+
+19.  row equivalent matrices
+
+20.  row operations
+
+21.  reduced form
+
+22.  reduced system
+
+23.  Gauss - Jordan elimination method
+
+24.  principal or main diagonal of a matrix
+
+
+
+B.  You should be able to
+
+
+
+                         1.    solve  a system of  2  linear
+
+equations     in    2    variables    by    graphing     and
+
+                                 finding   the   points   of
+
+intersection,   if   any.   If  a   special   case   results
+
+                               (same line or parallel lines)
+
+you      should     be     able     to     identify      the
+
+                                 system   as  dependent   or
+
+inconsistent, respectively
+
+          2.   solve a system by substitution which works best if at
+
+            least one equation has one of the variables with a
+
+            coefficient of   1
+
+          3.   solve a system by addition or subtraction to eliminate
+
+            one of the variables
+
+4.   determine the dimensions of a matrix, rows x columns
+
+5.   describe an entry in a matrix using aij notation
+
+6.   write the augmented matrix for a system and use it to
+
+solve the system
+
+7.   classify a system as consistent and independent,
+
+consistent and dependent, or inconsistent by looking at the
+
+augmented matrix  solution
+
+8.   perform indicated row operations on a given matrix
+
+9.   put a matrix into reduced form by using row operations
+
+10.  use back-substitution to solve linear systems in row-
+
+echelon form
+
+          11.  use the Gauss - Jordan elimination method on the
+
+            augmented matrix to solve a given linear system
+
+          12.  solve applications that result in linear systems of
+
+            equations.
+
+
+
+Evaluation and Grading
+
+
+
+The tests, projects and exams will vary somewhat to allow
+
+for individual creativity and professionalism of the
+
+instructor.  A typical plan is five unit tests and a
+
+comprehensive final exam.

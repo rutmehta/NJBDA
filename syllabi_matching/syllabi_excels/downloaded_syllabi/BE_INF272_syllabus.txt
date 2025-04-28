@@ -1,0 +1,150 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+INF272
+Network Security Using Group Policy
+New Course: Fall 2009
+
+Course Description:
+INF-272   Network Security Using Group Policy introduces the concept of securing an enterprise level network using domain level security policies. Students will learn to create and apply Group Policy Objects, create and apply security templates, write and apply logon scripts and modify and test network-wide security settings.
+2 lectures, 2 labs, 3 credits
+Prerequisite:
+INF-160 OR INF-170 OR permission of Department Chair
+
+Student Learning Objectives  -  Assessment Measures
+1.	Create a Group Policy Object	Written Exam - Lab Exam
+2.	Use the GPMC to manage GPO’s	Written Exam - Lab Exam
+3.	Apply Group Policy Objects to the enterprise network - Written Exam - Lab Exam
+4.	Use an existing security template and create new templates - Written Exam - Lab Exam
+5.	Create and use logon and startup scripts to manage security - Written Exam - Lab Exam
+
+College Competencies:	1.	Student Learning Objective:
+1.	Technological and Information Fluency	1 – 5
+2.	Critical Thinking	1, 5
+3.	Applied Knowledge	3
+
+Assessment:	
+An average of 60% from combined assessment measures is required to demonstrate proficiency in course material.	
+	
+5 exams	100%
+
+Quizzes:
+There may be several quizzes, each worth 10 points, given at the beginning pre-selected classes.  The quiz material will be based upon the prior lectures and labs, homework, and/or the reading assignments.  A quiz cannot be made up if missed.  A student entering class late, after a quiz has begun, will not be entitled to extra time to complete the quiz.  Students entering class after a quiz is completed will not be permitted to take the quiz and a zero grade will be assigned.
+
+Testing:
+Students are required to take examinations on the day and time they are scheduled.  If special circumstances require a test schedule adjustment, this must be worked out in advance with the instructor. If a student misses an exam (except for prearranged circumstances with the instructor) a zero grade will be assigned.
+
+The instructor can be reached by telephone (see course outline for appropriate phone number), e-mail, or a written note can be left in the Divisional Office (during the day) A-306C or in the Evening Office L-113.  If there are extreme circumstances (documentation may be required) that prevent a student from taking a test or an exam according to the published schedule, the student should use one of the above options to contact the instructor before the next class.  An arrangement for a special testing schedule is solely at the discretion of the instructor.  A student who waits for the next class session to speak with the instructor will not be accommodated with a special test schedule.
+
+It is the student’s responsibility to finish an examination correctly and completely.  Therefore, when computer Scantron forms are used as answer sheets, the student must use a Number 2 lead pencil and erase all stray marks completely.  The burden of proper erasure is at test taking time. Once the examinations are returned to the students, there will be no grade adjustments made due to inappropriate completion of the response form.
+
+The use of electronic devices during exams is prohibited.  Any student using an electronic device during an exam (unless directed to do so by the instructor) will receive a 0 for the exam.
+
+Projects, Assignments, Laboratory Work:
+Assignments are hands-on productions that show the instructor that the student understands concepts presented in class and in the readings and can competently use specified software to apply specific concepts.
+
+It is anticipated that students will spend at least 4 hours per week perfecting their skills and completing their assignments.  Some assignments are required for grading.  They must be submitted on the assignment due date, and cannot be handed in late.  Acceptance of late assignments is solely at the discretion of the instructor.
+
+Some assignments are instructional and need not be submitted. However lab assignments that are correct and complete and submitted on-time will help students prepare for graded assignments, quizzes, and exams.
+
+Homework:
+In addition to any homework assignment given during class, it is a standing assignment that the student read each chapter of the book prior to its discussion.  Following the class discussion, the student should reread the material and work with the exercises throughout the text.  It is anticipated that students will spend at least 4-hours per week reading the text and working with the exercises and supplemental resources.
+
+Policies:
+•	Lateness – The roll will be taken at the beginning of class.  If the student is not in attendance at that time, he/she will be carried in the roll book as being absent unless the instructor is notified immediately after class.  Attendance sheets cannot be adjusted at following class meetings.
+•	The student must adhere to all college polices.  Due to the nature of this course, it is recommended that the student review the policy titled “Acceptable Information Technology Use at Bergen Community College”.
+•	The use of portable electronic devices such as pagers and cell phones is not permitted while class is in session.  Please be sure to silence electronic devices before entering class.
+•	The use of audio CD or tape players, radios, and college computers to play music during class is prohibited.
+•	Students are expected to demonstrate listening, reading, note taking, and writing skills.  The student will need to take notes during class discussions and understand and follow verbal and written directions.  All assignments and correspondence with the instructor (including e-mail) must be well written in full sentence format.  Proper paragraph format must be used for all postings to the student bulletin board (if applicable).
+•	The subject line of all e-mail correspondence to the instructor must contain the course number and section and student’s name.  Any e-mail received without this information will not be opened.
+•	Plagiarism in any form will be treated as a failure to complete an assignment.  All work submitted should reflect individual effort by the student.
+•	In borderline cases that arise in almost every class each semester a student’s attendance, class participation, attitude, and observed effort will be considered in helping to determine the student’s final grade.
+
+If the instructor does not appear after 20 minutes following the scheduled time, students should generate an attendance list.  One volunteer member need deliver the list, containing the course title, date, and instructor’s name, to the Evening Office L-113 or to the Divisional Office (during the day) A-306C.
+
+Additional policy and assessment information may be distributed by individual instructors.
+
+Textbooks and Supplies: 
+Group Policy Fundamentals, Security and Troubleshooting by Moscowitz, Jeremy, Pub:  Sybex – Wiley, ISBN 978-0470-27589-4
+
+
+Week	Topic*	Assignments*
+1
+_________	Configure basic Active Directory using Domain Controller	
+2
+_________	Chap 1 Group Policy Essentials
+Local Group Policy, Active Directory based Group Policy
+Site, Domain, OU level policies
+Introducing and using GPMC	
+3
+_________	Chap 2 Managing Group Policy with GPMC
+GPMC links, block inheritance, enforce function
+Filtering Group Policy scope
+Advanced security and delegation with GPMC
+
+Exam 1	
+4
+_________	Chap 3 GPMC-2.0 Filtering and Starter GPO’s
+Using GPMC filters, applying filters.
+Creating and editing a starter GPO.	
+5
+_________	Chap 4  Group Policy Processing Essentials
+Policy application via remote links, slow links
+Group policy processing principles
+Windows group policy via RAS	
+6
+_________	Chap 5 Advanced Group Policy Processing
+Group policy targeting with WMI filters
+Group policy loopback processing
+Group policy with cross forest trusts
+
+Exam 2	
+7
+_________	Chap 6 Troubleshooting Group Policy
+Inside Group Policy Objects
+Creating a GPO
+How client systems use GPO’s
+Why isn’t a group policy applying?	
+8
+_________	Chap 7 ADM and ADMX Templates
+Policies vs. preferences
+Creating and editing GPO’s in a mixed environment
+GPMC management stations	
+9
+_________	Chap 8 Implementing Security with Group Policies
+Default GPO’s. Linking GPO at domain level
+Password policies
+Logon, logoff, startup, shutdown scripts
+Software restriction policy
+Securing workstation with templates
+
+Exam 3	
+10
+_________	Chap 9 Windows Vista and Server 2008 Security Enhancements
+Wireless and wired security policies
+Managing Internet Explorer with group policy
+Controlling User accounts with group policy
+Controlling Firewalls with group policy	
+11
+_________	Chap 10 Group Policy Preference Extensions
+Group Policy Preference Extensions architecture and Installation
+GP vs. GP Preference Extensions
+GPE tips and tricks
+
+Lab Exam	
+12
+_________	Chap 11 Scripting Group Policy Operations with Powershell
+Using Powershell to do more with Group Policy	
+13
+_________	Chap 12  Advanced Group Policy Management
+Installation of AGPM
+GPMC differentials
+AGPM delegation model
+Creating a GPO and controlling it
+Editing an offline copy of a GPO	
+14
+_________	Review	
+15
+_________	Final Exam	
+*Topics, quizzes, exams, and assignments may be modified due to time constraints
+

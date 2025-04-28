@@ -1,0 +1,390 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+                 Department Master Syllabus
+
+                    Camden County College
+
+                    Blackwood, New Jersey
+
+
+
+Course Title:                 Biostatistics
+
+
+
+Course Number:                MTH-134
+
+
+
+Department/Program Affiliation:    Mathematics
+
+
+
+Date of Review:                    4/8/08
+
+(This Department Master Syllabus has been examined by the
+
+program/department faculty members and it is decided that no
+
+revision is necessary at this time.)
+
+
+
+Date of Last Revision:             9/23/08
+
+(This Department Master Syllabus has been examined by the
+
+program/department faculty members and it is decided a
+
+change requiring a revision is necessary at this time.)
+
+
+
+N.B.    A change to the course materials alone (textbooks
+
+and/or supplementary materials) may not constitute a
+
+revision.  Any other change to the items listed below on
+
+this form is considered a revision and requires approval by
+
+the program faculty at a Program/Department Meeting and by
+
+the division at a Chairs and Coordinator Meeting.
+
+
+
+Credits:   4
+
+
+
+Contact Hours:   Lecture  3               Lab     3
+
+Other 
+
+
+
+Prerequisites:      MTH-140(Calculus I) , BIO-111(Biology I
+
+               Science) AND ENG-101(English Comp. I)
+
+
+
+Co-requisites:      None
+
+
+
+Course Description: This course emphasizes experimentation
+
+and application of statistical methods to the biological
+
+sciences. Topics include exploring, describing, and
+
+organizing data, discrete and continuous random variables
+
+and probability distributions, one and two sample estimation
+
+and hypothesis testing,  linear regression and correlation,
+
+contingency tables, analysis of variance, and non-parametric
+
+methods. A statistical software package will be used to
+
+manipulate data, carry out statistical analyses and formally
+
+present results. Biology majors will comprise most of the
+
+students registering for this course. Lab sessions are
+
+taught by a member of the Biology department.
+
+
+
+Course Student Learning Outcomes:
+
+
+
+Upon completion of this course, the student will be able to:
+
+
+
+1.   Interpret, and analyze appropriate numerical summaries
+
+     of sample data and estimates for populations.
+
+
+
+2.   Apply critical thinking skills to interpret appropriate
+
+     graphical summaries and representations of sample
+
+     data.4.   calculate values in a partially completed
+
+     life table and find probabilities of living to a
+
+     certain age from a life table. TYPO OR a copy-paste-
+
+     o
+
+3.        Calculate basic probabilities for complementary,
+
+     joint, mutually-exclusive, conditional, and independent
+
+     events, under general additive and multiplicative
+
+     rules.
+
+4.   Apply and evaluate probability in statistical context,
+
+     including level of confidence or significance, p-value
+
+     of a test, appropriate sample size for a given test or
+
+     confidence interval, important formulaic (e.g.
+
+     binomial) and tabled (e.g., normal, t, chi-square, F)
+
+     distributions, and nonparametric methods.
+
+5.   Distinguish between the distribution of a random
+
+     variable and the sampling distribution of an estimator
+
+     or statistic.
+
+6.   Apply knowledge of appropriate probability
+
+     distributions and statistical procedures to construct
+
+     confidence intervals and conduct tests of hypotheses,
+
+     consistent with experimental contexts.
+
+7.   Employ the concepts of variation, chance, randomness,
+
+     independence, randomization, and association in
+
+     statistical procedures.
+
+8.   Use and interpret inferential procedures (confidence
+
+     intervals and tests of hypotheses) including one-
+
+     sample, paired-sample, two-sample, and many-sample
+
+     (ANOVA) inferences, regression and correlation
+
+     analysis, contingency tables, and nonparametric
+
+     techniques.
+
+9.   Use computer software to describe, generate, summarize,
+
+     display, and analyze data (including the perspective of
+
+     EDA), and present results in a clear and professional
+
+     manner.
+
+10.       Accurately and appropriately apply mathematical
+
+     and statistical notation.
+
+
+
+Course Outline:
+
+
+
+Unit I: Introduction to Biostatistics
+
+Basic Concepts and Definitions
+
+Computers and Biostatistical Analysis
+
+  
+
+Unit II:  Descriptive Statistics
+
+Grouped Data-Frequency Distributions
+
+Statistical Graphics
+
+Measures of Central Tendency and Dispersion
+
+Exploratory Data Analysis
+
+  
+
+Unit III:  Probability
+
+Classical, Empirical, and Subjective
+
+Elementary Properties of Probability
+
+Calculating the Probability of an Event (Conditional
+
+probability, Addition  Multiplication Rules, and
+
+Independence)
+
+
+
+Unit IV: Probability Distributions
+
+Probability Distributions of Discrete Variables
+
+The Binomial Distribution
+
+Continuous Probability Distributions
+
+The Normal Distribution and its Applications
+
+
+
+Unit V: Sampling Distributions
+
+Sampling Distributions of the Sample Mean and Sample
+
+Proportion
+
+
+
+Unit VI: Estimation
+
+The  t Distribution
+
+Confidence Interval for a Population Mean
+
+Confidence Interval for the Difference Between Two
+
+Population Means
+
+Confidence Interval for a Population Proportion
+
+Confidence Interval for the Difference Between Two
+
+Population Proportions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit VII: Hypothesis Testing
+
+A Single Population Mean
+
+The Difference Between Two Population Means
+
+Paired t-tests
+
+The Difference Between Two Population Proportions
+
+
+
+Unit VIII: Analysis of Variance
+
+Single Factor ANOVA
+
+Two Factor ANOVA
+
+
+
+Unit IX: Correlation and Regression/ Regression Analysis
+
+The Regression Model
+
+The Simple Regression Equation
+
+Inference in Simple Linear Regression
+
+Correlation
+
+The Correlation Coefficient
+
+
+
+Unit X: The Chi-Square Distribution and the Analysis of
+
+Frequencies
+
+Tests of Goodness-of-Fit
+
+Tests of Independence
+
+Tests of Homogeneity
+
+
+
+Unit XI: Nonparametric and Distribution-Free Statistics
+
+The Sign Test
+
+The Mann-Whitney Test
+
+The Wilcoxon Signed-Rank Test
+
+The Kruskal-Wallis One-Way Analysis of Variance
+
+
+
+
+
+Course Activities: The classroom lecture and discussion will
+
+include statistical computer software.  All lab sessions
+
+will be biological in nature. Homework assignments, tests,
+
+or projects as determined by the instructor are to be
+
+completed using a statistical software package.
+
+
+
+Assessment of Student Learning Outcomes:
+
+The student will be evaluated on the degree to which student
+
+learning outcomes are achieved.  A variety of methods may be
+
+used such as tests, class participation, projects, homework
+
+assignments, etc.
+
+1.In-class tests.
+
+2.Lab reports.
+
+3.Quizzes when appropriate
+
+4.Graded homework assignments when appropriate
+
+5.Software based projects
+
+6.Comprehensive final examination.
+
+
+
+Course Materials:
+
+     Textbook(s):   Biostatistics: A Foundation for Analysis
+
+in the Health Sciences,
+
+               Daniel, Wayne W., Wiley Publishing, 8th ed.
+
+
+
+
+
+Supplemental Material

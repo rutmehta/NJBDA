@@ -1,0 +1,155 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Salem Community College MA 95 Course Syllabus
+
+
+
+MA 95 Intermediate Algebra: Course Code: 2:4:4, Prerequisite: MA 93 
+placement on college placement test or written 
+
+permission of instructor.
+
+
+
+Contact Karen Mattison (856) 351-2672, kmattisonsalemcc.edu
+
+
+
+Course Description: This course provides a smooth transition from basic 
+algebra skills developed in Elementary Algebra 
+
+to the more abstract skills and reasoning abilities necessary to be 
+successful in College Algebra.  Students will 
+
+investigate algebra both analytically and graphically.  Major topics include 
+an in-depth presentation of functions, linear 
+
+equations and inequalities, properties of lines, systems of equations, 
+exponents and polynomials, factoring, rational 
+
+expressions, radical expressions, and quadratic equations.  Methods of 
+instruction include lecture, group discussion, 
+
+and graphical analysis on both the graphing calculator and computer.  The 
+weekly labs focus on the topics of the week 
+
+and will consist of one of the following:  a challenging problem set that 
+the students work on collaboratively, a graphing 
+
+calculator investigation or a computer experiment where the students 
+investigate mathematics in an applied mode. 
+
+Placement in the College Curriculum:This course is designed to build 
+algebraic skills of students to enable them to be 
+
+successful in College Algebra.
+
+Course Performance Objective 1:  The students will analyze functions.
+
+Course Performance Objective 2:  The students will solve linear equations 
+and inequalities. 
+
+Course Performance Objective 3:  The student will find and analyze equations 
+of lines. 
+
+Course Performance Objective 4:  The student will manipulate polynomials.
+
+Course Performance Objective 5:  The student will completely factor 
+polynomials. 
+
+Course Performance Objective 6:  The student will simplify rational 
+expressions and solve rational equations. 
+
+Course Performance Objective 7:  The student will simplify radical 
+expressions and solve radical equations. 
+
+Course Performance Objective 8:  The student will solve quadratic equations.
+
+Course Performance Objective 9:  The student will solve systems of linear 
+equations. 
+
+Course Requirements and Means of Evaluation: The instructor will evaluate 
+the students in various ways. Exams, 
+
+quizzes, papers, oral presentations, and class participation may be used to 
+evaluate students. 
+
+General Education Requirements: The general education goals covered in 
+Intermediate Algebra are critical thinking and 
+
+problem solving, quantitative skills, and science and technology. See 
+Student Handbook for additional details. 
+
+General Outcome Assessment: A college-wide outcomes assessment program has 
+been put into place to enhance the 
+
+quality and effectiveness of the curriculum and programs at Salem Community 
+College. As part of this assessment 
+
+program, the learning outcomes for this course will be assessed. Assessment 
+methods may include tests, quizzes, 
+
+papers, reports, projects and other instruments. Copies of all outcomes 
+assessments are available in an electronic 
+
+assessment bank maintained by the Institutional Research and Planning 
+Office. 
+
+Course Activities: Content will be delivered by means of lecture, group 
+discussion, and laboratory exercises including 
+
+collaborative work as well as calculator and computer
+
+Required Text:  Wright, D. Franklin and Bill D. New, Intermediate Algebra, 
+4th ed., (2004) Hawkes Publishing. 
+
+ISBN 0-918091-80-2
+
+Material or Supplies:Texas Instruments Graphing Calculator TI-83.
+
+Course Content Outline:
+
+I.Functions:  A. Notation, B. Domain, C. Range
+
+II.Linear Equations and Inequalities: A. Solve linear equations, B. Solve 
+linear inequalities, C. Solve compound 
+
+inequalities, D. Solve absolute value equations, E. Solve absolute value 
+inequalities 
+
+III.Properties of Lines: A. Slope, B. Find equation satisfying given 
+conditions, C. Vertical and horizontal lines, D. 
+
+Parallel and perpendicular lines
+
+IV.Polynomials: A. Monomial arithmetic, B. Addition, C. Subtraction, D. 
+Multiplication, E. Long Division, F. 
+
+Synthetic division
+
+V.Factoring: A. Greatest common factor, B. Grouping, C. Difference of 
+squares, D. Trinomials, E. Sum and 
+
+difference cubes
+
+VI.Rational expressions: A. Reducing, B. Multiplication, C. Division, D. 
+Addition, E. Subtraction, F. Simplifying 
+
+complex fractions, G. Solving rational equations
+
+VII.Radical expressions:  A. Rational exponents, B. Simplifying, C. 
+Multiplication and division, D. Addition and 
+
+subtraction, E. Solving radical equations, F. Performing operations on 
+complex numbers 
+
+VIII.Quadratic equations: A. Solve quadratic equations by factoring, B. 
+Solve quadratic equations by completing the 
+
+square, C. Solve quadratic equations by quadratic formula, D. Solve 
+quadratic equations by graphing, E. Solve 
+
+quadratic equations in type, F. Solve nonlinear inequalities
+
+IX.Systems of equations: A. 2 x 2 linear systems, B. 3 x 3 linear systems

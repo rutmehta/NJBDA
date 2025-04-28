@@ -1,0 +1,392 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP171
+
+
+
+
+
+COURSE NAME
+
+Programming I
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES OR ACADEMIC STANDING
+
+COMP126 Computer Fundamentals
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+New
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+The student will be able to analyze a variety of problems, develop 
+algorithms to solve those problems and code solutions using JAVA.  The 
+fundamentals of software development, which includes logic, control 
+structures, arrays, methods, classes, documentation techniques, testing, and 
+debugging, are covered.  Assignments give students hands-on experience to 
+design, write, test, debug and edit their program code using an integrated 
+development environment 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+The 7 chapters (units) comprising the course is:
+
+I. Introduction to JAVA 
+
+The student will learn:
+
+a. The organization of a computer and how various hardware and software 
+components of a computer interact. 
+
+b. The concepts of problem solving, algorithm design, and program 
+development using input, processing, and output. 
+
+c. How the characteristics of JAVA has made JAVA a popular language.
+
+d. Simple output statements that use the console and dialog boxes.
+
+e. How to decipher compiler error messages.
+
+f. How to create, compile and run a JAVA program in the computer lab.  
+
+
+
+
+
+II. Data Types and Operations
+
+a. Use the 8 primitive JAVA datatypes
+
+b. Use datatypes and variables to store data.
+
+c. Use operators to write expressions.
+
+d. Obtain input from the console and dialog boxes.
+
+e. Distinguish syntax errors, runtime errors and logic errors.
+
+
+
+III.  Control Statements
+
+a. Incorporate decisions into the process of developing algorithms and 
+solving problems. 
+
+b. Differentiate between relational operators, logical operators, and 
+logical expressions. 
+
+c. Use the if statement for making one-sided and two-sided decisions.
+
+d. Use nested if statements and the switch statement for multiple 
+alternative decisions. 
+
+e. Incorporate looping into the process of developing algorithms and solving 
+problems. 
+
+f. Use while, do-while and for loop contructs to control the repetition of 
+statements. 
+
+g. Use nested loops for advanced repetition processing.
+
+
+
+IV.  Methods
+
+a. Understand the benefits of using methods in the process of developing 
+algorithms and solving problems. 
+
+b. Create, invoke and pass arguments to methods
+
+c. Learn the concept of method abstraction
+
+d. Identify the scope of an identifier and levels of function calls.
+
+e. Write recursive methods.
+
+
+
+V.  Arrays
+
+a. Incorporate arrays into the process of developing algorithms and solving 
+problems. 
+
+b. Initialize and access arrays.
+
+c. Copy the contents of one array to another.
+
+d. Sort an array using the selection sort algorithm.
+
+e. Declare and create multidimensional arrays.
+
+f. Create ragged arrays.
+
+
+
+
+
+VI.  Objects and Classes
+
+a. Use classes to model objects.
+
+b. Identify the relationship between classes and objects.
+
+c. Declare a class to create an object using constructors.
+
+d. Use UML to describe classes and objects.
+
+e. Design and create accessors and mutators (get and set) methods.
+
+f. Understand the difference between instance and static elements of a 
+class. 
+
+g. Store and process objects in arrays.
+
+
+
+VII.  Strings 
+
+a. Incorporate strings in the process of developing algorithms and solving 
+problems. 
+
+b. Use the String, Character and StringBuffer classes and determine when to 
+use which class. 
+
+c. Input primitive values and strings using the Scanner class.
+
+d. Pass strings to the main method.
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Text:Introduction to JAVA Programming, Sixth Edition, Y. Daniel Liang, 
+Pearson Prentice Hall 2006, ISBN:  0-13-222158-6 
+
+
+
+Storage: A portable secondary storage media (i.e., floppy disk, memory 
+stick, zip disk) 
+
+
+
+Software: Java available as a free download from http://java.sun.com
+
+
+
+
+
+
+
+GRADE DETERMINANTS
+
+GRADEREQUIREMENTS
+
+
+
+AComplete Lab Assignments 1-13
+
+Earn an average test grade of 90 thru 100 
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 85 thru 89
+
+
+
+BComplete Lab Assignments 1-12
+
+Earn an average test grade of 80 thru 84
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 75 thru 79
+
+
+
+CComplete Lab Assignments 1-10
+
+Earn an average test grade of 70 thru 74
+
+
+
+DComplete Lab Assignments 1-10
+
+       Earn an average test grade of 60 thru 69
+
+       
+
+A C grade is required to advance to the next course.
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-10. 
+
+
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+Students will be allowed to take each test only one time.  There are no 
+retests.  Only one-in class test may be missed. 
+
+
+
+
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+Unit 1
+
+Introduction to JAVA
+
+Unit Objective: To introduce the student to the computer, problem solving 
+techniques, and simple JAVA language programs. 
+
+Read chapter 1 in test, do review questions at end of chapter 1 and 
+participate in computer workshop.  Complete Programming Assignment 1-Chapter 
+1, page 26-1.1 
+
+
+
+Unit 2
+
+Data Types and Operations
+
+Unit Objective: To examine and use datatypes, variables and JAVA operators.
+
+Read Chapter 2 in text, do review questions at end of chapter 2.  Complete 
+Programming Assignment 2 and 3, Chapter 2, Page 63, 2.5 and page 65, 2.13 
+
+
+
+Unit 3
+
+Control Statements
+
+Unit Objective: To introduce the student to the various methods of decision 
+making and repetition in JAVA. 
+
+Read Chapters 3 and 4 and do review questions at the end of chapters 3 and 
+4.  Complete Programming Assignment 4 and 5, page 94, 3.11 and page 125, 
+4.21 or 4.27. 
+
+
+
+Unit 4
+
+Methods
+
+Unit Objective:  To develop the technique of writing modular JAVA programs 
+through the use of programmer-written functions. 
+
+Read Chapter 5 in test and do review questions at the end of Chapter 5.  
+Complete Programming Assignment 6 (page 163-5.7) and Program Assignment 7 
+(page 167-5.24). 
+
+
+
+Unit 5
+
+Arrays
+
+Unit Objective: To introduce the student to arrays in JAVA as important data 
+structures for storing and manipulating homogeneous data. 
+
+Read Chapter 6 in text and do review questions at end of Chapter 6.  
+Complete Programming Assignment 8 (page 205, 6.7) and Programming Assignment 
+9 (page 205, 6.8 or 6.9). 
+
+
+
+Unit 6
+
+Objects and Classes
+
+Unit Objective: To introduce the student to some of the principles of an 
+object-oriented programming approach. 
+
+Read Chapter 7 in text and do review questions at end of Chapter 7.  
+Complete Programming Assignment 10 (page 258, 7-10). 
+
+
+
+Unit 7
+
+Strings
+
+Unit Objective:  To introduce the student to the use of strings in JAVA for 
+storing and manipulating character data. 
+
+Read Chapter 8 and do review questions at the end of Chapter 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------7d814ec2504de--

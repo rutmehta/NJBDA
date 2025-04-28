@@ -1,0 +1,319 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+RARITAN VALLEY COMMUNITY COLLEGE 
+
+ACADEMIC COURSE OUTLINE 
+
+
+
+
+
+MATH 111 STATISTICS II 
+
+
+
+
+
+I. Basic Course Information 
+
+A. Course Number and Title: MATH 111 Statistics II 
+
+B. New or Modified Course: Modified 
+
+C. Date of Proposal: Spring 2008 
+
+D. Sponsoring Department: Mathematics 
+
+E. Semester Credit Hours: 3 
+
+F. Weekly Contact Hours: 3 Lecture: 3 
+
+Laboratory: 0 
+
+G. Prerequisites: MATH 110 Statistics I 
+
+H. Laboratory Fees: None 
+
+I. Department Chair: Siham Alfred, salfredraritanval.edu 
+
+II. Catalog Description 
+
+Prerequisite: MATH 110 Statistics I. This course is a continuation of 
+Statistics I. 
+
+Topics include description and analysis of bivariate data, regression and 
+
+correlation, inferences in regression, chi-square procedures, inferences in 
+two 
+
+means and proportions, simple experimental design, analysis of variance, and 
+
+optional non-parametric tests. 
+
+
+
+III. Statement of Course Need 
+
+This course serves as a continuation of Statistics I and offers those 
+students who 
+
+are interested in the subject more exposure to statistical inference. 
+
+
+
+IV. Place of Course in College Curriculum 
+
+A. This course serves is a free elective and as a mathematics elective for 
+all 
+
+programs. 
+
+B. This course serves as a General Education course in Mathematics. 
+
+OAA/je 1 
+
+
+
+4/2/2008 
+
+
+
+
+
+C. This course may serve as a math requirement for all A.A. programs and 
+some 
+
+A.S. programs. The programs that list this course as one of the math courses 
+
+to choose from are Business and Respiratory Care. 
+
+D. This course will transfer as a mathematics course in most liberal arts 
+
+programs. 
+
+V. Outline of Course Content 
+
+A. Statistical Inference 
+
+1. Nature and Design of Hypothesis Tests  classical and modern 
+
+2. Interpretation of Results 
+
+3. Type I and Type II Errors 
+
+4. Power analysis 
+
+5. p-values 
+
+B. Inferences About Two Population Means 
+
+1. Independent and dependent Samples 
+
+2. Tests for differences between Two Means 
+
+3. Tests for differences between Two Proportions 
+
+4. Tests for standard deviations 
+
+5. Chi-square procedures 
+
+C. Inferences About More Than Two Population Means 
+
+1. The F-Distribution 
+
+2. The Logic behind Analysis of Variance 
+
+3. One-Way ANOVA 
+
+4. Two-Way ANOVA 
+
+D. Descriptive Measures for Bivariate Data 
+
+1. Scatter plots 
+
+2. Linear Equations with One Independent Variable 
+
+3. The Regression Equation 
+
+4. The Correlation Coefficient 
+
+5. The Coefficient of Determination 
+
+E. Inferences for Regression and Correlation 
+
+1. Standard Error of the Estimate 
+
+2. Inferences for Regression and Correlation Coefficients 
+
+3. The model for Multiple Regression 
+
+F. Non-Parametric Tests (optional) 
+
+VI. Educational Goals and Learning Outcomes 
+
+A. General Education Goals 
+
+OAA/je 2 
+
+
+
+4/2/2008 
+
+
+
+
+
+Students will: 
+
+
+
+1. apply mathematical arguments to problems. (G. E. 1) 
+
+2. solve problems quantitatively and symbolically. (G. E. 7) 
+
+B. Learning Outcomes 
+
+Students will be able to: 
+
+
+
+1. Use methods of inferential statistics to interpret data for the 
+
+purposes of decision-making in hypothesis tests, including 
+
+independent and dependent means, proportions, ANOVA, and chi-
+
+square procedures. 
+
+2. Conduct an appropriate hypothesis test using both classical and 
+
+modern (p-value) procedures. 
+
+3. Use methods of descriptive statistics on bivariate data to assess the 
+
+relationship between two variables. 
+
+4. Use linear regression techniques for purposes of analysis and 
+
+prediction. 
+
+5. Conduct a simple statistical study (experimental or observational), 
+
+including the sampling design, interpretation of computer results 
+
+from collected data, and inference from these results to a 
+
+conclusion consistent with the design. 
+
+VII. Modes of Teaching and Learning 
+
+A. lecture/discussion 
+
+B. small-group work 
+
+C. computer-assisted instruction 
+
+D. guest speakers 
+
+E. laboratory 
+
+F. student oral presentations 
+
+G. student collaboration 
+
+H. independent study 
+
+I. homework 
+
+VIII. Papers, Examinations, and other Assessment Instruments 
+
+A. teacher written tests 
+
+B. computer/calculator lab projects 
+
+C. semester projects 
+
+D. final examination 
+
+E. in-class quizzes 
+
+IX. Grade Determinants 
+
+OAA/je 3 
+
+
+
+4/2/2008 
+
+
+
+
+
+A. tests 
+
+B. quizzes 
+
+C. homework 
+
+D. projects 
+
+E. labs 
+
+F. cumulative final exam 
+
+X. Texts and Materials 
+
+A. Suggested textbook: Introductory Statistics, Alternate Windows Version, 
+
+(latest edition). Neil A. Weiss. Pearson Addison-Wesley. 
+
+B. Supplementary textbook (optional): Interpreting Basic Statistics, 3rd ed. 
+
+Zealure C. Holcomb. Pyrczak Publishing, 2002. 
+
+B. Computer-based sources: The instructor is free to choose the type of 
+
+technology. Choices include but are not limited to: 
+
+1. MINITAB 
+
+2. TI-84 graphing calculator 
+
+3. EXCEL 
+
+4. SAS 
+
+Please Note: The course outline is intended only as a guide to course 
+content and 
+
+resources. Do not purchase textbooks based on this outline. The RVCC 
+Bookstore 
+
+is the sole resource for the most up-to-date information about textbooks. 
+
+
+
+XI. Resources 
+
+Because of the technology used in the course, classes should be held in a 
+CATT 
+
+room where the instructor can access both MINITAB and the web. MINITAB 
+
+software needs to be available in S020, the open lab, and any other computer 
+lab 
+
+where students may be working. 
+
+
+
+OAA/je 4 
+
+
+
+4/2/2008 
+
+
+
+

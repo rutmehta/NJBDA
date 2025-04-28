@@ -1,0 +1,145 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+Course:  CS 170  PC Services and Support
+
+ 
+
+Credits: 6
+
+
+
+Prerequisites 
+
+      RD 100
+
+      
+
+Description 
+
+      Provides students with the technical training and diagnostic skills 
+required to support high technology in a multi-faceted environment including 
+operating system essentials, trouble shooting, hardware installation and 
+configuration, printer diagnostics and troubleshooting, and an overview of 
+local area networks. During hands-on lab instruction, students are teamed in 
+small work groups to take apart and rebuild a PC. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand the fundamentals of supporting and troubleshooting computer 
+hardware and software. 
+
+
+
+Topical Outline
+
+Outline 1
+
+ Introducing and Comparing Operating Systems
+
+ How an OS Works with Hardware and Other Software
+
+ Understanding the Boot Process and Command Line
+
+ Supporting Windows 9x/Me
+
+ Understanding and Installing Windows 2000 and Windows NT
+
+ Managing and Troubleshooting Windows 2000
+
+ Installing and Using Windows XP Professional
+
+ Managing and Supporting Windows XP
+
+ Managing Memory
+
+ Supporting Hard Drives
+
+ Windows on a Network
+
+ Windows on the Internet
+
+ Printers, the Mac OS, and Linux
+
+Outline 2
+
+ How Computers Work
+
+ How Hardware and Software Work Together
+
+ Electricity and Power Supplies
+
+ The Motherboard
+
+ Managing Memory
+
+ Floppy Drives
+
+ Understanding and Installing Hard Drives
+
+ Supporting I/O Devices
+
+ Multimedia Devices and Mass Storage
+
+ Supporting Modems
+
+ PCs on a Network
+
+ Notebook, Tablet PCs and PDAs
+
+ Supporting Printers
+
+ All About SCSI
+
+ Purchasing a PC or Building Your Own
+
+ Troubleshooting and Maintenance Fundamentals
+
+
+
+Texts
+
+      A Guide to Software: Managing, Maintaining and Troubleshooting by 
+Andrews, 4th edition: Thomson Course Technology. 
+
+      A Guide to Hardware: Maintaining  Troubleshooting by Andrews, 4th 
+edition: Thomson Course Technology. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

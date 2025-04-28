@@ -1,0 +1,149 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+Course Number
+MAT 032Course Title
+Beginning Algebra acceleratedCredits
+2Hours: lecture/Lab/Other 
+2 lecture
+Co- or Pre-requisite
+Accuplacer score 61 - 75Implementation sem/year
+Fall 2009Catalog description (2006-2009 Catalog): Foundation mathematics course designed for students with experience in algebra but who need to minimally strengthen their mastery of the fundamentals.  Topics include exponents, polynomials, factoring, linear and quadratic equations, rational and radical expressions, and graphing linear equations.   [Foundation course does not fulfill mathematics elective requirement.]
+
+Is course New, Revised, or Modified? NewRequired texts/other materials:
+
+Textbook: Blitzer, Robert. Introductory Algebra. 5th Edition. Pearson Publishing, 2008. ISBN-10: 0-13-235679-1 
+Or 
+MyMathLab available in bookstore or at www.mymathlab.com.  An access code is required from an instructor and will be provided first day of class.
+Scientific calculator 
+Notebook
+Revision date:
+Spring 2009  Course coordinator:   
+Betty Peterson, 609-570-3421, petersob@mccc.edu
+
+Information resources:
+The library has an extensive collection of books that students may use for reinforcement of the skills being taught in this course. Supplemental materials are available from the publisher which includes student’s solution manual, a DVD series and MyMathLab.  MyMathLab is an online learning resource which includes an interactive textbook with guided solutions and a series of video lectures.Other learning resources:  
+Tutors available at both campuses. 
+
+
+Course Competencies/Goals:  
+As this is a foundation level mathematics course, the course should first and foremost prepare the students for future college level work in mathematics.  The students should develop confidence in their abilities to perform mathematics successfully.  They should gain experiences that connect their classroom learning with real-world applications of mathematics and be able to build techniques of reasoning for effective problem solving that they can translate to other settings.
+
+The student will be able to:
+I. Develop a strategy for solving linear equations and inequalities.
+II. Generate graphs of linear equations with two unknowns to provide visual solutions for both single equations as well as systems of equations.
+III. Synthesize the rules of exponents and polynomial operations to simplify algebraic expressions to a standard form.
+IV. Distinguish polynomials in order to apply correct techniques of factoring.
+V. Adapt the techniques of factoring polynomials to solve quadratic equations.
+VI. Apply the arithmetic operations of addition, subtraction, multiplication and division to both rational expressions and radical expressions.
+
+
+Course-specific General Education Knowledge Goals and Core Skills. 
+
+General Education Knowledge Goals
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+
+MCCC Core Skills
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information.
+Goal F. Collaboration and Cooperation. Students will develop the interpersonal skills required for effective performance in group situations.
+
+
+
+Units of study in detail. 
+
+Unit I	Equations and Inequalities 
+Learning Objectives 
+The student will be able to…
+* Use the properties of equality to solve equations. (Course Competency I)
+* Solve a literal equation for one of the unknowns. (Course Competency I, MCCC Core Skills B)
+* Translating written English phrases into algebraic expressions. (Course Competency I, MCCC Core Skills B)
+* Solve application problems involving equalities. (Course Competency I, MCCC Core Skills B and F)
+* Solve linear inequalities and express the solution graphically and as an interval. (Course Competency I)
+* Graph linear compound inequalities. (Course Competency I)
+* Solve application problems involving inequalities. (Course Competency I, MCCC Core Skills B and F)
+
+
+Unit II 	Graphs of Linear Equations and Systems 
+Learning Objectives 
+The student will be able to…
+* Find ordered pairs that are solutions to linear equations and determine if they are correct. (Course Competency II)
+* Understand slope as being a rate of change. (Course Competency II and MCCC Core Skills B)
+* Graph linear equations of the form  and  by using a table of values. (Course Competency II) 
+* Graph a line that passes through a given point and has a given slope.  (Course Competency II)
+* Determine whether two given lines are parallel or perpendicular.  (Course Competency II)
+* Determine the x and y intercept of linear equations. (Course Competency II and MCCC Core Skills B)
+* Solve application problems involving linear equations. (Course Competency II and MCCC Core Skills F)
+* Solve a system of two linear equations with two unknowns by graphing.  (Course Competency II and MCCC Core Skills B) 
+
+
+
+Unit III	Exponents and Polynomials
+Learning Objectives 
+The student will be able to…
+* Classify and evaluate polynomials. (Course Competency III and MCCC Core Skills B)
+* Apply the mathematical operations of addition and subtraction to polynomials.  (Course Competency III)
+* Apply the rules of exponents to simplify expressions, multiply polynomials and divide polynomials. (Course Competency III and MCCC Core Skills B)
+* Apply rules for integer exponents to scientific notation. (Course Competency III and MCCC Core Skills B)
+* Solve application problems involving polynomials and scientific notation.  (Course Competency III and MCCC Core Skills B, F)
+
+
+
+Unit IV 	Factoring and Quadratic Equations
+Learning Objectives 
+The student will be able to…
+* Identify the greatest common factor and use it to factor a polynomial.  (Course Competency IV and MCCC Core Skills B)
+* Factor by grouping.  (Course Competency IV)
+* Factor quadratic expressions,  when and when. (Course Competency IV and MCCC Core Skills B)
+* Factor trinomials of higher order by removing a GCF first then factoring the remaining quadratic factor. (Course Competency IV and MCCC Core Skills B)
+* Factoring special products such as difference of two squares and perfect square trinomials.  (Course Competency IV)
+* Solve quadratic equations by factoring. (Course Competency V and MCCC Core Skills B)
+
+
+Unit V		Rational Expressions and Radicals
+Learning Objectives 
+The student will be able to…
+* Simplify rational expressions. (Course Competency VI and MCCC Core Skills B)
+* Perform arithmetic operations with rational expressions.  (Course Competency VI)
+* Solve rational equations. (Course Competency VI and MCCC Core Skills B)
+* Simplify radicals with algebraic expressions. (Course Competency VI)
+* Perform arithmetic operations with radicals. (Course Competency VI)
+* Solve application problems involving rational expressions or radicals.  (Course Competency VI and MCCC Core Skills B)
+	
+As this is a mathematics course, by nature all the learning objectives support the General Education Goal 2.  However, this is a foundations level course and as such it is not expected that the students would use this course as a general education course.
+
+Evaluation of student learning:   
+
+Grade will be based on the following percentages:
+
+Midterm:  50%                            Final:  50%
+
+
+The midterm will be comprised of all multiple choice questions.  It will cover the material for the first three units.
+
+The final is comprehensive and passing the final is required to pass the class.  
+
+Academic Integrity Statement:  
+
+Mercer County Community College is committed to academic integrity – the honest, fair and continuing pursuit of knowledge, free from fraud or deception.
+* Students should never:
+o Knowingly represent the work of others as their own
+o Knowingly represent previously completed academic work as current
+o Fabricate data to support academic work
+o Use or obtain unauthorized assistance in the execution of any academic work
+o Give fraudulent assistance to other students
+o Unethically use technological means to gain academic advantages
+
+Violators of the above actions will be penalized.  For a single violation the faculty member will determine the course of action.  This may include, assigning a lower grade on the assignment, lowering the course grade, failing the student, or another penalty that is appropriate to the violation.  The student will be reported to the Academic Integrity Committee, who may impose other penalties for a second (or later) violation.  The student has right to a hearing and also to appeal any decisions.  These rights are outlined in the student handbook.
+            LIBERAL ARTS DIVISION                               HY 101 - page    
+
+			
+
+
+		
+
+MCCC Course Outline; Approved by the Curriculum Committee 12/6/07
+
+
+-----------------------------7d93433150d03d0--

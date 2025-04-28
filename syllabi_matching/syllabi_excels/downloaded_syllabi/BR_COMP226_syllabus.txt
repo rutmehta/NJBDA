@@ -1,0 +1,837 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+
+COURSE ID 
+
+COMP226
+
+
+
+COURSE NAME
+
+Systems Analysis and Design
+
+
+
+
+
+NUMBER OF CREDITS AWARDED FOR COURSE
+
+3 credits
+
+
+
+
+
+PREREQUISITE OR CO-REQUISITE COURSES 
+
+COMP126  Computer Fundamentals
+
+
+
+
+
+INDICATE IF NEW OR MODIFIED COURSE
+
+REVISED- Title Change and Credit Change  
+
+OLD TITLE: System Design and MIS
+
+4 credits to 3 credits
+
+This course originally required an additional scheduled lab, which is no 
+longer part of the course 
+
+
+
+
+
+NAME AND TELEPHONE NUMBER OR E-MAIL ADDRESS OF DEPARTMENT CHAIR
+
+Thomas Setaro, Department Chair
+
+tsetarobrookdalecc.edu
+
+732-224-2403
+
+
+
+
+
+DETAILED COURSE DESCRIPTION
+
+Students will acquire working knowledge of the principles, methods and 
+procedures required to develop a computerized information system. They will 
+be able to identify, describe and perform the various tasks associated with 
+a computer system development, particularly in systems planning, management, 
+analysis and design, implementation and support. 
+
+
+
+
+
+OUTLINE OF COURSE OBJECTIVES
+
+Unit 1: The World of the Information System Analyst
+
+Unit Objective: The student will be introduced to 
+
+Estimated Time to Achieve: 1 Week
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the key role of a systems analyst in business.  
+
+2. Describe the various types of systems an analyst might work on.  
+
+3. Explain the importance of technical, people, and business skills for an 
+analyst. 
+
+4. Explain why ethical behavior is crucial for a systems analysts career.  
+
+5. Describe the many types of technology an analyst needs to understand.  
+
+6. Describe various job titles in the field and places of employment where 
+analysis and design work is done. 
+
+7. Discuss the analysts role in strategic planning for an organization.  
+
+8. Describe the analysts role in a system development project.
+
+Recommended Learning Experiences:
+
+Attend class meetings and Read Chapter 1 
+
+
+
+     
+
+
+
+Unit 2: Approaches to System Development
+
+Unit Objective: The student will
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the purpose and various phases of the traditional systems 
+development life cycle (SDLC). 
+
+2. Explain when to use an adaptive approach to the SDLC in place of the more 
+predictive traditional SDLC. 
+
+3. Explain the differences between a model, a tool, a technique, and a 
+methodology. 
+
+4. Describe the two overall approaches used to develop information systems: 
+the traditional approach and the object-oriented approach. 
+
+5. Describe some of the variations of the systems development life cycle 
+(SDLC). 
+
+6. Describe the key features of current trends in system development: the 
+Unified Process (UP), Extreme Programming (XP), Agile Modeling, and 
+
+Scrum.
+
+7. Explain how automated tools are used in system development.
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read textbook Chapter 2 
+
+
+
+
+
+Unit 3: The Analyst as a Project Manager
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the elements of project management and the responsibilities of a 
+project manager. 
+
+2. Explain project initiation and the activities in the project planning 
+phase of the SDLC. 
+
+3. Describe how the scope of the new system is determined
+
+4. Develop a project schedule using PERT and Gantt charts
+
+5. Develop a cost/benefit analysis and assess the feasibility of a proposed 
+project 
+
+6. Discuss how to staff and launch a project
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 3 
+
+
+
+Unit 4: Beginning the Analysis: Investigating System Requirements
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Describe the activities of the systems analysis life cycle phase
+
+2. Explain the effect of business process reengineering on activities of the 
+analysis phase 
+
+3. Describe the difference between functional and nonfunctional system 
+requirements 
+
+4. Identify and understand the different types of users who will be involved 
+investigating system requirements 
+
+5. Describe the kind of information that is required to develop system 
+requirement 
+
+6. Determine system requirements through review of documentation, 
+interviews, observation, prototypes, questionnaires, joint application 
+design sessions, and vendor research 
+
+7. Discuss the need for validation of system requirements to ensure accuracy 
+and completeness and the use of a structured walk through. 
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 4 
+
+
+
+Unit 5: Modeling System Requirements
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the many reasons for creating information system models
+
+2. Describe three types of models and list some specific models used for 
+Analysis and design 
+
+3. Explain how events can be used to identify activities and use cases
+
+4. Identify and analyze events to which a system responds
+
+5. Explain how the concept of things in the problem domain also defines 
+requirements 
+
+6. Explain the similarities and the differences between data entities and 
+objects 
+
+7. Identify and analyze data entities and domain classes needed in the 
+system 
+
+8. Read, interpret, and create an entity-relationship diagram
+
+9. Read, interpret, and create a class diagram
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 5
+
+
+
+
+
+Unit 6: The Traditional Approach to Requirements
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain how the traditional approach and the object-oriented approach 
+differ when modeling the details of a use case 
+
+2. List the components of a traditional system and the symbols representing 
+them on a data flow diagram 
+
+3. Describe how data flow diagrams can show the system at various levels of 
+abstraction 
+
+4. Develop data flow diagrams, data element definitions, data store 
+definitions, and process descriptions.  Read and interpret Information 
+Engineering models that can be incorporated within traditional structured 
+analysis 
+
+6. Develop tables to show the distribution of processing and data access 
+across system locations. 
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 6 
+
+
+
+
+
+
+
+Unit 7: Object-Oriented Approach to Requirements
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Develop use case diagrams
+
+2. Write use case and scenario descriptions
+
+3. Develop activity diagrams and system sequence diagrams
+
+4. Develop state machine diagrams to model object behavior
+
+5. Explain how UML diagrams work together to define functional requirements 
+for the object-oriented approach 
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 7 
+
+Unit 8: Evaluating Alternatives for Requirements, Environment  
+Implementation 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Prioritize the system requirements based on the desired scope and level 
+of automation for the new system 
+
+2. Describe the strategic decisions that integrate the application 
+deployment 
+
+environment and the design approach for the new system
+
+3. Determine alternative approaches for system implementation
+
+4. Evaluate and select an implementation approach based on the needs and 
+resources of the organization 
+
+5. Describe key elements of a request for proposal (RFP) and evaluate 
+vendors proposals for outsourced alternatives 
+
+6. Develop a professional presentation of findings to management
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapters 8 
+
+
+
+
+
+Unit 9: Moving to Design
+
+Unit Objective: The student will 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Discuss the issues related to managing and coordinating the design phase 
+of the SDLC 
+
+2. Explain the major components and levels of design
+
+3. Describe each design phase activity
+
+4. Describe common deployment environments and matching application 
+
+architectures
+
+5. Develop a simple network diagram and estimate communication capacity
+
+requirements
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 9
+
+
+
+
+
+
+
+
+
+Unit 10: Traditional Approach to Design
+
+Unit Objective: The student will 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Describe the steps involved in the traditional approach to designing the 
+
+application architecture
+
+2. Develop a system flowchart
+
+3. Develop a structure chart using transaction analysis and transform 
+analysis 
+
+4. Write pseudocode for structured modules
+
+5. Explain how to use three-layer design with the traditional approach
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 10 
+
+
+
+Unit 11: The Object-Oriented Approach 
+
+to Design: Use Case Realization
+
+Method of Evaluation: 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the purpose and objectives of object-oriented design
+
+2. Develop design class diagrams
+
+3. Develop interaction diagrams based on the principles of object 
+responsibility 
+
+and use case controllers
+
+4. Develop detailed sequence diagrams as the core process in systems design
+
+5. Develop communication diagrams as part of systems design
+
+6. Document the architectural design using package diagrams
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 11 
+
+
+
+Unit 12: Designing Databases
+
+Method of Evaluation: 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Describe the differences and similarities between relational and object-
+
+oriented database management systems
+
+
+
+2. Design a relational database schema based on an entity-relationship 
+
+diagram
+
+3. Design an object database schema based on a class diagram
+
+4. Design a relational schema to implement a hybrid object-relational 
+database 
+
+5. Describe the different architectural models for distributed databases
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 12 
+
+
+
+
+
+
+
+
+
+
+
+Unit 13: Designing the User Interface
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Describe the difference between user interfaces and system interfaces
+
+2. Explain why the user interface is the system to the users
+
+3. Discuss the importance of the three principles of user-centered design
+
+4. Describe the historical development of the field of human-computer 
+
+interaction (HCI)
+
+Describe the three metaphors of human-computer interaction
+
+5. Discuss how visibility and affordance affect usability
+
+6. Apply the eight golden rules of dialog design when designing the user 
+
+interface
+
+7. Define the overall system structure as a menu hierarchy
+
+8. Write user-computer interaction scenarios as dialogs
+
+9. Create storyboards to show the sequence of forms used in a dialog
+
+10. Use UML class diagrams and sequence diagrams to document dialog 
+
+designs
+
+11. Design windows forms and browser forms that are used to implement a 
+
+dialog
+
+12. List the key principles used in Web design
+
+Recommended Learning Experiences:
+
+1    Attend class meetings
+
+2    Read Chapter 13 
+
+
+
+
+
+
+
+Unit 14: Designing System Interfaces, Controls and Security
+
+Method of Evaluation: 
+
+Estimated Time to Achieve: 1 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Discuss examples of system interfaces found in information systems
+
+2. Define system inputs and outputs based on the requirements of the 
+
+application program
+
+3. Design printed and on-screen reports appropriate for recipients
+
+4. Explain the importance of integrity controls
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 14 
+
+
+
+
+
+
+
+Unit 15: Making the System Operational
+
+Method of Evaluation: 
+
+Estimated Time to Achieve: 1/2 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Describe implementation and support activities
+
+2. Choose an appropriate approach to program development
+
+3. Describe various types of software tests and explain how and why each is
+
+used
+
+4. List various approaches to data conversion and system installation and
+
+describe the advantages and disadvantages of each
+
+5. Describe different types of documentation and the processes by which
+
+they are developed and maintained 
+
+6. Describe training and user support requirements for new and operational
+
+systems
+
+
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 15 
+
+
+
+
+
+
+
+Unit 16: Current Trends in System Development
+
+Method of Evaluation: 
+
+Estimated Time to Achieve: 1/2 Week
+
+
+
+Learning Objectives:
+
+The student should be able to:
+
+1. Explain the foundations for the adaptive methodologies to development
+
+2. List and describe the features of the Unified Process system development 
+
+methodology
+
+3. List and describe the features of Agile Modeling
+
+4. Compare and contrast the features of Extreme Programming and Scum
+
+development
+
+5.Explain the importance of Model-Driven Architecture on enterprise-level
+
+development
+
+6. Describe frameworks and components, the process by which they are 
+
+developed, and their impact on system development
+
+Recommended Learning Experiences:
+
+Attend class meetings
+
+Read Chapter 16 
+
+
+
+
+
+
+
+
+
+
+
+TEXTS, JOURNALS, AND OTHER MATERIALS USED IN COURSE
+
+Systems Analysis and Design in a Changing World, by Satzinger, Jackson and 
+Burd, Thomson Course Technology, ISBN 1-4188-3614-1 
+
+
+
+
+
+GRADE DETERMINANTS
+
+The levels of achievement in this course are based upon grades received on 3 
+exams, as well as the acceptable completion of lab assignments. To be 
+considered acceptable, a lab must be free of all errors and must meet all of 
+the requirements outlined by the case problem.  Labs can be resubmitted up 
+to 2 weeks after being assigned. All labs must be completed and correct by 
+the last day of the class.  The final grade requirements for the course will 
+be: 
+
+
+
+ASuccessfully Complete Lab Assignments 1-5 and Earn an average test grade of 
+90 or above 
+
+
+
+BSuccessfully Complete Lab Assignments 1-5 and Earn an average test grade of 
+85 or above 
+
+  
+
+BSuccessfully Complete Lab Assignments 1-5 and Earn an average test grade of 
+80 to 84 
+
+
+
+CSuccessfully Complete Lab Assignments 1-3 and Earn an average test grade of 
+75 or above 
+
+ 
+
+CSuccessfully Complete Lab Assignments 1-3 and Earn an average test grade of 
+70 to 74 
+
+
+
+DSuccessfully Complete Lab Assignments 1-3 and Earn an average test grade of 
+60 thru 69 
+
+
+
+FEarn an average test grade below 60 or fail to successfully complete labs 
+1-3. 
+
+
+
+
+
+NUMBER OF PAPERS AND EXAMINATIONS
+
+SCHEDULE OF TOPICS TO BE COVERED
+
+
+
+There will be three tests.  
+
+Unit
+Title
+1
+The World of the Information System Analyst
+2
+Approaches to System Development
+3
+The Analyst as a Project Manager
+
+Test 1
+4
+Beginning the Analysis: Investigating System Requirements 
+5
+Modeling System Requirements
+6
+The Traditional Approach to Requirements
+7
+Object-Oriented Approach to Requirements
+8
+Evaluating Alternatives for Requirements, Environment  Implementation
+
+Test 2
+9
+Moving to Design
+10
+Traditional Approach to Design
+11
+The Object-Oriented Approach to Design: Use Case Realization
+12
+Designing Databases
+13
+Designing the User Interface
+14
+Designing System Interfaces, Controls and Security
+15
+Making the System Operational
+16
+Current Trends in System Development
+
+Test 3

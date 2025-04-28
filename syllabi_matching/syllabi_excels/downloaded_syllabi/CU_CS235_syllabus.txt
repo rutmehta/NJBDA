@@ -1,0 +1,66 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+CUMBERLAND COUNTY COLLEGE 
+ 
+Course: CS 235 Connecting Networks 
+ 
+Credits: 4 
+ 
+Prerequisites: CS 234  
+ 
+Description:  
+ 
+This course examines the WAN technologies and network services required by converged applications in enterprise networks. The course uses the Cisco Network Architecture to introduce integrated network services and explains how to select the appropriate devices and technologies to meet network requirements. Students learn how to implement and configure common data link protocols and how to apply WAN security concepts, principles of traffic, access control, and addressing services. Finally, students learn how to detect, troubleshoot, and correct common enterprise network implementation issues. 
+ 
+Learning Outcomes 
+ 
+At the completion of this course, students will be able to: 
+ 
+• Demonstrate understanding of  and describe different WAN technologies and their benefits 
+• Demonstrate understanding of  and describe the operations and benefits of virtual private networks (VPNs) and tunneling 
+• Configure and troubleshoot serial connections 
+• Configure and troubleshoot broadband connections 
+• Configure and troubleshoot tunneling operations 
+• Configure and troubleshoot Network Address Translation (NAT) operations 
+• Monitor and troubleshoot network operations using syslog, SNMP, and NetFlow 
+• Describe network architectures such as  Borderless networks, Data centers and virtualization,  Collaboration technology and solutions 
+ 
+Topical Outline 
+ 
+• Hierarchical Network Design 
+• Connecting to the WAN 
+• Point-to-Point Connections 
+• Frame Relay 
+• Network Address Translation for IPv4 
+• Broadband Solutions 
+• Securing Site-to-Site Connectivity 
+• Monitoring the Network 
+• Troubleshooting the Network 
+ 
+Text:  
+ 
+REQUIRED MATERIALS – Packet Tracer v5.3, available for download from the Cisco Netacad site. – Accessing the WAN, CCNA Exploration Labs and Study Guide – Cisco Press – ISBN – 1-58713-201-X – All other instruction and testing is delivered over the Internet from the Cisco web site – access information – cisco.netacad.net 
+ 
+OPTIONAL MATERIALS – Accessing the WAN, CCNA Exploration Companion Guide – Cisco Press – ISBN – 1-58713-205-2. 
+ 
+Student Assessment 
+ 
+(Assessment may be accomplished through projects, portfolios, exams, labs, presentations and/or papers) 
+ 
+Academic Integrity 
+ 
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public speaking, and in oral reports the ideas or exact words of someone else without proper documentation. 
+ 
+Whether the act of plagiarism is deliberate or accidental [ignorance of the proper rules for handling material is no excuse], plagiarism is, indeed, a “criminal” offense. 
+As such, a plagiarized paper or report automatically receives a grade of ZERO and the student may receive a grade of F for the semester at the discretion of the instructor. 
+ 
+Tutoring & Project Assist 
+ 
+If you are having difficulty with work in this class tutoring is available through the Center for Academic & Student Success.  If you think that you might have a learning disability, contact Project Assist at 856.691.8600 x 1282 for information on assistance that can be provided to eligible students. 
+ 
+Before Withdrawing From This Course 
+ 
+If a student experiences adverse circumstances while enrolled in this course and considers withdrawing, s/he should see an advisor (division or advisement center) BEFORE withdrawing from the class.  A withdrawal may cause harmful repercussions to completion rate standards and overall GPA which can limit or eliminate future financial aid in addition to causing academic suspension. 
+ 
+ 

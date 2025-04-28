@@ -1,0 +1,114 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+Union County College
+
+Course Number: CIS 210
+
+Course Name: Principles of Information Security
+
+Credits: 3
+
+Prerequisites: ENG 101
+
+Course Description:
+
+This course introduces the student to the field of information
+
+security. It presents both the
+
+managerial and technical components of security. Students will
+
+learn about the legal,
+
+ethical and professional issues in Information Security. Other
+
+topics include logical and
+
+physical design for security, implementing security, and
+
+maintaining security.
+
+Prerequisites: ENG 089 and 099. 3 lecture hours. 3 credits.
+
+Course Objectives:
+
+Upon completion of this course the student should be able to:
+
+. Understand the meaning of information security and its
+
+importance
+
+. Understand the role of computer security in the evolution of
+
+information security
+
+. List and explain the phases of the security systems development
+
+life cycle
+
+. Discuss career opportunities in information security
+
+. Differentiate between threats to information systems from
+
+attacks against
+
+information systems
+
+. Differentiate between laws and ethics as they relate to the
+
+practice of information
+
+security
+
+.
+
+Understand the role of culture as it applies to ethics in
+
+information security
+
+. Understand the concepts of risk management and risk
+
+identification
+
+. Discuss risk control strategies
+
+. Understand the role of information security policy, standards,
+
+and practices
+
+. Explain the major components of an information security
+
+blueprint
+
+. Explain the components of an incident response plan
+
+. Define disaster recovery plan
+
+. Discuss encryption-symmetric and asymmetric
+
+. Understand the concepts and differentiate between physical and
+
+logical security
+
+. Understand the need for a security maintenance program
+
+. Locate, discern, and effectively use information to solve
+
+issues and/or problems in
+
+information security
+
+Required Materials:
+
+Whitman and Mattord. Principles of Information Security. Course
+
+Technology, 2003.
+
+Grading Procedures
+
+Assignments/Homework 30
+
+Tests 30
+
+Final Exam/Final Project/Research Paper 40

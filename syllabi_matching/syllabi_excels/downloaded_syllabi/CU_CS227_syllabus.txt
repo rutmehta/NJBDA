@@ -1,0 +1,111 @@
+CUMBERLAND COUNTY COLLEGE
+
+
+
+
+
+Course:  CS 227  Active Directory Design
+
+
+
+Credits: 3
+
+
+
+Prerequisites 
+
+      CS 175, CS 275
+
+      
+
+Description 
+
+      Prepares students to design Microsoft Windows 2003 directory services 
+infrastructure in an enterprise network. Assists students in identifying the 
+information technology needs of an organization and then design an Active 
+Directory structure that meets those needs. 
+
+
+
+Learning Outcomes 
+
+      After the completion of this course, students should be able to:
+
+ Understand the concepts of Active Directory
+
+ Install, configure, and troubleshoot Active Directory
+
+ Manage, monitor, and optimize the components of Active Directory.
+
+
+
+Topical Outline
+
+ Introduction to Active Directory
+
+ Name Resolution and DNS
+
+ Active Directory Design Philosophy
+
+ Active Directory Architecture
+
+ Active Directory Logical Design
+
+ Active Directory Physical Design
+
+ Active Directory Replication
+
+ Active Directory Operations Masters
+
+ Active Directory Authentication and Security
+
+ Managing Users, Groups, Computers, and Resources
+
+ Group Policy for Corporate Policy
+
+ Deploying and Managing Software with Group Policy
+
+ Monitoring and Optimizing Active Directory
+
+ Disaster Recovery
+
+
+
+Texts
+
+      MCSE Guide to Designing a Microsoft Windows Server 2003 Active 
+Directory  Network Infrastructure by Adamson: Thomson Course Tech. 
+
+
+
+Student Assessment
+
+(Assessment may be accomplished through projects, portfolios, exams, 
+presentations and/or papers) 
+
+
+
+Academic Integrity
+
+Plagiarism is cheating.  Plagiarism is presenting in written work, in public 
+speaking, and in oral reports the ideas or exact words of someone else 
+without proper documentation. 
+
+
+
+Whether the act of plagiarism is deliberate or accidental ignorance of the 
+proper rules for handling material is no excuse, plagiarism is, indeed, a 
+criminal offense. 
+
+As such, a plagiarized paper or report automatically receives a grade of 
+ZERO and the student may receive a grade of F for the semester at the 
+discretion of the instructor. 
+
+
+
+Note
+
+If you are having difficulty with work in this class tutoring is available 
+through the Success Center.  If think that you might have a learning 
+disability, contact Project Assist at 856.691.1800, x282 for information on 
+assistance that can be provided to eligible students. 

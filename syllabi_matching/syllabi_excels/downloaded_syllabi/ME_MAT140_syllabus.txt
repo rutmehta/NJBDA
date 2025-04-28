@@ -1,0 +1,189 @@
+            This syllabus is representative of the course content.
+           Requirements for individual course sections may vary.
+
+
+COURSE OUTLINE
+Course Number
+MAT140Course Title
+Applied College AlgebraCredits
+4Hours: lecture/Lab/Other 
+3 lecture/1 Lab                                
+Co- or Pre-requisite
+Completion of MAT037 (formerly MAT 034) with a C or better or MAT037A AND MAT 037B with a C or better in each, successful completion of a course equivalent to MAT 037, 
+or an appropriate score on Accuplacer test, or permission of the department chairpersonImplementation sem/year
+Fall 2009Catalog description: 
+
+Designed for students in non-math intensive majors.  Topics will include the study of linear, exponential, logarithmic, polynomial and rational functions and their applications.  Designed as a terminal course or preparation for Precalculus for the Social Sciences (MAT145), but NOT for Precalculus (MAT146).
+Is course New, Revised, or Modified? 
+New Spring 2009
+Required texts/other materials:
+
+Text:  Functions and Change:  A Modeling Approach to College Algebra
+ Authors:  Crauder, Evans and Noel     
+Publisher:  Houghton Mifflin Company, 2003 
+A graphing calculator or Computer with graphing calculator software is required.
+Revision date:  
+Spring 2009Course coordinators:   
+Alison Becker-Moses, (609)570-3808, email beckera@mccc.edu 
+Don Reichman, (609)570-3857, email reichmad@mccc.edu
+Information resources:
+The library has an extensive collection of books that students may use for extra reinforcement of the concepts being taught in this course.  In addition, there are countless on-line resources available to support student learning.  Students are also encouraged to utilize the Learning Center for additional support.
+
+
+
+
+
+Other learning resources:  
+The following are additional resources that the publishers of the text have made available for instructors and students. 
+
+1. Instructor’s Resource Guide with Exams: This publication gives detailed solutions to even-numbered exercises from the text. 
+
+2. Student’s Solution Manual: This publication gives detailed solutions to odd-numbered exercises from the text. 
+
+3. Instructor’s Class Prep CD: A complete online course designed to parallel the text with links to video clips and practice exercises that are linked to the text.
+
+4.  A robust website with interactive exercises and group projects.
+Course Competencies/Goals:  	
+	Students will be able to demonstrate through tests, projects and quizzes/homework the ability to: 
+1.  Recognize a function given by tables, by graphs, by formulas and by words.
+2.  Describe the mathematical characteristics of linear, exponential, logarithmic, power, polynomial and rational functions.
+3.  Solve linear and non-linear equations using graphs and analytical methods.
+4.  Relate verbal descriptions of functions to mathematical models.
+5.  Apply mathematical methods to solve practical problems.
+6.  Perform basic algebraic manipulations in the context of solving practical problems.
+
+
+
+
+Course-specific General Education Knowledge Goals and Core Skills. 
+
+General Education Knowledge Goals
+Goal 2. Mathematics. Students will use appropriate mathematical and statistical concepts and operations to interpret data and to solve problems.
+Goal 4. Technology.  Students will use computer systems or other appropriate forms of technology to achieve educational and personal goals.
+
+MCCC Core Skills
+Goal A. Written and Oral Communication in English. Students will communicate effectively in speech and writing, and demonstrate proficiency in reading. 
+Goal B. Critical Thinking and Problem-solving. Students will use critical thinking and problem solving skills in analyzing information. 
+Goal D. Information Literacy. Students will recognize when information is needed and have the knowledge and skills to locate, evaluate, and effectively use information for college level work. 
+Goal E. Computer Literacy. Students will use computers to access, analyze or present information, solve problems, and communicate with others.
+
+
+Units of study in detail. 
+
+
+Unit I	An Introduction to Functions (5 weeks)
+Learning Objectives 
+The student will be able to…
+* Calculate the value of a function that is expressed in functional notation. (Course Goal 1, Gen Ed Goal 2, Core Skills A & B)
+* Explain in words the meaning of function that is expressed in functional notation.  (Course Goal 1 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Explain in words the meaning of function that is expressed in a table.  (Course Goal 1 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Calculate average rates of change for a function that is expressed in a table. (Course Goal 1 & 5, Gen Ed Goal 2, Core Skills A & B)
+*  Calculate average rates of change for a function that is expressed in a graph. (Course Goal 1 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Describe in words the changes in the value of a function by examining its graph.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Express in functional notation the value of a function that is given in words.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Create a formula for a function that is described in words.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Create a graph for a function that is described in words.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Create a graph of a function that is expressed analytically.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Solve linear equations in one variable.  (Course Goal 1,3 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Solve a literal equation for one variable in terms of the others.  (Course Goal 1, 3 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Determine the maximum and minimum values of a function that is expressed analytically.  (Course Goal 1 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Interpret application problems from a variety of disciplines and complete assigned projects. (Course Goal 1, 2, 3, 4 & 5, Gen Ed Goal 2 & 4, Core Skills A, B, D and E)
+
+
+Unit II	Linear Functions (3 weeks)
+Learning Objectives 
+The student will be able to…
+* Find the slope of a line given two points that determine the line.  (Course Goal 2, 4, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Describe the relationship between two lines that have the same slope.  (Course Goal 2, 4 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Calculate the rate of change in a linear function that is described in words.  (Course Goal 2, 4, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Graph a linear function given the slope and one data point.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Create a table of differences from tabular data.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Identify a linear function from the table of differences.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Find a linear analytical model for data that is expressed in a table.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Create a linear regression model for data that is expressed in a table.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Determine the correlation coefficient for a linear regression.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Describe how well data fits a linear model by interpreting the correlation coefficient for the linear regression.  (Course Goal 1 & 4, Gen Ed Goal 2, Core Skills A, B & E)
+* Create models of systems of two equations with two unknowns form verbal problems.  (Course Goal 3, 4, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Solve systems of two equations with two unknowns.  (Course Goal 3, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Interpret application problems from a variety of disciplines and complete assigned projects. (Course Goal 1, 2, 3, 4 & 5, Gen Ed Goal 2 & 4, Core Skills A, B, D and E)
+
+
+Unit III	Exponential and Logarithmic Functions (3 weeks)
+Learning Objectives 
+The student will be able to…
+* Identify an exponential function from its formula.  (Course Goal 1 & 2, Gen Ed Goal 2, Core Skills A )
+* Identify an exponential function from its verbal description.  (Course Goal 1 & 2, Gen Ed Goal 2, Core Skills A )
+* Solve various exponential growth and decay problems given the appropriate formula.  (Course Goal 1, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Solve various exponential growth and decay problems given the verbal description of the function.  (Course Goal 1, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Find an exponential analytical model for the function that is expressed in a table.  (Course Goal 2 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Plot the data from an exponential function expressed in a table.  (Course Goal 1 & 6, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Create an exponential regression model for data that is expressed in a table.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Determine the exponential regression formula from the regression model.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Solve various real-world problems given the verbal description of the logarithmic function.  (Course Goal 1, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Solve various real-world problems given the analytical model of the logarithmic function.  (Course Goal 1, 5 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Describe how a logarithmic function is the inverse of an exponential function. (Course Goal 1, Gen Ed Goal 2, Core Skills A & B)
+* Graph the data from a logarithmic function expressed in a formula.  (Course Goal 1 & 6, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Solve various exponential and logarithmic equations.  (Course Goal 3 & 6, Gen Ed Goal 2, Core Skills A & B)
+* Interpret application problems from a variety of disciplines and complete assigned projects. (Course Goal 1, 2, 3, 4 & 5, Gen Ed Goal 2 & 4, Core Skills A, B, D and E)
+
+
+
+
+
+Unit IV 	Power, Polynomial and Rational Functions (3 weeks)	 
+Learning Objectives 
+The student will be able to…
+* Evaluate a real-world power function for given input.  (Course Goal 3 & 5, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Describe how changes in the input would affect the output of a power function.  (Course Goal 3 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Evaluate the change in a power function for a given change in the input.  (Course Goal 3 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Plot the data from a power function expressed in a table.  (Course Goal 1 & 6, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Create a power regression model for data that is expressed in a table.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Determine the power regression formula from the regression model.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Compare the rate of growth of a power function with an exponential function.  (Course Goal 4, Gen Ed Goal 2, Core Skills A & B)
+* Apply the concept of composing functions to real-world applications.  (Course Goal 2 & 4, Gen Ed Goal 2, Core Skills A & B)
+* Construct a graph of a quadratic function.  (Course Goal 3 & 5, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Determine maximum or minimum values of a quadratic function by analyzing its graph. (Course Goal 2 & 3, Gen Ed Goal 2, Core Skills A & B)
+* Create a quadratic regression model for data that is expressed in a table.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Determine the quadratic regression formula from the regression model.  (Course Goal 1 & 4, Gen Ed Goal 2 & 4, Core Skills A, B & E)
+* Compare the rate of growth of a quadratic function with a linear function.  (Course Goal 4, Gen Ed Goal 2, Core Skills A & B)
+* Apply the quadratic formula to solve quadratic models of real-world applications. (Course Goal 3 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Solve higher-degree polynomial functions using graphical analysis.  (Course Goal 3 & 5, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Evaluate a higher-degree function for given input.  (Course Goal 3 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Solve rational functions using graphical analysis.  (Course Goal 3 & 5, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Evaluate rational functions for given input.  (Course Goal 3 & 5, Gen Ed Goal 2, Core Skills A & B)
+* Analyze the behavior of rational functions for given input.  (Course Goal 3 & 5, Gen Ed Goal 2 & 4, Core Skills A & B)
+* Interpret application problems from a variety of disciplines and complete assigned projects. (Course Goal 1, 2, 3, 4 & 5, Gen Ed Goal 2 & 4, Core Skills A, B, D and E)
+	
+
+Evaluation of student learning
+
+Quizzes, exams, class participation and projects will be used to determine the student’s grade.   Instructors may also choose to incorporate graded homework assignments.   Unit tests will be administered in class, with the questions selected to reflect the above student learning outcomes for each unit.  The final exam will be comprehensive and will reflect the goals for the course.
+
+It is suggested that the instructor use the following grading rubric to determine the student’s level of success in this course:
+Tests 60%
+Quizzes, Projects and Attendance 20%
+Final Exam 20%
+
+
+
+Academic Integrity Statement:  
+
+Mercer County Community College is committed to academic integrity – the honest, fair and continuing pursuit of knowledge, free from fraud or deception.
+* Students should never:
+o Knowingly represent the work of others as their own
+o Knowingly represent previously completed academic work as current
+o Fabricate data to support academic work
+o Use or obtain unauthorized assistance in the execution of any academic work
+o Give fraudulent assistance to other students
+o Unethically use technological means to gain academic advantages
+
+Violators of the above actions will be penalized.  For a single violation the faculty member will determine the course of action.  This may include, assigning a lower grade on the assignment, lowering the course grade, failing the student, or another penalty that is appropriate to the violation.  The student will be reported to the Academic Integrity Committee, who may impose other penalties for a second (or later) violation.  The student has right to a hearing and also to appeal any decisions.  These rights are outlined in the student handbook.
+            LIBERAL ARTS DIVISION                               HY 101 - page    
+
+			
+
+
+		
+
+MCCC Course Outline; Approved by the Curriculum Committee 12/6/07
+
