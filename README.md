@@ -45,8 +45,8 @@ This project analyzes course equivalencies by comparing syllabi from various sen
      - `similarity_score_matrix.csv`
      - `similarity_boxplot.png`
      - `similarity_heatmap.png`
-- **syllabus_similarity.py**Provides PDF/TXT/DOCX readers, text cleaning (stopwords, stemming), tokenization, TF-IDF vectorization, and cosine similarity.
-- **test.py**Contains unit tests for core functions without full pipeline execution.
+- **syllabus_similarity.py** Provides PDF/TXT/DOCX readers, text cleaning (stopwords, stemming), tokenization, TF-IDF vectorization, and cosine similarity.
+- **test.py** Contains unit tests for core functions without full pipeline execution.
 - **Notebooks (`*.ipynb`)**
   All `.ipynb` files are for exploratory testing and validation; not optimized for large-scale runs.
 
