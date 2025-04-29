@@ -26,7 +26,7 @@ This project analyzes course equivalencies by comparing syllabi from various sen
 
 ## File Descriptions
 
-- **download_syllabi.py**Reads a CSV of syllabus URLs (`ex: AT_JN083SC6.csv`), creates a `syllabi/` folder, and downloads each URL, saving with the correct extension.
+- **download_syllabi.py** Reads a CSV of syllabus URLs (`ex: AT_JN083SC6.csv`), creates a `syllabi/` folder, and downloads each URL, saving with the correct extension.
 - **course_syllabus_analysis.py**
 
   1. Loads all SI Excel files under `syllabi_matching/syllabi_excels/`.
@@ -34,7 +34,7 @@ This project analyzes course equivalencies by comparing syllabi from various sen
   3. Ensures 934 syllabi in `.../downloaded_syllabi/`.
   4. Loads 17 Rutgers syllabi from `rutgers_datascience_syllabi/`.
   5. Cleans and tokenizes text via `syllabus_similarity.py`.
-  6. Vectorizes with TF-IDF and computes cosine similarity for every pair (934×17).
+  6. Vectorizes with TF-IDF (term frequency and in)and computes cosine similarity for every pair (934×17).
   7. Exports:
      - `similarity_results.csv`
      - `transfer_status_matrix.csv`
