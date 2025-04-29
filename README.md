@@ -2,9 +2,9 @@
 
 This project analyzes course equivalencies by comparing syllabi from various sending institutions against a set of Rutgers data science syllabi. The goal is to build a binary transfer matrix (1 = transfers, 0 = does not) and explore how syllabus similarity relates to transferability.
 
-***DISCLAIMER: course_syllabus_analysis.py isn't currently able to embed each section (can't find similar sections across schema). Will update if I can debug, or another, more robust, schema consistency implementation might be needed (such as using an LLM to parse sections, return content for each section in a JSON output and use Pydantic to parse output.) 
+_DISCLAIMER: course_syllabus_analysis.py isn't currently able to embed each section (can't find similar sections across schema). Will update if I can debug, or another, more robust, schema consistency implementation might be needed (such as using an LLM to parse sections, return content for each section in a JSON output and use Pydantic to parse output.) 
 
-Another next step is to use a crew.ai or LangChain agentic workflow to dynamically create similarity scores, course equivalency assessments for any PDF/DOC/TXT syllabus pair you give it, outside of training data, to be able to be used with NJ Transfer.***
+Another next step is to use a crew.ai or LangChain agentic workflow to dynamically create similarity scores, course equivalency assessments for any PDF/DOC/TXT syllabus pair you give it, outside of training data, to be able to be used with NJ Transfer._
 
 ## Directory Structure
 
